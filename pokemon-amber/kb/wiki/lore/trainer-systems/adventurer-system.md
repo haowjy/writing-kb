@@ -42,9 +42,9 @@ The adventurer identity maps onto fundamentally different cultural narratives be
 - The **Charcadet evolutionary line** (Armarouge/Ceruledge) embodies the knightly adventurer ideal in Pokemon form
 - Paldea lacks Kanto's rigid gym/League structure; the Treasure Hunt is its own cultural institution
 
-### Don as Cultural Bridge
+### Alonso Quijano as Cultural Bridge
 
-**Don** — a Paldean adventuring knight — is the character who imports Paldea's adventurer myth into Kanto. He arrives carrying Paldea's cultural assumptions about what a worthy path looks like:
+**Alonso Quijano** — a Paldean adventuring knight — is the character who imports Paldea's adventurer myth into Kanto. He arrives carrying Paldea's cultural assumptions about what a worthy path looks like:
 
 - He identifies as an adventurer first, trainer second — an unusual framing in Kanto
 - He brings Paldean Pokemon (notably Charcadet) and Paldean values (discovery over competition, expedition over circuit)
@@ -73,11 +73,11 @@ Technology and infrastructure are gradually making adventuring more viable:
 - **Communications** — Pokegear, radio, and regional comms allow coordination and emergency signaling
 - **Mapping technology** — satellite imagery and survey data improve route planning
 
-### Don's Arrival
+### Alonso's Arrival
 
-Don's presence in Kanto is plausible through:
+Alonso's presence in Kanto is plausible through:
 1. **A Paldean adventurer fellowship/expedition** — an organized crew crossing from Paldea, providing group safety and shared resources
-2. **His own reckless solo questing** — after arriving, Don operates independently, taking risks institutional trainers wouldn't
+2. **His own reckless solo questing** — after arriving, Alonso operates independently, taking risks institutional trainers wouldn't
 
 His arrival is rare enough to be notable but not impossible — exactly the right balance for a character whose cultural framing is meant to feel foreign in Kanto.
 
@@ -99,13 +99,13 @@ Private adventurer organizations exist outside government structures:
 - **Voluntary membership:** No license or certification required to join; reputation and peer recognition govern entry
 - **Mutual aid:** Equipment sharing, expedition coordination, rescue support, knowledge pooling
 - **Local vs international:** Some guilds are regional (operating in one mountain range or archipelago); others are interregional networks of expedition crews
-- **The Horizons Explorers** are one such fellowship — lightly adapted into this world as an example of organized adventurer culture. Don admires them as one expression of the knightly adventurer ideal he grew up with in Paldea
+- **The Horizons Explorers** are one such fellowship — lightly adapted into this world as an example of organized adventurer culture. Alonso admires them as one expression of the knightly adventurer ideal he grew up with in Paldea
 
 ## Cross-Refs
 
 - [[licensing]] — official trainer tiers; no Adventurer tier exists here
 - [[quest-system]] — quest board infrastructure adventurers often use
-- [[../../characters/don]] — the Paldean adventurer who bridges this culture into Kanto
+- [[../../characters/alonso-quijano]] — the Paldean adventurer who bridges this culture into Kanto
 - [[../../characters/amber-mc]] — Amber's relationship to adventuring as distinct from badge circuit
 - [[../world-opening-timeline]] — how interregional travel opens over saga timespan
 - [[../../organizations/ace-trainers]] — government-contracted explorer tier; distinct from cultural adventuring

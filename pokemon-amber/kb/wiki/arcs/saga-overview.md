@@ -23,7 +23,7 @@ High-level map of Amber's journey from start to peak. Individual arc files conta
 - **Standard journey age:** 14
 - **Ash Ketchum:** Starts at 14 (2 years after Amber's start; picks up Pikachu end of Arc 9)
 - **Peak trainer age (typical):** 25–30
-- **Amber is an extreme historical outlier;** Don can also reach peak by endgame
+- **Amber is an extreme historical outlier;** Alonso Quijano can also reach peak by endgame
 
 ---
 
@@ -32,9 +32,7 @@ High-level map of Amber's journey from start to peak. Individual arc files conta
 ### Arc 1 — Kanto: Journey Start
 **Amber age:** 13 | **Region:** Indigo (Kanto)
 
-Licensed departure from Pallet. Oak-supported. Amber is equipped but untested — game knowledge ≠ real wilderness. Ch 19 (Day 1): Caterpie catch + Route 1 travel. Ch 20 (Day 2): hostile Teddiursa encounter, deal to find his missing Ursaring, off-route tracking into a cave where a TR operation is already underway against a centuries-old Charcadet guarding its dead Paldean master's resting place. Amber earns Charcadet's loyalty through instinct. Cave collapses; Ursaring briefly seen but lost again. Charcadet carries a strange psychic stone out of the cave --- not Amber. Viridian Gym is her **first** gym: Giovanni fights her personally, and figures out what she is. She doesn't know what he knows. Meets Kyle Kong. Badge progression begins, disrupted by incidents. Team Rocket is an escalating background threat. Celadon reached; first glimpse of quest board.
-
-> [!FLAG] **Needs human review** — The Arc 1 description still uses the "centuries-old Charcadet guarding its dead Paldean master's resting place" premise, which conflicts with the Don-origin version of Charcadet's arrival.
+Licensed departure from Pallet. Oak-supported. Amber is equipped but untested — game knowledge ≠ real wilderness. Ch 19 (Day 1): Caterpie catch + Route 1 travel. Ch 20 (Day 2): hostile Teddiursa encounter, deal to find his missing Ursaring, off-route tracking into a cave where a TR operation is already underway. Alonso's Paldean Charcadet is drawn into the incident and observes Amber's first instinctive act of protection. Cave collapses; Ursaring briefly seen but lost again. Charcadet carries a strange psychic stone out of the cave --- not Amber. Viridian Gym is her **first** gym: Giovanni fights Amber personally, and figures out what she is. She doesn't know what he knows. Meets Kyle Kong. Badge progression begins, disrupted by incidents. Team Rocket is an escalating background threat. Celadon reached; first glimpse of quest board.
 
 **Ends:** Amber has ~3-4 badges, real trainer experience, and a growing reputation for weird incident magnetism. Ursaring still out there. The stone is in Charcadet's possession, not hers.
 
@@ -187,7 +185,7 @@ See: [[../plot-threads/mewtwo-thread]]
 
 **The question is no longer how strong she is. It's what she's fighting for.**
 
-**Endgame — Rainbow Rocket Giovanni:** The final antagonist is a Giovanni who would have conquered the world except for Amber. This confrontation culminates the saga's obsession variants — Fuji's grief, Giovanni's conquest, Don's chosen ideal, Amber's protection, Charcadet/Ceruledge's loyalty, Mewtwo's autonomy. The question is no longer who is strongest but what each character's drive was for.
+**Endgame — Rainbow Rocket Giovanni:** The final antagonist is a Giovanni who would have conquered the world except for Amber. This confrontation culminates the saga's obsession variants — Fuji's grief, Giovanni's conquest, Alonso's chosen ideal, Amber's protection, Charcadet/Ceruledge's loyalty, Mewtwo's autonomy. The question is no longer who is strongest but what each character's drive was for.
 
 ---
 
@@ -220,5 +218,5 @@ See: [[../plot-threads/mewtwo-thread]]
 - `wiki/pokemon-teams/team-amber-mc.md` — full roster by region
 - `future/current-direction.md` — source of truth for ages and direction
 - [[../plot-threads/mewtwo-thread]] — the two-Mewtwo structure and ore-to-Mewtwonite Y thread
-- `wiki/characters/don.md` — Don character
+- `wiki/characters/alonso-quijano.md` — Alonso character
 - `wiki/plot-threads/rainbow-rocket-endgame.md` — Endgame direction

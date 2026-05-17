@@ -47,9 +47,9 @@ Fuji, extracted from prison by Giovanni after the "disappear quietly" order, wor
 This is the long thread. It takes years to pay off.
 
 **Arc 1, Day 2 (off-route cave near Viridian):**
-The stone appeared near the grave of Charcadet's centuries-dead Paldean master (likely ultra wormhole / Mystery Dungeon phenomenon). Its energy signature --- strong, Mew-adjacent --- tripped TR's rebuilt legendary-capture sensors (they're rebuilding after Mewtwo's escape, ch6). TR sent grunts to investigate; they found Charcadet guarding and attacked.
+A strange stone in the cave gives off a strong, Mew-adjacent energy signature that trips TR's rebuilt legendary-capture sensors (they're rebuilding after Mewtwo's escape, ch6). TR sends grunts to investigate. Charcadet is present because it came to Kanto with Alonso, and Alonso's adventurer path has intersected the same incident.
 
-Amber walks into the fight mid-way (tracking Teddiursa's missing mother), intervenes, earns Charcadet's loyalty through instinct (tackling Teddy out of Persian's strike path). Cave collapses in the chaos.
+Amber walks into the fight mid-way (tracking Teddiursa's missing mother), intervenes, and plants the seed of Charcadet's loyalty through instinct (tackling Teddy out of Persian's strike path). Cave collapses in the chaos.
 
 **Charcadet carries the stone out, not Amber.** It's the stone Charcadet was guarding; it's not leaving it behind for a stranger. Amber doesn't know what it is and doesn't ask.
 
@@ -99,9 +99,7 @@ What's decided: Charcadet has it since Arc 1. Amber carries it from just before 
 
 ## What the Thread Is About
 
-> [!FLAG] **Needs human review** — This thread still describes Charcadet as guarding a stone near its dead master's grave. That premise conflicts with the later Don-origin version of Charcadet's arrival and should be reconciled by a human.
-
-Charcadet was guarding a stone that appeared near its dead master's grave. Amber proves worthy of Charcadet's loyalty in a cave collapse on Day 2 of her journey. Charcadet carries the stone out. Years later, right before Amber loses Charcadet, it hands the stone to her. She carries it the rest of the way without knowing what it is.
+Charcadet encounters the stone during the Route 1 / Viridian cave incident after traveling to Kanto with Alonso. Amber proves worthy of Charcadet's attention in a cave collapse on Day 2 of her journey, and the later short Alonso/Amber stretch lets that first seed become a real choice. Charcadet carries the stone out. Years later, right before Amber loses Charcadet, it hands the stone to her. She carries it the rest of the way without knowing what it is.
 
 It turns out to be the thing that lets the first Mewtwo --- Fuji's real creation, the one made by accident through care rather than engineering --- achieve its fullest form.
 

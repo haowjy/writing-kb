@@ -13,7 +13,7 @@ Updated on every ingest. See `../AGENTS.md` for conventions.
 |---|---|
 | [amber-mc](characters/amber-mc.md) | Protagonist — isekai'd adult consciousness inhabiting Dr. Fuji's clone Ambertwo; not Fuji's daughter, never was |
 | [amber-mc-team](characters/amber-mc-team.md) | Amber's confirmed Pokemon roster and candidate pool by region (spoilers) |
-| [don](characters/don.md) | Don — Paldean adventuring knight (age 19–20); Amber's existential early mentor; returns at peak for endgame |
+| [alonso-quijano](characters/alonso-quijano.md) | Alonso Quijano — Paldean adventuring knight (age 19–20); Amber's existential early mentor; returns at peak for endgame |
 | [delia-ketchum](characters/delia-ketchum.md) | Delia Ketchum — Ash's mother; role in Amber continuity |
 | [ditto](characters/ditto.md) | Amber's first Pokemon; former Fuji weapon, now something else entirely |
 | [dr-fuji](characters/dr-fuji.md) | Dr. Fuji — Cinnabar geneticist, Amber's "father," whose obsession with cloning drives Arc 1 |

@@ -116,10 +116,25 @@ fully complete (Phases A–H done). Remaining: Phase I (creative-writing-skills
 package update, separate repo).
 
 [2026-05-17] [ingest] Canon/planning decisions ingested from top-level conversation (c10).
-- New page: characters/don.md — Don character (Paldean adventuring knight, early mentor, endgame ally)
+- New page: characters/alonso-quijano.md — Alonso Quijano character (Paldean adventuring knight, early mentor, endgame ally)
 - New page: lore/trainer-systems/adventurer-system.md — Adventurer System (informal cultural identity, Kanto vs Paldea myths, interregional travel context)
 - New page: plot-threads/rainbow-rocket-endgame.md — Rainbow Rocket endgame direction (Giovanni conquest vs Amber, obsession variants culmination)
-- Updated: characters/amber-mc-team.md — Charcadet entry now includes Don origin context
+- Updated: characters/amber-mc-team.md — Charcadet entry now includes Alonso origin context
 - Updated: themes/core-story-elements.md — added Section 6 (Obsession, Drive, and Ambition)
 - Updated: arcs/saga-overview.md — refined ages, Amber as historical outlier, Rainbow Rocket endgame paragraph, cross-refs
-- Updated: wiki/index.md — added Don, adventurer-system, rainbow-rocket-endgame entries
+- Updated: wiki/index.md — added Alonso, adventurer-system, rainbow-rocket-endgame entries
+
+## 2026-05-17 — Removed superseded ancient-Charcadet cave premise
+
+- Deleted the flagged premise that Charcadet was a centuries-old Kanto cave resident guarding a dead Paldean master's grave.
+- Updated Arc 1, saga overview, and Mewtwo stone thread to use the Alonso-origin direction: Alonso brings Charcadet to Kanto; Amber is why Charcadet stays.
+- Preserved the Route 1 / cave / stone / Team Rocket / 4Ever payoff structure while removing the dead-master origin.
+## 2026-05-17 — Softened Alonso obsession framing
+
+- Revised Alonso/Rainbow Rocket/theme wording to avoid treating Alonso as simply "healthy" or "clean" obsession.
+- Alonso now represents ambition as a chosen ideal: beautiful, sincere, disciplined, but still risky and narrowing.
+## 2026-05-17 — Lightened Alonso ambition language
+
+- Reduced overcorrected risk/flaw wording around Alonso's obsession.
+- Alonso remains non-moralized, but the emphasis is now on generative ambition rather than recklessness or danger-romanticizing.
+

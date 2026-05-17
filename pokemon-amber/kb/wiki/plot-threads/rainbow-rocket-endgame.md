@@ -34,10 +34,10 @@ Giovanni's ambition is structural, not personal. He wants Kanto supremacy — an
 
 See: [[../characters/giovanni]], [[../organizations/team-rocket]]
 
-### Don: Chivalric Ideal → Genuine Aspiration → The Clean Ambition
-**Don** represents ambition without corruption — the knight who wants to be great because greatness is worth pursuing. His drive is purified: no trauma, no possession, no need to prove anything to anyone but himself. He reaches peak by endgame through the same force that drives Giovanni to conquest — the desire to become more. The difference is what he wants greatness *for*.
+### Alonso Quijano: Chivalric Ideal → Genuine Aspiration → The Chosen Quest
+**Alonso** represents ambition as a chosen ideal — the knight who wants to be great because greatness is worth pursuing. His drive gives his life shape: discipline, courage, quest-seeking, and a willingness to walk toward danger when the cause is worthy. It is not possession, conquest, or grief trying to control the world. He reaches peak by endgame through the same force that drives Giovanni to conquest — the desire to become more. The difference is what he wants greatness *for*, and what he refuses to own.
 
-See: [[../characters/don]]
+See: [[../characters/alonso-quijano]]
 
 ### Amber: Protection → Greatness → The Drive That Refuses to Stop
 Amber's core drive is protection — becoming strong enough that nothing can take from her again. 4Ever radicalized her. Losing Charcadet taught her that metagame knowledge isn't enough. She keeps going because stopping means being vulnerable, and she will never be vulnerable again. Her speed of progression is unprecedented — an extreme historical outlier. By endgame (~age 17–20), she operates at peak, and the question is no longer how strong she is but what she's fighting for.
@@ -68,7 +68,7 @@ The drive to explore, to map the unknown, to push beyond safe borders — Kitaka
 
 **Obsession, drive, and ambition — wanting to become great — is central to the story.** It is NOT moralized as simply good or bad. Different characters pursue greatness in different ways with different outcomes. The story examines the shape of ambition rather than passing judgment on ambition itself.
 
-The same drive that makes Don a noble knight makes Giovanni a conqueror. Wanting to become great is not the problem — it's what you want greatness *for* that determines the outcome.
+The same drive that makes Alonso a noble knight makes Giovanni a conqueror. Wanting to become great is not the problem — it's what you want greatness *for* that determines the outcome.
 
 The endgame collision between Amber and Giovanni is the culmination of this examination: two people who refused to stop, meeting at the summit, each carrying the full weight of what their drive made them.
 
@@ -82,12 +82,12 @@ Amber's speed of progression is extreme and unprecedented:
 - Age 17: Sinnoh (Team Galactic, Ceruledge reunion, Mega unlocked)
 - Age 17–20: Kalos+/peak
 
-Don can also reach peak-level by endgame. Two characters who embody purified ambition meeting at the summit — the knight who chose greatness and the survivor who refused to stop.
+Alonso can also reach peak-level by endgame. Two characters shaped by consuming drive meet at the summit — the knight who chose greatness and the survivor who refused to stop.
 
 ## Cross-Refs
 
 - [[../characters/giovanni]] — Giovanni's full profile
-- [[../characters/don]] — Don character
+- [[../characters/alonso-quijano]] — Alonso character
 - [[../characters/amber-mc]] — Amber's full profile
 - [[../characters/mewtwo]] — Mewtwo profile
 - [[../characters/dr-fuji]] — Dr. Fuji profile

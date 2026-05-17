@@ -70,14 +70,12 @@ This is NOT desperate survival. It's the gap between theory and experience.
 
 ### Charcadet
 
-> [!FLAG] **Needs human review** — The "centuries-old Charcadet guarding its dead Paldean master's resting place" premise conflicts with the later Don-origin version of Charcadet's arrival. Keep both versions visible until the origin is reconciled.
-
-- **When/where:** Off-route cave near Viridian, Day 2. Charcadet has been living in this cave for centuries, loyal to its long-dead Paldean master (300+ year old skeleton deeper in the cave). A psychic stone recently appeared near the grave (ultra wormhole / dungeon phenomenon), attracting TR's sensors. TR grunts entered and attacked Charcadet; Amber arrives mid-fight.
-- **Personality:** Ambition, drive, intensity. Not yet settled (Armarouge vs Ceruledge mirrors its unsettled identity). Knightly. Waiting for a worthy master.
-- **Bond:** Charcadet witnesses Amber throw her own body in front of Persian's claws to save Teddiursa. A knight recognizes bravery and loyalty. That's the seed.
-- **Capture:** Not captured in the cave. Follows Amber out after the collapse and guides them through the deeper tunnels. At Viridian Pokemon Center, Charcadet briefly confers with Teddiursa, then kneels before Amber --- a knight's acceptance. Amber catches it then.
-- **The stone:** Charcadet carries the psychic stone out of the cave, not Amber. It's the stone it was guarding. Doesn't hand it off until much later (right before Arc 4). See [[../plot-threads/mewtwo-thread]].
-- **Not native to Kanto:** Original master was a Paldean noble, centuries dead.
+- **When/where:** Route 1 / off-route cave near Viridian, Day 2. Charcadet is in Kanto because it traveled from Paldea with [[../characters/alonso-quijano]], a Paldean adventuring knight. Alonso is why Charcadet is in Kanto; Amber is why Charcadet stays.
+- **Personality:** Ambition, drive, intensity. Not yet settled (Armarouge vs Ceruledge mirrors its unsettled identity). Knightly, but not property --- it chooses the quest it wants to serve.
+- **Bond:** Charcadet witnesses Amber throw her own body in front of Persian's claws to save Teddiursa. A knight recognizes bravery and loyalty. That's the seed, but not the whole choice; Charcadet should choose Amber after observing a pattern over a short stretch with Alonso.
+- **Capture:** Not captured in the cave. Follows Amber out after the collapse and remains near her through the short Alonso/Route 1 mini-arc. At the eventual separation, Alonso recognizes Charcadet's choice and lets it go. Amber catches it after that choice is clear.
+- **The stone:** Charcadet carries the psychic stone out of the cave, not Amber. Doesn't hand it off until much later (right before Arc 4). See [[../plot-threads/mewtwo-thread]].
+- **Not native to Kanto:** Charcadet is a Paldean Pokemon brought to Kanto by Alonso's adventurer path, not an ancient Kanto cave resident.
 
 ### Teddiursa
 - **When/where:** Route 1, Day 2. Amber encounters him before the cave --- he's aggressive, attacks on sight. She defeats him with Ditto and catches him in a single ball. When released he attacks again; she recalls fast.
@@ -308,7 +306,7 @@ Half a day off-route, deeper into forest. Reach a cave entrance. Amber gets a *f
 
 **Inside the cave:** A fight is already in progress. Charcadet vs. two TR grunts' Pokemon (Houndoom + Persian). The grunts don't realize fire moves are doing nothing to Charcadet. Charcadet is holding but losing slowly to the 2v1.
 
-**Charcadet's context (not known to Amber):** A psychic stone recently appeared near the grave of its centuries-dead Paldean master (skeleton deeper in the cave). The stone's energy signature triggered TR's legendary-capture sensors --- they're rebuilding after Mewtwo's escape (ch6). Grunts were sent to investigate. Charcadet was guarding its master's resting place. The cave is a Mystery Dungeon phenomenon, likely an ultra wormhole undercurrent (this world's unifying explanation for dungeons, Area Zero signatures, and Terastal-adjacent oddities).
+**Charcadet's context (not known to Amber):** Charcadet is in Kanto because it traveled from Paldea with Alonso, whose own adventurer path has intersected this Route 1 incident. A psychic stone in the cave has triggered TR's legendary-capture sensors --- they're rebuilding after Mewtwo's escape (ch6). Grunts were sent to investigate and the fight with Charcadet is already underway when Amber arrives. The cave may be a Mystery Dungeon phenomenon, likely an ultra wormhole undercurrent (this world's unifying explanation for dungeons, Area Zero signatures, and Terastal-adjacent oddities).
 
 **The moment Charcadet remembers:** Teddiursa charges the grunts before Amber can plan. Persian is redirected at Teddy. **Amber tackles Teddy out of the strike path on pure instinct. Persian's claws rake her back. Blood.** Not calculated. Not heroic in the Ash sense. Protecting something smaller at cost to herself. A knight recognizes bravery and loyalty. That's what Charcadet sees.
 
@@ -318,9 +316,9 @@ Charcadet vs. Houndoom (1v1, Charcadet winning now). Ditto-Arcanine vs. Persian.
 
 **Cave collapses.** Entrance sealed. Teddy saw his mother and lost her again. Promise stays open. Debt deepens.
 
-**The escape:** Amber is hurt --- Persian clawed her back badly. Charcadet knows this cave. Leads them through a different tunnel path it knows from centuries of living here. Ditto-Arcanine carries Amber. Charcadet carries the psychic stone out with it (not leaving its master's stone behind for strangers).
+**The escape:** Amber is hurt --- Persian clawed her back badly. Charcadet helps lead them through the unstable cave's alternate tunnel path. Ditto-Arcanine carries Amber. Charcadet carries the psychic stone out with it rather than leaving dangerous, Rocket-attracting power behind.
 
-**At Viridian Pokemon Center:** Amber arrives injured, riding Ditto-Arcanine, with a Teddiursa and a Charcadet nobody in Kanto has ever documented. She catches Charcadet there --- it briefly confers with Teddy, then kneels before her. A knight accepting a new master. Simple, almost ceremonial.
+**At Viridian Pokemon Center:** Amber arrives injured, riding Ditto-Arcanine, with Teddiursa and a Paldean Charcadet nobody in Kanto expects to see. Charcadet is not an instant reward; its choice should resolve after a short stretch with Amber and Alonso, once it has observed the beginning of Amber's quest.
 
 **Ditto-Arcanine** is figured out after: Ditto lived in Oak's household before Amber, saw Arcanine, remembered. In a later training session, Ditto transforms into Arcanine again --- deliberately this time. A quiet beat about Ditto's depth.
 

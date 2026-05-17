@@ -90,13 +90,13 @@ updated: 2026-05-17
 **Central thematic current:**
 - Fuji: grief → possession → destructive obsession
 - Giovanni: trauma → nationalism → obsession with conquest
-- Don: chivalric ideal → genuine aspiration → the clean ambition
+- Alonso Quijano: chivalric ideal → genuine aspiration → the chosen quest
 - Amber: protection → greatness → drive that refuses to stop
 - Charcadet/Ceruledge: loyalty refracted through who holds the reins
 - Mewtwo: obsession's product seeking autonomy
 - Evil teams: each a flavor of obsession (control, destruction, reshaping)
 
-**Not moralized:** The story examines the shape of ambition rather than judging ambition itself. The same drive that makes Don a noble knight makes Giovanni a conqueror. Wanting to become great is central — it's what you want greatness FOR that determines the outcome.
+**Not moralized:** The story examines the shape of ambition rather than judging ambition itself. The same drive that makes Alonso a noble knight makes Giovanni a conqueror. Wanting to become great is central — it's what you want greatness FOR that determines the outcome.
 
 **Drama from:** Different obsessions colliding, characters recognizing themselves in enemies, the question of whether Amber's drive is purification or corruption.
 
