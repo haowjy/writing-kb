@@ -5,7 +5,7 @@ category: arc-structure
 spoilers: true
 status: planning
 hidden: true
-updated: 2026-04-05
+updated: 2026-05-17
 ---
 
 # Saga Overview — Full Arc Structure
@@ -14,11 +14,16 @@ High-level map of Amber's journey from start to peak. Individual arc files conta
 
 ## Age Reference
 
-- **Age 13** — Journey start (1 year early; tested out of middle school, Oak approval + sponsorship)
+- **Age 13:** Kanto Year 1, 4Ever, first conference
+- **Age 14:** Indigo Year 2 (skips conference)
+- **Age 15:** Hoenn (conference winner)
+- **Age 16:** Kitakami (training arc)
+- **Age 17:** Sinnoh (Team Galactic, Ceruledge reunion, Mega unlocked)
+- **Age 17–20:** Kalos+/peak
 - **Standard journey age:** 14
 - **Ash Ketchum:** Starts at 14 (2 years after Amber's start; picks up Pikachu end of Arc 9)
 - **Peak trainer age (typical):** 25–30
-- **Amber's peak:** ~18–20 (speedrun)
+- **Amber is an extreme historical outlier;** Don can also reach peak by endgame
 
 ---
 
@@ -149,7 +154,7 @@ See: `arc-kitakami.md`, `arc-pikachu-handoff.md`
 ---
 
 ### Arc 11 — Sinnoh: Ceruledge + Team Galactic
-**Amber age:** 17** | **Region:** Sinnoh
+**Amber age:** 17 | **Region:** Sinnoh
 
 Amber arrives in Sinnoh already powerful — Kitakami was a real training ground. She's here for badges, progression, the next leg of the journey. Mid-arc, she sees Ceruledge in the field working for **Team Galactic** — no prior intelligence, just collision. How it passed from Rocket to Galactic happens off-screen between arcs. Cyrus's operation is the first evil team Amber targets with full intent to dismantle, not just disrupt — partly because of Galactic's scale, partly because Ceruledge is here.
 
@@ -179,6 +184,8 @@ Mega Evolution fully harnessed. Peak roster assembling. The story shifts from "t
 See: `plot/_mewtwo-thread.md`
 
 **The question is no longer how strong she is. It's what she's fighting for.**
+
+**Endgame — Rainbow Rocket Giovanni:** The final antagonist is a Giovanni who would have conquered the world except for Amber. This confrontation culminates the saga's obsession variants — Fuji's grief, Giovanni's conquest, Don's chosen ideal, Amber's protection, Charcadet/Ceruledge's loyalty, Mewtwo's autonomy. The question is no longer who is strongest but what each character's drive was for.
 
 ---
 
@@ -211,3 +218,5 @@ See: `plot/_mewtwo-thread.md`
 - `wiki/pokemon-teams/team-amber-mc.md` — full roster by region
 - `future/current-direction.md` — source of truth for ages and direction
 - `future/plot/_mewtwo-thread.md` — the two-Mewtwo structure and ore-to-Mewtwonite Y thread
+- `wiki/characters/don.md` — Don character
+- `wiki/plot-threads/rainbow-rocket-endgame.md` — Endgame direction
