@@ -59,7 +59,8 @@ Pre-Pokeball, Champions led gym councils against Pokemon. Post-Pokeball governme
 
 ## Supporting Systems
 
-- **[Quest System](./quest-system.md)** - Freelance work via Pokemon Centers; license required; badges optional by poster
+- **[Quest System](./quest-system.md)**
+- **[Adventurer System](./adventurer-system.md)** — informal cultural identity for exploration/discovery trainers; not an official license tier - Freelance work via Pokemon Centers; license required; badges optional by poster
 - **[Aura & Bonding](../_aura-and-bonds.md)** - Advanced trainer-Pokemon connection mechanics (hidden reference)
 
 ## How the Systems Work Together
