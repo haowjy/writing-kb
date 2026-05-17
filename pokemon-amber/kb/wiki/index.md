@@ -13,6 +13,7 @@ Updated on every ingest. See `../AGENTS.md` for conventions.
 |---|---|
 | [amber-mc](characters/amber-mc.md) | Protagonist — isekai'd adult consciousness inhabiting Dr. Fuji's clone Ambertwo; not Fuji's daughter, never was |
 | [amber-mc-team](characters/amber-mc-team.md) | Amber's confirmed Pokemon roster and candidate pool by region (spoilers) |
+| [don](characters/don.md) | Don — Paldean adventuring knight (age 19–20); Amber's existential early mentor; returns at peak for endgame |
 | [delia-ketchum](characters/delia-ketchum.md) | Delia Ketchum — Ash's mother; role in Amber continuity |
 | [ditto](characters/ditto.md) | Amber's first Pokemon; former Fuji weapon, now something else entirely |
 | [dr-fuji](characters/dr-fuji.md) | Dr. Fuji — Cinnabar geneticist, Amber's "father," whose obsession with cloning drives Arc 1 |
@@ -96,6 +97,7 @@ Updated on every ingest. See `../AGENTS.md` for conventions.
 |---|---|
 | [mewtwo-thread](plot-threads/mewtwo-thread.md) | The Mewtwo Thread — spine of the entire saga; two Mewtwos, one created from the same lab as Amber |
 | [giovanni-fuji-jail](plot-threads/giovanni-fuji-jail.md) | Scene planning: Giovanni–Fuji jail confrontation (Rev B) — ends with "make him disappear quietly"; Fuji survives off-books |
+| [rainbow-rocket-endgame](plot-threads/rainbow-rocket-endgame.md) | Rainbow Rocket Endgame — Giovanni's conquest ambition vs Amber; culmination of obsession variants |
 | [team-rocket-surveillance](plot-threads/team-rocket-surveillance.md) | TR Surveillance — long-term threat escalating from observation toward active pursuit of Amber/Ditto |
 | [saffron-gym-rivalry](plot-threads/saffron-gym-rivalry.md) | Saffron Gym Rivalry — Fighting Dojo vs Psychic Gym political proxy war; plays out through Kyle and Sabrina |
 | [forged-documents](plot-threads/forged-documents.md) | Forged Documents — background legal tension and future interlude material |
@@ -160,6 +162,7 @@ Updated on every ingest. See `../AGENTS.md` for conventions.
 | [lore/trainer-systems/badge-system](lore/trainer-systems/badge-system.md) | Gym and Elite Badges — symbols of trust and mastery; not absolute power rankings |
 | [lore/trainer-systems/gym-system](lore/trainer-systems/gym-system.md) | Gym Tier System (Pillar vs Minor) — governance, appointment pressure, and challenge structure differences |
 | [lore/trainer-systems/quest-system](lore/trainer-systems/quest-system.md) | Quest System & Job Boards — freelance trainer work network; economic backbone for journeying trainers |
+| [lore/trainer-systems/adventurer-system](lore/trainer-systems/adventurer-system.md) | Adventurer System — informal cultural identity for exploration/discovery trainers; not an official license tier; Kanto vs Paldea myths |
 | [lore/trainer-systems/career-paths](lore/trainer-systems/career-paths.md) | Career Paths & Type-as-Profession — how trainer success translates to careers; type specialization as profession |
 | [lore/trainer-systems/trainer-paths](lore/trainer-systems/trainer-paths.md) | Trainer Paths & Socioeconomic Class — the journey-as-college framing; how class shapes access and outcomes |
 | [lore/trainer-systems/cultural-history](lore/trainer-systems/cultural-history.md) | Trainer Culture — Historical Evolution & Social Norms — noble privilege to modern educational system |

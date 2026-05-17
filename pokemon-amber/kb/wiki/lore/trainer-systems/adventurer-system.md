@@ -21,8 +21,8 @@ Adventurer identity exists alongside, not replacing, other trainer identities. A
 ## What It Is NOT
 
 - **Not an official license tier:** Pokemon Centers recognize trainer tiers (Novice through ACE) for legal and operational purposes. There is no "Adventurer License." A trainer is a Licensed Trainer, Trainer, Senior Trainer, Veteran Trainer, or ACE Trainer — regardless of whether they also identify as an adventurer.
-- **Not a quest board category:** The [[lore/trainer-systems/quest-system]] is organized by task type (Item, Defeat, Rescue, Wanted, Escort, Investigation) and class grade (E through A). There is no "Adventurer" quest category. A trainer who takes wilderness rescue quests is a trainer taking rescue quests — the quest board does not recognize or categorize adventurer identity.
-- **Not a government-recognized status:** Unlike [[organizations/ace-trainers]], which carries government contracts and field authority, adventurer is purely cultural. No paperwork, no registry, no legal privileges.
+- **Not a quest board category:** The [[quest-system]] is organized by task type (Item, Defeat, Rescue, Wanted, Escort, Investigation) and class grade (E through A). There is no "Adventurer" quest category. A trainer who takes wilderness rescue quests is a trainer taking rescue quests — the quest board does not recognize or categorize adventurer identity.
+- **Not a government-recognized status:** Unlike [[../../organizations/ace-trainers]], which carries government contracts and field authority, adventurer is purely cultural. No paperwork, no registry, no legal privileges.
 
 ## Kanto vs Paldea: Competing Cultural Myths
 
@@ -33,7 +33,7 @@ The adventurer identity maps onto fundamentally different cultural narratives be
 - The cultural ideal is the trainer's journey: collect badges, compete in the League, prove yourself through competitive progression
 - Badges are the visible markers of achievement; the conference stage is the dream
 - Exploration exists but is ancillary — you go off-route to train, not to discover
-- The **Trainer License** and [[lore/trainer-systems/licensing]] tier progression are Kanto's institutional expression of this myth
+- The **Trainer License** and [[licensing]] tier progression are Kanto's institutional expression of this myth
 
 ### Paldea's Dominant Myth: Adventurer/Area Zero/Expeditions/Treasure Hunt
 
@@ -60,7 +60,7 @@ Long-distance adventuring travel exists but is rare due to several factors:
 - **Wild Pokemon:** Off-route wilderness is genuinely dangerous — the Mt. Silver lesson (historical mass-casualty incident) shapes all interregional safety thinking
 - **Unmapped terrain:** Routes between regions are sparse; most land between the Big 4 cluster is poorly documented outside established corridors
 - **Supply lines:** Extended expeditions require food, medicine, equipment, and Pokemon sustenance — harder to sustain without infrastructure
-- **Legal friction:** Cross-region carry limits and visa tiers (see [[lore/trainer-systems/licensing]]) constrain what foreign adventurers can bring and do
+- **Legal friction:** Cross-region carry limits and visa tiers (see [[licensing]]) constrain what foreign adventurers can bring and do
 
 ### Enablers
 
@@ -83,7 +83,7 @@ His arrival is rare enough to be notable but not impossible — exactly the righ
 
 ## Relationship to Quest Board
 
-Adventurers often use the [[lore/trainer-systems/quest-system]] for income, but quests are transactional, not definitional:
+Adventurers often use the [[quest-system]] for income, but quests are transactional, not definitional:
 
 - A trainer taking wilderness rescue quests is a trainer taking rescue quests — unless they self-identify or are recognized by peers as an adventurer
 - The quest board is infrastructure; adventurer is identity
@@ -103,10 +103,10 @@ Private adventurer organizations exist outside government structures:
 
 ## Cross-Refs
 
-- [[lore/trainer-systems/licensing]] — official trainer tiers; no Adventurer tier exists here
-- [[lore/trainer-systems/quest-system]] — quest board infrastructure adventurers often use
-- [[characters/don]] — the Paldean adventurer who bridges this culture into Kanto
-- [[characters/amber-mc]] — Amber's relationship to adventuring as distinct from badge circuit
-- [[lore/world-opening-timeline]] — how interregional travel opens over saga timespan
-- [[organizations/ace-trainers]] — government-contracted explorer tier; distinct from cultural adventuring
-- [[characters/amber-mc-team]] — Charcadet's origin context (Paldean adventurer → Kanto)
+- [[licensing]] — official trainer tiers; no Adventurer tier exists here
+- [[quest-system]] — quest board infrastructure adventurers often use
+- [[../../characters/don]] — the Paldean adventurer who bridges this culture into Kanto
+- [[../../characters/amber-mc]] — Amber's relationship to adventuring as distinct from badge circuit
+- [[../world-opening-timeline]] — how interregional travel opens over saga timespan
+- [[../../organizations/ace-trainers]] — government-contracted explorer tier; distinct from cultural adventuring
+- [[../../characters/amber-mc-team]] — Charcadet's origin context (Paldean adventurer → Kanto)

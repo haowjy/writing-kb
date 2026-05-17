@@ -34,6 +34,8 @@ High-level map of Amber's journey from start to peak. Individual arc files conta
 
 Licensed departure from Pallet. Oak-supported. Amber is equipped but untested — game knowledge ≠ real wilderness. Ch 19 (Day 1): Caterpie catch + Route 1 travel. Ch 20 (Day 2): hostile Teddiursa encounter, deal to find his missing Ursaring, off-route tracking into a cave where a TR operation is already underway against a centuries-old Charcadet guarding its dead Paldean master's resting place. Amber earns Charcadet's loyalty through instinct. Cave collapses; Ursaring briefly seen but lost again. Charcadet carries a strange psychic stone out of the cave --- not Amber. Viridian Gym is her **first** gym: Giovanni fights her personally, and figures out what she is. She doesn't know what he knows. Meets Kyle Kong. Badge progression begins, disrupted by incidents. Team Rocket is an escalating background threat. Celadon reached; first glimpse of quest board.
 
+> [!FLAG] **Needs human review** — The Arc 1 description still uses the "centuries-old Charcadet guarding its dead Paldean master's resting place" premise, which conflicts with the Don-origin version of Charcadet's arrival.
+
 **Ends:** Amber has ~3-4 badges, real trainer experience, and a growing reputation for weird incident magnetism. Ursaring still out there. The stone is in Charcadet's possession, not hers.
 
 See: `arc1-kanto-year1.md`
@@ -181,7 +183,7 @@ Mega Evolution fully harnessed. Peak roster assembling. The story shifts from "t
 
 **Mewtwo #1 reunion:** The Genesect crisis hits Kalos. Mewtwo #1 — the original, free for years, protecting Pokemon in a Kalos city — is at the center of it. This is the Genesect movie arc, playing out largely as in the anime. Amber arrives with the raw stone Charcadet carried out of the Day 2 cave and handed to her just before she lost him. Someone in Kalos identifies it. It's synthesized into Mewtwonite Y. She uses it to help Mewtwo achieve/stabilize Mega Evolution during the crisis. She's been carrying it toward him without knowing --- for a Pokemon she'd already lost.
 
-See: `plot/_mewtwo-thread.md`
+See: [[../plot-threads/mewtwo-thread]]
 
 **The question is no longer how strong she is. It's what she's fighting for.**
 
@@ -217,6 +219,6 @@ See: `plot/_mewtwo-thread.md`
 - `arc-pikachu-handoff.md` — Pikachu/Ash beat
 - `wiki/pokemon-teams/team-amber-mc.md` — full roster by region
 - `future/current-direction.md` — source of truth for ages and direction
-- `future/plot/_mewtwo-thread.md` — the two-Mewtwo structure and ore-to-Mewtwonite Y thread
+- [[../plot-threads/mewtwo-thread]] — the two-Mewtwo structure and ore-to-Mewtwonite Y thread
 - `wiki/characters/don.md` — Don character
 - `wiki/plot-threads/rainbow-rocket-endgame.md` — Endgame direction

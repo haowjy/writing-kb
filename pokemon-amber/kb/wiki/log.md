@@ -114,3 +114,12 @@ future/ (29 files) from main repo via git rm --- 81 files total staged for
 removal. All content was previously migrated to .meridian/kb/. Migration
 fully complete (Phases A–H done). Remaining: Phase I (creative-writing-skills
 package update, separate repo).
+
+[2026-05-17] [ingest] Canon/planning decisions ingested from top-level conversation (c10).
+- New page: characters/don.md — Don character (Paldean adventuring knight, early mentor, endgame ally)
+- New page: lore/trainer-systems/adventurer-system.md — Adventurer System (informal cultural identity, Kanto vs Paldea myths, interregional travel context)
+- New page: plot-threads/rainbow-rocket-endgame.md — Rainbow Rocket endgame direction (Giovanni conquest vs Amber, obsession variants culmination)
+- Updated: characters/amber-mc-team.md — Charcadet entry now includes Don origin context
+- Updated: themes/core-story-elements.md — added Section 6 (Obsession, Drive, and Ambition)
+- Updated: arcs/saga-overview.md — refined ages, Amber as historical outlier, Rainbow Rocket endgame paragraph, cross-refs
+- Updated: wiki/index.md — added Don, adventurer-system, rainbow-rocket-endgame entries

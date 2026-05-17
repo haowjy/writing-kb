@@ -99,6 +99,8 @@ What's decided: Charcadet has it since Arc 1. Amber carries it from just before 
 
 ## What the Thread Is About
 
+> [!FLAG] **Needs human review** — This thread still describes Charcadet as guarding a stone near its dead master's grave. That premise conflicts with the later Don-origin version of Charcadet's arrival and should be reconciled by a human.
+
 Charcadet was guarding a stone that appeared near its dead master's grave. Amber proves worthy of Charcadet's loyalty in a cave collapse on Day 2 of her journey. Charcadet carries the stone out. Years later, right before Amber loses Charcadet, it hands the stone to her. She carries it the rest of the way without knowing what it is.
 
 It turns out to be the thing that lets the first Mewtwo --- Fuji's real creation, the one made by accident through care rather than engineering --- achieve its fullest form.
@@ -111,8 +113,8 @@ That's the spine.
 
 ## Cross-Refs
 
-- `future/arcs/arc1-kanto-year1.md` — Day 2 cave scene, Charcadet acquisition
+- [[../arcs/arc1-kanto-year1]] — Day 2 cave scene, Charcadet acquisition
 - `story/chapter20/_20plan.md` — full beat-by-beat of the cave sequence
-- `future/arcs/saga-overview.md` — Arc 12+ Kalos entry
-- `future/plot/giovanni-fuji-jail.md` — Fuji's extraction, Mewtwo #2 context, two-Mewtwo distinction
+- [[../arcs/saga-overview]] — Arc 12+ Kalos entry
+- [[giovanni-fuji-jail]] — Fuji's extraction, Mewtwo #2 context, two-Mewtwo distinction
 - `wiki/characters/mewtwo.md` — Mewtwo character file (stub, needs expansion)

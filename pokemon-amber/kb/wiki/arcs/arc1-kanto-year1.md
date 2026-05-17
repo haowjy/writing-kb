@@ -69,11 +69,14 @@ This is NOT desperate survival. It's the gap between theory and experience.
 ## Pokemon Acquisition
 
 ### Charcadet
+
+> [!FLAG] **Needs human review** — The "centuries-old Charcadet guarding its dead Paldean master's resting place" premise conflicts with the later Don-origin version of Charcadet's arrival. Keep both versions visible until the origin is reconciled.
+
 - **When/where:** Off-route cave near Viridian, Day 2. Charcadet has been living in this cave for centuries, loyal to its long-dead Paldean master (300+ year old skeleton deeper in the cave). A psychic stone recently appeared near the grave (ultra wormhole / dungeon phenomenon), attracting TR's sensors. TR grunts entered and attacked Charcadet; Amber arrives mid-fight.
 - **Personality:** Ambition, drive, intensity. Not yet settled (Armarouge vs Ceruledge mirrors its unsettled identity). Knightly. Waiting for a worthy master.
 - **Bond:** Charcadet witnesses Amber throw her own body in front of Persian's claws to save Teddiursa. A knight recognizes bravery and loyalty. That's the seed.
 - **Capture:** Not captured in the cave. Follows Amber out after the collapse and guides them through the deeper tunnels. At Viridian Pokemon Center, Charcadet briefly confers with Teddiursa, then kneels before Amber --- a knight's acceptance. Amber catches it then.
-- **The stone:** Charcadet carries the psychic stone out of the cave, not Amber. It's the stone it was guarding. Doesn't hand it off until much later (right before Arc 4). See `_mewtwo-thread.md`.
+- **The stone:** Charcadet carries the psychic stone out of the cave, not Amber. It's the stone it was guarding. Doesn't hand it off until much later (right before Arc 4). See [[../plot-threads/mewtwo-thread]].
 - **Not native to Kanto:** Original master was a Paldean noble, centuries dead.
 
 ### Teddiursa
@@ -180,7 +183,7 @@ Key beats regardless of outcome:
 **The long thread (Arc 1 → mid-saga):**
 The cave on Route 1 sits quiet for years. Eventually, someone in TR rediscovers the location and the strange energy reading that was never fully explained. Old records get pulled. There was a report: a girl with a Ditto took something from the camp. Badge records, conference results, Oak's sponsorship --- it traces back to Amber. By then she's not a 13-year-old first-year anymore. She's the youngest-ever Hoenn conference winner. The organizational-level pursuit escalates. This converges with the Mewtwo thread: TR eventually understands they're chasing the same person who carries what is probably a significant Mega Stone ore deposit. The grunt grudge becomes something larger.
 
-Cross-ref: `plot/_mewtwo-thread.md` (ore acquisition, long-thread payoff)
+Cross-ref: [[../plot-threads/mewtwo-thread]] (ore acquisition, long-thread payoff)
 
 ---
 
@@ -321,7 +324,7 @@ Charcadet vs. Houndoom (1v1, Charcadet winning now). Ditto-Arcanine vs. Persian.
 
 **Ditto-Arcanine** is figured out after: Ditto lived in Oak's household before Amber, saw Arcanine, remembered. In a later training session, Ditto transforms into Arcanine again --- deliberately this time. A quiet beat about Ditto's depth.
 
-**The stone:** Charcadet carries it for a long time. Handoff happens much later, right before Arc 4 (4Ever). Readers paying attention will feel the weight --- the moment Amber takes the stone is the moment before she loses Charcadet. See `plot/_mewtwo-thread.md`.
+**The stone:** Charcadet carries it for a long time. Handoff happens much later, right before Arc 4 (4Ever). Readers paying attention will feel the weight --- the moment Amber takes the stone is the moment before she loses Charcadet. See [[../plot-threads/mewtwo-thread]].
 
 ---
 
@@ -356,6 +359,6 @@ She performs normal first-year trainer anyway.
 
 - `current-direction.md` - SOURCE OF TRUTH
 - `_open-questions.md` - Decision tracker
-- `plot/_mewtwo-thread.md` - The ore Amber pockets here is the Mewtwonite Y origin
+- [[../plot-threads/mewtwo-thread]] - The ore Amber pockets here is the Mewtwonite Y origin
 - `plot/giovanni-fuji-jail.md` - Giovanni context; why the Viridian gym battle carries weight
 - `wiki/characters/mewtwo.md` - Mewtwo connection to Amber
