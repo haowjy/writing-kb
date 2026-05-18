@@ -4,7 +4,7 @@ category: pokemon-teams
 title: Amber MC — Team Planning (Spoilers)
 status: draft
 hidden: true
-updated: 2026-04-05
+updated: 2026-05-17
 canon: false
 ---
 
@@ -37,9 +37,9 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 - **Charcadet** *(2nd Pokemon; permanently stolen by Team Rocket)* ⚠️ *Non-native — registered as Amber's one foreign Pokemon allowance* — Nobody in Indigo knows what species it is; customs process is awkward by necessity. Amber registers it herself. Journey Pokemon: ambition, drive, intensity. Acquired very early — Amber's second Pokemon — so the bond is deep before the theft. **Stolen by Team Rocket and evolved into Ceruledge under their control** — its armor is shaped by malice and regret rather than honor. The Armarouge/Ceruledge choice is resolved by the story, not the author. Becomes a recurring Rocket Pokemon Amber recognizes. Core question: can it be reached? Does it remember her? Its loss is a radicalizing event — a primary driver of Amber's campaign against Team Rocket.
   - **Theft timing:** End of Year 1, right before the first junior conference tournament. Amber has all 8 badges and just qualified. 4Ever happens in this window — she walks into her first conference without her ace. Her metagame knowledge didn't protect her. That failure is part of what radicalizes her.
-  - **Origin context:** Alonso — a Paldean adventuring knight — is the reason Charcadet is in Kanto. Amber is the reason Charcadet stays. Charcadet was initially part of Alonso's early team; it chooses Amber after observing the beginning of her quest. Alonso's willingness to let Charcadet go for a worthy trainer proves his ideals.
+  - **Origin context:** Alonso — a Paldean adventurer chasing the Greatest Adventurer myth — is the reason Charcadet is in Kanto. Amber is the reason Charcadet stays. Charcadet was initially part of Alonso's early team; it chooses Amber after observing the beginning of her quest. Alonso's willingness to let Charcadet go for a worthy trainer proves his ideals.
 
-- **Teddiursa → Ursaring** *(3rd Pokemon; lost during 4Ever, reunites as Ursaring)* — Looks soft, is not. Aggressive, scrappy, surprises Amber with its temperament. Acts as personality rival to Charcadet — two aggressive Pokemon competing for the same space. **Lost in the forest when it faints** — fainted Pokemon cannot be recalled, forcing Amber to flee without it. Rescue mission services exist for this, but Amber rejects the professional option and returns to the forest alone. This is how she runs into Sam and Celebi and gets swept into the 4Ever arc. During the 4Ever battle, Ursaring — already evolved, already hardened from surviving alone — finds Amber and saves her from a mortal situation. Rejoins the team. The reunion doesn't prevent Charcadet's theft; Amber walks out having found one and lost the other.
+- **Teddiursa → Ursaring** *(3rd Pokemon; early bond through missing-mother promise; later 4Ever role TBD)* — Looks soft, is not. Aggressive, scrappy, surprises Amber with its temperament. Acts as personality rival to Charcadet — two aggressive Pokemon competing for the same space. Initial bond begins on Route 1: Teddiursa attacks humans because Team Rocket took/threatened his mother. Amber promises to help save Ursaring, follows him to a Rocket camp, protects him, then pursues the cave escalation with Alonso. Rocket removes mother Ursaring after an almost-reunion, so Amber's promise remains unfulfilled. Longer-term direction: Teddiursa and his mother should eventually reunite, possibly through a later serious Rocket experiment/operation involving rage, obedience, battle-drug, or living-weapon use. 4Ever still uses Teddy/Ursaring as a major loss-and-return thread, but details should be reconciled with the mother-Ursaring rescue debt.
 
 - **Vee (Eevee → Espeon)** *(first encountered in Celadon pre-4Ever; recruited post-4Ever on deliberate return)* — Team Rocket experiment. Modified to cycle freely between Vaporeon, Jolteon, and Flareon; transformations cause physical pain. Deeply mistrustful of humans as a result. Seeded in ch7 as a [Defeat] notice: *"Rogue Eevee and Eeveelutions Route 7 — Exercise Caution. (Class C)"* — Amber half-recognizes the setup but can't place it.
   - **First encounter (pre-4Ever):** Amber runs into Vee in Celadon. They interact — Vee bonds with Amber's Pokemon (likely Ditto). A brief Team Rocket escalation: Rocket shows up, probably trying to recapture Vee; Amber helps fight them off. Then she leaves. Vee doesn't come with her. Not yet.
@@ -215,7 +215,7 @@ Alternatives: medical retirement/sanctuary, permanent transfer to orgs, or ecolo
 
 ## Region Plan & Transitions
 
-- **Indigo Year 1** — Licensing, Oak-supported departure. Core: Ditto/Charcadet/Teddiursa. 4Ever at end of Year 1 (all 8 badges). Charcadet stolen, Ursaring reunited. First conference entered without ace.
+- **Indigo Year 1** — Licensing, Oak-supported departure. Core: Ditto/Charcadet/Teddiursa. 4Ever at end of Year 1 (all 8 badges). Charcadet stolen; Teddy/Ursaring payoff TBD with the mother-Ursaring rescue debt. First conference entered without ace.
 - **Indigo Year 2** — Post-conference. Vee recruited in Celadon. Kitakami arc (Year 2, skips conference). Pikachu handoff to Oak end of Year 2.
 - **Transition trigger** — Two successful Rocket thefts within ~60 days, plus one secondary factor: denied gym rematch, sponsor offer contingent on relocation, Ranger advice, or Amber's own line *"I am not bait."*
 - **Hoenn** — Ecology shift; new additions. Trapinch arc. Tone hardens.

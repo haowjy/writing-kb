@@ -6,7 +6,7 @@ spoilers: true
 status: planned
 hidden: true
 created: 2025-10-25
-updated: 2026-03-30
+updated: 2026-05-18
 ---
 
 # Kyle Kong
@@ -69,16 +69,18 @@ Kyle walks the **traditional Walking Journey** by choice (Dojo tradition, not po
 - **Full team** --- can afford to catch/train multiple Pokemon
 - **8 badges Year 1 goal** --- WITH Amber's strategy coaching + Dojo resources
 
-Combined with [[../characters/sabrina]]'s elite path (private tutors, bred Pokemon), Kyle represents a different but still-resourced trainer position. Money + average tactical skill (with help) = success.
+Combined with [[../characters/sabrina]]'s elite path (private tutors, bred Pokemon), Kyle represents a different but still-resourced trainer position. He is not poor or untrained; his problem is that his inherited strength is too straightforward for Sabrina until Amber and Alonso help him change shape.
 
 ## The Saffron Dojo Pressure
 
-Kyle isn't just journeying --- he's running a **desperate last attempt to prove the Fighting Dojo's continued relevance**. His father Koichi sent him out at the standard age (14) specifically to match [[sabrina]]'s timeline. The U19 tournament is a political proxy war:
+Kyle isn't just journeying --- he's carrying the Fighting Dojo's desperate attempt to prove it still deserves to be Saffron's true civic gym. His father Koichi sent him out at the standard age (14) specifically to match [[sabrina]]'s timeline. The U19 tournament is a political proxy war:
 
-- Win = Fighting Dojo's claim to continued relevance, slows the decline
-- Lose = accelerates the inevitable transition (Psychic Gym gains official pillar status)
+- Win = Fighting Dojo restores/defends its claim as Saffron's true civic gym
+- Lose = Psychic Gym's expected replacement becomes much harder to stop
 
-The worldbuilding has decided: **the Dojo declines regardless**. Kyle's effort matters for character growth, not for the political outcome. He learns through trying, even though the outcome is fixed.
+Current direction: Kyle eventually **defeats Sabrina** at the critical public moment. This is not because Fighting simply overpowers Psychic. It is because Kyle becomes less predictable, more adaptive, more bonded, and more self-possessed than the boy Sabrina was expected to crush.
+
+The deeper turn: after accomplishing the inherited mission, Kyle realizes it was inherited. Winning frees him to want something larger, and he eventually leaves the gym path to adventure.
 
 See [[../plot-threads/saffron-gym-rivalry]] for the full proxy war setup.
 
@@ -171,16 +173,17 @@ See [[../plot-threads/saffron-gym-rivalry]] for the full proxy war setup.
 
 **Kyle vs. Sabrina Match:**
 - **Stakes:** Saffron gym politics (Dojo vs. Psychic Gym)
-- **Expected outcome:** Fighting loses to Psychic (type disadvantage)
-- **Sabrina's dominance:** Should destroy him easily
-- **Amber's help:** Strategizes with Kyle beforehand
-- **Actual result:** Still loses, but better showing than expected
-- **Political impact:** Delays Fighting Dojo's decline
+- **Sabrina's dominance:** monstrous natural psychic talent; not driven like Kyle, just overwhelmingly gifted
+- **Amber's help:** strategizes with Kyle beforehand and changes how he thinks
+- **Alonso's influence:** helps Kyle see the mission as something he can choose, not only inherit
+- **Actual result:** Kyle eventually defeats Sabrina at the critical public moment
+- **Political impact:** Fighting Dojo's claim as Saffron's true civic gym is restored/secured
 
 **Character Development:**
 - Learns to value strategy (Amber's influence)
 - Accepts help without it threatening ego
-- Respects Sabrina's skill (grudgingly)
+- Forces Sabrina to take him seriously
+- Accomplishes Koichi's mission, then realizes he wants a larger life than inheriting the gym
 - Bonds with Amber solidified
 
 ## Motivations
@@ -195,7 +198,7 @@ See [[../plot-threads/saffron-gym-rivalry]] for the full proxy war setup.
 - **Wants to prove himself:** Not just father's puppet
 - **Competitive nature:** Genuinely loves battling
 - **Dojo pride:** Believes in Fighting-type strength
-- **Growth:** Eventually finds own reasons beyond father
+- **Growth:** Saves the Dojo, then finds a reason beyond the Dojo
 
 ## Relationships
 
@@ -225,26 +228,26 @@ See [[../plot-threads/saffron-gym-rivalry]] for the full proxy war setup.
 - **(Explore later):** Does he resent the pressure?
 
 ### With Sabrina
-- **Rivals:** Gym politics made them competitors
-- **Never met:** Until tournament (Year 1)
-- **Respect:** Acknowledges her skill (after losing)
-- **Type disadvantage:** Fighting weak to Psychic (frustrating)
-- **(Future):** Possible development as characters mature
+- **Rivals by institution:** Gym politics made them competitors before they ever had a personal relationship
+- **Asymmetry:** Kyle is fighting for his family's future; Sabrina may see the match as another scheduled obligation
+- **Raw power gap:** Fighting is disadvantaged and Sabrina is a natural psychic monster
+- **Eventual victory:** Kyle defeats her by becoming less predictable, more adaptive, and better bonded, not by exceeding her raw psychic talent
+- **Aftermath:** Sabrina may respect him, but she should not become a companion by default
 
 ## Character Arc Potential
 
-### Year 1 (Current Plan)
+### Year 1 / Tournament Direction
 - Learns strategy matters, not just strength
 - Accepts help from others (Amber's influence)
-- Begins questioning father's expectations
-- Develops own identity beyond "Dojo heir"
+- Encounters Alonso's model of chosen adventure
+- Defeats Sabrina at the critical public moment and saves the Dojo's claim
+- Begins questioning whether preserving the Dojo is enough for him
 
-### Future Possibilities
-- **Continues Kanto journey** or travels elsewhere
-- **Gym politics resolution:** What happens to Fighting Dojo?
-- **Rivalry with Sabrina:** Could evolve into respect/friendship
-- **Father relationship:** Resolution of pressure/expectations
-- **Fighting aura mastery:** Further development as he matures
+### Future Direction
+- **Leaves to adventure:** after accomplishing the inherited mission, he wants something greater and self-chosen
+- **Father relationship:** Koichi has to reckon with the fact that the son who saved the Dojo may not stay inside it
+- **Sabrina relationship:** respect/recognition possible, companion role not intended
+- **Fighting aura mastery:** further development as he matures beyond the Dojo's narrow expectations
 
 ## Narrative Function
 

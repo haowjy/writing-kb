@@ -37,19 +37,19 @@ The adventurer identity maps onto fundamentally different cultural narratives be
 
 ### Paldea's Dominant Myth: Adventurer/Area Zero/Expeditions/Treasure Hunt
 
-- The cultural ideal is the adventurer-knight: explore the unknown, seek treasure, prove yourself through discovery
+- The cultural ideal is the adventurer: explore the unknown, seek treasure, prove yourself through discovery
 - Area Zero is the ultimate symbol — uncharted, dangerous, mythologically charged
-- The **Charcadet evolutionary line** (Armarouge/Ceruledge) embodies the knightly adventurer ideal in Pokemon form
+- The **Charcadet evolutionary line** (Armarouge/Ceruledge) embodies armored/noble adventurer imagery in Pokemon form
 - Paldea lacks Kanto's rigid gym/League structure; the Treasure Hunt is its own cultural institution
 
 ### Alonso Quijano as Cultural Bridge
 
-**Alonso Quijano** — a Paldean adventuring knight — is the character who imports Paldea's adventurer myth into Kanto. He arrives carrying Paldea's cultural assumptions about what a worthy path looks like:
+**Alonso Quijano** — a 17-year-old Paldean adventurer chasing the myth of the Greatest Adventurer — is the character who imports Paldea's adventurer myth into Kanto. He arrives carrying Paldea's cultural assumptions about what a worthy path looks like:
 
 - He identifies as an adventurer first, trainer second — an unusual framing in Kanto
 - He brings Paldean Pokemon (notably Charcadet) and Paldean values (discovery over competition, expedition over circuit)
 - His presence creates friction: Kanto's systems don't have a category for someone like him, and he doesn't fit neatly into Kanto's expectations
-- He admires adventuring knights broadly; the **Horizons Explorers** are one example of an adventurer fellowship he respects — they exist in the background, lightly adapted into this world as another expression of the adventurer ideal
+- He admires adventurers broadly; the **Horizons Explorers** are one example of an adventurer fellowship he respects — they exist in the background, lightly adapted into this world as another expression of the adventurer ideal
 
 ## Interregional Travel: Possible But Not Normalized
 
@@ -76,8 +76,8 @@ Technology and infrastructure are gradually making adventuring more viable:
 ### Alonso's Arrival
 
 Alonso's presence in Kanto is plausible through:
-1. **A Paldean adventurer fellowship/expedition** — an organized crew crossing from Paldea, providing group safety and shared resources
-2. **His own reckless solo questing** — after arriving, Alonso operates independently, taking risks institutional trainers wouldn't
+1. **A small Paldean adventurer crew** — Alonso, [[../../characters/beatriz-romero]], and [[../../characters/ciro-salvatierra]], crossing from Paldea with group safety and shared resources
+2. **His own tendency to get separated** — after arriving, Alonso follows trouble / Pokemon-in-danger / Rocket leads and ends up near Route 1 without the rest of the crew
 
 His arrival is rare enough to be notable but not impossible — exactly the right balance for a character whose cultural framing is meant to feel foreign in Kanto.
 
@@ -99,7 +99,7 @@ Private adventurer organizations exist outside government structures:
 - **Voluntary membership:** No license or certification required to join; reputation and peer recognition govern entry
 - **Mutual aid:** Equipment sharing, expedition coordination, rescue support, knowledge pooling
 - **Local vs international:** Some guilds are regional (operating in one mountain range or archipelago); others are interregional networks of expedition crews
-- **The Horizons Explorers** are one such fellowship — lightly adapted into this world as an example of organized adventurer culture. Alonso admires them as one expression of the knightly adventurer ideal he grew up with in Paldea
+- **The Horizons Explorers** are one such fellowship — lightly adapted into this world as an example of organized adventurer culture. Alonso admires them as one expression of the adventurer ideal he grew up with in Paldea
 
 ## Cross-Refs
 

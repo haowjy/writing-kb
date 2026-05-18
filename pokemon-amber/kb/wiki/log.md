@@ -124,17 +124,40 @@ package update, separate repo).
 - Updated: arcs/saga-overview.md — refined ages, Amber as historical outlier, Rainbow Rocket endgame paragraph, cross-refs
 - Updated: wiki/index.md — added Alonso, adventurer-system, rainbow-rocket-endgame entries
 
-## 2026-05-17 — Removed superseded ancient-Charcadet cave premise
+## 2026-05-17 — Replaced old Charcadet origin with Alonso direction
 
-- Deleted the flagged premise that Charcadet was a centuries-old Kanto cave resident guarding a dead Paldean master's grave.
-- Updated Arc 1, saga overview, and Mewtwo stone thread to use the Alonso-origin direction: Alonso brings Charcadet to Kanto; Amber is why Charcadet stays.
-- Preserved the Route 1 / cave / stone / Team Rocket / 4Ever payoff structure while removing the dead-master origin.
+- Updated Arc 1, saga overview, and Mewtwo thread to use the Alonso-origin direction: Alonso brings Charcadet to Kanto; Amber is why Charcadet stays.
+- Current version centers the Route 1 camp/cave mini-arc, Team Rocket, Teddiursa/Ursaring, and the Mew-adjacent ore thread.
 ## 2026-05-17 — Softened Alonso obsession framing
 
 - Revised Alonso/Rainbow Rocket/theme wording to avoid treating Alonso as simply "healthy" or "clean" obsession.
-- Alonso now represents ambition as a chosen ideal: beautiful, sincere, disciplined, but still risky and narrowing.
+- Alonso now represents ambition as a chosen ideal: sincere, disciplined, brave, quest-seeking, and generous before ambition curdles into possession or conquest.
 ## 2026-05-17 — Lightened Alonso ambition language
 
 - Reduced overcorrected risk/flaw wording around Alonso's obsession.
 - Alonso remains non-moralized, but the emphasis is now on generative ambition rather than recklessness or danger-romanticizing.
+## 2026-05-17 — Synced Route 1 Ch. 20/21 replacement into KB
+
+- Updated `arcs/arc1-kanto-year1.md` and `arcs/saga-overview.md` to split the old Day 2 cave sequence into Ch. 20 Team Rocket camp / Alonso introduction and Ch. 21 guarded cave / Ursaring rampage / rescue.
+- Updated `plot-threads/mewtwo-thread.md` so the Mew-adjacent ore is a long payoff thread from the Viridian cave incident, not a bonding device or old Charcadet guardian premise.
+- Updated `characters/alonso-quijano.md`, `characters/amber-mc-team.md`, and `plot-threads/rainbow-rocket-endgame.md` to remove stale dead-master loyalty framing and reflect Alonso/Charcadet/Teddiursa decisions.
+- Added `plot-threads/charcadet-to-ceruledge-throughline.md` and `plot-threads/ursaring-rescue-thread.md`.
+- Current Ch. 20/21 facts: Amber promises to help Teddiursa save mother Ursaring; Teddy recognizes Team Rocket; Alonso saves Amber after she protects Teddy; Charcadet notices but does not join; Rocket removes mother Ursaring after an almost-reunion; Teddy + Charcadet + Ditto escape to fetch rescue; Amber's promise remains unfulfilled.
+## 2026-05-18 — Cleaned Alonso/Kyle/Sabrina drive language
+
+- Cleaned Alonso framing: he should not speak in archaic knight diction; his adventuring ideal shows through plainspoken conviction and action. Core instinct: someone has to.
+- Revised Sabrina from potential companion/ambitious rival into Kyle's monstrous natural-talent boss: raw psychic power without drive, emotionally distant from psychic overload.
+- Revised Saffron rivalry: Kyle eventually defeats Sabrina at the critical public moment, preserving/restoring the Fighting Dojo's claim, then realizes the inherited mission is too small and leaves toward adventuring.
+- Updated Kyle, Sabrina, Saffron rivalry, Arc 1, Saffron gym place pages, core themes, and index summaries.
+## 2026-05-18 — Added Alonso's Paldean crew
+
+- Added `characters/beatriz-romero.md`: quiet Paldean crew naturalist whose dream is to discover and catalog every Pokemon.
+- Added `characters/ciro-salvatierra.md`: semi-shady Paldean crew hustler whose dream is to get rich enough to choose his own life, with a code against abandoning the vulnerable.
+- Revised Alonso to age 17 and clarified his goal as becoming the Greatest Adventurer; knighthood remains values/action, not archaic speech.
+- Updated Adventurer System, Arc 1, and Ch. 20/21 plans so Alonso is separated from his crew near Route 1 and Charcadet/Ditto/Teddiursa can find the crew for the cave rescue.
+## 2026-05-18 — Renamed Alonso crew companions to ABC trio
+
+- Renamed `characters/ines-romero.md` → `characters/beatriz-romero.md`. Beatriz remains the quiet Paldean crew naturalist whose dream is to discover and catalog every Pokemon.
+- Renamed `characters/mateo-salvatierra.md` → `characters/ciro-salvatierra.md`. Ciro remains the semi-shady money-minded crew hustler with a code.
+- Updated Alonso, Adventurer System, Arc 1, Ch. 21, index, and cross-links to use Alonso / Beatriz / Ciro.
 

@@ -220,36 +220,36 @@ If Amber competes, she needs opponents worth writing. Who are they?
 
 ---
 
-### ✅ DECIDED: Ch 20 Cave Scene Restructure (2026-04-08)
-**Context:** Full beat-by-beat of the cave sequence captured in `story/chapter20/_20plan.md`. Replaces earlier "Amber tied up at TR camp, pockets ore" framing.
+### ✅ DECIDED: Ch 20/21 Route 1 Camp + Guarded Cave Mini-Arc (2026-05-17)
+**Context:** Current beat-by-beat plans live in `story/ch20/plan.md` and `story/ch21/plan.md`.
 
-- **New structure:** Teddiursa encounter on route (hostile) → deal to find missing Ursaring → off-route tracking → cave where TR is attacking a centuries-old Charcadet guarding its dead Paldean master's resting place → Amber tackles Teddy out of Persian's strike path (instinct, bravery) → Ditto transforms into Arcanine (remembered from Oak's household) → TR releases Ursaring, she rampages, cave collapses, she's recalled → Charcadet leads them out via alternate tunnel → Viridian Pokemon Center.
-- **Affected files:** `story/chapter20/_20plan.md`, `future/arcs/arc1-kanto-year1.md`, `future/arcs/saga-overview.md`, `future/plot/_mewtwo-thread.md`
+- **Ch. 20:** Teddiursa attacks humans because his mother is missing. Amber promises to help save Ursaring, follows Teddy off-route, finds a hidden Team Rocket camp, and takes a meaningful but not catastrophic hit protecting Teddy when he recognizes Rocket and charges. Alonso arrives with Armarouge and Charcadet after Amber's choice and saves her. Charcadet notices but does not join.
+- **Ch. 21:** Amber and Alonso enter the guarded cave. Rocket releases/provokes Ursaring; she rampages, briefly recognizes Teddy, then Rocket removes her as collapse/rubble separates them. Amber and Alonso are trapped. Teddiursa, Charcadet, and Ditto slip out to bring help. Amber's promise to help Teddy save Ursaring remains unfulfilled.
+- **Affected files:** `story/ch20/plan.md`, `story/ch21/plan.md`, `wiki/arcs/arc1-kanto-year1.md`, `wiki/arcs/saga-overview.md`, `wiki/plot-threads/mewtwo-thread.md`, `wiki/plot-threads/charcadet-to-ceruledge-throughline.md`, `wiki/plot-threads/ursaring-rescue-thread.md`
 
 ---
 
-### ✅ DECIDED: Charcadet Capture Timing (2026-04-08)
+### ✅ DECIDED: Charcadet Capture Timing (revised 2026-05-17)
 **Original Question:** When does Amber officially catch Charcadet?
 
-- **Chosen:** At Viridian Pokemon Center after the cave escape. Charcadet briefly confers with Teddiursa (something is being decided between them), then kneels before Amber --- a knight's acceptance of a new master. Simple, almost ceremonial. Amber catches it then.
-- **Affected files:** `story/chapter20/_20plan.md`, `future/arcs/arc1-kanto-year1.md`
+- **Chosen:** Not at the camp and not immediately after the cave. Charcadet's choice comes later, after it observes Amber's pattern over a short stretch with Alonso. Alonso recognizes the choice and lets Charcadet go; Amber catches it after that choice is clear.
+- **Affected files:** `story/ch20/plan.md`, `story/ch21/plan.md`, `wiki/arcs/arc1-kanto-year1.md`, `wiki/characters/amber-mc-team.md`
 
 ---
 
-### ✅ DECIDED: Ditto-Arcanine Reveal (2026-04-08)
+### ✅ DECIDED: Ditto-Arcanine Reveal (revised 2026-05-17)
 **Original Question:** When/how does Amber figure out the Arcanine transformation?
 
-- **Chosen:** Figured out shortly after the cave, quietly --- Ditto lived in Oak's household before Amber, saw Arcanine, remembered. No dramatic reveal. In a later training session, Ditto transforms into Arcanine again, deliberately this time. A small tender beat about Ditto's depth.
-- **Note:** Arcanine is already in Ditto's remembered repertoire per `wiki/characters/ditto.md` (Fuji's original training). Consistent.
-- **Affected files:** `story/chapter20/_20plan.md`
+- **Chosen:** Not in the Alonso/Teddiursa mini-arc. Ditto can help practically, but the Oak-Arcanine memory reveal is delayed to a future crisis where Ditto's hidden memory can be the main emotional beat.
+- **Note:** Arcanine remains in Ditto's remembered repertoire per `wiki/characters/ditto.md`; only the reveal timing changed.
 
 ---
 
-### ✅ DECIDED: Psychic Stone Handoff Timing (2026-04-08)
-**Original Question:** When does Charcadet trust Amber enough to hand over the stone?
+### ✅ DECIDED: Mew-Adjacent Ore Handoff Timing (reframed 2026-05-17)
+**Original Question:** When does Charcadet trust Amber enough to hand over the stone/ore?
 
-- **Chosen:** Right before Arc 4 (4Ever). Charcadet carries the stone for the entirety of Arc 1-3. The handoff is a quiet relationship milestone --- and for readers paying attention, a red flag: the moment Amber takes the stone is the moment before she loses Charcadet (stolen by the Iron-Masked Marauder within Arc 4).
-- **Affected files:** `story/chapter20/_20plan.md`, `future/arcs/saga-overview.md`, `future/plot/_mewtwo-thread.md`
+- **Chosen:** Right before Arc 4 (4Ever). Charcadet is associated with the Mew-adjacent ore from the early Viridian cave incident, but the ore is not the reason Charcadet bonds with Amber. The handoff is a quiet relationship milestone --- and for readers paying attention, a red flag: the moment Amber takes it is the moment before she loses Charcadet.
+- **Affected files:** `wiki/arcs/saga-overview.md`, `wiki/plot-threads/mewtwo-thread.md`
 
 ---
 
@@ -257,36 +257,36 @@ If Amber competes, she needs opponents worth writing. Who are they?
 **Original Question:** What happens on Day 1 of Amber's journey?
 
 - **Chosen:** Caterpie catch (first real catch), basic wild battles, Route 1 travel and exploration, first night camping. Equipped-but-learning beats. No crisis, no TR, no weird Pokemon. Deliberately quiet chapter before the Ch 20 cave.
-- **Affected files:** `story/chapter19/_19plan.md` (stubbed), `future/arcs/arc1-kanto-year1.md`
+- **Affected files:** `story/ch19/plan.md` (stubbed), `wiki/arcs/arc1-kanto-year1.md`
 
 ---
 
-### ✅ DECIDED: Charcadet Acquisition (2026-04-05)
+### ✅ DECIDED: Charcadet Acquisition (revised 2026-05-17)
 **Original Question:** #13 — Where/how does Amber get Charcadet?
 
-- **Chosen:** Route 1 cave, Day 2. TR operation. Charcadet was already inside causing chaos when TR arrived. Amber encounters it during escape from the operation, acquires it in the cave.
-- **Detail:** Not native to Kanto — exact origin TBD (wandered in, loose in cave system, etc.)
-- **Affected files:** `arcs/arc1-kanto-year1.md`, `saga-overview.md`
+- **Chosen:** Alonso brings Charcadet to Kanto. Amber meets Charcadet through the Route 1 camp/cave mini-arc, but Charcadet chooses her only after observing her over a short stretch with Alonso.
+- **Affected files:** `wiki/arcs/arc1-kanto-year1.md`, `wiki/arcs/saga-overview.md`, `wiki/characters/alonso-quijano.md`, `wiki/characters/amber-mc-team.md`
 
 ---
 
-### ✅ DECIDED: Teddiursa Acquisition (2026-04-05)
-**New question, immediately decided**
+### ✅ DECIDED: Teddiursa Acquisition / Bond (revised 2026-05-17)
+**New question, immediately decided; later structure revised**
 
-- **Chosen:** Route 1 cave, Day 2. Same TR operation. TR captured his mother (Ursaring) opportunistically when she wandered into their operation. Teddiursa attacks Amber (blows her cover), gets tied up with her, saws through the rope when she promises to find Ursaring. Joins pragmatically — deal made, nowhere else to go, she went into the cave.
-- **Ursaring:** Already transferred offsite. Promise partially open. Ursaring is still out there.
+- **Chosen:** Route 1, Day 2. Teddiursa attacks humans because Team Rocket took/threatened his mother. Amber promises to help save Ursaring, follows him to a hidden Rocket camp, and protects him when he recognizes Rocket and charges.
+- **Ch. 21 continuation:** Rocket removes mother Ursaring after an almost-reunion in the guarded cave. Teddiursa, Charcadet, and Ditto later slip out to fetch rescue for trapped Amber/Alonso.
+- **Ursaring:** Still in Rocket hands. Amber's promise remains unfulfilled; future reunion likely ties into a more serious Rocket experiment/operation.
 - **Replaces Heracross as 3rd Arc 1 Pokemon.** Heracross acquisition question (#14) remains open — no longer Arc 1 specific.
-- **Affected files:** `arcs/arc1-kanto-year1.md`, `saga-overview.md`
+- **Affected files:** `wiki/arcs/arc1-kanto-year1.md`, `wiki/arcs/saga-overview.md`, `wiki/plot-threads/ursaring-rescue-thread.md`
 
 ---
 
 ### ✅ DECIDED: Team Rocket Introduction Timing (2026-04-05)
 **Original Question:** #4 — When does TR first appear?
 
-- **Chosen:** Day 2 of Route 1. First encounter IS the cave operation. TR is present almost immediately.
+- **Chosen:** Day 2 of Route 1. First encounter is the hidden camp / guarded cave operation. TR is present almost immediately.
 - **What they were doing:** Ore deposit with Mew-adjacent energy readings (flagged as possible Mew/legendary trace). Turned out to be Mega Stone ore deposit, not Mew. They wanted it regardless — part of rebuilding legendary capture operations post-Mewtwo escape (ch6).
 - **Pacing established:** TR starts active (not just surveillance) from the very start of the journey. Amber's first incident IS a TR op.
-- **Affected files:** `arcs/arc1-kanto-year1.md`, `plot/_mewtwo-thread.md`
+- **Affected files:** `wiki/arcs/arc1-kanto-year1.md`, `wiki/plot-threads/mewtwo-thread.md`
 
 ---
 

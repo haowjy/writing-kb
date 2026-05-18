@@ -5,7 +5,7 @@ spoilers: true
 
 # Saffron Fighting Dojo
 
-Saffron City's official Pillar Gym (Fighting-type). Ancient Fighting-type clan tradition with Aura Guardian lineage techniques. **Currently official, but trajectory is decline** --- expected to lose pillar status to the [[saffron-psychic-gym]] within 2-3 years.
+Saffron City's official Pillar Gym (Fighting-type). Ancient Fighting-type clan tradition with Aura Guardian lineage techniques. **Currently official, but under serious threat** --- expected by Saffron elites to lose pillar status to the [[saffron-psychic-gym]] unless Kyle creates a public reversal.
 
 ## Leadership
 
@@ -17,7 +17,7 @@ Saffron City's official Pillar Gym (Fighting-type). Ancient Fighting-type clan t
 
 - **Official Saffron City Pillar Gym** (issues legitimate Fighting-type badge)
 - Losing prestige: younger generation weaker than elders
-- 2-3 year decline: predetermined to lose official status
+- 2-3 year crisis: expected to lose official status unless Kyle changes the public/political story
 
 ## The Decline
 
@@ -34,7 +34,7 @@ See [[../plot-threads/saffron-gym-rivalry]] for the political backdrop.
 
 ## Kyle's Role
 
-Kyle is the Dojo's heir and effectively its desperate last attempt to prove relevance. His U19 tournament journey is the proxy war. The Dojo loses regardless; Kyle's character arc isn't about winning, it's about what he learns through trying.
+Kyle is the Dojo's heir and effectively its desperate last attempt to prove relevance. His U19 tournament journey is the proxy war. Current direction: Kyle eventually defeats Sabrina at the critical public moment, saving/restoring the Dojo's claim — then realizes he wants a larger chosen quest than simply inheriting the institution he saved.
 
 ## Cross-Refs
 

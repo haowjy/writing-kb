@@ -5,7 +5,7 @@ spoilers: true
 
 # Saffron Psychic Gym
 
-Saffron City's Psychic-type minor/challenger gym. **Currently not official**, but rising fast --- expected to gain pillar status within 2-3 years, replacing the [[saffron-fighting-dojo]].
+Saffron City's Psychic-type minor/challenger gym. **Currently not official**, but rising fast --- expected by Saffron elites to gain pillar status within 2-3 years, replacing the [[saffron-fighting-dojo]], unless Kyle changes the public story.
 
 ## Leadership & Backing
 
@@ -30,7 +30,7 @@ Modern advantages compound:
 - City politics: wealthy families favor the Psychic Gym
 - Science advancement: psychic training methods improving rapidly
 
-Within 2-3 years: expected to gain official pillar status (displacing Fighting Dojo).
+Within 2-3 years: expected to gain official pillar status (displacing Fighting Dojo), but Kyle's eventual victory over Sabrina can halt/reverse that outcome.
 
 See [[../plot-threads/saffron-gym-rivalry]] for the political backdrop.
 

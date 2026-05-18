@@ -6,7 +6,7 @@ spoilers: true
 status: planned
 hidden: true
 created: 2025-10-14
-updated: 2026-04-05
+updated: 2026-05-17
 ---
 
 # Arc 1: Kanto (Year 1)
@@ -24,7 +24,8 @@ The journey is properly resourced but repeatedly disrupted by weird Pokemon inci
 **Major Events:**
 - Ch 18: Licensed departure from Pallet
 - Ch 19 (Route 1 Day 1): Caterpie catch, basic battles, Route 1 travel and exploration, equipped but learning ("game knowledge != real wilderness")
-- Ch 20 (Day 2): Teddiursa encounter on Route 1, promise to find his missing mother, off-route tracking into cave system, Charcadet + Teddiursa acquired, Ursaring lost
+- Ch 20 (Day 2): Teddiursa encounter on Route 1, promise to help save his missing mother, off-route tracking to hidden Team Rocket camp, Alonso Quijano introduction
+- Ch 21: guarded cave escalation, Ursaring rampage / almost-reunion, cave collapse, small Pokemon fetch rescue; Ursaring remains captured by Rocket
 - Viridian Gym: first gym challenge, Giovanni fights Amber personally
 - Kyle partnership begins
 - Badge progression across the year (disrupted by incidents)
@@ -62,7 +63,9 @@ This is NOT desperate survival. It's the gap between theory and experience.
 
 **Ch 19 (Day 1):** Caterpie catch (first real catch), basic battles, Route 1 travel and exploration, first night camping. The equipped-but-learning beats live here.
 
-**Ch 20 (Day 2):** Teddiursa encounter → off-route tracking → cave scene. See `story/chapter20/_20plan.md`.
+**Ch 20 (Day 2):** Teddiursa encounter → off-route tracking → Team Rocket camp → Alonso rescue. See `story/ch20/plan.md`.
+
+**Ch 21:** guarded cave escalation → Ursaring rampage/almost-reunion → collapse/trapped rescue. See `story/ch21/plan.md`.
 
 ---
 
@@ -70,20 +73,22 @@ This is NOT desperate survival. It's the gap between theory and experience.
 
 ### Charcadet
 
-- **When/where:** Route 1 / off-route cave near Viridian, Day 2. Charcadet is in Kanto because it traveled from Paldea with [[../characters/alonso-quijano]], a Paldean adventuring knight. Alonso is why Charcadet is in Kanto; Amber is why Charcadet stays.
+- **When/where:** Route 1 / Viridian off-route mini-arc, beginning in Ch. 20. Charcadet is in Kanto because it traveled from Paldea with [[../characters/alonso-quijano]], a 17-year-old Paldean adventurer. Alonso is why Charcadet is in Kanto; Amber is why Charcadet stays.
 - **Personality:** Ambition, drive, intensity. Not yet settled (Armarouge vs Ceruledge mirrors its unsettled identity). Knightly, but not property --- it chooses the quest it wants to serve.
-- **Bond:** Charcadet witnesses Amber throw her own body in front of Persian's claws to save Teddiursa. A knight recognizes bravery and loyalty. That's the seed, but not the whole choice; Charcadet should choose Amber after observing a pattern over a short stretch with Alonso.
-- **Capture:** Not captured in the cave. Follows Amber out after the collapse and remains near her through the short Alonso/Route 1 mini-arc. At the eventual separation, Alonso recognizes Charcadet's choice and lets it go. Amber catches it after that choice is clear.
-- **The stone:** Charcadet carries the psychic stone out of the cave, not Amber. Doesn't hand it off until much later (right before Arc 4). See [[../plot-threads/mewtwo-thread]].
-- **Not native to Kanto:** Charcadet is a Paldean Pokemon brought to Kanto by Alonso's adventurer path, not an ancient Kanto cave resident.
+- **First seed:** At the Team Rocket camp, Charcadet sees Amber protect Teddiursa before Alonso arrives to save her. This is a meaningful but not catastrophic hit: the moral choice, not the maximum physical cost.
+- **Deepening evidence:** In the cave escalation, Charcadet sees Amber keep pursuing Teddy's mother, then joins Teddiursa and Ditto in slipping out to bring back help after Amber/Alonso are trapped.
+- **Capture:** Not captured at the camp or immediately after the cave. Its choice comes after observing Amber's pattern over a short stretch with Alonso. At the eventual separation, Alonso recognizes Charcadet's choice and lets it go. Amber catches it after that choice is clear.
+- **The ore thread:** Charcadet eventually becomes associated with the strange Mew-adjacent ore from the Viridian cave incident and later hands it to Amber before 4Ever. This is a relationship milestone and Mewtwo-thread setup, not the reason Charcadet bonds with Amber. See [[../plot-threads/mewtwo-thread]].
 
 ### Teddiursa
-- **When/where:** Route 1, Day 2. Amber encounters him before the cave --- he's aggressive, attacks on sight. She defeats him with Ditto and catches him in a single ball. When released he attacks again; she recalls fast.
-- **Personality:** Grievance-driven, not warm. He's not a comfort bear; he's a small animal whose mother was taken.
-- **The deal:** Amber realizes there should be an Ursaring nearby and there isn't. Releases him with a prepared speech: *"Your mother is missing, right? I'll help find her."* Teddiursa stops. Ditto and Teddiursa communicate; Teddy gestures two humans taller than Amber went in a direction. They track.
-- **Bond:** Deal-based. Amber kept her word by going off-route, half a day of tracking, and into the cave. She kept her word again by tackling him out of Persian's strike path (at real cost to herself). That's what he remembers.
-- **Ursaring:** Was briefly in the cave --- TR had her, released her as a last-resort distraction. She rampaged, brought the cave down, and was recalled before she saw her own cub. Teddy saw her. Couldn't reach her. The promise stays open. The debt deepens.
-- **Why he joins:** Deal was made, kept, and deepened. Nowhere else to go. No warmth yet --- but a real bond through shared injury.
+- **When/where:** Route 1, Day 2. Amber encounters him before the cave --- he's aggressive and attacks humans because humans/Team Rocket are tied to his mother's disappearance.
+- **Personality:** Grievance-driven, not warm. He's not a comfort bear; he's a small animal trying to get to his mother.
+- **The deal:** Amber realizes there should be an Ursaring nearby and there isn't. She promises to help save his mother. Teddiursa does not trust Amber because she is kind; he tolerates her because she names the actual problem and moves toward it.
+- **Camp trigger:** Teddiursa recognizes Team Rocket at the hidden camp and charges before Amber can plan. Amber protects him and takes a meaningful but not catastrophic hit. Alonso then arrives with Armarouge and Charcadet to save her.
+- **Cave escalation:** In Ch. 21, Rocket releases/provokes Ursaring. She rampages, briefly recognizes Teddy, then Rocket forcefully recalls/removes her as collapse/rubble cuts them off.
+- **Rescue agency:** After Amber and Alonso are trapped, Teddiursa, Charcadet, and Ditto slip out through a small passage to bring back help. Teddy has to carry part of the promise too.
+- **Ursaring thread:** Amber's promise to help Teddiursa save his mother remains unfulfilled. Teddiursa and Ursaring should eventually reunite, likely through a later, more serious Team Rocket experiment or operation involving rage/obedience/battle-drug/living-weapon use.
+- **Why he stays:** The deal was made and deepened. No warmth yet --- but a real bond through shared injury, debt, and an unfinished rescue.
 
 ---
 
@@ -135,9 +140,10 @@ Viridian is Amber's **first** gym challenge (not the 8th as in games). Giovanni 
 
 ### Saffron Politics
 - Kyle represents Fighting Dojo (currently official pillar gym)
-- Sabrina (14) represents Psychic Gym (challenger, will gain status in 2-3 years)
+- Sabrina (14) represents Psychic Gym (challenger, expected to displace the Dojo)
 - Tournament = political proxy war
-- Fighting Dojo decline is predetermined; Kyle's effort delays but doesn't prevent
+- Kyle eventually defeats Sabrina at the critical public moment, preserving/restoring the Dojo's claim
+- After accomplishing the inherited mission, Kyle begins yearning for a larger chosen quest
 
 ---
 
@@ -150,14 +156,14 @@ Viridian is Amber's **first** gym challenge (not the 8th as in games). Giovanni 
 ### Possible Outcomes (TBD):
 1. **Amber qualifies, Kyle qualifies** --- both compete, Amber knocked out by strong opponent, Kyle faces Sabrina
 2. **Amber falls short, Kyle qualifies** --- Amber in corner/coach role, Kyle vs Sabrina
-3. **Both qualify but different outcomes** --- Amber goes further than expected, Kyle loses to Sabrina
+3. **Both qualify but different outcomes** --- Amber goes further than expected; Kyle faces Sabrina as the Saffron political climax
 4. **Amber qualifies but Kyle doesn't** --- role reversal from old plan
 
 Key beats regardless of outcome:
 - Kyle vs. Sabrina is the political climax (Fighting Dojo vs Psychic Gym)
 - Sabrina is a true prodigy (what Kyle + coaching can match, she does alone)
-- Kyle loses to Sabrina (type disadvantage, she's better, predetermined)
-- Respectable showing matters even in defeat
+- Kyle eventually defeats Sabrina; the win must feel earned through growth, strategy, bond, and self-possession rather than simple type reversal
+- The win saves/restores the Dojo but frees Kyle to want something beyond it
 
 ### Amber's Conference Role
 - Old plan: spectator/coach only (2 badges)
@@ -171,7 +177,7 @@ Key beats regardless of outcome:
 
 **Escalating background threat.** Not the primary story engine for Arc 1, but present and growing.
 
-- Day 2 cave: grunts file a report (girl with a Ditto and a Charcadet-nobody-has, disrupted the operation, cave collapsed, Ursaring lost in the chaos)
+- Day 2 Route 1 incident: grunts file a report (girl with a Ditto, Paldean adventurer Alonso, Armarouge/Charcadet, possible Paldean crew nearby, disrupted camp/cave operation, Ursaring removed during collapse)
 - Giovanni personally takes her measure at Viridian: not actionable at 13, filed away
 - Grunt-level grudge through Arc 1: the grunts who were embarrassed by a 13-year-old keep an eye out. Low-level, not organizational.
 - Minor encounters, interference with gym circuit (pulling Amber into situations)
@@ -179,7 +185,7 @@ Key beats regardless of outcome:
 - Butch & Cassidy or other agents (not Jessie/James comedy duo)
 
 **The long thread (Arc 1 → mid-saga):**
-The cave on Route 1 sits quiet for years. Eventually, someone in TR rediscovers the location and the strange energy reading that was never fully explained. Old records get pulled. There was a report: a girl with a Ditto took something from the camp. Badge records, conference results, Oak's sponsorship --- it traces back to Amber. By then she's not a 13-year-old first-year anymore. She's the youngest-ever Hoenn conference winner. The organizational-level pursuit escalates. This converges with the Mewtwo thread: TR eventually understands they're chasing the same person who carries what is probably a significant Mega Stone ore deposit. The grunt grudge becomes something larger.
+The Route 1 camp/cave incident sits in Rocket files for years: a failed field operation, an escaped witness, a foreign adventurer, unusual Paldean Pokemon, Ursaring removed for later use, and an energy reading that was never fully explained. Eventually old records get pulled. Badge records, conference results, and Oak's sponsorship trace back to Amber. By then she is not a 13-year-old first-year anymore; she is the youngest-ever Hoenn conference winner. The organizational-level pursuit escalates. This converges with the Mewtwo thread: TR eventually understands they are chasing the same person connected to a significant Mega Stone ore deposit. The grunt grudge becomes something larger.
 
 Cross-ref: [[../plot-threads/mewtwo-thread]] (ore acquisition, long-thread payoff)
 
@@ -242,8 +248,8 @@ Cross-ref: [[../plot-threads/mewtwo-thread]] (ore acquisition, long-thread payof
 - Theme runs through team and relationships without being heavy-handed
 
 **Effort vs. Outcome:**
-- Kyle's best WITH help still loses to Sabrina
-- Fighting Dojo WILL decline (predetermined)
+- Kyle's best WITH Amber's help and Alonso's influence can eventually beat Sabrina, but only after he becomes less predictable and more self-chosen
+- Fighting Dojo is expected to decline, but Kyle can reverse that expectation by defeating Sabrina
 - Amber may not hit 8 badges despite competence
 - Effort still matters for character and relationships
 
@@ -263,7 +269,7 @@ Cross-ref: [[../plot-threads/mewtwo-thread]] (ore acquisition, long-thread payof
 - Kyle partnership (genuine friendship)
 - Oak's continued support
 - Growing reputation (weird incidents attract attention)
-- A strange psychic stone Charcadet carries (not hers yet; handoff comes right before Arc 4)
+- A strange Mew-adjacent ore thread associated with Charcadet (not Amber's yet; handoff comes right before Arc 4)
 
 **Setup for Arc 2:**
 - Team Rocket escalates (passive -> active)
@@ -271,7 +277,7 @@ Cross-ref: [[../plot-threads/mewtwo-thread]] (ore acquisition, long-thread payof
 - Conference outcome creates new goals
 - Amber's visibility increasing (good and bad)
 - Fuji's "death" and origins questions lurking
-- Ursaring: still out there, transferred by TR. The debt is open.
+- Mother Ursaring: still in Rocket hands. Amber's promise to help Teddy save her remains unfulfilled.
 
 ---
 
@@ -279,10 +285,11 @@ Cross-ref: [[../plot-threads/mewtwo-thread]] (ore acquisition, long-thread payof
 
 - **Ch 18:** Departure (planning, see `current-direction.md`)
 - **Ch 19 — Route 1, Day 1:** Caterpie catch, basic travel, equipped-but-learning
-- **Ch 20 — Route 1, Day 2, The Cave:** ✅ CONFIRMED (full beat-by-beat in `story/chapter20/_20plan.md`; summary below)
+- **Ch 20 — Route 1, Day 2, Team Rocket Camp / Alonso Introduction:** planned (see `story/ch20/plan.md`)
+- **Ch 21 — Guarded Cave / Ursaring Rampage / Rescue:** planned (see `story/ch21/plan.md`)
 - **Viridian Gym:** ✅ CONFIRMED — first gym, Giovanni personal battle (see below)
-- **Charcadet acquisition:** ✅ CONFIRMED — Route 1 cave, Day 2
-- **Teddiursa acquisition:** ✅ CONFIRMED — Route 1 cave, Day 2
+- **Charcadet acquisition:** planned — seeded in Ch. 20/21, actual choice after a short stretch with Alonso
+- **Teddiursa bond/acquisition:** planned — begins through the Route 1 missing-Ursaring promise
 - **Kyle meeting:** TBD context
 - **Badge challenges:** Need specific gym episodes
 - **Incident episodes:** Need development
@@ -290,41 +297,37 @@ Cross-ref: [[../plot-threads/mewtwo-thread]] (ore acquisition, long-thread payof
 
 ---
 
-## Route 1, Day 2 — The Cave
+## Route 1, Day 2 — Camp and Cave Mini-Arc
 
-Full beat-by-beat sequence: see `story/chapter20/_20plan.md`. Summary below.
+Full beat-by-beat sequence: see `story/ch20/plan.md` and `story/ch21/plan.md`. Summary below.
 
 **Day 1 (Ch 19):** Amber walks Route 1. Catches a Caterpie (her first catch). Basic battles, basic exploration, camping. Equipped-but-learning beats.
 
-**Day 2 (Ch 20):**
+**Ch 20: Team Rocket camp / Alonso introduction**
 
-She encounters a hostile Teddiursa on or near the route. Switches to Ditto, wins, catches in a single ball (noted as weirdly lucky). Releases him --- he attacks again. Recalls fast. Thinks it through: if there's a Teddiursa, there should be an Ursaring. Waits. Nothing comes. The mother is missing.
+Amber encounters a hostile Teddiursa on or near the route. His behavior is wrong: he is not hunting or defending territory normally. Amber realizes that if there is a Teddiursa, there should be an Ursaring nearby. No mother comes.
 
-Releases Teddy with a prepared speech: *"Your mother is missing, right? I'll help find her."* Teddiursa stops. Confers with Ditto in gestures Amber half-understands. Teddy points a direction, holds up two fingers, gestures taller than her --- two humans went that way with his mother. They track.
+Amber promises to help save Ursaring. Teddiursa does not become friendly; he tolerates Amber because she identifies the problem and moves toward it. Ditto helps bridge communication. Teddy leads Amber off-route toward the humans who took/threatened his mother.
 
-Half a day off-route, deeper into forest. Reach a cave entrance. Amber gets a *feeling* about this cave she can't name. Insists they prepare before entering --- rest, eat, stock up. They enter as evening falls.
+They find a hidden Team Rocket camp or field operation outside a guarded cave. Teddiursa recognizes Team Rocket immediately and charges before Amber can plan. Amber wants to retreat or assess, but Teddy is fighting for his life and mother. She moves anyway and takes a meaningful but not catastrophic hit protecting him.
 
-**Inside the cave:** A fight is already in progress. Charcadet vs. two TR grunts' Pokemon (Houndoom + Persian). The grunts don't realize fire moves are doing nothing to Charcadet. Charcadet is holding but losing slowly to the 2v1.
+Ditto helps defensively, but the Oak-Arcanine memory reveal is saved for a later crisis.
 
-**Charcadet's context (not known to Amber):** Charcadet is in Kanto because it traveled from Paldea with Alonso, whose own adventurer path has intersected this Route 1 incident. A psychic stone in the cave has triggered TR's legendary-capture sensors --- they're rebuilding after Mewtwo's escape (ch6). Grunts were sent to investigate and the fight with Charcadet is already underway when Amber arrives. The cave may be a Mystery Dungeon phenomenon, likely an ultra wormhole undercurrent (this world's unifying explanation for dungeons, Area Zero signatures, and Terastal-adjacent oddities).
+Alonso Quijano arrives with Armarouge and Charcadet after Amber has already made the dangerous choice. He saves her from the consequences becoming fatal. Armarouge demonstrates disciplined, controlled fire; Amber may flinch, but Alonso is competent and sincere without needing archaic or performative knight-speech. His ideal comes through action: someone had to help, so he did.
 
-**The moment Charcadet remembers:** Teddiursa charges the grunts before Amber can plan. Persian is redirected at Teddy. **Amber tackles Teddy out of the strike path on pure instinct. Persian's claws rake her back. Blood.** Not calculated. Not heroic in the Ash sense. Protecting something smaller at cost to herself. A knight recognizes bravery and loyalty. That's what Charcadet sees.
+Charcadet notices Amber's protective act. This is only the seed, not a capture.
 
-**Ditto transforms into Arcanine** --- a form Amber didn't know it had. Oak's household Arcanine. Ditto remembers. Amber is shocked and confused. Unresolved mystery in the moment.
+**Ch 21: Guarded cave / Ursaring rampage / rescue**
 
-Charcadet vs. Houndoom (1v1, Charcadet winning now). Ditto-Arcanine vs. Persian. Grunts realize they're losing. As a last resort, they release **Ursaring** --- freshly captured, furious. She rampages. The cave starts collapsing. Teddy sees his mother. Shouts. Before Ursaring registers her cub, the grunts recall her and run.
+Amber and Alonso enter the guarded cave together because Rocket's operation points inward and Amber's promise to Teddiursa is still unfulfilled. The cave may be ordinary, Rocket-modified, or Mystery Dungeon-adjacent; do not let the cave lore outweigh Teddiursa/Ursaring.
 
-**Cave collapses.** Entrance sealed. Teddy saw his mother and lost her again. Promise stays open. Debt deepens.
+Rocket releases or provokes Ursaring as a last resort. Ursaring is not evil: she is hurt, furious, disoriented, and made dangerous by Rocket. Her rampage turns the cave into a collapse hazard. Amber's injury should get worse here; Ch. 20 proved the moral choice, Ch. 21 brings the physical cost.
 
-**The escape:** Amber is hurt --- Persian clawed her back badly. Charcadet helps lead them through the unstable cave's alternate tunnel path. Ditto-Arcanine carries Amber. Charcadet carries the psychic stone out with it rather than leaving dangerous, Rocket-attracting power behind.
+Teddiursa sees his mother. For one moment, Ursaring starts to come back to herself and recognizes her cub. Then Rocket forcefully recalls/removes her as rubble cuts them off. Teddy finds his mother and loses her again.
 
-**At Viridian Pokemon Center:** Amber arrives injured, riding Ditto-Arcanine, with Teddiursa and a Paldean Charcadet nobody in Kanto expects to see. Charcadet is not an instant reward; its choice should resolve after a short stretch with Amber and Alonso, once it has observed the beginning of Amber's quest.
+Amber and Alonso are trapped behind collapse. The solution is not heroic navigation while injured: Teddiursa, Charcadet, and Ditto slip out through a small passage to get help. Teddy gets agency, Charcadet protects Teddy for Amber, and Ditto helps without using the delayed Arcanine reveal. Charcadet knows Alonso's crew; with Ditto and Teddiursa, it can find [[../characters/beatriz-romero]] and [[../characters/ciro-salvatierra]] or guide them back with other responders. A rescue party reaches Amber and Alonso.
 
-**Ditto-Arcanine** is figured out after: Ditto lived in Oak's household before Amber, saw Arcanine, remembered. In a later training session, Ditto transforms into Arcanine again --- deliberately this time. A quiet beat about Ditto's depth.
-
-**The stone:** Charcadet carries it for a long time. Handoff happens much later, right before Arc 4 (4Ever). Readers paying attention will feel the weight --- the moment Amber takes the stone is the moment before she loses Charcadet. See [[../plot-threads/mewtwo-thread]].
-
----
+**Aftermath:** Ursaring remains in Rocket hands. Amber's promise to help Teddiursa save his mother remains unfulfilled. Charcadet has now seen Amber choose Teddy twice and has participated in carrying the promise forward, but its choice still comes later after a short stretch with Alonso.
 
 ## Viridian Gym --- First Challenge
 

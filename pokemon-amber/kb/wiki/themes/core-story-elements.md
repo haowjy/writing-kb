@@ -90,8 +90,10 @@ updated: 2026-05-17
 **Central thematic current:**
 - Fuji: grief → possession → destructive obsession
 - Giovanni: trauma → nationalism → obsession with conquest
-- Alonso Quijano: chivalric ideal → genuine aspiration → the chosen quest
-- Amber: protection → greatness → drive that refuses to stop
+- Alonso Quijano: chosen adventuring ideal → plainspoken courage → the self-chosen quest
+- Amber: circumstance → attachment → protection/greatness → drive that refuses to stop
+- Kyle: inherited duty → earned victory → chosen adventure
+- Sabrina: raw psychic power without drive; greatness as burden/asymmetry
 - Charcadet/Ceruledge: loyalty refracted through who holds the reins
 - Mewtwo: obsession's product seeking autonomy
 - Evil teams: each a flavor of obsession (control, destruction, reshaping)

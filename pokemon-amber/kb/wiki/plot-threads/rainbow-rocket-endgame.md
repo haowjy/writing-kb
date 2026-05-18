@@ -35,7 +35,7 @@ Giovanni's ambition is structural, not personal. He wants Kanto supremacy — an
 See: [[../characters/giovanni]], [[../organizations/team-rocket]]
 
 ### Alonso Quijano: Chivalric Ideal → Genuine Aspiration → The Chosen Quest
-**Alonso** represents ambition as a chosen ideal — the knight who wants to be great because greatness is worth pursuing. His drive gives his life shape: discipline, courage, quest-seeking, and a willingness to walk toward danger when the cause is worthy. It is not possession, conquest, or grief trying to control the world. He reaches peak by endgame through the same force that drives Giovanni to conquest — the desire to become more. The difference is what he wants greatness *for*, and what he refuses to own.
+**Alonso** represents ambition as a chosen adventuring ideal — not performative knight-speech, but plainspoken courage. He wants to become a true adventurer: brave enough, noble enough, and worthy enough to go where someone has to go. His drive gives his life shape: discipline, courage, loyalty, and a willingness to walk toward danger when the cause is worthy. It is not possession, conquest, or grief trying to control the world. He reaches peak by endgame through the same broad force that drives Giovanni to conquest — the desire to become more. The difference is what he wants greatness *for*, and what he refuses to own.
 
 See: [[../characters/alonso-quijano]]
 
@@ -44,8 +44,15 @@ Amber's core drive is protection — becoming strong enough that nothing can tak
 
 See: [[../characters/amber-mc]], [[../arcs/saga-overview]]
 
+
+### Kyle Kong: Inherited Duty → Earned Victory → Chosen Adventure
+Kyle begins with an inherited mission: save the Saffron Fighting Dojo by defeating Sabrina, a monstrous natural psychic talent. Amber's tactical influence and Alonso's model of chosen adventure help him turn inherited duty into self-possessed drive. When he eventually beats Sabrina and restores the Dojo's claim, the victory frees him rather than settles him; he wants something greater than inheriting the institution he saved.
+
+### Sabrina: Raw Power Without Drive
+Sabrina corrects the theme by showing that not all greatness comes from obsession. Some power simply lands on a person. Her immense psychic sensitivity makes other people invasive and noisy, producing emotional distance rather than hunger. She is greatness as burden/asymmetry — the boss Kyle must answer with drive, bond, and adaptation.
+
 ### Charcadet / Ceruledge: Loyalty Refracted Through Who Holds the Reins
-Charcadet's loyalty was absolute — to its dead Paldean master, then to Amber. When the Iron-Masked Marauder steals it, that loyalty is reforged by malice. Ceruledge becomes what happens when a knight serves the wrong lord. The reunion in Sinnoh asks whether the original bond can survive what Team Rocket and Team Galactic made it into.
+Charcadet first knows Alonso's knightly ideal, then chooses Amber after watching the beginning of her quest. When the Iron-Masked Marauder steals it, that loyalty and becoming are reforged by malice. Ceruledge becomes what happens when a knightly fire is forced into someone else's story. The reunion in Sinnoh asks whether the original choice can survive what Team Rocket and Team Galactic made it into.
 
 See: [[../characters/amber-mc]]
 

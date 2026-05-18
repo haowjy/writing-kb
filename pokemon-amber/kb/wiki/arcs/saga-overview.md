@@ -32,9 +32,9 @@ High-level map of Amber's journey from start to peak. Individual arc files conta
 ### Arc 1 — Kanto: Journey Start
 **Amber age:** 13 | **Region:** Indigo (Kanto)
 
-Licensed departure from Pallet. Oak-supported. Amber is equipped but untested — game knowledge ≠ real wilderness. Ch 19 (Day 1): Caterpie catch + Route 1 travel. Ch 20 (Day 2): hostile Teddiursa encounter, deal to find his missing Ursaring, off-route tracking into a cave where a TR operation is already underway. Alonso's Paldean Charcadet is drawn into the incident and observes Amber's first instinctive act of protection. Cave collapses; Ursaring briefly seen but lost again. Charcadet carries a strange psychic stone out of the cave --- not Amber. Viridian Gym is her **first** gym: Giovanni fights Amber personally, and figures out what she is. She doesn't know what he knows. Meets Kyle Kong. Badge progression begins, disrupted by incidents. Team Rocket is an escalating background threat. Celadon reached; first glimpse of quest board.
+Licensed departure from Pallet. Oak-supported. Amber is equipped but untested — game knowledge ≠ real wilderness. Ch 19 (Day 1): Caterpie catch + Route 1 travel. Ch 20 (Day 2): hostile Teddiursa encounter, promise to help save his missing mother, off-route tracking to a hidden Team Rocket camp. Teddy recognizes Rocket and charges; Amber takes a meaningful but not catastrophic hit protecting him; Alonso arrives with Armarouge and Charcadet to save her. Ch 21: Amber and Alonso enter the guarded cave; Rocket releases/provokes Ursaring, who almost recognizes Teddy before Rocket removes her and collapse traps Amber/Alonso. Teddiursa, Charcadet, and Ditto slip out to bring help. Charcadet notices Amber but does not join yet. The strange Mew-adjacent ore thread begins around this cave incident. Viridian Gym is her **first** gym: Giovanni fights Amber personally, and figures out what she is. She doesn't know what he knows. Meets Kyle Kong. Badge progression begins, disrupted by incidents. Team Rocket is an escalating background threat. Celadon reached; first glimpse of quest board.
 
-**Ends:** Amber has ~3-4 badges, real trainer experience, and a growing reputation for weird incident magnetism. Ursaring still out there. The stone is in Charcadet's possession, not hers.
+**Ends:** Amber has ~3-4 badges, real trainer experience, and a growing reputation for weird incident magnetism. Mother Ursaring remains in Rocket hands; Amber's promise to Teddy is unfulfilled. The Mew-adjacent ore thread is associated with Charcadet, not yet Amber.
 
 See: `arc1-kanto-year1.md`
 
@@ -65,7 +65,7 @@ Final badge push. Amber grinding toward 8, disruptions continuing. Kyle partners
 ### Arc 4 — 4Ever
 **Amber age:** 13 | **Region:** Indigo (Kanto — forest near Pallet region)
 
-**Just before this arc:** Charcadet finally trusts Amber enough to hand her the psychic stone it's been carrying since Day 2. Quiet relationship milestone. For readers paying attention, it's a red flag --- the moment Amber takes the stone is the moment before she loses Charcadet.
+**Just before this arc:** Charcadet finally trusts Amber enough to hand her the Mew-adjacent ore connected to the Day 2 cave incident. Quiet relationship milestone. For readers paying attention, it's a red flag --- the moment Amber takes it is the moment before she loses Charcadet.
 
 Teddiursa faints in the forest — fainted Pokemon cannot be recalled, Amber forced to flee. Rejects professional rescue services. Returns alone to find Teddiursa. Runs into Sam and Celebi instead. Gets swept into the 4Ever plot.
 
@@ -80,7 +80,7 @@ This is the moment she realizes the story is happening *to her*. Her metagame kn
 ### Arc 5 — First Conference
 **Amber age:** 13 | **Region:** Indigo (Kanto Junior League)
 
-Amber enters the Kanto U19 Junior Conference with a hole in her team. Kyle also qualifies. Kyle vs. Sabrina is the political climax (Fighting Dojo vs. Psychic Gym, predetermined outcome). Amber performs beyond expectations for a first-year trainer without her ace — barely makes it through, or makes a notable showing before elimination.
+Amber enters the Kanto U19 Junior Conference with a hole in her team. Kyle also qualifies. Kyle vs. Sabrina is the political climax (Fighting Dojo vs. Psychic Gym); Kyle eventually wins the public reversal that saves/restores the Dojo. Amber performs beyond expectations for a first-year trainer without her ace — barely makes it through, or makes a notable showing before elimination.
 
 **Ends:** Conference complete. Amber is post-radicalization, bruised, building. Charcadet's absence is felt through every battle.
 
@@ -179,7 +179,7 @@ Mega Evolution fully harnessed. Peak roster assembling. The story shifts from "t
 - Lance as peer — fight alongside him, not under him
 - Age 18–20: peak physical and Pokemon bond capacity
 
-**Mewtwo #1 reunion:** The Genesect crisis hits Kalos. Mewtwo #1 — the original, free for years, protecting Pokemon in a Kalos city — is at the center of it. This is the Genesect movie arc, playing out largely as in the anime. Amber arrives with the raw stone Charcadet carried out of the Day 2 cave and handed to her just before she lost him. Someone in Kalos identifies it. It's synthesized into Mewtwonite Y. She uses it to help Mewtwo achieve/stabilize Mega Evolution during the crisis. She's been carrying it toward him without knowing --- for a Pokemon she'd already lost.
+**Mewtwo #1 reunion:** The Genesect crisis hits Kalos. Mewtwo #1 — the original, free for years, protecting Pokemon in a Kalos city — is at the center of it. This is the Genesect movie arc, playing out largely as in the anime. Amber arrives with the raw Mew-adjacent ore Charcadet handed to her just before she lost him. Someone in Kalos identifies it. It's synthesized into Mewtwonite Y. She uses it to help Mewtwo achieve/stabilize Mega Evolution during the crisis. She's been carrying it toward him without knowing --- for a Pokemon she'd already lost.
 
 See: [[../plot-threads/mewtwo-thread]]
 
@@ -193,10 +193,10 @@ See: [[../plot-threads/mewtwo-thread]]
 
 | Arc | Age | Region | Key Beat |
 |-----|-----|--------|----------|
-| 1 | 13 | Kanto | Journey start (Ch 18-20), Charcadet + Teddiursa acquired in Day 2 cave |
+| 1 | 13 | Kanto | Journey start (Ch 18-21), Teddiursa/Ursaring promise, Alonso/Charcadet seeded through camp+cave mini-arc |
 | 2 | 13 | Celadon | Vee first encounter, Celadon politics seeded |
 | 3 | 13 | Kanto | 8 badges earned |
-| 4 | 13 | Kanto forest | Stone handoff → 4Ever — Ursaring reunited, Charcadet stolen |
+| 4 | 13 | Kanto forest | Ore handoff → 4Ever — major Ursaring/Teddiursa payoff TBD, Charcadet stolen |
 | 5 | 13 | Kanto | First conference — enters without ace |
 | 6 | 14 | Celadon/Kanto | Vee recruited, Year 2, skips conference |
 | 7 | 15 | Hoenn | Arrival, Trapinch arc begins |

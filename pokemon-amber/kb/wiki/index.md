@@ -13,18 +13,20 @@ Updated on every ingest. See `../AGENTS.md` for conventions.
 |---|---|
 | [amber-mc](characters/amber-mc.md) | Protagonist — isekai'd adult consciousness inhabiting Dr. Fuji's clone Ambertwo; not Fuji's daughter, never was |
 | [amber-mc-team](characters/amber-mc-team.md) | Amber's confirmed Pokemon roster and candidate pool by region (spoilers) |
-| [alonso-quijano](characters/alonso-quijano.md) | Alonso Quijano — Paldean adventuring knight (age 19–20); Amber's existential early mentor; returns at peak for endgame |
+| [alonso-quijano](characters/alonso-quijano.md) | Alonso Quijano — 17-year-old Paldean adventurer chasing the Greatest Adventurer myth; plainspoken chosen-ideal mentor |
 | [delia-ketchum](characters/delia-ketchum.md) | Delia Ketchum — Ash's mother; role in Amber continuity |
 | [ditto](characters/ditto.md) | Amber's first Pokemon; former Fuji weapon, now something else entirely |
 | [dr-fuji](characters/dr-fuji.md) | Dr. Fuji — Cinnabar geneticist, Amber's "father," whose obsession with cloning drives Arc 1 |
 | [erika](characters/erika.md) | Erika — Celadon Gym Leader; Amber's mentor figure |
 | [giovanni](characters/giovanni.md) | Team Rocket Boss and Viridian Gym Leader; dual criminal/legitimate authority inherited from both parents |
+| [beatriz-romero](characters/beatriz-romero.md) | Beatriz Romero — Alonso crew naturalist; quiet field obsessive who wants to discover and catalog every Pokemon |
 | [kaede](characters/kaede.md) | Kaede — supporting character |
 | [kyle-kong](characters/kyle-kong.md) | Recurring rival/ally introduced on Route 1; Fighting Dojo heir competing for Junior League standing |
 | [mary](characters/mary.md) | Mary — Gym Trainer |
+| [ciro-salvatierra](characters/ciro-salvatierra.md) | Ciro Salvatierra — Alonso crew hustler; wants to get rich and choose his own life, but has lines |
 | [mewtwo](characters/mewtwo.md) | Fuji's weaponized Mew clone; the saga's spine — created from the same lab as Ditto and Amber |
 | [professor-oak](characters/professor-oak.md) | Amber's mentor and benefactor; publicly renowned researcher, privately carrying a 40-year secret |
-| [sabrina](characters/sabrina.md) | Saffron Psychic Gym prodigy (stub); Kyle's rival; rising power set to displace the Fighting Dojo |
+| [sabrina](characters/sabrina.md) | Saffron Psychic Gym prodigy; Kyle's monstrous natural-talent boss; raw psychic power without drive |
 
 ### Places
 
@@ -43,8 +45,8 @@ Updated on every ingest. See `../AGENTS.md` for conventions.
 | [pallet-town](places/pallet-town.md) | Pallet Town — Oak's lab; Amber's arrival point; Chapters 11–18 setting |
 | [pewter-gym](places/pewter-gym.md) | Pewter City Gym (stub) — Rock-type, Brock |
 | [route-11-ground-gym](places/route-11-ground-gym.md) | Route 11 Ground Gym (stub) |
-| [saffron-fighting-dojo](places/saffron-fighting-dojo.md) | Saffron Fighting Dojo — Kyle's goal; currently official pillar status, losing it in 2–3 years |
-| [saffron-psychic-gym](places/saffron-psychic-gym.md) | Saffron Psychic Gym — Sabrina's domain; Silph Co.-backed, rising to displace the Dojo |
+| [saffron-fighting-dojo](places/saffron-fighting-dojo.md) | Saffron Fighting Dojo — Kyle's inherited mission; threatened by Psychic Gym until his public reversal |
+| [saffron-psychic-gym](places/saffron-psychic-gym.md) | Saffron Psychic Gym — Sabrina's domain; Silph Co.-backed, expected to displace the Dojo until Kyle changes the story |
 | [vermillion-gym](places/vermillion-gym.md) | Vermillion City Gym (stub) — Electric-type, Lt. Surge |
 | [viridian-forest-bug-gym](places/viridian-forest-bug-gym.md) | Viridian Forest Bug Gym (stub) |
 | [viridian-gym](places/viridian-gym.md) | Viridian Gym — Giovanni's public cover; Ground-type pillar; overlays Team Rocket operational HQ |
@@ -96,10 +98,12 @@ Updated on every ingest. See `../AGENTS.md` for conventions.
 | Page | Summary |
 |---|---|
 | [mewtwo-thread](plot-threads/mewtwo-thread.md) | The Mewtwo Thread — spine of the entire saga; two Mewtwos, one created from the same lab as Amber |
+| [charcadet-to-ceruledge-throughline](plot-threads/charcadet-to-ceruledge-throughline.md) | Charcadet → Ceruledge — Alonso origin, earned choice, 4Ever theft, and corrupted knightly fire |
+| [ursaring-rescue-thread](plot-threads/ursaring-rescue-thread.md) | Teddiursa / Mother Ursaring Rescue — Route 1 promise, Rocket removal, and future reunion/experiment thread |
 | [giovanni-fuji-jail](plot-threads/giovanni-fuji-jail.md) | Scene planning: Giovanni–Fuji jail confrontation (Rev B) — ends with "make him disappear quietly"; Fuji survives off-books |
 | [rainbow-rocket-endgame](plot-threads/rainbow-rocket-endgame.md) | Rainbow Rocket Endgame — Giovanni's conquest ambition vs Amber; culmination of obsession variants |
 | [team-rocket-surveillance](plot-threads/team-rocket-surveillance.md) | TR Surveillance — long-term threat escalating from observation toward active pursuit of Amber/Ditto |
-| [saffron-gym-rivalry](plot-threads/saffron-gym-rivalry.md) | Saffron Gym Rivalry — Fighting Dojo vs Psychic Gym political proxy war; plays out through Kyle and Sabrina |
+| [saffron-gym-rivalry](plot-threads/saffron-gym-rivalry.md) | Saffron Gym Rivalry — Kyle vs Sabrina proxy war; inherited duty vs raw psychic power; Kyle eventually wins then leaves to adventure |
 | [forged-documents](plot-threads/forged-documents.md) | Forged Documents — background legal tension and future interlude material |
 | [oak-role-options](plot-threads/oak-role-options.md) | Oak's Role — major structural decision (decided: no time loop) |
 

@@ -5,7 +5,7 @@ category: plot-thread
 spoilers: true
 status: seed
 hidden: true
-updated: 2026-04-05
+updated: 2026-05-17
 ---
 
 # The Mewtwo Thread
@@ -46,18 +46,18 @@ Fuji, extracted from prison by Giovanni after the "disappear quietly" order, wor
 
 This is the long thread. It takes years to pay off.
 
-**Arc 1, Day 2 (off-route cave near Viridian):**
-A strange stone in the cave gives off a strong, Mew-adjacent energy signature that trips TR's rebuilt legendary-capture sensors (they're rebuilding after Mewtwo's escape, ch6). TR sends grunts to investigate. Charcadet is present because it came to Kanto with Alonso, and Alonso's adventurer path has intersected the same incident.
+**Arc 1, Day 2/3 (Route 1 camp + guarded cave near Viridian):**
+Team Rocket's hidden camp/cave operation is tied to a strange Mew-adjacent ore or energy reading. The ore thread should begin here, but the ore is **not** the reason Charcadet bonds with Amber. Charcadet is present because it came to Kanto with Alonso Quijano; Amber matters because of what Charcadet sees her do.
 
-Amber walks into the fight mid-way (tracking Teddiursa's missing mother), intervenes, and plants the seed of Charcadet's loyalty through instinct (tackling Teddy out of Persian's strike path). Cave collapses in the chaos.
+Ch. 20 plants the emotional seed outside the cave: Amber protects Teddiursa at the Team Rocket camp, takes a meaningful but not catastrophic hit, and Alonso arrives with Armarouge and Charcadet to save her. Ch. 21 escalates inside the guarded cave: Rocket releases/provokes Ursaring, the almost-reunion with Teddy is cut off, Amber/Alonso are trapped, and Teddiursa + Charcadet + Ditto slip out to bring help.
 
-**Charcadet carries the stone out, not Amber.** It's the stone Charcadet was guarding; it's not leaving it behind for a stranger. Amber doesn't know what it is and doesn't ask.
+**Charcadet becomes associated with the ore, not because it guarded it, but because the cave incident joins these threads:** Alonso's Paldean Charcadet, Amber's first protective choices, Rocket's interest in Mew-adjacent power, and the later Mewtwo payoff. Exact handling remains flexible: Charcadet may recover it from Rocket gear, carry it out of the cave after the rescue, or become its keeper in the aftermath.
 
 **Arc 1 through Arc 4 (right before 4Ever):**
-Charcadet holds the stone. Amber sees it occasionally --- a weird rock her Pokemon carries around. She knows it's something. Doesn't know what. Charcadet doesn't hand it over.
+Charcadet holds onto the ore/stone. Amber sees it occasionally --- a weird rock her Pokemon carries around. She knows it's something. Doesn't know what. Charcadet doesn't hand it over.
 
 **Right before Arc 4 (4Ever) --- the handoff:**
-Charcadet trusts Amber enough to let her carry it. The trigger moment is a relationship beat (TBD specifics). For readers paying attention, this is a quiet red flag: the moment Amber takes the stone is the moment before she loses Charcadet. Within an arc, Charcadet is stolen by the Iron-Masked Marauder. Amber still has the stone.
+Charcadet trusts Amber enough to let her carry it. The trigger moment is a relationship beat (TBD specifics). For readers paying attention, this is a quiet red flag: the moment Amber takes it is the moment before she loses Charcadet. Within an arc, Charcadet is stolen by the Iron-Masked Marauder. Amber still has the stone.
 
 **Arcs 4 through ~12 (Kanto → Hoenn → Sinnoh → Kalos):**
 She carries it across regions. It was her Pokemon's before it was hers. She never stops feeling the weight of that. It travels with her for years. Nobody processes it.
@@ -69,7 +69,7 @@ Someone in Kalos with the relevant knowledge identifies the ore. The Mega Stone 
 
 Amber uses it to help Mewtwo achieve or stabilize Mega Evolution during the crisis.
 
-She's been carrying it toward Mewtwo since before she knew Mewtwo #1 existed as a free entity. Before she knew there was a distinction between the Mewtwo that escaped and the one Giovanni never had. Charcadet picked it up on Day 2 of her journey and handed it to her years later. She's carried it ever since.
+She's been carrying it toward Mewtwo since before she knew Mewtwo #1 existed as a free entity. Before she knew there was a distinction between the Mewtwo that escaped and the one Giovanni never had. Charcadet took responsibility for the ore early in her journey and handed it to her years later. She's carried it ever since.
 
 That's the payoff.
 
@@ -89,17 +89,24 @@ What's established: when they meet in Kalos, the Mewtwonite Y is the bridge. Amb
 
 ## Mewtwonite Y Synthesis
 
-The stone Charcadet carries out of the Day 2 cave is eventually synthesized into Mewtwonite Y --- the stone that enables Mega Evolution to Mega Mewtwo Y form.
+The Mew-adjacent ore Charcadet carries from the early Viridian cave incident is eventually synthesized into Mewtwonite Y --- the stone that enables Mega Evolution to Mega Mewtwo Y form.
 
 The synthesis happens in Kalos, by someone with the knowledge to identify what the raw stone is. TBD: who does this? Options include a Devon researcher, a Mega Evolution scholar in Kalos, or someone connected to the Diantha/League apparatus. Not decided. Don't need to decide yet.
 
-What's decided: Charcadet has it since Arc 1. Amber carries it from just before Arc 4 onward. She gets to Kalos with it. It gets processed there. She uses it for Mewtwo.
+What's decided: Charcadet is associated with it since Arc 1. Amber carries it from just before Arc 4 onward. She gets to Kalos with it. It gets processed there. She uses it for Mewtwo.
 
 ---
 
 ## What the Thread Is About
 
-Charcadet encounters the stone during the Route 1 / Viridian cave incident after traveling to Kanto with Alonso. Amber proves worthy of Charcadet's attention in a cave collapse on Day 2 of her journey, and the later short Alonso/Amber stretch lets that first seed become a real choice. Charcadet carries the stone out. Years later, right before Amber loses Charcadet, it hands the stone to her. She carries it the rest of the way without knowing what it is.
+The ore thread connects four things without making any one of them the whole explanation:
+
+- Rocket's continuing hunger for Mew-adjacent power after Mewtwo's escape.
+- Alonso bringing Charcadet into Kanto.
+- Amber proving herself through repeated protective choices rather than instant heroism.
+- The eventual Mewtwonite Y payoff in Kalos.
+
+Charcadet's bond with Amber is not caused by the stone. Charcadet chooses Amber because it watches what she does for Teddiursa, first at the camp, then through the cave rescue and the later short stretch with Alonso. The ore is the long physical thread that Charcadet carries forward until it trusts Amber enough to hand it over.
 
 It turns out to be the thing that lets the first Mewtwo --- Fuji's real creation, the one made by accident through care rather than engineering --- achieve its fullest form.
 
@@ -111,8 +118,8 @@ That's the spine.
 
 ## Cross-Refs
 
-- [[../arcs/arc1-kanto-year1]] — Day 2 cave scene, Charcadet acquisition
-- `story/chapter20/_20plan.md` — full beat-by-beat of the cave sequence
+- [[../arcs/arc1-kanto-year1]] — Day 2 camp/cave mini-arc, Alonso/Charcadet seed
+- `story/ch20/plan.md` and `story/ch21/plan.md` — current beat-by-beat plans
 - [[../arcs/saga-overview]] — Arc 12+ Kalos entry
 - [[giovanni-fuji-jail]] — Fuji's extraction, Mewtwo #2 context, two-Mewtwo distinction
 - `wiki/characters/mewtwo.md` — Mewtwo character file (stub, needs expansion)
