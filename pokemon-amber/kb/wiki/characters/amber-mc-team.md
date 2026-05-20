@@ -60,7 +60,7 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 - **Caterpie → Butterfree** *(early catch)* — Docile, calm, no real friction. Travels with Amber early, eventually moves to Oak's ranch. Payoff: Compound Eyes + Sleep Powder in a tournament match where Amber needs a precise play. Pulled specifically for that matchup, then returns to ranch.
 
-- **Magikarp** *(early catch)* — Amber catches it thinking she can grind it like in the games. Reality check: brutal, slow, the Pokemon is miserable. Sent to Oak's ranch. Payoff: may eventually evolve at the ranch without her. Slot filled by Heracross.
+- **Magikarp** *(early catch)* — Amber catches it thinking she can grind it like in the games. Reality check: brutal, slow, the Pokemon is miserable. Sent to Oak's ranch. Payoff: may eventually evolve at the ranch without her. This is separate from the later **Alola Magikarp** direction. Slot filled by Heracross.
 
 - **Azurill → Marill → Azumarill** — Nobody takes it seriously. Amber knows exactly what it becomes. Trains it quietly. Huge Power Azumarill is a tournament blindside nobody sees coming. No deep story — just a slow burn payoff.
 
@@ -131,6 +131,21 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 ---
 
+## Alola / Ultra Space Reset Arc
+
+*This arc should feel improvised and circumstantial rather than like a clean new regional roster build.*
+
+### Primary
+
+- **Magikarp → Gyarados** *(Alola; distinct from the early Kanto Magikarp)* — The strongest current direction for Alola is a new Magikarp that starts following Amber or the free-sailor ship. It should feel unusually willful, uncanny, or faintly sentient: surviving too much, understanding too much, and repeatedly throwing itself into danger around Amber. Possible explanations include Ultra Wormhole residue, strange currents, Tapu influence, or ambient Ultra energy, but the arc should not over-explain it early. The payoff is a **frightening** Gyarados, not an easy power reward. This line matters because it pays off Amber's Chapter 1 fear of Gyarados and reframes the old game-logic fantasy as real responsibility toward a living creature.
+
+### Direction Notes
+
+- Alola should give Amber an **ad hoc team** feeling: borrowed Pokemon, local allies, rescues, or temporary alignments are preferable to a full permanent six-mon rebuild.
+- The arc's martial Alolan dragon texture currently belongs outside Amber's roster. The unnamed free-sailor captain's **Hakamo-o** should remain the captain's partner in this phase, which preserves the distinct resonance already attached to Amber's Kitakami-side dragon options such as **Gible** and the **Kommo-o line**.
+
+---
+
 ## Later / Multi-Region
 
 *Acquisition region undecided or spans multiple arcs.*
@@ -150,7 +165,7 @@ Within each region, Pokemon are organized by depth of narrative bond:
 - **Goodra vs Garchomp vs Bagon/Salamence** — Dragon slot competition. Pick one or two maximum across the saga.
 - **Fennekin vs Vulpix** — Elegant Fire slot. Pick one.
 - **Treecko vs Nuzleaf** — Grass/scrappy slot. Pick one.
-- **Jangmo-o → Kommo-o** — Dragon pseudo. Kitakami connection (dragon gauntlet). Competes with Gible/Garchomp for Dragon slot.
+- **Jangmo-o → Kommo-o** — Dragon pseudo. Kitakami connection (dragon gauntlet). Competes with Gible/Garchomp for Dragon slot. Current direction does not route this through the Alola free-sailor captain's Hakamo-o.
 
 ---
 

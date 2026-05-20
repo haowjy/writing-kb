@@ -213,6 +213,14 @@ package update, separate repo).
 
 - Updated `characters/ciro-salvatierra.md`: Ciro grew up dirt poor and scrounged for scraps. Preferred version is dysfunctional-family poverty, with adults wasting scarce money on frivolous things and leaving the household in debt; orphan-adjacent remains possible but secondary.
 - Updated `themes/drive-spectrum.md` so Ciro's money-as-freedom drive comes from material scarcity, hunger, debt, and lack of safety rather than noble/status pressure.
+## 2026-05-19 — Promoted Alola / Aether / Ultra Space reset direction into durable KB pages
+
+- Added `arcs/arc-alola-ultra-space.md` as the main planning page for the post-Kitakami II Alola reset arc: Aether recovery, Lusamine/Nihilego crisis timing, uneven institutional integration, Gladion's role, the free-sailor mobility lane, the unnamed captain with Hakamo-o, the ad hoc team model, and the Alola Magikarp -> Gyarados throughline.
+- Updated `plot-threads/dimensional-displacement-bridge.md` so the real-world interlude now hands off cleanly into the Aether experiment / Lusamine crisis window, while keeping exact mechanics open.
+- Updated `characters/amber-mc-team.md` to distinguish the early Kanto Magikarp from the later Alola Magikarp direction and to record that the current martial-dragon texture in Alola belongs to the free-sailor captain's Hakamo-o rather than Amber's roster.
+- Updated `arcs/saga-overview.md` so Arc 15 reads as a true Alola reset arc rather than only a bridge label.
+- Updated `lore/world-opening-timeline.md` to reflect that later-saga Alola can be globally connected through institutions while still uneven enough locally to isolate Amber.
+- Updated `wiki/index.md` to catalog the new arc page and revised dimensional-bridge summary.
 ## 2026-05-20 — Removed obsolete Charcadet ore handoff
 
 - Removed the pre-4Ever beat where Charcadet hands Amber the Mew-adjacent ore. That idea belonged to the older pre-Alonso Charcadet premise.

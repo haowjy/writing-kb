@@ -196,12 +196,12 @@ The raid team should stay small — roughly 4-6 humans Amber trusts who are indi
 
 ---
 
-### Arc 15 — Real-World Displacement / Alola-Ultra Space Bridge
+### Arc 15 — Real-World Displacement / Alola Reset
 **Amber age:** 18 | **Region:** dimensional displacement -> Alola / Ultra Space
 
-After Kitakami II, Mega Darkrai fallout and Mega/dream residue may tear space badly enough to displace Amber into the real mundane world for a brief, painful interlude before Aether / Lusamine pull her back through Ultra Wormhole technology. This is currently planning direction, not full canon lock on mechanics.
+After Kitakami II, Mega Darkrai fallout and Mega/dream residue may tear space badly enough to displace Amber into the real mundane world for a brief, painful interlude before **Aether / Lusamine** pull her back through Ultra Wormhole technology. Alola then functions as a mini-reset arc: Amber is still highly capable, but loses easy access to paperwork, roster depth, trusted infrastructure, and mainland support while Aether's crisis turns her into a local anomaly to contain or blame. This is currently planning direction, not full canon lock on mechanics.
 
-See: [[../plot-threads/dimensional-displacement-bridge]]
+See: [[arc-alola-ultra-space]], [[../plot-threads/dimensional-displacement-bridge]]
 
 ---
 
@@ -245,7 +245,7 @@ See: [[../plot-threads/mewtwo-thread]]
 | 12 | 17 | Paldea | Adventurer-culture widening, Alonso-region reconnection |
 | 13 | 17-18 | Kalos | Mega mastery and dimensional lore deepening |
 | 14 | 18 | Kitakami | Kitakami II — first deliberate legendary-class raid |
-| 15 | 18 | Dimensional bridge | Brief real-world displacement -> Alola / Ultra Space bridge |
+| 15 | 18 | Alola reset | Brief real-world displacement -> Aether extraction -> Alola / Ultra Space fugitive reset |
 | 16+ | 18-20+ | Beyond | Peak politics, Mewtwo payoff, Rainbow Rocket endgame |
 
 ---
@@ -256,6 +256,7 @@ See: [[../plot-threads/mewtwo-thread]]
 - `arc-celadon.md` — Celadon/Erika/Vee arc
 - `arc2-hoenn.md` — Hoenn arc detail
 - `arc-kitakami.md` — Kitakami discovery
+- `arc-alola-ultra-space.md` — Alola / Aether / Ultra Space reset arc
 - `arc-pikachu-handoff.md` — Pikachu/Ash beat
 - `wiki/pokemon-teams/team-amber-mc.md` — full roster by region
 - `future/current-direction.md` — source of truth for ages and direction
