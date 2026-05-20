@@ -213,3 +213,31 @@ package update, separate repo).
 
 - Updated `characters/ciro-salvatierra.md`: Ciro grew up dirt poor and scrounged for scraps. Preferred version is dysfunctional-family poverty, with adults wasting scarce money on frivolous things and leaving the household in debt; orphan-adjacent remains possible but secondary.
 - Updated `themes/drive-spectrum.md` so Ciro's money-as-freedom drive comes from material scarcity, hunger, debt, and lack of safety rather than noble/status pressure.
+## 2026-05-20 — Removed obsolete Charcadet ore handoff
+
+- Removed the pre-4Ever beat where Charcadet hands Amber the Mew-adjacent ore. That idea belonged to the older pre-Alonso Charcadet premise.
+- Preserved the Viridian cave ore as a Rocket/Mewtwo/Mewtwonite Y seed, but left the custody chain open.
+- Reaffirmed that Charcadet bonds with Amber through observed protective choices and promise-keeping, not ore custody.
+## 2026-05-20 — Alonso adventurer-vs-knight framing
+
+- Clarified Alonso as a minor noble whose parents want him to become a proper knight.
+- Reframed Alonso as rejecting the knight role-label in favor of becoming the Greatest Adventurer, while ironically embodying knightly virtues through action.
+- Reduced "knight personality" language: Alonso should not perform archaic/knightly diction; his ideals show through plainspoken courage and worthiness-over-possession conduct.
+## 2026-05-20 — Don Q locked as bookstore storyteller
+
+- Locked Don Quixote / Don Q as a shabby Paldean bookstore owner, not a real adventurer or secret mentor.
+- Don Q is well-read and tells beautiful lies stitched from travelogues, expedition journals, adventure romances, knight stories, and dubious maps.
+- Alonso's dream to become the Greatest Adventurer comes from hearing those false stories and deciding to make them real through action.
+- This preserves the anti-legacy structure: Alonso inherits no destiny from Don Q; he transforms a false story into lived conduct.
+
+## 2026-05-20 — Captured Kanto duo structure, Kitakami split, and late-saga bridge direction
+
+- Updated `arcs/arc1-kanto-year1.md` and `arcs/saga-overview.md` so early Kanto's durable travel engine is Amber + Kyle as a duo, with rotating local third forces instead of a fixed large party; guest characters should usually stay single-function and selective rather than spawning full cast ecosystems.
+- Clarified the Kanto vision: Amber tries to run a normal badge journey, but gets pulled sideways by promises, quests, Gym politics, Rocket pressure, local Pokemon suffering, environmental hazards, and other weird incidents because of her choices and conduct, not because she is a chosen one.
+- Updated `arcs/saga-overview.md` with the current preferred post-Hoenn planning skeleton: Kitakami I -> Sinnoh -> Paldea -> Kalos -> Kitakami II -> brief real-world displacement / Alola-Ultra Space bridge -> later escalation/endgame. Paldea-before-Kitakami-II and Kalos-before-Kitakami-II are planning-direction preferences, not hard scene locks.
+- Updated `arcs/arc-kitakami.md` to distinguish Kitakami I from Kitakami II: Kitakami I remains the discovery / seal-reinforcement / Gardevoir-stays arc; Kitakami II is Amber's first deliberate legendary-class raid with a small 4-6 person trusted team, likely including Alonso.
+- Kept the seal history conservative: Mew making the original sacrifice is locked; Cresselia as later maintenance / dream-suppression support and Darkrai subconsciously warding people away are open options, not canon lock.
+- Updated `lore/mystery-dungeons.md`, `characters/alonso-quijano.md`, and `lore/trainer-systems/adventurer-system.md` so Mystery Dungeon-scale phenomena are primarily Alonso's genre/lane, while Amber intersects with them when they become obligations or promises. Route 1 remains dungeon-adjacent only.
+- Updated `plot-threads/rainbow-rocket-endgame.md` so late-saga power is framed as Mega-era strategic force: strong trainers, legendary-class combatants, and Mega-capable elites become political actors, and Rainbow Rocket should read as the first global war of the Mega era.
+- Added `plot-threads/dimensional-displacement-bridge.md` for the post-Kitakami II fallout direction: brief displacement into the actual mundane real world, hollow/painful Pokemon-media beat, minimal bureaucracy subplot, and Aether/Lusamine extraction into the Alola / Ultra Space bridge.
+- Updated `wiki/index.md` to catalog the new dimensional bridge page.

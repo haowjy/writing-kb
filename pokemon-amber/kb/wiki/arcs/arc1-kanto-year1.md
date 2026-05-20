@@ -6,7 +6,7 @@ spoilers: true
 status: planned
 hidden: true
 created: 2025-10-14
-updated: 2026-05-17
+updated: 2026-05-19
 ---
 
 # Arc 1: Kanto (Year 1)
@@ -17,7 +17,7 @@ updated: 2026-05-17
 
 ## What Happens
 
-Amber departs Pallet Town at 13 with Oak's blessing, a trainer license, starter funds, and Ditto. Her goal: 8 gym badges and conference entry. She acquires Charcadet and Teddiursa along the way. She meets Kyle Kong (14), and they form a peer-based partnership --- both pursuing badges, Amber providing tactical insight, Kyle providing muscle and (sometimes) direction.
+Amber departs Pallet Town at 13 with Oak's blessing, a trainer license, starter funds, and Ditto. Her goal: 8 gym badges and conference entry. She acquires Charcadet and Teddiursa along the way. She meets Kyle Kong (14), and early Kanto settles into a core **Amber + Kyle** road dynamic: two peers pursuing badges together, Amber providing tactical insight and stubborn follow-through, Kyle providing muscle, confidence, and social momentum.
 
 The journey is properly resourced but repeatedly disrupted by weird Pokemon incidents that pull Amber off the gym circuit. Team Rocket operates as an escalating background threat. The gap between "normal trainer journey plan" and "weird stuff keeps happening to me" drives the arc.
 
@@ -33,6 +33,20 @@ The journey is properly resourced but repeatedly disrupted by weird Pokemon inci
 - Conference arc (TBD: does Amber qualify? How far does Kyle get?)
 
 **Ending State:** TBD badges, full early roster (Ditto/Charcadet/Heracross), Kyle partnership solid, conference outcome resolved, setup for Arc 2.
+
+---
+
+## Structural Premise: Duo + Rotating Third
+
+Early Kanto should not become a fixed large travel party. The durable engine is **Amber + Kyle** as a duo, with a rotating local third force attached to whatever problem the road produces.
+
+- Amber is trying to have a normal badge journey.
+- The road keeps dragging her sideways through promises, quests, Gym politics, Rocket pressure, local Pokemon suffering, environmental hazards, and other weird incidents.
+- The usual expansion pattern is a temporary third force: guest trainer, Gym Leader, rival, quest client, future-seed character, villain, local Pokemon crisis, or dungeon-adjacent anomaly.
+- This is partly a character-bloat control rule. Guest characters should usually have one main function and maybe one focal Pokemon, not a full independent team arc.
+- Canon/future-canon encounters in Kanto should be selective seeds or arc texture, not an obligation to promote every cameo into a permanent cast ecosystem.
+
+Amber is not a chosen-one protagonist in this structure. She gets pulled into larger obligations because of what she notices, promises, and refuses to abandon.
 
 ---
 
@@ -78,7 +92,7 @@ This is NOT desperate survival. It's the gap between theory and experience.
 - **First seed:** At the Team Rocket camp, Charcadet sees Amber protect Teddiursa before Alonso arrives to save her. This is a meaningful but not catastrophic hit: the moral choice, not the maximum physical cost.
 - **Deepening evidence:** In the cave escalation, Charcadet sees Amber keep pursuing Teddy's mother, then joins Teddiursa and Ditto in slipping out to bring back help after Amber/Alonso are trapped.
 - **Capture:** Not captured at the camp or immediately after the cave. Its choice comes after observing Amber's pattern over a short stretch with Alonso. At the eventual separation, Alonso recognizes Charcadet's choice and lets it go. Amber catches it after that choice is clear.
-- **The ore thread:** Charcadet eventually becomes associated with the strange Mew-adjacent ore from the Viridian cave incident and later hands it to Amber before 4Ever. This is a relationship milestone and Mewtwo-thread setup, not the reason Charcadet bonds with Amber. See [[../plot-threads/mewtwo-thread]].
+- **The ore thread:** The strange Mew-adjacent ore from the Viridian cave incident is a Rocket/Mewtwo/Mewtwonite Y setup, not a Charcadet custody thread. Charcadet is present for the incident because Alonso brought it to Kanto, but it should not be treated as the ore guardian or as handing Amber the ore before 4Ever. See [[../plot-threads/mewtwo-thread]].
 
 ### Teddiursa
 - **When/where:** Route 1, Day 2. Amber encounters him before the cave --- he's aggressive and attacks humans because humans/Team Rocket are tied to his mother's disappearance.
@@ -131,10 +145,10 @@ Viridian is Amber's **first** gym challenge (not the 8th as in games). Giovanni 
 
 ### Partnership Dynamic (Updated)
 - **More peer-based** than old version --- Amber is 13, Kyle is 14, both near standard journey age
-- Both pursuing badges on their own
+- Early Kanto's default frame is the two of them on the road together, not a wider fixed ensemble
 - Amber provides tactical insight; Kyle provides physical confidence and sometimes resources
-- Not permanent travel companions --- cross paths periodically, sometimes travel together
-- Kyle gets lost constantly (comedy, also brings them back together)
+- Temporary third parties rotate through based on the local arc; they do not usually graduate into permanent companions
+- Kyle gets lost constantly (comedy, also a clean way to separate/rejoin the duo when needed)
 - Amber's coaching helps Kyle's gym performance
 - Kyle may reach 8 badges with her help; wouldn't get there solo
 
@@ -255,7 +269,7 @@ Cross-ref: [[../plot-threads/mewtwo-thread]] (ore acquisition, long-thread payof
 
 **Weird Plot Magnetism:**
 - Amber keeps getting pulled into situations because she's good with Pokemon and can't walk away
-- Not chosen one --- temperament and skill make her visible
+- Not chosen one --- temperament, skill, and the promises she makes keep making her visible
 - Incidents ARE the story, not interruptions to it
 
 ---
@@ -269,7 +283,7 @@ Cross-ref: [[../plot-threads/mewtwo-thread]] (ore acquisition, long-thread payof
 - Kyle partnership (genuine friendship)
 - Oak's continued support
 - Growing reputation (weird incidents attract attention)
-- A strange Mew-adjacent ore thread associated with Charcadet (not Amber's yet; handoff comes right before Arc 4)
+- A strange Mew-adjacent ore thread from the Viridian cave incident; custody chain after the incident is open
 
 **Setup for Arc 2:**
 - Team Rocket escalates (passive -> active)
@@ -360,6 +374,6 @@ She performs normal first-year trainer anyway.
 
 - `current-direction.md` - SOURCE OF TRUTH
 - `_open-questions.md` - Decision tracker
-- [[../plot-threads/mewtwo-thread]] - The ore Amber pockets here is the Mewtwonite Y origin
+- [[../plot-threads/mewtwo-thread]] - The Viridian cave ore is the Mewtwonite Y origin; exact custody chain remains open
 - `plot/giovanni-fuji-jail.md` - Giovanni context; why the Viridian gym battle carries weight
 - `wiki/characters/mewtwo.md` - Mewtwo connection to Amber

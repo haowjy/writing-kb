@@ -5,7 +5,7 @@ spoilers: true
 
 # Alonso Quijano
 
-A **Paldean adventurer**, age 17, who traveled from Paldea to Kanto with a small adventurer crew before getting separated near Route 1. Alonso believes in the old adventuring ideal — courage, loyalty, worthiness, and going where someone has to go — but he should not sound archaic or performative. His personality and actions carry the ideal, not his diction.
+A **Paldean adventurer**, age 17, from a minor noble family. He traveled from Paldea to Kanto with a small adventurer crew before getting separated near Route 1. His parents want him to grow into a proper knight; Alonso rejects that role-label and dreams of becoming the **Greatest Adventurer** instead. Ironically, he embodies the better knightly virtues — courage, loyalty, worthiness, and going where someone has to go — more sincerely because he is not performing knighthood. His personality and actions carry the ideal, not his diction.
 
 ## Role in Story
 
@@ -33,7 +33,9 @@ He walks into Kanto with a framework that does not map cleanly onto the trainer/
 
 ## Core Philosophy: Drive and Chosen Life
 
-Alonso represents the **chosen-ideal** variant of the saga's [[../themes/core-story-elements|obsession/drive theme]]. His goal is not to roleplay a knight; it is to become the **Greatest Adventurer** — a mythic, informal ideal closer to "Pokemon Master" than an official rank.
+Alonso represents the **chosen-ideal** variant of the saga's [[../themes/core-story-elements|obsession/drive theme]]. His goal is not to become the proper knight his parents want, and not to roleplay a knight in speech or costume; it is to become the **Greatest Adventurer** — a mythic, informal ideal closer to "Pokemon Master" than an official rank. The tension is that his adventurer path makes him look like the opposite of a respectable knight while making him act more knightly than the title would.
+
+Part of that ideal is the pull toward **impossible places**: rumor maps, rescues in bad terrain, expeditions into unstable wilderness, Mystery Dungeon-scale anomalies, and any place that proves whether a person can really go where someone has to go.
 
 Clean version of his goal:
 
@@ -48,20 +50,23 @@ His drive should **not be moralized** as simply good or bad. Alonso shows the ge
 This anchors the theme by showing ambition before it curdles into possession or conquest — aspiration that still has generosity in it.
 
 
-## Origin: Don Q's Stories
+## Origin: Don Q's Bookstore Stories
 
-Alonso's dream comes from a rough, tough Paldean adventurer known as **Don Q**. Don Q was not a respectable family-approved mentor; he was the kind of older wanderer minor noble parents would prefer their son not associate with. He told huge stories about fighting giant beasts, crossing impossible terrain, surviving ruins, and seeing places that sounded half-mythic even in Paldea.
+Alonso's dream comes from **Don Quixote**, usually called **Don Q**: a shabby Paldean bookstore owner with shelves full of travelogues, expedition journals, old adventure romances, knight stories, and maps of dubious accuracy. Don Q is not a hidden champion, retired legendary explorer, secret mentor, or disgraced great man. He has read almost everything and gone almost nowhere.
 
-Don Q was, literarily, an actual liar. Adults could dismiss him as a braggart, exaggerator, or washed-up adventurer selling impossible stories to children, and they were not simply wrong. Alonso heard something else inside those lies: a model of life larger than family caution, status maintenance, and polite trainer progression. The factual truth of Don Q's stories matters less than the fact that the lies made greatness feel possible.
+Don Q tells outrageous "personal" adventure stories stitched together from books: giant beasts, impossible terrain, buried ruins, half-mythic places beyond polite Paldean life. He lies beautifully. Adults can dismiss him as a braggart and escapist, and they are basically right. Alonso's parents especially dislike him because he feeds Alonso's adventurer obsession, encourages escapism over respectable duty, and gives a minor noble child ideas incompatible with becoming a proper knight.
+
+Alonso hears something real inside the false stories: a model of life larger than family caution, status maintenance, and polite trainer progression. The factual truth of Don Q's stories matters less than the fact that the lies made greatness feel possible. Don Q performed adventures he never lived; Alonso grows up to make those impossible stories real through action.
 
 This origin keeps Alonso's dream personal rather than bureaucratic:
 
 - he is not chasing Explorer/Guild status
 - he is not trying to earn an official title
-- his parents' minor-noble respectability gives him something to push against
+- his parents' minor-noble respectability and knight expectations give him something to push against
 - Don Q gives him the emotional infection: the belief that someone can become great by going where others will not
+- Alonso's greatness is not inherited from Don Q; it is the transformation of false story into lived conduct
 
-Don Q should remain morally textured, not secretly vindicated into pure truth. He is an actual liar, but not necessarily only a fraud: he may also be a survivor, failed great man, opportunist, and occasional truth-teller. The Cervantes inversion is the point: **Don Q is the actual lying Quixote-like storyteller, while Alonso Quijano becomes the real deal**. Alonso is inspired by a false or unstable story, then chooses to make the ideal real through action.
+Don Q should remain morally textured, but not secretly vindicated into pure truth. He is a liar and bookstore owner, not an adventurer. He may genuinely like Alonso, and he may believe in the beauty of the stories he tells, but he has not paid the cost of living them. The Cervantes inversion is the point: **Don Q is the lying Quixote-like storyteller, while Alonso Quijano becomes the real deal**.
 
 ## The Charcadet Connection
 
@@ -71,7 +76,7 @@ He brought Charcadet from Paldea as part of his early team. Charcadet was with h
 
 Eventually **Charcadet chooses Amber.**
 
-Alonso letting Charcadet go is not a failure or a loss — it's the proof of his ideals. A knight who genuinely believes in worthiness over possession. The principle is:
+Alonso letting Charcadet go is not a failure or a loss — it's the proof of his ideals. He does not call himself a knight here; he simply acts with the worthiness-over-possession principle his family role only gestures toward. The principle is:
 
 > **Alonso is why Charcadet is in Kanto. Amber is why Charcadet stays.**
 
@@ -81,9 +86,9 @@ This intersects with the Mew-adjacent ore thread from the early Viridian cave in
 
 ### Early Team (Arc 1, when he meets Amber)
 
-- **Armarouge** — his ace; a fully evolved Paldean knight-Pokemon, the disciplined embodiment of the ideal Alonso tries to live
+- **Armarouge** — his ace; a fully evolved Paldean armored Pokemon, the disciplined embodiment of the ideals Alonso lives without needing to call himself a knight
 - **Charcadet** — the one who will eventually choose Amber; part of Alonso's team in Arc 1
-- **Talonflame** — speed and aerial coverage; a fire-type line that complements the Paldean knight theme
+- **Talonflame** — speed and aerial coverage; a fire-type line that complements Alonso's bold adventurer identity
 - **Pawmot** — an unconventional pick from Paldea; scrappy, surprising, reflects Alonso's willingness to see value in unexpected places
 
 ### Peak Team (Endgame Return)
@@ -91,7 +96,7 @@ This intersects with the Mew-adjacent ore thread from the early Viridian cave in
 - Armarouge (ace)
 - Talonflame
 - Pawmot
-- **Corviknight** — steel-armored flier; knightly resonance, acquired during his own growth arc
+- **Corviknight** — steel-armored flier; visual irony against his rejection of the knight role, acquired during his own growth arc
 - **Gallade** — blade-and-honor Fighting/Psychic; earned at high level
 - **Baxcalibur** — a Paldean pseudo-legendary, the mark of someone who's crossed the real wilderness and come back
 
@@ -135,6 +140,7 @@ See [[../lore/trainer-systems/index]] for the trainer systems context; Alonso ex
 ### Future (Endgame)
 - Returns at peak trainer level — equal, not mentor
 - Fights alongside Amber against the saga's final threats (Team Rocket dismantling, legendary crises)
+- Likely natural fit for Kitakami II / other impossible-place raids before the true endgame alliance fully forms
 - The Charcadet connection hangs between them — Alonso let go, Amber lost; both carry that
 
 ## Cross-Refs

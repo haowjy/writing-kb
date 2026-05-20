@@ -51,16 +51,13 @@ Team Rocket's hidden camp/cave operation is tied to a strange **psychic-reactive
 
 Ch. 20 plants the emotional seed outside the cave: Amber protects Teddiursa at the Team Rocket camp, takes a meaningful but not catastrophic hit, and Alonso arrives with Armarouge and Charcadet to save her. Ch. 21 escalates inside the guarded cave: Rocket releases/provokes Ursaring, the almost-reunion with Teddy is cut off, Amber/Alonso are trapped, and Teddiursa + Charcadet + Ditto slip out to bring help.
 
-**Charcadet becomes associated with the ore, not because it guarded it, but because the cave incident joins these threads:** Alonso's Paldean Charcadet, Amber's first protective choices, Rocket's interest in Mew-adjacent power, and the later Mewtwo payoff. Exact handling remains flexible: Charcadet may recover it from Rocket gear, carry it out of the cave after the rescue, or become its keeper in the aftermath.
+The ore is a **Rocket/Mewtwo/Mewtwonite Y seed**, not a Charcadet custody thread. Under the Alonso version, Charcadet is present because Alonso brought it to Kanto; it should not be treated as the ore's guardian, keeper, or the Pokemon that ceremonially hands it to Amber before 4Ever.
 
-**Arc 1 through Arc 4 (right before 4Ever):**
-Charcadet holds onto the ore/stone. Amber sees it occasionally --- a weird rock her Pokemon carries around. She knows it's something. Doesn't know what. Charcadet doesn't hand it over.
-
-**Right before Arc 4 (4Ever) --- the handoff:**
-Charcadet trusts Amber enough to let her carry it. The trigger moment is a relationship beat (TBD specifics). For readers paying attention, this is a quiet red flag: the moment Amber takes it is the moment before she loses Charcadet. Within an arc, Charcadet is stolen by the Iron-Masked Marauder. Amber still has the stone.
+**Post-cave handling:**
+Exact handling remains flexible. Amber may pocket a shard during/after the cave incident, Oak or another researcher may retain a sample, Rocket records may preserve the lead, or the material may only become relevant again through later investigation. Do not write a pre-4Ever Charcadet-to-Amber ore handoff unless a future decision deliberately reintroduces it for a new reason.
 
 **Arcs 4 through ~12 (Kanto → Hoenn → Sinnoh → Unova):**
-She carries it across regions. It was her Pokemon's before it was hers. She never stops feeling the weight of that. It travels with her for years. Nobody processes it.
+The ore thread remains latent across regions. Whether Amber personally carries a shard for years is now open; the important durable fact is that the early Viridian cave material can eventually become relevant to Mewtwonite Y.
 
 **Unova / Genesect crisis (future arc timing TBD):**
 The Genesect movie arc plays out in the Unova / New Tork City / Pokemon Hills context. Mewtwo #1 is the female-coded/voiced Mewtwo protecting Pokemon there. The Genesect swarm arrives. Crisis.
@@ -69,9 +66,7 @@ Someone with the relevant Mega Evolution knowledge identifies the ore's signatur
 
 Amber uses it to help Mewtwo achieve or stabilize Mega Mewtwo Y during the crisis, defending against Genesect.
 
-She's been carrying it toward Mewtwo since before she knew Mewtwo #1 existed as a free entity. Before she knew there was a distinction between the Mewtwo that escaped and the one Giovanni never had. Charcadet took responsibility for the ore early in her journey and handed it to her years later. She's carried it ever since.
-
-That's the payoff.
+The payoff is that material from an early Rocket/Mew-adjacent operation becomes the bridge to Mewtwo's fullest form long after Amber first crossed that thread. The exact custody chain is open.
 
 ---
 
@@ -83,17 +78,17 @@ Before that: Amber doesn't encounter Mewtwo #1 directly, unless a later planning
 
 The recognition question: Mewtwo #1 hesitated in ch1 because of the Ambertwo presence in the lab. The current Amber is an isekai'd soul in that body --- not Fuji's daughter, not the clone consciousness Mewtwo was actually exposed to. Whether Mewtwo #1 senses that difference, or whether what it recognizes is the Mew DNA and the body regardless of the soul inside, is an open question. Leave it for when the scene is being written.
 
-What's established: when they meet in Unova, the Mewtwonite Y is the bridge. Amber has been carrying it for years. That physical fact matters regardless of whether the psychic recognition is clean.
+What's established: when they meet in Unova, Mewtwonite Y is the bridge. The exact custody chain from the Viridian cave ore to the finished stone remains open.
 
 ---
 
 ## Mewtwonite Y Synthesis
 
-The psychic-reactive psychic-reactive Mew-adjacent ore Charcadet carries from the early Viridian cave incident is eventually synthesized, awakened, or otherwise converted into Mewtwonite Y --- the stone that enables Mega Evolution to Mega Mewtwo Y form.
+The psychic-reactive Mew-adjacent ore from the early Viridian cave incident is eventually synthesized, awakened, or otherwise converted into Mewtwonite Y --- the stone that enables Mega Evolution to Mega Mewtwo Y form.
 
 The crisis payoff is in Unova with the female Mewtwo and Genesect. The identification/processing can still involve Kalos Mega Evolution expertise, a Devon researcher, a Mega Evolution scholar, or someone connected to a League/scientific apparatus. Not decided. Don't need to decide yet.
 
-What's decided: Charcadet is associated with it since Arc 1. Amber carries it from just before Arc 4 onward. She eventually reaches the female Mewtwo/Genesect crisis with it. It becomes Mewtwonite Y, and Amber uses it to help Mewtwo defend against Genesect.
+What's decided: the ore originates in or is tied to the early Viridian cave incident; it eventually becomes Mewtwonite Y; Amber uses it to help Mewtwo defend against Genesect. Who carries or preserves the material between those points is open.
 
 ---
 
@@ -102,15 +97,13 @@ What's decided: Charcadet is associated with it since Arc 1. Amber carries it fr
 The ore thread connects four things without making any one of them the whole explanation:
 
 - Rocket's continuing hunger for Mew-adjacent power after Mewtwo's escape.
-- Alonso bringing Charcadet into Kanto.
+- Alonso bringing Charcadet into Kanto, which intersects with the incident without making Charcadet the ore's keeper.
 - Amber proving herself through repeated protective choices rather than instant heroism.
 - The eventual Mewtwonite Y payoff in the Unova / Genesect crisis.
 
-Charcadet's bond with Amber is not caused by the stone. Charcadet chooses Amber because it watches what she does for Teddiursa, first at the camp, then through the cave rescue and the later short stretch with Alonso. The ore is the long physical thread that Charcadet carries forward until it trusts Amber enough to hand it over.
+Charcadet's bond with Amber is not caused by the stone. Charcadet chooses Amber because it watches what she does for Teddiursa, first at the camp, then through the cave rescue and the later short stretch with Alonso. The ore is a parallel long thread from the same incident, not the mechanism of their bond.
 
 It turns out to be the thing that lets the first Mewtwo --- Fuji's real creation, the one made by accident through care rather than engineering --- achieve its fullest form.
-
-She was carrying it for Mewtwo since before she knew Mewtwo was free. She was carrying it for a Pokemon she'd already lost.
 
 That's the spine.
 

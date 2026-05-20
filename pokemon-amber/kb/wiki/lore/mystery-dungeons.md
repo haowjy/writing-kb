@@ -21,6 +21,15 @@ Examples can include:
 
 They are not everyday locations, but they are known enough that Rangers, experienced trainers, Pokemon Centers, and adventurer circles have warning language and practical procedures for them.
 
+## Narrative Ownership
+
+Mystery Dungeon-scale adventure is primarily **Alonso's lane**, not Amber's default genre.
+
+- For **Alonso**, these places are maps, rumors, expeditions, rescue work, impossible terrain, and proof of the Greatest Adventurer ideal.
+- For **Amber**, they matter when they turn into obligations: a promise, a trapped community, a suffering Pokemon population, or a danger she cannot ethically leave alone.
+- **Route 1 remains dungeon-adjacent only.** It foreshadows the idea without turning early Kanto into a Mystery Dungeon story.
+- **Kitakami is effectively a Mystery Dungeon-scale place,** but Amber approaches it as a sealed community and dangerous promise with a Gardevoir cost, not as a dungeon-crawler goal.
+
 ## Canon Constraints
 
 - **Canonical, but delayed:** the phenomenon exists in the world, but Amber should not receive a full Mystery Dungeon explanation in Ch. 20-21.
@@ -86,6 +95,8 @@ Adventurers are drawn toward the unknown:
 - taking risks that institutions cannot always justify
 
 This creates useful friction: Rangers are responsible for preventing deaths; adventurers often believe the point is going where others will not.
+
+For Alonso specifically, Mystery Dungeons sit near the center of his self-concept as an adventurer. For Amber, they remain conditional intersections rather than a life-path.
 
 ## Later Introduction Strategy
 

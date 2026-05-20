@@ -14,6 +14,7 @@ An **adventurer** is a trainer who self-identifies (or is recognized by peers) a
 - **Wilderness-first:** Operates off established routes, mapping new terrain, studying wild ecosystems, or seeking undiscovered locations
 - **Expedition-oriented:** Undertakes multi-day or multi-week journeys into unmapped or dangerous territory
 - **Discovery-driven:** Motivated by finding new species, ancient ruins, rare phenomena, or geographic features
+- **Impossible-place pull:** Mystery Dungeons, rumor maps, unstable caves, and sealed territories are natural draws for this cultural lane
 - **Guild/fellowship culture:** Adventurers may form private crews, fellowships, or guilds — voluntary associations, not government institutions. These provide mutual aid, shared reputation, and expedition logistics
 
 Adventurer identity exists alongside, not replacing, other trainer identities. An adventurer might still collect badges, take quests for income, or compete in tournaments. The distinction is self-image and primary pursuit.
@@ -50,7 +51,7 @@ The adventurer identity maps onto fundamentally different cultural narratives be
 - He identifies as an adventurer first, trainer second — an unusual framing in Kanto
 - He brings Paldean Pokemon (notably Charcadet) and Paldean values (discovery over competition, expedition over circuit)
 - His presence creates friction: Kanto's systems don't have a category for someone like him, and he doesn't fit neatly into Kanto's expectations
-- His dream was personally infected by Don Q, a rough Paldean adventurer/storyteller his minor-noble parents considered disreputable; Don Q's half-mythic lies made greatness feel possible; Alonso becomes the sincere real deal that Don Q only performed or exaggerated
+- His dream was personally infected by Don Q, a shabby Paldean bookstore owner/storyteller his minor-noble parents considered disreputable; they want him to mature into a proper knight, while Alonso insists on becoming the Greatest Adventurer; Don Q's book-fed half-mythic lies made greatness feel possible, and Alonso becomes the sincere real deal that Don Q only performed
 - He admires adventurers broadly; the **Horizons Explorers** are one example of an adventurer fellowship he respects — they exist in the background, lightly adapted into this world as another expression of the adventurer ideal
 
 ## Interregional Travel: Possible But Not Normalized
@@ -94,6 +95,8 @@ Adventurers often use the [[quest-system]] for income, but quests are transactio
 - Some quest-only trainers take nothing but wilderness work and still don't consider themselves adventurers
 
 **The line is cultural, not bureaucratic.**
+
+For someone like **Alonso**, Mystery Dungeon-scale work can sit near the center of the identity. For Amber, similar places remain exceptional collisions driven by promises and obligations rather than a general chosen profession.
 
 ## Explorer Terminology
 

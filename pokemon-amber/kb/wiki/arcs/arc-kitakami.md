@@ -4,12 +4,12 @@ scope: arc
 spoilers: true
 status: seed
 hidden: true
-updated: 2026-04-05
+updated: 2026-05-19
 ---
 
-# Future Arc: Kitakami (Arc 10)
+# Future Arc: Kitakami I (Arc 10)
 
-**Amber age:** 16 | **Status:** Seed + key beats locked. Details TBD.
+**Amber age:** 16 | **Status:** Kitakami I key beats largely locked. Kitakami II return skeleton established, but many execution details remain open.
 
 ## What It Is
 
@@ -17,7 +17,9 @@ Kitakami is a small, completely isolated village (population ~55) in a mountaino
 
 **Amber is the first outsider to reach it and discover it for the world.**
 
-This is primarily a **training arc** — no major villain, no tournament. Amber is getting stronger. The difficulty is the world itself.
+This is primarily a **training and discovery arc** — no major villain, no tournament. Amber is getting stronger. The difficulty is the world itself.
+
+For Amber, Kitakami is not a generic dungeon-crawler destination. It is a sealed community, a dangerous promise, and eventually the place where Gardevoir pays a cost she has to come back for.
 
 ---
 
@@ -49,7 +51,12 @@ Kitakami's mythology has two distinct layers the village doesn't fully understan
 
 ### Layer 1: The Mew Sacrifice (~3,000 years ago — Kalos War era)
 
-During or after the Kalos War (3,000 years ago), legendary Pokemon were displaced and driven chaotic by the war's devastation. **Mega Darkrai** — drawn to the concentrated grief and death of that era — found Oni Mountain and began corrupting the territory. A **Mew died protecting the region**, sealing Mega Darkrai within the mountain. Its sacrifice created a passive veil over Kitakami — not a living guardian, just the afterglow of something that gave everything.
+During or after the Kalos War (3,000 years ago), legendary Pokemon were displaced and driven chaotic by the war's devastation. **Mega Darkrai** — drawn to the concentrated grief and death of that era — found Oni Mountain and began corrupting the territory. A **Mew died protecting the region**, creating the original seal that trapped Mega Darkrai within the mountain. Its sacrifice created a passive veil over Kitakami — not a living guardian, just the afterglow of something that gave everything.
+
+The original Mew sacrifice/seal is the locked foundation. The later maintenance model is still open:
+
+- **Open option:** Cresselia may have become part of the seal's long-term maintenance or dream/nightmare suppression later, without replacing Mew as the one who made the original sacrifice.
+- **Open option:** Darkrai itself may subconsciously ward people away from Kitakami because it knows it is dangerous.
 
 The seal held for 2,700 years. It didn't fully succeed — residual corruption lingered in the land, slowly seeping into susceptible Pokemon and people over centuries.
 
@@ -85,6 +92,16 @@ She tells the villagers she will come back and free them. She doesn't know when.
 ### The Village Opening
 
 Amber convinces the villagers to officially open Kitakami to the outside world — or at least to allow people to leave freely. Their xenophobia is real but not malicious; they've been closed so long they forgot there was a choice. This is the diplomatic arc of Kitakami — not a battle, a conversation.
+
+## Future Return: Kitakami II
+
+Kitakami II is now the preferred shape of Amber's **first deliberate legendary-class raid.**
+
+- It happens **after** Amber gains real Mega mastery and stronger allies.
+- The goal is not exploration for its own sake. The goal is to resolve the Mega Darkrai crisis, free Gardevoir and the village from the seal burden, and fulfill the promise Kitakami I created.
+- The human team should stay small — roughly **4-6 people** Amber trusts who are individually very strong. This previews endgame coalition logic without becoming the whole endgame alliance.
+- **Alonso likely belongs on the team.** Impossible places, expedition logic, rescue quests, and Mystery Dungeon-scale danger are his natural lane.
+- Kitakami II should feel like a chosen return to an unpaid debt, not a random late-saga revisit.
 
 ---
 
@@ -145,7 +162,9 @@ This beat was seeded in Chapter 17. See: `story/chapter17/_17notes.md`
 - **Peat Block lore reason** — Ursaring → Ursaluna requires a Peat Block (Hisui artifact) during a full moon. How does one exist in Kitakami? Ancient trade route? Preserved relic from before the isolation? Details TBD.
 - **Second pseudolegendary** — Gible confirmed. Which second? Kommo-o line (confronted in gauntlet), Goodra, others?
 - **Companion** — who travels into Kitakami with Amber? Kyle? Someone new met in Hoenn?
-- **Mega Darkrai future arc** — Amber promises to return. When? This is a late-saga confrontation, peak roster territory. Needs planning when we get there.
+- **Seal maintenance model** — Mew making the original sacrifice is locked. Whether Cresselia later became part of the maintenance/suppression layer remains open.
+- **Darkrai's own role in the barrier** — does it subconsciously ward people away because it knows it is dangerous, or is the veil entirely external?
+- **Kitakami II execution** — exact ally roster, whether the raid includes Ogerpon directly, and the precise resolution mechanism remain open.
 - **How explicit is the Mew DNA recognition** — does Amber realize why the mountain let her through, or does she just feel something she can't explain?
 
 ---
@@ -157,3 +176,4 @@ This beat was seeded in Chapter 17. See: `story/chapter17/_17notes.md`
 - `wiki/pokemon-teams/team-amber-mc.md` — Gible, Ursaluna, roster expansion
 - `arc-pikachu-handoff.md` — Pikachu/Ash beat
 - `saga-overview.md` — full arc structure
+- [[../plot-threads/dimensional-displacement-bridge]] — likely post-Kitakami II fallout / Alola-Ultra Space bridge

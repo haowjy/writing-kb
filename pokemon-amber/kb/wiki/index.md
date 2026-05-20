@@ -102,6 +102,7 @@ Updated on every ingest. See `../AGENTS.md` for conventions.
 | [ursaring-rescue-thread](plot-threads/ursaring-rescue-thread.md) | Teddiursa / Mother Ursaring Rescue — Route 1 promise, Rocket removal, and future reunion/experiment thread |
 | [giovanni-fuji-jail](plot-threads/giovanni-fuji-jail.md) | Scene planning: Giovanni–Fuji jail confrontation (Rev B) — ends with "make him disappear quietly"; Fuji survives off-books |
 | [rainbow-rocket-endgame](plot-threads/rainbow-rocket-endgame.md) | Rainbow Rocket Endgame — Giovanni's conquest ambition vs Amber; culmination of obsession variants |
+| [dimensional-displacement-bridge](plot-threads/dimensional-displacement-bridge.md) | Post-Kitakami II dimensional bridge — brief real-world displacement, then Aether/Lusamine extraction into Alola/Ultra Space |
 | [team-rocket-surveillance](plot-threads/team-rocket-surveillance.md) | TR Surveillance — long-term threat escalating from observation toward active pursuit of Amber/Ditto |
 | [saffron-gym-rivalry](plot-threads/saffron-gym-rivalry.md) | Saffron Gym Rivalry — Kyle vs Sabrina proxy war; inherited duty vs raw psychic power; Kyle eventually wins then leaves to adventure |
 | [forged-documents](plot-threads/forged-documents.md) | Forged Documents — background legal tension and future interlude material |

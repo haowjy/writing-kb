@@ -5,21 +5,24 @@ category: arc-structure
 spoilers: true
 status: planning
 hidden: true
-updated: 2026-05-17
+updated: 2026-05-19
 ---
 
 # Saga Overview — Full Arc Structure
 
 High-level map of Amber's journey from start to peak. Individual arc files contain detail. This document is the structural skeleton.
+Late-saga ordering from Sinnoh onward is current planning direction, not locked scene-by-scene canon.
 
 ## Age Reference
 
-- **Age 13:** Kanto Year 1, 4Ever, first conference
-- **Age 14:** Indigo Year 2 (skips conference)
+- **Age 13:** Kanto Year 1, Celadon/Vee seed, 4Ever, first conference
+- **Age 14:** Celadon return, Vee recruitment, Indigo Year 2 rebuild
 - **Age 15:** Hoenn (conference winner)
-- **Age 16:** Kitakami (training arc)
-- **Age 17:** Sinnoh (Team Galactic, Ceruledge reunion, Mega unlocked)
-- **Age 17–20:** Kalos+/peak
+- **Age 16:** Kitakami I
+- **Age 17:** Sinnoh
+- **Age 17-18:** Paldea -> Kalos -> Kitakami II
+- **Age 18:** brief real-world displacement / Alola-Ultra Space bridge
+- **Age 18-20+:** later escalation / endgame
 - **Standard journey age:** 14
 - **Ash Ketchum:** Starts at 14 (2 years after Amber's start; picks up Pikachu end of Arc 9)
 - **Peak trainer age (typical):** 25–30
@@ -32,9 +35,9 @@ High-level map of Amber's journey from start to peak. Individual arc files conta
 ### Arc 1 — Kanto: Journey Start
 **Amber age:** 13 | **Region:** Indigo (Kanto)
 
-Licensed departure from Pallet. Oak-supported. Amber is equipped but untested — game knowledge ≠ real wilderness. Ch 19 (Day 1): Caterpie catch + Route 1 travel. Ch 20 (Day 2): hostile Teddiursa encounter, promise to help save his missing mother, off-route tracking to a hidden Team Rocket camp. Teddy recognizes Rocket and charges; Amber takes a meaningful but not catastrophic hit protecting him; Alonso arrives with Armarouge and Charcadet to save her. Ch 21: Amber and Alonso enter the guarded cave; Rocket releases/provokes Ursaring, who almost recognizes Teddy before Rocket removes her and collapse traps Amber/Alonso. Teddiursa, Charcadet, and Ditto slip out to bring help. Charcadet notices Amber but does not join yet. The strange Mew-adjacent ore thread begins around this cave incident. Viridian Gym is her **first** gym: Giovanni fights Amber personally, and figures out what she is. She doesn't know what he knows. Meets Kyle Kong. Badge progression begins, disrupted by incidents. Team Rocket is an escalating background threat. Celadon reached; first glimpse of quest board.
+Licensed departure from Pallet. Oak-supported. Amber is equipped but untested — game knowledge ≠ real wilderness. Ch 19 (Day 1): Caterpie catch + Route 1 travel. Ch 20 (Day 2): hostile Teddiursa encounter, promise to help save his missing mother, off-route tracking to a hidden Team Rocket camp. Teddy recognizes Rocket and charges; Amber takes a meaningful but not catastrophic hit protecting him; Alonso arrives with Armarouge and Charcadet to save her. Ch 21: Amber and Alonso enter the guarded cave; Rocket releases/provokes Ursaring, who almost recognizes Teddy before Rocket removes her and collapse traps Amber/Alonso. Teddiursa, Charcadet, and Ditto slip out to bring help. Charcadet notices Amber but does not join yet. The strange Mew-adjacent ore thread begins around this cave incident. Viridian Gym is her **first** gym: Giovanni fights Amber personally, and figures out what she is. She doesn't know what he knows. Meets Kyle Kong. Early Kanto's stable travel dynamic is Amber + Kyle as a duo, not a fixed larger ensemble; the usual expansion pattern is a rotating local third force tied to a gym, quest, rival, incident, or future seed. Badge progression begins, then keeps getting pulled sideways by promises, quests, Rocket activity, gym politics, local Pokemon suffering, environmental hazards, and other weird incidents. Team Rocket is an escalating background threat. Celadon reached; first glimpse of quest board.
 
-**Ends:** Amber has ~3-4 badges, real trainer experience, and a growing reputation for weird incident magnetism. Mother Ursaring remains in Rocket hands; Amber's promise to Teddy is unfulfilled. The Mew-adjacent ore thread is associated with Charcadet, not yet Amber.
+**Ends:** Amber has ~3-4 badges, real trainer experience, and a growing reputation for weird incident magnetism. Mother Ursaring remains in Rocket hands; Amber's promise to Teddy is unfulfilled. Amber is not a chosen one; she keeps getting dragged into larger obligations because of what she notices and what she refuses to walk past. The Mew-adjacent ore thread is associated with Charcadet, not yet Amber.
 
 See: `arc1-kanto-year1.md`
 
@@ -64,8 +67,6 @@ Final badge push. Amber grinding toward 8, disruptions continuing. Kyle partners
 
 ### Arc 4 — 4Ever
 **Amber age:** 13 | **Region:** Indigo (Kanto — forest near Pallet region)
-
-**Just before this arc:** Charcadet finally trusts Amber enough to hand her the Mew-adjacent ore connected to the Day 2 cave incident. Quiet relationship milestone. For readers paying attention, it's a red flag --- the moment Amber takes it is the moment before she loses Charcadet.
 
 Teddiursa faints in the forest — fainted Pokemon cannot be recalled, Amber forced to flee. Rejects professional rescue services. Returns alone to find Teddiursa. Runs into Sam and Celebi instead. Gets swept into the 4Ever plot.
 
@@ -136,18 +137,18 @@ The original trainer who abandoned Trapinch may be in the conference. That confr
 
 ---
 
-### Arc 10 — Kitakami
+### Arc 10 — Kitakami I
 **Amber age:** 16 | **Region:** Kitakami (wilderness, non-government territory)
 
-Amber hears that travel into the unknown mountain wilds is now legally possible (or she and a companion stumble into it). No major villain arc — this is a **training arc.** Pure difficulty, wild Dragon territory, the gauntlet nobody has crossed.
+Amber hears that travel into the unknown mountain wilds is now legally possible (or she and a companion stumble into it). No major villain arc — this is a **training and discovery arc.** Pure difficulty, wild Dragon territory, the gauntlet nobody has crossed.
 
-Discovers Kitakami village. First outsider to ever reach it. Encounters the Ogerpon mythology / buried truth. Tells Oak what was on the other side — 40-year payoff.
+Discovers Kitakami village. First outsider to ever reach it. Encounters the Ogerpon mythology / buried truth. Learns the Mega Darkrai / failing seal truth. Realizes she is nowhere near ready to solve it. Reinforces the seal for now; Gardevoir remains behind to help sustain it. Tells Oak what was on the other side — 40-year payoff.
 
 **Roster expansion:** Kitakami is non-government territory — most acquisitions here can be stabled freely without visa restrictions. Serious powerup arc. Potential Gible acquisition from the dragon gauntlet.
 
 **Pikachu:** On the road home from Kitakami, Amber finds a Pikachu that won't go in a ball. Recognizes it immediately. Travels with it briefly. Returns to Pallet Town. Tells Oak: *"Give it to Ash if he wakes up late."* Ash is 14 — just starting his journey.
 
-**Ends:** Amber returns from Kitakami significantly more powerful. Pikachu handed off. Ash's story begins.
+**Ends:** Amber returns from Kitakami significantly more powerful and carrying a promise she cannot yet fulfill. Pikachu handed off. Ash's story begins.
 
 See: `arc-kitakami.md`, `arc-pikachu-handoff.md`
 
@@ -168,18 +169,55 @@ New Sinnoh roster: Shinx, Sneasel/Weavile, Rockruff/Lycanroc, Turtwig or Piplup.
 
 ---
 
-### Arc 12+ — Kalos / Peak
-**Amber age:** 17–18 | **Region:** Kalos and beyond
+### Arc 12 — Paldea
+**Amber age:** 17 | **Region:** Paldea
+
+Current preferred placement: **after Sinnoh, before Kalos and Kitakami II.** This widens the world before the next legendary-class return and reconnects Amber with Alonso's region, adventurer culture, impossible-place myths, and people who understand that frame natively.
+
+Specific plot beats remain open. The durable direction is structural: Paldea should reopen the story horizontally before Kitakami narrows it again.
+
+---
+
+### Arc 13 — Kalos
+**Amber age:** 17-18 | **Region:** Kalos
+
+Current preferred placement: **before Kitakami II.** Kalos is where Amber should deepen and stabilize Mega Evolution mastery, and where Mega Dimension / Hyperspace Lumiose / Darkrai-adjacent dimensional lore can become relevant groundwork rather than last-minute endgame explanation.
+
+Specific arc content remains open. The durable direction is that Kalos is part training, part lore expansion, and part threshold into later-dimensional consequences.
+
+---
+
+### Arc 14 — Kitakami II
+**Amber age:** 18 | **Region:** Kitakami
+
+Amber returns deliberately, not by accident or curiosity. This is her **first legendary-class raid**: after gaining Mega mastery and stronger allies, she comes back to face Mega Darkrai, resolve the seal crisis, free Gardevoir and the village, and finally answer the promise she left behind in Kitakami I.
+
+The raid team should stay small — roughly 4-6 humans Amber trusts who are individually very strong. It previews the kind of coalition the endgame may require without becoming the full endgame alliance. Alonso likely belongs here; impossible places and Mystery Dungeon-scale expeditions are his natural lane.
+
+---
+
+### Arc 15 — Real-World Displacement / Alola-Ultra Space Bridge
+**Amber age:** 18 | **Region:** dimensional displacement -> Alola / Ultra Space
+
+After Kitakami II, Mega Darkrai fallout and Mega/dream residue may tear space badly enough to displace Amber into the real mundane world for a brief, painful interlude before Aether / Lusamine pull her back through Ultra Wormhole technology. This is currently planning direction, not full canon lock on mechanics.
+
+See: [[../plot-threads/dimensional-displacement-bridge]]
+
+---
+
+### Arc 16+ — Later Escalation / Endgame
+**Amber age:** 18-20+ | **Region:** interregional / global
 
 Mega Evolution fully harnessed. Peak roster assembling. The story shifts from "trainer journey" to "what do you do with this much power."
 
 - Political dimension: institutions, League, government — does she work within them or outside?
-- Team Rocket — Giovanni, the full dismantling
+- Mega-era power politics: trainers and their partners are now strategic actors, not just competitors
+- Team Rocket / Rainbow Rocket — Giovanni, coalition war, the full dismantling
 - Other evil teams and regional crises
 - Lance as peer — fight alongside him, not under him
-- Age 18–20: peak physical and Pokemon bond capacity
+- Age 18–20+: peak physical and Pokemon bond capacity
 
-**Mewtwo #1 reunion:** The Genesect crisis hits Kalos. Mewtwo #1 — the original, free for years, protecting Pokemon in a Kalos city — is at the center of it. This is the Genesect movie arc, playing out largely as in the anime. Amber arrives with the raw Mew-adjacent ore Charcadet handed to her just before she lost him. Someone in Kalos identifies it. It's synthesized into Mewtwonite Y. She uses it to help Mewtwo achieve/stabilize Mega Evolution during the crisis. She's been carrying it toward him without knowing --- for a Pokemon she'd already lost.
+**Mewtwo #1 reunion / Genesect crisis:** Still future and not yet pinned to a specific slot in the macro order. The durable part is the thread, not the exact arc placement. Material from the early Viridian Mew-adjacent ore thread resurfaces as Mewtwonite Y and helps Amber support Mewtwo #1 during the crisis.
 
 See: [[../plot-threads/mewtwo-thread]]
 
@@ -196,15 +234,19 @@ See: [[../plot-threads/mewtwo-thread]]
 | 1 | 13 | Kanto | Journey start (Ch 18-21), Teddiursa/Ursaring promise, Alonso/Charcadet seeded through camp+cave mini-arc |
 | 2 | 13 | Celadon | Vee first encounter, Celadon politics seeded |
 | 3 | 13 | Kanto | 8 badges earned |
-| 4 | 13 | Kanto forest | Ore handoff → 4Ever — major Ursaring/Teddiursa payoff TBD, Charcadet stolen |
+| 4 | 13 | Kanto forest | 4Ever — major Ursaring/Teddiursa payoff TBD, Charcadet stolen |
 | 5 | 13 | Kanto | First conference — enters without ace |
 | 6 | 14 | Celadon/Kanto | Vee recruited, Year 2, skips conference |
 | 7 | 15 | Hoenn | Arrival, Trapinch arc begins |
 | 8 | 15 | Hoenn | Magma/Aqua/Rocket, Ceruledge sighting, Mega Stones |
 | 9 | 15 | Hoenn | Conference — youngest ever winner |
-| 10 | 16 | Kitakami | Training arc, village discovered, Pikachu handoff |
+| 10 | 16 | Kitakami | Kitakami I — seal truth, Gardevoir stays, Pikachu handoff |
 | 11 | 17 | Sinnoh | Team Galactic dismantled, Ceruledge reunion, Mega unlocked |
-| 12+ | 17–20 | Kalos+ | Peak, politics, Lance, Mewtwo #1 reunion, full Rocket takedown |
+| 12 | 17 | Paldea | Adventurer-culture widening, Alonso-region reconnection |
+| 13 | 17-18 | Kalos | Mega mastery and dimensional lore deepening |
+| 14 | 18 | Kitakami | Kitakami II — first deliberate legendary-class raid |
+| 15 | 18 | Dimensional bridge | Brief real-world displacement -> Alola / Ultra Space bridge |
+| 16+ | 18-20+ | Beyond | Peak politics, Mewtwo payoff, Rainbow Rocket endgame |
 
 ---
 
@@ -218,5 +260,6 @@ See: [[../plot-threads/mewtwo-thread]]
 - `wiki/pokemon-teams/team-amber-mc.md` — full roster by region
 - `future/current-direction.md` — source of truth for ages and direction
 - [[../plot-threads/mewtwo-thread]] — the two-Mewtwo structure and ore-to-Mewtwonite Y thread
+- [[../plot-threads/dimensional-displacement-bridge]] — post-Kitakami II real-world displacement / Alola-Ultra Space bridge
 - `wiki/characters/alonso-quijano.md` — Alonso character
 - `wiki/plot-threads/rainbow-rocket-endgame.md` — Endgame direction

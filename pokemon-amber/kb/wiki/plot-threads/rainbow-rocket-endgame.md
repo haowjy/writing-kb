@@ -7,6 +7,8 @@ spoilers: true
 
 The culmination of the saga's variants of obsession — where Giovanni's ambition meets Amber's drive at the summit.
 
+By this point, the story is no longer about strong trainers merely winning harder battles. In the Mega era, certain humans and Pokemon partnerships operate at **strategic-force** scale.
+
 ## Giovanni's Endgame Premise
 
 This version of **Giovanni** would have conquered the world — except for Amber. He is that formidable, that close to succeeding. The Rainbow Rocket framing (from the games) is the reference point: a Giovanni who succeeds across dimensions, but Amber is the variable that prevents it in this one.
@@ -19,6 +21,16 @@ Giovanni's trajectory:
 - He has come within striking distance of total control — across regions, across organizations, across dimensions
 
 The endgame asks: what does it take to stop someone who has contingency plans for everything? The answer is Amber — not because she's innately superior, but because her drive shaped her into exactly the counterweight Giovanni's ambition couldn't predict.
+
+## Mega-Era Power Politics
+
+Late saga power is a political problem, not just a battle problem.
+
+- **Mega Evolution changes the scale.** Certain individuals effectively hold nuke-level strategic force once Mega-capable elites and legendary-class combat become real.
+- **Strong enough trainers can catch or contest legendaries.** The old distinction between "trainer story" and "mythic world-shaping force" collapses.
+- **Mega-capable elites can defeat legendary-class threats.** That turns them into deterrents, regime assets, liabilities, and symbols all at once.
+- **Amber and her peers become political actors.** Even if they do not want office, they are too strong to remain socially neutral private citizens.
+- **Giovanni's final push should read as the first global war of the Mega era.** Rainbow Rocket is not just another evil-team takeover attempt; it is the first time humanity tries to reorganize the world after gaining access to this level of force.
 
 ## Obsession Variants
 
@@ -57,7 +69,7 @@ Charcadet first knows Alonso's knightly ideal, then chooses Amber after watching
 See: [[../characters/amber-mc]]
 
 ### Mewtwo: Obsession's Product Demanding Autonomy
-Mewtwo is Fuji's research made flesh — the product of a grief-obsession that was never about Mewtwo at all. Its arc is the refusal to be defined by its creator's purpose. The Mewtwo #1 reunion during the Kalos Genesect crisis is the moment that arc completes: Amber carrying the stone Charcadet gave her, synthesized into Mewtwonite Y, helping Mewtwo achieve something Fuji never imagined — not a weapon, but a partner.
+Mewtwo is Fuji's research made flesh — the product of a grief-obsession that was never about Mewtwo at all. Its arc is the refusal to be defined by its creator's purpose. The Mewtwo #1 reunion during the future Genesect crisis is the moment that arc completes: early Viridian Mew-adjacent ore resurfacing as Mewtwonite Y, helping Mewtwo achieve something Fuji never imagined — not a weapon, but a partner.
 
 See: [[../characters/mewtwo]], [[mewtwo-thread]]
 
@@ -67,6 +79,8 @@ Each evil team represents a different shape of ambition:
 - **Team Magma/Aqua:** Reshaping the world to fit an ideal, regardless of cost
 - **Team Galactic:** Destruction of the current world to create a new one (Cyrus's nihilistic ambition)
 - **Rainbow Rocket:** The coalition — what happens when all these obsessions stack together under Giovanni's command
+
+Kitakami II's small trusted raid team is an important precursor pattern here: not the full endgame alliance, but proof that Amber has already started assembling legendary-class coalitions out of trust rather than command structure.
 
 ### The World Opening: Exploration as Ambition
 The drive to explore, to map the unknown, to push beyond safe borders — Kitakami, the dragon gauntlet — is also a form of obsession. Amber's discovery of Kitakami village is ambition directed outward: not conquest, but discovery. The same force that makes Giovanni a conqueror makes Amber an explorer.
@@ -83,11 +97,13 @@ The endgame collision between Amber and Giovanni is the culmination of this exam
 
 Amber's speed of progression is extreme and unprecedented:
 - Age 13: Kanto Year 1, 4Ever, first conference
-- Age 14: Indigo Year 2 (skips conference)
+- Age 14: Celadon return / Vee recruitment / Indigo Year 2 rebuild
 - Age 15: Hoenn (conference winner — youngest ever)
-- Age 16: Kitakami (training arc)
-- Age 17: Sinnoh (Team Galactic, Ceruledge reunion, Mega unlocked)
-- Age 17–20: Kalos+/peak
+- Age 16: Kitakami I
+- Age 17: Sinnoh
+- Age 17-18: Paldea -> Kalos -> Kitakami II
+- Age 18: brief dimensional displacement / Alola-Ultra Space bridge
+- Age 18-20+: later escalation / peak
 
 Alonso can also reach peak-level by endgame. Two characters shaped by consuming drive meet at the summit — the knight who chose greatness and the survivor who refused to stop.
 
@@ -100,6 +116,7 @@ Alonso can also reach peak-level by endgame. Two characters shaped by consuming 
 - [[../characters/dr-fuji]] — Dr. Fuji profile
 - [[../organizations/team-rocket]] — Team Rocket organization
 - [[../arcs/saga-overview]] — Full arc structure
+- [[dimensional-displacement-bridge]] — post-Kitakami II fallout and Alola / Ultra Space bridge
 - [[../themes/core-story-elements]] — Core story elements
 - [[mewtwo-thread]] — Mewtwo plot thread
 - [[giovanni-fuji-jail]] — Giovanni/Fuji jail aftermath
