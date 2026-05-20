@@ -47,6 +47,22 @@ His drive should **not be moralized** as simply good or bad. Alonso shows the ge
 
 This anchors the theme by showing ambition before it curdles into possession or conquest — aspiration that still has generosity in it.
 
+
+## Origin: Don Q's Stories
+
+Alonso's dream comes from a rough, tough Paldean adventurer known as **Don Q**. Don Q was not a respectable family-approved mentor; he was the kind of older wanderer minor noble parents would prefer their son not associate with. He told huge stories about fighting giant beasts, crossing impossible terrain, surviving ruins, and seeing places that sounded half-mythic even in Paldea.
+
+Don Q was, literarily, an actual liar. Adults could dismiss him as a braggart, exaggerator, or washed-up adventurer selling impossible stories to children, and they were not simply wrong. Alonso heard something else inside those lies: a model of life larger than family caution, status maintenance, and polite trainer progression. The factual truth of Don Q's stories matters less than the fact that the lies made greatness feel possible.
+
+This origin keeps Alonso's dream personal rather than bureaucratic:
+
+- he is not chasing Explorer/Guild status
+- he is not trying to earn an official title
+- his parents' minor-noble respectability gives him something to push against
+- Don Q gives him the emotional infection: the belief that someone can become great by going where others will not
+
+Don Q should remain morally textured, not secretly vindicated into pure truth. He is an actual liar, but not necessarily only a fraud: he may also be a survivor, failed great man, opportunist, and occasional truth-teller. The Cervantes inversion is the point: **Don Q is the actual lying Quixote-like storyteller, while Alonso Quijano becomes the real deal**. Alonso is inspired by a false or unstable story, then chooses to make the ideal real through action.
+
 ## The Charcadet Connection
 
 Alonso is **why Charcadet is in Kanto.**

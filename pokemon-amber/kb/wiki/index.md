@@ -177,12 +177,14 @@ Updated on every ingest. See `../AGENTS.md` for conventions.
 | Page | Summary |
 |---|---|
 | [lore/world-opening-timeline](lore/world-opening-timeline.md) | World Opening Timeline — how the wider world becomes accessible as the saga progresses |
+| [lore/mystery-dungeons](lore/mystery-dungeons.md) | Mystery Dungeons — canonical delayed world phenomenon; unstable wilderness zones integrated through quests, Rangers, and adventurer culture |
 
 ### Themes
 
 | Page | Summary |
 |---|---|
 | [themes/core-story-elements](themes/core-story-elements.md) | Core Story Elements — the thematic pillars and structural DNA of Pokemon Amber |
+| [themes/drive-spectrum](themes/drive-spectrum.md) | Drive Spectrum — central protagonist theme tracking obsession, ambition, duty, survival, attachment, and what characters want greatness for |
 
 ---
 

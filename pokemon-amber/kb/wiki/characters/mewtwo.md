@@ -4,7 +4,7 @@ category: characters
 title: Mewtwo
 status: stub
 hidden: false
-updated: 2026-04-05
+updated: 2026-05-18
 ---
 
 # Mewtwo
@@ -27,6 +27,8 @@ Mewtwo's hesitation to kill the scientists at the moment of awakening is attribu
 
 Off-screen variable for most of the saga. Contact events should be rare and consequential — not a recurring presence, but a region-scale force that exists in the background.
 
+Current long-term direction distinguishes two Mewtwo. The first escaped Cinnabar and eventually corresponds to the female-coded/voiced Mewtwo of the Genesect crisis. Amber meets her again in a future Unova / New Tork City / Pokemon Hills arc, where Amber helps her access or stabilize Mega Mewtwo Y to defend against Genesect. The Route 1 psychic-reactive ore thread is the long physical setup for that Mewtwonite Y payoff.
+
 The full Mewtwo thread — its relationship to Amber, Ditto, Fuji's legacy, and the Mew connection — is the spine of the saga. Needs its own planning session.
 
 ## Known Facts
@@ -34,7 +36,7 @@ The full Mewtwo thread — its relationship to Amber, Ditto, Fuji's legacy, and 
 - Holds grudges; interprets threats through a human cognitive frame
 - Recognizes "Amber" — exhibits protective/curious behavior rather than aggression
 - Escaped the Cinnabar lab at the moment of awakening (ch1)
-- Whereabouts during Amber's journey: unknown
+- Whereabouts during Amber's journey: largely unknown until the future Unova / Genesect crisis
 
 ## Open Questions
 

@@ -13,28 +13,32 @@ His surface dream is blunt:
 
 > **To get rich.**
 
-His deeper motive is independence. If he makes his own fortune, no family, patron, institution, or inherited expectation gets to decide what his life is for.
+His deeper motive is independence. If he makes his own fortune, no family, creditor, employer, patron, or empty stomach gets to decide what his life is for.
 
 ## Core Drive
 
 Ciro's obsession is money as freedom and proof.
 
-He likes wealth, comfort, status, and winning deals. He also wants the security of knowing nobody can buy him, arrange him, marry him off, patronize him, or use his family name as a leash.
+He likes wealth, comfort, status, and winning deals. He also wants the security of knowing nobody can buy him, hire him cheap, patronize him, trap him in debt, or use necessity as a leash.
 
-This should not be played as heavy trauma. It is class/family suffocation: a minor noble/old-name Paldean background where everyone talks about dignity while quietly panicking about money.
+This should be blunt and material: Ciro grew up dirt poor, scrounging for scraps, always aware of who had food, who had gear, and who could afford mistakes. His background can be either orphan-adjacent or dysfunctional-family poverty, but the stronger current version is a family that constantly fell into debt because the adults wasted money on frivolous things while Ciro learned to survive the consequences.
 
-## Childhood / Family Pressure
+## Childhood / Dirt-Poor Scrounger Background
 
-Ciro comes from a minor Paldean family with old name/status and declining money. His childhood was full of polite pressure:
+Ciro is **not** from minor nobility. He grew up dirt poor and learned to scrounge for scraps. The current preferred version is dysfunctional-family poverty rather than clean orphan tragedy: adults around him had a horrible habit of spending scarce money on frivolous things, chasing little luxuries or bad bets, then leaving the household in debt again.
 
-- restore the family name,
-- marry well,
-- act with dignity,
-- stop embarrassing us,
-- do not waste time with common trainers,
-- money is vulgar, but also somehow urgently needed.
+His childhood pressures were simple and humiliating:
 
-He learned early that status without money is a cage with nice furniture.
+- find food before pride,
+- grab loose change before someone else does,
+- patch gear instead of replacing it,
+- dodge creditors and angry shopkeepers,
+- never trust an adult's promise that money will be fine tomorrow,
+- if you cannot pay, someone else decides for you.
+
+An orphan version remains possible if needed later, but the core is the same: he grew up without financial safety. Money was not abstract status; it was whether he ate, whether he could travel, whether someone could corner him, and whether he had to beg.
+
+He learned early that poverty makes ownership indirect. People do not need to literally own you if they own your food, gear, debt, route access, or next favor.
 
 His response was not solemn rebellion. It was hustling.
 
@@ -43,7 +47,7 @@ His response was not solemn rebellion. It was hustling.
 - Charming, quick-talking, and shameless about opportunities.
 - Always looking for profit, leverage, resale value, sponsorship, or a loophole.
 - Semi-shady but not malicious: sells maps, guide services, information, introductions, and possibly overpriced convenience.
-- Dresses/acts noble when useful, scoundrel when useful, helpful when unavoidable.
+- Dresses upmarket when useful, scoundrel when useful, helpful when unavoidable.
 - Loves risk if the reward is real.
 - Complains when heroism is unpaid, then does it anyway.
 

@@ -6,7 +6,7 @@ spoilers: true
 status: planned
 hidden: true
 created: 2026-05-17
-updated: 2026-05-17
+updated: 2026-05-18
 ---
 
 # Charcadet → Ceruledge Throughline
@@ -30,6 +30,8 @@ Ch. 20 plants the seed outside the cave: Teddiursa recognizes Team Rocket and ch
 Ch. 21 deepens the evidence: Amber continues pursuing Teddy's mother into the guarded cave; Rocket removes Ursaring after an almost-reunion; Amber and Alonso are trapped; Teddiursa, Charcadet, and Ditto slip out to get help. Charcadet protects Teddy for Amber, echoing Amber's earlier protection.
 
 The choice should come later after Charcadet observes a pattern over a short stretch with Alonso.
+
+The same incident also seeds the ore thread: Rocket is harvesting/testing psychic-reactive Mew-adjacent material from the cave. Charcadet may become associated with the ore after the rescue, but the ore does **not** cause Charcadet's bond with Amber. The emotional bond comes from observation, trust, and Amber keeping promises.
 
 ## 4Ever Theft
 

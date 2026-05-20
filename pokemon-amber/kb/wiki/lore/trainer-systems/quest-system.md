@@ -86,6 +86,10 @@ Information gathering, tracking, and detective work.
 
 **Typical Difficulty:** Moderate to Dangerous, observation skills, discretion
 
+## Mystery Dungeon-Related Quests
+
+[[../mystery-dungeons]] are canonical but introduced later in the story. They do not require a separate quest bureaucracy: Pokemon Centers use the same category labels for dungeon-adjacent work — `[Rescue]`, `[Item]`, `[Investigation]`, `[Defeat]`, and `[Escort]`. The board describes the job, not the trainer's identity.
+
 ## Quest Requirements
 
 ### License Mandatory

@@ -4,7 +4,7 @@ category: characters
 title: Professor Samuel Oak
 status: draft
 hidden: false
-updated: 2026-04-05
+updated: 2026-05-18
 ---
 
 # Professor Samuel Oak
@@ -73,9 +73,15 @@ Amber doesn't need him to. She develops it through the work itself.
 
 ## The Research
 
-Oak's Pokemon bond research is not purely academic. As a former Champion, he knows from personal experience that something exists at the top level of training — something that separates the best from the merely excellent. He doesn't have a name for it (what the Aura Guardian tradition calls "aura" is their specific tradition's term, not a universal one). He knows it's real. He knows it's likely trainable. He doesn't know the mechanism.
+Oak's Pokemon bond research is not purely academic. It is his current obsession. Young Oak burned with exploration and the desire to understand Pokemon in the field; old Oak has transformed that fire into a narrower, deeper question:
 
-That's why he became a researcher. The bond studies are the attempt to understand what he witnessed and felt at the peak — from the outside, since he's no longer there.
+> What is the connection between humans and Pokemon, why does that connection let both sides grow stronger, and how can trainers deliberately cultivate it?
+
+As a former Champion, Oak knows from personal experience that something exists at the top level of training — something that separates the best from the merely excellent. He doesn't have a name for it (what the Aura Guardian tradition calls "aura" is their specific tradition's term, not a universal one). He knows it's real. He knows it is tied to trust, attention, synchronization, emotional regulation, mutual choice, and battle-readiness. He suspects it is trainable, but he does not yet understand the mechanism well enough to teach it as a system.
+
+That's why he became a researcher. The bond studies are not a retreat from greatness; they are Oak's new form of greatness-seeking. He is trying to explain the phenomenon he once lived at Champion level: why connection produces strength, how that strength can be grown without exploitation, and what separates a bonded team from a merely commanded one.
+
+This also makes Oak a mirror to Alonso. Alonso still lives the open-flame version of the adventuring ideal. Oak's fire has banked into research, mentorship, restraint, and obsession with the human-Pokemon bond.
 
 See: `wiki/lore/aura-system.md`
 

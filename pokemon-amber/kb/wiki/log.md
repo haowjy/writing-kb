@@ -161,3 +161,55 @@ package update, separate repo).
 - Renamed `characters/mateo-salvatierra.md` → `characters/ciro-salvatierra.md`. Ciro remains the semi-shady money-minded crew hustler with a code.
 - Updated Alonso, Adventurer System, Arc 1, Ch. 21, index, and cross-links to use Alonso / Beatriz / Ciro.
 
+
+## 2026-05-18 — Reframed old Oak's obsession as bond research
+
+- Updated `characters/professor-oak.md` so old Oak is not obsessionless after war/Champion life. His current obsession is the human-Pokemon bond: why connection enables both trainer and Pokemon to grow stronger, and how that strength can be deliberately cultivated without exploitation.
+- This makes Oak's research his new form of greatness-seeking, not a retreat from it, and positions him as a banked-fire contrast to Alonso's open-flame adventuring ideal.
+
+## 2026-05-18 — Promoted Drive Spectrum to central theme
+
+- Added `themes/drive-spectrum.md` as a confirmed central theme/reference for the protagonist cast. It tracks what force organizes each character's life: obsession, ambition, duty, survival, attachment, avoidance, curiosity, service, or love.
+- Updated `themes/core-story-elements.md` to point to Drive Spectrum and frame Amber, Alonso, Kyle, Mary, Erika, Oak, Sabrina, Fuji, Giovanni, Charcadet/Ceruledge, and Mewtwo through their distinct drives.
+- Fixed stale Fighting Dojo wording in core themes: Kyle no longer simply loses/decline-inevitable; he can win back the Dojo's claim and still outgrow the inherited mission.
+
+## 2026-05-18 — Route 1 ore points to Mewtwonite Y / female Mewtwo payoff
+
+- Updated Ch. 20/21 plans so Team Rocket's camp/cave operation involves psychic-reactive Mew-adjacent ore in an unstable off-route cave; the cave is dungeon-adjacent, not a full Mystery Dungeon arc.
+- Clarified that Rocket is harvesting/testing the ore for restraint/control/Pokeball telemetry/wild-Pokemon agitation, with Ursaring affected as a field test/captive asset.
+- Updated the Mewtwo thread: the ore is the long physical setup for Mewtwonite Y, paying off in a future Unova / New Tork City / Pokemon Hills Genesect crisis where Amber helps the female-coded first Mewtwo access or stabilize Mega Mewtwo Y to defend against Genesect.
+- Reaffirmed that the ore is not why Charcadet bonds with Amber; Charcadet chooses Amber because of observed protective action, trust, and promises kept.
+
+## 2026-05-18 — Resolved Explorer vs Adventurer terminology
+
+- Updated `lore/trainer-systems/adventurer-system.md`: adventurer is the canonical informal/cultural umbrella; explorer is only descriptive/synonymous or part of a named private group such as the Horizons Explorers.
+- Rejected a separate formal Explorer profession/license/rank/permit/Pokemon Center category. The only formal baseline identity remains registered trainer.
+- Marked `/new/explorers-and-adventurers.md` and `/new/open-questions-alonso-explorers.md` so rejected Explorer-profession brainstorming does not get re-imported as canon.
+
+## 2026-05-18 — Canonized Mystery Dungeon-style world phenomenon for later arcs
+
+- Added `lore/mystery-dungeons.md`: Mystery Dungeon-style unstable wilderness zones are canonical, but should be introduced later rather than as a full Ch. 20-21 system.
+- Kept Route 1 as dungeon-adjacent only: strange enough to foreshadow the phenomenon, not enough to teach the full world mechanic.
+- Integrated Mystery Dungeon work with the existing Pokemon Center quest board categories and Ranger/adventurer culture, while preserving the decision that there is no formal Explorer profession.
+- Marked `/new/mystery-dungeons.md` as promoted-with-revisions so useful ideas can be mined without reimporting rejected Explorer formalization.
+
+## 2026-05-18 — Set Alonso's personal origin through Don's stories
+
+- Updated `characters/alonso-quijano.md`: Alonso's Greatest Adventurer dream comes from Don, a rough Paldean adventurer/storyteller his minor noble parents considered disreputable. Don's stories of giant beasts and impossible journeys may be exaggerated or partly false, but they infected Alonso with the belief that greatness can be chosen.
+- Updated `lore/trainer-systems/adventurer-system.md` to anchor Alonso's Paldean adventurer myth in personal inspiration rather than formal Explorer/Guild status.
+- Marked `/new/alonso-quijano-adventuring-knight.md` and `/new/open-questions-alonso-explorers.md` so the origin is treated as resolved brainstorming promoted into canon.
+
+## 2026-05-18 — Clarified Don Q / Alonso inversion
+
+- Revised Alonso's origin: the inspirational storyteller is **Don Q**, the actual liar/braggart/Quixote-like adventurer figure.
+- Clarified the inversion: Don Q performs or exaggerates the myth, while Alonso Quijano becomes the real deal by living the ideal sincerely and competently.
+
+## 2026-05-18 — Adjusted Ciro class background and Don Q truth level
+
+- Updated `characters/ciro-salvatierra.md`: Ciro is no longer from minor nobility/old-name status. His money-as-freedom drive now comes from lower-status precarity, debt, patronage, and the belief that necessity lets other people own your choices.
+- Clarified Don Q in Alonso's origin: Don Q should stay morally textured, but literarily he is an actual liar/heavy exaggerator. The point is that Alonso makes a false or unstable story real through sincere action.
+
+## 2026-05-18 — Simplified Ciro into dirt-poor scrounger background
+
+- Updated `characters/ciro-salvatierra.md`: Ciro grew up dirt poor and scrounged for scraps. Preferred version is dysfunctional-family poverty, with adults wasting scarce money on frivolous things and leaving the household in debt; orphan-adjacent remains possible but secondary.
+- Updated `themes/drive-spectrum.md` so Ciro's money-as-freedom drive comes from material scarcity, hunger, debt, and lack of safety rather than noble/status pressure.

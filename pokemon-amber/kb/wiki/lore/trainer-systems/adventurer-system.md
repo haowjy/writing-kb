@@ -23,6 +23,7 @@ Adventurer identity exists alongside, not replacing, other trainer identities. A
 - **Not an official license tier:** Pokemon Centers recognize trainer tiers (Novice through ACE) for legal and operational purposes. There is no "Adventurer License." A trainer is a Licensed Trainer, Trainer, Senior Trainer, Veteran Trainer, or ACE Trainer — regardless of whether they also identify as an adventurer.
 - **Not a quest board category:** The [[quest-system]] is organized by task type (Item, Defeat, Rescue, Wanted, Escort, Investigation) and class grade (E through A). There is no "Adventurer" quest category. A trainer who takes wilderness rescue quests is a trainer taking rescue quests — the quest board does not recognize or categorize adventurer identity.
 - **Not a government-recognized status:** Unlike [[../../organizations/ace-trainers]], which carries government contracts and field authority, adventurer is purely cultural. No paperwork, no registry, no legal privileges.
+- **Not a separate formal Explorer profession:** "Explorer" is descriptive language and can be a synonym for adventurer, but there is no distinct Explorer license, rank, permit system, or Pokemon Center category. The only formal baseline identity is registered trainer.
 
 ## Kanto vs Paldea: Competing Cultural Myths
 
@@ -49,6 +50,7 @@ The adventurer identity maps onto fundamentally different cultural narratives be
 - He identifies as an adventurer first, trainer second — an unusual framing in Kanto
 - He brings Paldean Pokemon (notably Charcadet) and Paldean values (discovery over competition, expedition over circuit)
 - His presence creates friction: Kanto's systems don't have a category for someone like him, and he doesn't fit neatly into Kanto's expectations
+- His dream was personally infected by Don Q, a rough Paldean adventurer/storyteller his minor-noble parents considered disreputable; Don Q's half-mythic lies made greatness feel possible; Alonso becomes the sincere real deal that Don Q only performed or exaggerated
 - He admires adventurers broadly; the **Horizons Explorers** are one example of an adventurer fellowship he respects — they exist in the background, lightly adapted into this world as another expression of the adventurer ideal
 
 ## Interregional Travel: Possible But Not Normalized
@@ -88,9 +90,19 @@ Adventurers often use the [[quest-system]] for income, but quests are transactio
 - A trainer taking wilderness rescue quests is a trainer taking rescue quests — unless they self-identify or are recognized by peers as an adventurer
 - The quest board is infrastructure; adventurer is identity
 - Some adventurers never touch the quest board (privately funded expeditions, sponsor-backed exploration)
+- Some later adventurer work will overlap with [[../mystery-dungeons]], but the dungeon does not create a new official adventurer/explorer status
 - Some quest-only trainers take nothing but wilderness work and still don't consider themselves adventurers
 
 **The line is cultural, not bureaucratic.**
+
+## Explorer Terminology
+
+Use **explorer** carefully:
+
+- Lowercase **explorer** can mean someone doing exploration work; it is descriptive, not formal.
+- **Adventurer** is the canonical umbrella identity for this cultural lane.
+- **Explorer** should not become a separate formal profession in the setting. Avoid implying Explorer licenses, Explorer ranks, special Pokemon Center Explorer postings, or a government-recognized Explorer class.
+- Named groups may use the word, especially the Horizons **Explorers**, but that is a private fellowship/guild name, not a universal institutional category.
 
 ## Adventurer Guilds and Fellowships
 
@@ -108,5 +120,6 @@ Private adventurer organizations exist outside government structures:
 - [[../../characters/alonso-quijano]] — the Paldean adventurer who bridges this culture into Kanto
 - [[../../characters/amber-mc]] — Amber's relationship to adventuring as distinct from badge circuit
 - [[../world-opening-timeline]] — how interregional travel opens over saga timespan
-- [[../../organizations/ace-trainers]] — government-contracted explorer tier; distinct from cultural adventuring
+- [[../mystery-dungeons]] — later world phenomenon that intersects with quests, Rangers, and adventurer culture
+- [[../../organizations/ace-trainers]] — government-contracted elite trainers who may perform exploration/route-clearing work; distinct from cultural adventuring
 - [[../../characters/amber-mc-team]] — Charcadet's origin context (Paldean adventurer → Kanto)

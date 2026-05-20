@@ -6,7 +6,7 @@ spoilers: true
 status: confirmed
 hidden: true
 created: 2025-10-14
-updated: 2026-05-17
+updated: 2026-05-18
 ---
 
 # Core Story Elements
@@ -86,26 +86,29 @@ updated: 2026-05-17
 
 **Drama from:** Being misjudged, finding your own way despite expectations
 
-### 6. Obsession, Drive, and Ambition
-**Central thematic current:**
-- Fuji: grief → possession → destructive obsession
-- Giovanni: trauma → nationalism → obsession with conquest
+### 6. Drive Spectrum: Obsession, Ambition, Duty, Survival
+**Central thematic current:** the main protagonists are organized by different kinds of drive, not by a single flat idea of "obsession." See [[drive-spectrum]] for the working framework.
+
+- Amber: circumstance → survival/control → attachment → protection/greatness → worthiness
 - Alonso Quijano: chosen adventuring ideal → plainspoken courage → the self-chosen quest
-- Amber: circumstance → attachment → protection/greatness → drive that refuses to stop
 - Kyle: inherited duty → earned victory → chosen adventure
+- Mary: ambition/service → authority with compassion
+- Erika: ambition → civic duty
+- Oak: old adventuring fire → bond research obsession
 - Sabrina: raw psychic power without drive; greatness as burden/asymmetry
-- Charcadet/Ceruledge: loyalty refracted through who holds the reins
+- Fuji: grief → possession → destructive obsession
+- Giovanni: trauma/nationalism → conquest-drive
+- Charcadet/Ceruledge: becoming refracted through loyalty, theft, and imposed purpose
 - Mewtwo: obsession's product seeking autonomy
-- Evil teams: each a flavor of obsession (control, destruction, reshaping)
 
-**Not moralized:** The story examines the shape of ambition rather than judging ambition itself. The same drive that makes Alonso a noble knight makes Giovanni a conqueror. Wanting to become great is central — it's what you want greatness FOR that determines the outcome.
+**Not moralized:** The story examines the shape of drive rather than judging ambition itself. Wanting to become great is central — it's what you want greatness for, and what you become while pursuing it, that determines the outcome.
 
-**Drama from:** Different obsessions colliding, characters recognizing themselves in enemies, the question of whether Amber's drive is purification or corruption.
+**Drama from:** Different drives colliding, characters recognizing themselves in enemies, inherited missions becoming chosen ones, and Amber's question of whether her drive matures into protection/worthiness or curdles into control.
 
 ### 5. Consequences That Stick
 **Makes stakes real:**
 - Failed gym attempts = cooldown periods
-- Some battles can't be won (Fighting Dojo will decline)
+- Some victories change the terms rather than restoring the old world (Kyle can save the Dojo's claim, but not return to a simple inherited life)
 - Weird incidents derail the gym circuit
 - Secrets compound over time
 
@@ -144,7 +147,7 @@ These emerge from story events without needing to be stated:
 - Don't need to say it - the gap between plan and outcome speaks for itself
 
 **Some battles can't be won:**
-- Shown through: Fighting Dojo's inevitable decline despite Kyle's effort
+- Shown through: Kyle winning back the Dojo's claim and still outgrowing the inherited mission
 - Don't need to say it - tragic realism in action
 
 **Let events speak for themselves. Readers interpret as they want.**
