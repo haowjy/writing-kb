@@ -91,7 +91,38 @@ Fuji/Mewtwo/cloning relevance remains part of why the file opens. It should not 
 ### Stage 4: Strategic Containment
 - Rocket tries to discredit, isolate, or frame Amber rather than only steal from her
 - Bureaucratic and institutional channels become part of the threat model
-- This later scales naturally into the Alola fugitive/reset arc
+- This later scales naturally into the Alola fugitive/reset arc and the broader proxy-capture endgame
+
+### Stage 5: Background Infection
+- Rocket no longer appears only as "the people following Amber"
+- local anomalies across regions start looking unrelated until much later
+- the organization tests whether crises, champions, research bodies, and infrastructure can be captured from inside
+- Amber is one observer among several, not the sole person who notices the pattern
+
+## Regional Wrong Notes
+
+These should read as local off-notes first and Rocket architecture only in hindsight.
+
+### Hoenn
+- mysterious financiers or supply help hiding inside Magma/Aqua chaos
+- Devon pressure and strange data collection around Groudon, Kyogre, Rayquaza, and Mega material
+- Ceruledge transfer-chain weirdness that implies more coordination than a single theft
+- Zinnia noticing outsiders around Draconid lore
+
+### Sinnoh
+- Giovanni learning from Galactic's dimensional technology
+- proxy tests aimed at the Champion system rather than only open terrorism
+- **Tobias with Darkrai** as a strong candidate symptom or test case, not the emotional core of the arc
+- assets, paperwork, or Pokemon behavior that feel slightly too clean or too wrong to dismiss
+
+### Kalos
+- a Champion-system anomaly: displaced Diantha, impossible challenger, too-perfect contender, or similar
+- Mega-tech black markets or research programs with quiet Rocket/Aether backing
+- an Ultra Beast or related anomaly surfacing before the world publicly understands what it is
+
+### Alola / Aether
+- the crisis lets Rocket move from background observation into capture of wormhole and containment infrastructure
+- public narrative, legal framing, and security channels all become operational tools
 
 ## Narrative Tension Points
 
@@ -114,6 +145,7 @@ Fuji/Mewtwo/cloning relevance remains part of why the file opens. It should not 
 - **Early encounters:** Grunts attempting opportunistic capture of Amber's Pokemon
 - **Arc 2 (Discovery):** TR pursuit becomes active antagonist
 - **Companions:** Their safety becomes leverage against Amber
+- **Rainbow Rocket endgame:** the surveillance file becomes one strand of a much larger institutional-capture model
 
 ### Oak's Role
 - Does Oak know she's being tracked?
@@ -136,7 +168,7 @@ Fuji/Mewtwo/cloning relevance remains part of why the file opens. It should not 
 3. **What's Rocket's endgame at each stage?**
    - Early: Ditto, Fuji leverage, research recovery
    - Mid: operational disruption management and threat assessment
-   - Late: strategic containment of a cross-regional coalition-builder
+   - Late: strategic containment of a cross-regional coalition-builder and proof-of-concept for proxy capture
 
 4. **How does it resolve or transform?**
    - Direct confrontation

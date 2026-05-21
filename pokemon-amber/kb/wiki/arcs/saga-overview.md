@@ -20,8 +20,10 @@ Late-saga ordering from Sinnoh onward is current planning direction, not locked 
 - **Age 15:** Hoenn (conference winner)
 - **Age 16:** Kitakami I
 - **Age 17:** Sinnoh
-- **Age 17-18:** Paldea -> Kalos -> Kitakami II
-- **Age 18:** brief real-world displacement / Alola-Ultra Space bridge
+- **Age 17-18:** Paldea -> Kalos
+- **Age 18:** brief real-world displacement / Alola-Ultra Space reset
+- **Age 18:** Hoenn return / Delta Episode
+- **Age 18:** Kitakami II
 - **Age 18-20+:** later escalation / endgame
 - **Standard journey age:** 14
 - **Ash Ketchum:** Starts at 14 (2 years after Amber's start; picks up Pikachu end of Arc 9)
@@ -116,7 +118,7 @@ Badge progression in Hoenn. New roster additions: Mudkip or Treecko, Aron, Ninca
 ### Arc 8 — Hoenn: Team Magma/Aqua/Rocket + Mega Stones
 **Amber age:** 15 | **Region:** Hoenn
 
-Team Magma and Aqua conflict escalates — **backed by Team Rocket** (Giovanni exploiting the chaos). Amber gets pulled into the conflict. Rayquaza lore, Zinnia, Dragon lore seeded.
+Team Magma and Aqua conflict escalates — **backed by Team Rocket** in ways that are easier to feel than to prove. Giovanni hides inside the regional noise: strange financiers, Devon pressure, data harvesting around Groudon/Kyogre/Rayquaza/Mega material, and other wrong notes that only later assemble into a pattern. **Zinnia first crosses paths with Amber here.** Rayquaza and Draconid lore are seeded, but Hoenn does not pay off Delta Episode yet.
 
 **Ceruledge sighting:** In the middle of the Rocket/Magma/Aqua conflict, Ceruledge appears on the battlefield — fighting *against* her. She recognizes it. It may or may not recognize her. She can't reach it. It leaves with Rocket. The Mega Stones are in her pocket and she still can't do anything.
 
@@ -163,6 +165,8 @@ Amber arrives in Sinnoh already powerful — Kitakami was a real training ground
 
 Mega Evolution begins to click — the confrontation with Ceruledge is what finally breaks it open. She's been carrying the stones for two years.
 
+Sinnoh also starts surfacing the **Champion-system wrong notes** behind Giovanni's proxy strategy. A likely candidate is **Tobias with Darkrai**: not the emotional core of the arc, but a symptom that something is off. His assets, paperwork, or his Darkrai's bond can feel subtly wrong even if Amber cannot prove why.
+
 New Sinnoh roster: Shinx, Sneasel/Weavile, Rockruff/Lycanroc, Turtwig or Piplup.
 
 **Ends:** Team Galactic dismantled (or significantly broken). Ceruledge situation resolved — reunion, or the beginning of one. Mega Evolution unlocked. Amber at ~17, approaching peak.
@@ -183,29 +187,46 @@ Specific plot beats remain open. The durable direction is structural: Paldea sho
 
 Current preferred placement: **before Kitakami II.** Kalos is where Amber should deepen and stabilize Mega Evolution mastery, and where Mega Dimension / Hyperspace Lumiose / Darkrai-adjacent dimensional lore can become relevant groundwork rather than last-minute endgame explanation.
 
-Specific arc content remains open. The durable direction is that Kalos is part training, part lore expansion, and part threshold into later-dimensional consequences.
+Specific arc content remains open. The durable direction is that Kalos is part training, part lore expansion, and part threshold into later-dimensional consequences. A **Champion-system anomaly** belongs here as one strong wrong-note lane: displaced Diantha, an impossible challenger, Mega-tech black markets, an Ultra Beast before the world publicly understands them, or Mega Dimension research with quiet Rocket/Aether money. Exact choice remains open.
 
 ---
 
-### Arc 14 — Kitakami II
-**Amber age:** 18 | **Region:** Kitakami
-
-Amber returns deliberately, not by accident or curiosity. This is her **first legendary-class raid**: after gaining Mega mastery and stronger allies, she comes back to face Mega Darkrai, resolve the seal crisis, free Gardevoir and the village, and finally answer the promise she left behind in Kitakami I.
-
-The raid team should stay small — roughly 4-6 humans Amber trusts who are individually very strong. It previews the kind of coalition the endgame may require without becoming the full endgame alliance. Alonso likely belongs here; impossible places and Mystery Dungeon-scale expeditions are his natural lane.
-
----
-
-### Arc 15 — Real-World Displacement / Alola Reset
+### Arc 14 — Real-World Displacement / Alola Reset
 **Amber age:** 18 | **Region:** dimensional displacement -> Alola / Ultra Space
 
-After Kitakami II, Mega Darkrai fallout and Mega/dream residue may tear space badly enough to displace Amber into the real mundane world for a brief, painful interlude before **Aether / Lusamine** pull her back through Ultra Wormhole technology. Alola then functions as a mini-reset arc: Amber is still highly capable, but loses easy access to paperwork, roster depth, trusted infrastructure, and mainland support while Aether's crisis — amplified by Giovanni's existing tendrils in Aether and adjacent institutions — turns her into a locally wanted anomaly to contain or blame. This is currently planning direction, not full canon lock on mechanics.
+After Kalos-side dimensional fallout — or some closely related late-saga rupture in the same family — Amber is briefly displaced into the real mundane world, then recovered through **Aether / Lusamine / Ultra Wormhole** activity. Alola functions as a mini-reset arc: Amber is still highly capable, but loses easy access to paperwork, roster depth, trusted infrastructure, and mainland support while Aether's crisis turns her into a locally wanted anomaly to contain or blame.
+
+This ordering is now preferred because Alola gives Amber **Ultra Wormhole experience, other-world ethics, Aether/Lusamine lessons, and hard proof that other worlds are real** before the next mythic return.
 
 See: [[arc-alola-ultra-space]], [[../plot-threads/dimensional-displacement-bridge]]
 
 ---
 
-### Arc 16+ — Later Escalation / Endgame
+### Arc 15 — Delta Episode / Hoenn Return
+**Amber age:** 18 | **Region:** Hoenn
+
+After Alola, Amber returns to Hoenn for the **Delta Episode payoff**. Zinnia should own this arc's mythic core: Draconid lore, Rayquaza, meteor burden, and decisive action. Amber's role is crucial but supporting. She supplies the missing Meteorite condition before Sky Pillar and argues against Devon/League dimensional-disposal plans because Alola and the real-world displacement taught her that other worlds may contain real lives.
+
+Rayquaza is not choosing a destined player. Zinnia becomes worthy through preparation, burden, and accepting necessary help.
+
+See: [[arc2-hoenn]]
+
+---
+
+### Arc 16 — Kitakami II
+**Amber age:** 18 | **Region:** Kitakami
+
+Amber returns deliberately, not by accident or curiosity. This is now the preferred shape of her **first deliberate legendary-class raid**: a chosen return to a debt she already knows she owes.
+
+Alola and Delta Episode should strengthen this return. Amber comes back with Ultra Wormhole experience, other-world ethics, Aether/Lusamine lessons, and the precedent that sometimes the right move is to **support the specialist** rather than lead every mythic crisis from the front. Kitakami II then becomes the **last major personal promise** she resolves before the full global war reveals itself.
+
+The goal is not exploration for its own sake. The goal is to resolve the Mega Darkrai crisis, free Gardevoir and the village from the seal burden, and fulfill the promise Kitakami I created.
+
+The raid team should stay small — roughly 4-6 humans Amber trusts who are individually very strong. It previews the kind of coalition the endgame may require without becoming the full endgame alliance. Alonso likely belongs here; impossible places and Mystery Dungeon-scale expeditions are his natural lane.
+
+---
+
+### Arc 17+ — Later Escalation / Endgame
 **Amber age:** 18-20+ | **Region:** interregional / global
 
 Mega Evolution fully harnessed. Peak roster assembling. The story shifts from "trainer journey" to "what do you do with this much power."
@@ -217,11 +238,16 @@ Mega Evolution fully harnessed. Peak roster assembling. The story shifts from "t
 - Lance as peer — fight alongside him, not under him
 - Age 18–20+: peak physical and Pokemon bond capacity
 
+Late-saga capture pattern:
+- Giovanni's endgame should read as a **slow background infection** across multiple regions, not a sudden postgame reveal.
+- Hoenn, Sinnoh, Kalos, and Aether each show local anomalies that look unrelated until later.
+- Amber may help identify the pattern, but not alone. Silver, Looker, Lance, Zinnia, and others bring different pieces.
+
 Late-saga Giovanni direction:
 - His first overt conquest move turns inward on **Kanto**, the place where his war trauma and ideology began.
 - He captures legitimacy as well as territory: one of his top commanders or allied proxies becomes a **puppet Champion** through force-backed institutional capture.
 - After Kanto, he tries to repeat the model globally through compromised governments, seized League infrastructure, port and wormhole control, and monopoly over Mega / Ultra Beast / legendary-class force.
-- Amber's counter-model is coalition through earned trust rather than centralized control.
+- Amber's counter-model is coalition through earned trust rather than centralized control, but she is one major actor among several rather than the sole rightful leader of every front.
 
 **Mewtwo #1 reunion / Genesect crisis:** Still future and not yet pinned to a specific slot in the macro order. The durable part is the thread, not the exact arc placement. Material from the early Viridian Mew-adjacent ore thread resurfaces as Mewtwonite Y and helps Amber support Mewtwo #1 during the crisis.
 
@@ -229,7 +255,7 @@ See: [[../plot-threads/mewtwo-thread]]
 
 **The question is no longer how strong she is. It's what she's fighting for.**
 
-**Endgame — Rainbow Rocket Giovanni:** The final antagonist is a Giovanni who would have conquered the world except for Amber. This confrontation culminates the saga's obsession variants — Fuji's grief, Giovanni's conquest, Alonso's chosen ideal, Amber's protection, Charcadet/Ceruledge's loyalty, Mewtwo's autonomy. The question is no longer who is strongest but what each character's drive was for, and whether force will be centralized through capture or distributed through trust.
+**Endgame — Rainbow Rocket Giovanni:** The final antagonist is a Giovanni who comes close enough to winning that stopping him requires a coalition Amber helps hold together. This confrontation culminates the saga's obsession variants — Fuji's grief, Giovanni's conquest, Alonso's chosen ideal, Amber's protection, Charcadet/Ceruledge's loyalty, Mewtwo's autonomy. The question is no longer who is strongest but what each character's drive was for, and whether force will be centralized through capture or distributed through trust.
 
 ---
 
@@ -250,9 +276,10 @@ See: [[../plot-threads/mewtwo-thread]]
 | 11 | 17 | Sinnoh | Team Galactic dismantled, Ceruledge reunion, Mega unlocked |
 | 12 | 17 | Paldea | Adventurer-culture widening, Alonso-region reconnection |
 | 13 | 17-18 | Kalos | Mega mastery and dimensional lore deepening |
-| 14 | 18 | Kitakami | Kitakami II — first deliberate legendary-class raid |
-| 15 | 18 | Alola reset | Brief real-world displacement -> Aether extraction -> Alola / Ultra Space fugitive reset |
-| 16+ | 18-20+ | Beyond | Peak politics, Mewtwo payoff, Rainbow Rocket endgame |
+| 14 | 18 | Alola reset | Brief real-world displacement -> Aether extraction -> Alola / Ultra Space fugitive reset |
+| 15 | 18 | Hoenn return | Delta Episode — Zinnia owns the Rayquaza payoff; Amber supports |
+| 16 | 18 | Kitakami | Kitakami II — deliberate Mega Darkrai raid after Alola/Delta |
+| 17+ | 18-20+ | Beyond | Peak politics, Mewtwo payoff, Rainbow Rocket endgame |
 
 ---
 
@@ -267,6 +294,6 @@ See: [[../plot-threads/mewtwo-thread]]
 - `wiki/pokemon-teams/team-amber-mc.md` — full roster by region
 - `future/current-direction.md` — source of truth for ages and direction
 - [[../plot-threads/mewtwo-thread]] — the two-Mewtwo structure and ore-to-Mewtwonite Y thread
-- [[../plot-threads/dimensional-displacement-bridge]] — post-Kitakami II real-world displacement / Alola-Ultra Space bridge
+- [[../plot-threads/dimensional-displacement-bridge]] — late-saga real-world displacement / Alola-Ultra Space bridge
 - `wiki/characters/alonso-quijano.md` — Alonso character
 - `wiki/plot-threads/rainbow-rocket-endgame.md` — Endgame direction

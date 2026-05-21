@@ -258,3 +258,14 @@ package update, separate repo).
 - Updated `arcs/saga-overview.md` to align Arc 15 and Arc 16+ with that direction: Alola as manipulated fugitive reset, then Rainbow Rocket as Kanto-first conquest and global coup/war.
 - Updated `organizations/team-rocket.md` and `characters/giovanni.md` so the organization and character pages carry the same doctrine: captured legitimacy, Kanto-first emotional logic, Aether infiltration, and global repetition instead of "sudden stronger boss fight" escalation.
 - Updated `plot-threads/team-rocket-surveillance.md` so Rocket's long-term fixation on Amber is framed as practical strategic concern rather than chosen-one/specimen logic, while keeping Fuji/Ditto/Mewtwo relevance as part of the file's origin.
+
+## 2026-05-20 — Reordered the far-future lane around Alola before Delta/Kitakami II
+
+- Updated `arcs/saga-overview.md` so the current preferred late-saga order is now **Sinnoh -> Paldea -> Kalos -> real-world displacement / Alola reset -> Delta Episode / Hoenn return -> Kitakami II -> Rainbow Rocket endgame**. This is recorded as planning direction, not locked beat-by-beat canon.
+- Rebuilt `arcs/arc2-hoenn.md` from stub into a substantive planning page: Hoenn now carries the conference-year role, first Zinnia crossing, Ceruledge enemy reveal, Mega seed, and the first durable Giovanni wrong notes in Magma/Aqua/Devon/Rayquaza space.
+- Updated `arcs/arc-alola-ultra-space.md` and `plot-threads/dimensional-displacement-bridge.md` so Alola is no longer downstream of Kitakami II. The current preferred trigger family is now Kalos-side or otherwise late-dimensional fallout, with exact mechanics still open.
+- Updated `arcs/arc-kitakami.md` so Kitakami II explicitly benefits from Alola and Delta lessons: Amber returns with Ultra Wormhole experience, other-world ethics, and the precedent that supporting the right specialist can be the right move.
+- Updated `plot-threads/rainbow-rocket-endgame.md`, `plot-threads/team-rocket-surveillance.md`, and `characters/giovanni.md` so Giovanni's model is a slow interregional proxy infection rather than a sudden reveal. Hoenn, Sinnoh, Kalos, and Aether now each carry distinct wrong-note lanes.
+- Recorded the current preferred Delta Episode adaptation: Zinnia owns the Draconid/Rayquaza burden and decisive action; Amber's later role is crucial but supporting, supplying the missing Meteorite condition and opposing dimensional-disposal logic after Alola.
+- Updated `plot-threads/mewtwo-thread.md` so Mewtwo #2 is framed as a controlled late-game strategic reserve used sparingly, not a recurring boss.
+- Updated `wiki/index.md` summaries for the Hoenn, Alola, and dimensional-bridge pages to match the new structure.

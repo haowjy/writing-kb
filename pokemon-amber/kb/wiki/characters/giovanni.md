@@ -71,9 +71,11 @@ Giovanni's late-saga doctrine is not "collect more monsters until he wins." It i
 
 - He treats legendary-class force, Mega-capable trainers, and later Ultra Beast assets as strategic infrastructure.
 - He prefers capture from within to simple open war whenever institutions can be bent to his purposes.
+- He likes **slow background infection**: financiers, shell companies, strange backers, proxy trainers, compromised research bodies, and local crises that teach him what can be captured next.
 - His first overt conquest move turns inward on **Kanto**, because Kanto is both his wound and his proof target.
 - One of his senior commanders or allied proxies eventually serves as a **puppet Champion** under Rocket control; the exact identity remains intentionally open.
 - After Kanto, he attempts to replicate the model globally through compromised governments, League structures, ports, security, and wormhole infrastructure.
+- He may retain **Mewtwo #2** as a controlled strategic reserve rather than spending it openly early.
 
 ## Why Amber Matters
 
@@ -102,10 +104,12 @@ By late saga, Giovanni reads Amber as a **strategic rival and team-builder**. Sh
 
 ### Future Arcs
 - Direct antagonist as TR's pursuit of Amber evolves from research-adjacent interest into strategic threat recognition
+- Hoenn, Sinnoh, and Kalos should each show partial wrong notes of his proxy strategy before the world can name the pattern
 - Alola / Aether infiltration lets him exploit a crisis and appropriate wormhole / containment infrastructure before open conquest
 - Mewtwo project remains important, but no longer explains all of Giovanni's interest by itself
 - Kanto-first conquest and puppet-legitimacy model anchor the Rainbow Rocket war
 - Possible Giovanni vs. Mewtwo confrontation (Mewtwo IS the project that betrays its creators)
+- Mewtwo #2 should be used sparingly before the endgame: rumors, aftermath, pressure, one impossible demonstration rather than repeated boss-fight appearances
 - Mother/son organizational split potentially exploitable
 
 ## Cross-Refs

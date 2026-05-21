@@ -97,11 +97,13 @@ Amber convinces the villagers to officially open Kitakami to the outside world �
 
 Kitakami II is now the preferred shape of Amber's **first deliberate legendary-class raid.**
 
-- It happens **after** Amber gains real Mega mastery and stronger allies.
+- It happens **after** Amber gains real Mega mastery and stronger allies, and now specifically **after Alola and the Delta Episode return to Hoenn**.
 - The goal is not exploration for its own sake. The goal is to resolve the Mega Darkrai crisis, free Gardevoir and the village from the seal burden, and fulfill the promise Kitakami I created.
 - The human team should stay small — roughly **4-6 people** Amber trusts who are individually very strong. This previews endgame coalition logic without becoming the whole endgame alliance.
 - **Alonso likely belongs on the team.** Impossible places, expedition logic, rescue quests, and Mystery Dungeon-scale danger are his natural lane.
 - Kitakami II should feel like a chosen return to an unpaid debt, not a random late-saga revisit.
+- Alola should strengthen this arc. Amber returns with **Ultra Wormhole experience, other-world ethics, Aether/Lusamine lessons, and the Delta precedent of supporting the right specialist rather than leading every mythic crisis herself**.
+- Kitakami II should now read as the **last major personal promise** Amber resolves before the full global war reveals itself.
 
 ---
 
@@ -176,4 +178,5 @@ This beat was seeded in Chapter 17. See: `story/chapter17/_17notes.md`
 - `wiki/pokemon-teams/team-amber-mc.md` — Gible, Ursaluna, roster expansion
 - `arc-pikachu-handoff.md` — Pikachu/Ash beat
 - `saga-overview.md` — full arc structure
-- [[../plot-threads/dimensional-displacement-bridge]] — likely post-Kitakami II fallout / Alola-Ultra Space bridge
+- [[arc-alola-ultra-space]] — Alola reset arc that now precedes the return
+- [[../plot-threads/dimensional-displacement-bridge]] — late-saga displacement / Alola handoff that now comes before Kitakami II

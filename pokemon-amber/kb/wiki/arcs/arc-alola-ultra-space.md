@@ -13,19 +13,29 @@ updated: 2026-05-20
 
 ## What It Is
 
-After **Kitakami II** and the brief real-world displacement, Amber is pulled back into the Pokemon world through **Aether's Ultra Wormhole work**. Alola functions as a mini-reset arc: new tone, improvised allies, reduced infrastructure, and a fugitive/survival stretch immediately after a mythic raid.
+After the late-saga real-world displacement, Amber is pulled back into the Pokemon world through **Aether's Ultra Wormhole work**. Alola functions as a mini-reset arc: new tone, improvised allies, reduced infrastructure, and a fugitive/survival stretch before the saga swings back into Delta Episode and Kitakami II.
 
 This reset is **circumstantial, not personal**. Amber is still competent, dangerous, and experienced. What changes is the support lattice around her: she lacks normal paperwork, does not have easy access to her full roster, cannot assume mainland-style Pokemon Center trust, and cannot casually lean on Oak, League contacts, or familiar transit systems.
 
 ## Locked Direction
 
-- **Placement:** The arc begins immediately after the post-Kitakami II real-world displacement beat.
+- **Placement:** The arc begins immediately after the late-saga real-world displacement beat and now sits **before** Delta Episode and Kitakami II, not after them.
 - **Entry vector:** Amber is recovered through **Aether / Lusamine / Ultra Wormhole** activity rather than returning under her own control.
-- **Arc function:** Alola is a forced reset after escalation. The point is exhaustion, improvisation, and isolation, not a clean victory lap after Kitakami.
+- **Arc function:** Alola is a forced reset after escalation. The point is exhaustion, improvisation, and isolation, not a clean victory lap after Kalos or the dimensional break.
 - **Pressure model:** Amber is weakened by circumstance rather than by loss of competence or conviction.
 - **Institutional shape:** Alola is connected to the wider world by this point, but unevenly. High-end institutions are globally linked; local trust and logistics are not.
 - **Rocket position:** By this stage Giovanni already has tendrils inside Aether and adjacent Alolan institutions; he is not a postgame surprise arrival.
 - **Emotional template:** The immediate Lusamine material should lean closer to **Sun/Moon-style Nihilego obsession** than to **Ultra Sun/Ultra Moon-style Necrozma escalation**, though later Ultra Space material can remain available.
+- **Ordering rationale:** Alola belongs before Kitakami II because it gives Amber Ultra Wormhole experience, other-world ethics, and the Aether/Lusamine lesson that not every mythic crisis should be approached as "Amber personally leads the charge."
+
+## Why This Comes Before Kitakami II
+
+Placing Alola first strengthens the later return to Kitakami.
+
+- Amber comes back to **Mega Darkrai** with lived knowledge of wormholes, other worlds, and institutional failure around impossible phenomena.
+- Alola gives her hard reasons to distrust clean dimensional-disposal logic.
+- The later Delta Episode lets her practice the right supporting role with **Zinnia** before she takes the next legendary-class burden back into her own hands.
+- Kitakami II then becomes the last major personal promise before the broader war fully declares itself.
 
 ## Aether / Lusamine Crisis Window
 
@@ -160,7 +170,7 @@ This beat should stay **symbolic rather than causal**. Aether locks onto Amber b
 ## Cross-Refs
 
 - [[saga-overview]] — macro placement
-- [[arc-kitakami]] — the promise and raid that precede this reset
+- [[arc-kitakami]] — the promise established in Kitakami I and the later return it now precedes
 - [[../plot-threads/dimensional-displacement-bridge]] — real-world displacement and Aether extraction handoff
 - [[../characters/amber-mc-team]] — Alola team direction
 - [[../lore/world-opening-timeline]] — wider-world connectivity context

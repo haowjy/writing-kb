@@ -12,17 +12,18 @@ By this point, the story is no longer about strong trainers merely winning harde
 
 ## Giovanni's Endgame Premise
 
-This version of **Giovanni** would have conquered the world — except for Amber. He is that formidable, that close to succeeding. The Rainbow Rocket framing (from the games) is the reference point, but the durable story function here is broader: Giovanni is trying to capture the world's institutions and strategic force architecture, not just win one giant boss fight.
+This version of **Giovanni** comes close enough to conquering the world that stopping him requires a coalition Amber helps hold together. The Rainbow Rocket framing (from the games) is the reference point, but the durable story function here is broader: Giovanni is trying to capture the world's institutions and strategic-force architecture, not just win one giant boss fight.
 
 Giovanni's trajectory:
 - Mt. Silver trauma → Kanto nationalism → conviction that legendary-class power is the only path to supremacy
 - Mewtwo was the weapon meant to deliver that victory
 - When Mewtwo rejects him, Giovanni doesn't stop — he adapts, finds new tools, rebuilds
-- Alola becomes a reconnaissance / appropriation phase where he exploits Aether's crisis, wormhole research, and containment infrastructure
+- Hoenn, Sinnoh, Kalos, and Aether each become laboratories for a slower proxy strategy: financiers, impossible assets, institutional pressure, and captured crisis infrastructure
+- Alola becomes a major reconnaissance / appropriation phase where he exploits Aether's crisis, wormhole research, and containment infrastructure
 - By endgame, he has assembled a coalition of evil teams, captured institutions, and contingency plans that make him a global threat
 - He has come within striking distance of total control — across regions, across organizations, across dimensions
 
-The endgame asks: what does it take to stop someone who has contingency plans for everything? The answer is Amber — not because she's innately superior, but because her drive shaped her into exactly the counterweight Giovanni's ambition couldn't predict.
+The endgame asks: what does it take to stop someone who has contingency plans for everything? The answer is not a lone chosen hero. It is a trust-based coalition that Giovanni cannot fully buy, blackmail, centralize, or predict.
 
 ### Why Amber Matters to Giovanni
 
@@ -34,6 +35,19 @@ Amber is not important to Giovanni because she is uniquely lab-interesting or se
 - she attracts allies, loyalty, and cross-regional cooperation around herself
 
 Giovanni eventually reads Amber as a **strategic threat actor and coalition-builder**. She is dangerous because she can keep other dangerous people and Pokemon from becoming his.
+
+## Slow Infection, Not Sudden Reveal
+
+Giovanni's endgame should not arrive as a sudden postgame twist. It should feel, in hindsight, like the world was already being captured through proxies.
+
+Usable regional wrong notes:
+
+- **Hoenn:** mysterious backers inside Magma/Aqua noise, Devon pressure, Groudon/Kyogre/Rayquaza/Mega data harvesting, Draconid interference
+- **Sinnoh:** Galactic/dimensional-tech learning and proxy Champion-system tests such as a Tobias-style Darkrai case
+- **Kalos:** Champion-system anomaly, impossible challengers, Mega black markets, quiet Rocket/Aether money, or premature Ultra Beast contact
+- **Alola/Aether:** crisis infrastructure seized, repurposed, or inherited rather than invented from scratch
+
+The pattern should only become legible later, when Amber, Silver, Looker, Lance, Zinnia, and others compare different fragments of evidence. No single character should own the whole picture alone.
 
 ## Mega-Era Power Politics
 
@@ -76,6 +90,20 @@ After Kanto, Giovanni tries to repeat the same pattern globally:
 - use institutional capture to convert battlefield wins into durable political control
 
 Rainbow Rocket should therefore read as a **global coup / war architecture**, not merely a stronger evil-team coalition.
+
+## Distributed Leadership
+
+Amber should not be the single leader or singular solver of every mythic and political front.
+
+Preferred distributed leadership:
+
+- **Silver:** personal anti-Giovanni / anti-Rocket front
+- **Lance:** official League and Champion-system front
+- **Looker / International Police:** intelligence and counter-network front
+- **Zinnia:** legendary / Rayquaza / Delta front
+- **Amber:** trust bridge, impossible-problem specialist, and the person most able to move between these lanes without fully belonging to any institution
+
+Amber may help identify the connected pattern, but the durable direction is shared assembly rather than solitary revelation.
 
 ## Obsession Variants
 
@@ -136,6 +164,17 @@ The Amber/Giovanni endgame should land as a strategic and ideological clash, not
 
 The conflict is not "special bloodline vs special bloodline." It is **captured legitimacy and controlled force** versus **distributed trust and voluntary alliance**.
 
+## Mewtwo #2 and the Private Final Layer
+
+Current preferred direction is that Giovanni may still retain control of **Mewtwo #2** rather than losing it cleanly in the same way canon or the anime does.
+
+- Mewtwo #2 is a **controlled strategic weapon**, not a recurring boss monster.
+- Its story function is ideological proof for Giovanni: autonomy was the flaw in Mewtwo #1, so the answer is tighter engineering and tighter command.
+- It should be used sparingly before the endgame: rumors, aftermaths, one impossible defeat, psychic pressure, evidence that something too large is being kept off the public board.
+- The final confrontation can therefore stay partly **secretive**. Publicly, the world sees puppet regimes, Champion upsets, Ultra Beast incidents, and proxy crises. Privately, a small set of people understand that Giovanni himself, Mewtwo #2, and other controlled assets were the hand behind them.
+
+One strong endgame lane is a private climactic confrontation involving **Amber, Ceruledge, Vee, Mewtwo #1 / Mega Mewtwo Y, and a small set of allies** against Giovanni, Mewtwo #2, and controlled force. Exact composition remains open.
+
 ### The World Opening: Exploration as Ambition
 The drive to explore, to map the unknown, to push beyond safe borders — Kitakami, the dragon gauntlet — is also a form of obsession. Amber's discovery of Kitakami village is ambition directed outward: not conquest, but discovery. The same force that makes Giovanni a conqueror makes Amber an explorer.
 
@@ -155,8 +194,10 @@ Amber's speed of progression is extreme and unprecedented:
 - Age 15: Hoenn (conference winner — youngest ever)
 - Age 16: Kitakami I
 - Age 17: Sinnoh
-- Age 17-18: Paldea -> Kalos -> Kitakami II
-- Age 18: brief dimensional displacement / Alola-Ultra Space bridge
+- Age 17-18: Paldea -> Kalos
+- Age 18: brief dimensional displacement / Alola-Ultra Space reset
+- Age 18: Delta Episode / Hoenn return
+- Age 18: Kitakami II
 - Age 18-20+: later escalation / peak
 
 Alonso can also reach peak-level by endgame. Two characters shaped by consuming drive meet at the summit — the knight who chose greatness and the survivor who refused to stop.
@@ -171,7 +212,7 @@ Alonso can also reach peak-level by endgame. Two characters shaped by consuming 
 - [[../organizations/team-rocket]] — Team Rocket organization
 - [[../lore/government/champion-system]] — Champion system as captured legitimacy target
 - [[../arcs/saga-overview]] — Full arc structure
-- [[dimensional-displacement-bridge]] — post-Kitakami II fallout and Alola / Ultra Space bridge
+- [[dimensional-displacement-bridge]] — late-saga displacement and Alola / Ultra Space bridge
 - [[../themes/core-story-elements]] — Core story elements
 - [[mewtwo-thread]] — Mewtwo plot thread
 - [[giovanni-fuji-jail]] — Giovanni/Fuji jail aftermath

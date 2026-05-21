@@ -35,10 +35,21 @@ Created by Fuji for Project Chimera. The product Fuji was paid to deliver.
 Fuji, extracted from prison by Giovanni after the "disappear quietly" order, works in secret on New Island.
 
 - This is the Pokemon: The First Movie Mewtwo --- New Island, Nurse Joy disguise, the clone army, Mew vs. Mewtwo, that whole event plays out largely as in canon
-- Giovanni's weapon, briefly, before the situation unravels as in the movie
+- Current preferred direction is that this can remain **Giovanni's controlled weapon** longer than canon or the anime would
 - Qualitatively different from #1 --- safer, more controlled, deliberately engineered without the consciousness risk. Duller.
 - The point of Mewtwo #2 existing: it highlights why #1 is what it is. True autonomy wasn't a flaw. It's what Fuji accidentally made by actually caring about Amber. Controlled conditions produce a controlled result.
 - Fuji's constrained contribution to Mewtwo #2's designs (per `plot/giovanni-fuji-jail.md`) subtly refuses to recreate the consciousness-risk that birthed the first one. He's mellowing. He makes it safer and less. He knows what he's doing.
+
+### Mewtwo #2 Late-Saga Use
+
+Mewtwo #2 should be treated as a **strategic reserve**, not a recurring rival battle.
+
+- rumors of impossible defeats
+- psychic pressure without full visual payoff
+- aftermaths suggesting a weapon too dangerous to publicize
+- one or two decisive appearances at the edge of endgame, not a serialized monster-of-the-week pattern
+
+Its ideological role matters more than its screentime. Giovanni keeps it as proof that autonomy can be engineered out and legendary-class force can be centralized under command.
 
 ---
 
@@ -104,6 +115,8 @@ The ore thread connects four things without making any one of them the whole exp
 Charcadet's bond with Amber is not caused by the stone. Charcadet chooses Amber because it watches what she does for Teddiursa, first at the camp, then through the cave rescue and the later short stretch with Alonso. The ore is a parallel long thread from the same incident, not the mechanism of their bond.
 
 It turns out to be the thing that lets the first Mewtwo --- Fuji's real creation, the one made by accident through care rather than engineering --- achieve its fullest form.
+
+The endgame contrast is then clean: **Mewtwo #1** reaches Mega Mewtwo Y through voluntary alliance and earned trust, while **Mewtwo #2** stands for Giovanni's belief that control, not autonomy, was the real missing ingredient.
 
 That's the spine.
 

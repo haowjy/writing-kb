@@ -86,12 +86,12 @@ Updated on every ingest. See `../AGENTS.md` for conventions.
 | [saga-overview](arcs/saga-overview.md) | Saga Overview — full arc structural skeleton from start to peak |
 | [1-the-perfect-family](arcs/1-the-perfect-family.md) | Arc 1 outline: The Perfect Family — Fuji family drama; detailed through Ch.17 |
 | [arc1-kanto-year1](arcs/arc1-kanto-year1.md) | Arc 1 summary: Kanto Year 1 overview |
-| [arc2-hoenn](arcs/arc2-hoenn.md) | Future Arc 2: Hoenn — tentative direction; TR escalation; details TBD |
+| [arc2-hoenn](arcs/arc2-hoenn.md) | Future Arc: Hoenn — conference year, Zinnia first crossing, Mega seed, and early Giovanni wrong notes |
 | [arc3-beyond](arcs/arc3-beyond.md) | Future Arc 3+: Beyond — speculative; nothing locked |
 | [arc-celadon](arcs/arc-celadon.md) | Future Arc: Celadon — seed only |
 | [arc-4ever](arcs/arc-4ever.md) | Future Arc 4: 4Ever — Amber age 13; key beats locked, details TBD |
 | [arc-kitakami](arcs/arc-kitakami.md) | Future Arc 10: Kitakami — Amber age 16; key beats locked |
-| [arc-alola-ultra-space](arcs/arc-alola-ultra-space.md) | Future Arc: Alola / Aether / Ultra Space Reset — post-Kitakami II fugitive reset arc |
+| [arc-alola-ultra-space](arcs/arc-alola-ultra-space.md) | Future Arc: Alola / Aether / Ultra Space Reset — fugitive reset arc before Delta Episode and Kitakami II |
 | [arc-pikachu-handoff](arcs/arc-pikachu-handoff.md) | Future beat: The Pikachu Handoff — Year 2; far future, seed only |
 
 ### Plot Threads
@@ -103,7 +103,7 @@ Updated on every ingest. See `../AGENTS.md` for conventions.
 | [ursaring-rescue-thread](plot-threads/ursaring-rescue-thread.md) | Teddiursa / Mother Ursaring Rescue — Route 1 promise, Rocket removal, and future reunion/experiment thread |
 | [giovanni-fuji-jail](plot-threads/giovanni-fuji-jail.md) | Scene planning: Giovanni–Fuji jail confrontation (Rev B) — ends with "make him disappear quietly"; Fuji survives off-books |
 | [rainbow-rocket-endgame](plot-threads/rainbow-rocket-endgame.md) | Rainbow Rocket Endgame — Giovanni's conquest ambition vs Amber; culmination of obsession variants |
-| [dimensional-displacement-bridge](plot-threads/dimensional-displacement-bridge.md) | Post-Kitakami II dimensional bridge — brief real-world displacement, then Aether/Lusamine extraction into the Alola reset arc |
+| [dimensional-displacement-bridge](plot-threads/dimensional-displacement-bridge.md) | Late-saga dimensional bridge — brief real-world displacement, then Aether/Lusamine extraction into the Alola reset arc |
 | [team-rocket-surveillance](plot-threads/team-rocket-surveillance.md) | TR Surveillance — long-term threat escalating from observation toward active pursuit of Amber/Ditto |
 | [saffron-gym-rivalry](plot-threads/saffron-gym-rivalry.md) | Saffron Gym Rivalry — Kyle vs Sabrina proxy war; inherited duty vs raw psychic power; Kyle eventually wins then leaves to adventure |
 | [forged-documents](plot-threads/forged-documents.md) | Forged Documents — background legal tension and future interlude material |
