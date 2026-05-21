@@ -107,7 +107,22 @@ Good setup path:
 1. Ch. 7 quest board establishes rescue/item/investigation infrastructure.
 2. Ch. 20-21 Route 1 cave shows a dungeon-adjacent anomaly without naming the full system.
 3. Later chapters/arcs reveal that such places are a known phenomenon with Ranger warnings, quest postings, and adventurer lore.
-4. Major future locations, especially Kitakami-scale impossible places, can use Mystery Dungeon logic more openly.
+4. A later Alonso-led mini-arc explicitly onboards Amber and the reader: after several chance encounters, Amber asks what Mystery Dungeons are, and Alonso illegally or semi-illegally sneaks her past the route boundary to show her one.
+5. Major future locations, especially Kitakami-scale impossible places, can use Mystery Dungeon logic more openly.
+
+## Early Explicit Alonso Mini-Arc Direction
+
+A later early-Kanto Alonso episode can be the first explicit Mystery Dungeon lesson. It should occur after the Route 1 / Team Rocket cave incident and after Amber has encountered Alonso enough that asking him about Mystery Dungeons feels natural.
+
+Working direction:
+
+- Alonso brings Amber because she asked and because he wants to show her the wonder of the thing, not because he is making a philosophical argument.
+- He sneaks her past or around the official route boundary. This is technically illegal / against safety rules, but not pure idiocy: he has some prior knowledge, supplies, and Pokemon suited for scouting and rescue.
+- The dungeon can contain treasure, salvage, or valuable materials, giving adventurers a reason to keep going. Keep this material ordinary enough that it does not hijack the arc into a major relic plot.
+- A rude Kanto adventurer crew can complicate the trip. They are not a formal evil team; they are claim-jumpers / treasure hunters / gray-zone quest takers who show why adventurers may have a bad reputation.
+- Alonso should not lecture about true adventure versus bad adventure. He may not even initially interpret them as symbolic corruption. Amber can notice the reputation/system problem; Alonso reacts when concrete cruelty or abandonment happens.
+
+This mini-arc is also a strong place for the younger Charcadet bond: Amber's fire trauma is triggered, she flinches from Charcadet's flames, but still protects Charcadet and later trusts it with a practical task.
 
 ## Related Pages
 

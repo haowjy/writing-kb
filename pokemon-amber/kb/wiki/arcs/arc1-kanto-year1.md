@@ -94,11 +94,14 @@ This is NOT desperate survival. It's the gap between theory and experience.
 - **Capture:** Not captured at the camp or immediately after the cave. Its choice comes after observing Amber's pattern over a short stretch with Alonso. At the eventual separation, Alonso recognizes Charcadet's choice and lets it go. Amber catches it after that choice is clear.
 - **The ore thread:** The strange Mew-adjacent ore from the Viridian cave incident is a Rocket/Mewtwo/Mewtwonite Y setup, not a Charcadet custody thread. Charcadet is present for the incident because Alonso brought it to Kanto, but it should not be treated as the ore guardian or as handing Amber the ore before 4Ever. See [[../plot-threads/mewtwo-thread]].
 
+- **Alonso's team context:** Alonso currently has two Charcadet: a very strong starter/ace that has not found Auspicious Armor yet, and a younger weaker sibling who becomes Amber's Charcadet. His team also includes Talonflame for scouting/travel and final-evolution Pawmot for field support/rescue utility.
+- **Mystery Dungeon bond beat:** The actual capture/choice should likely happen in a later Alonso-led Mystery Dungeon mini-arc, after several chance encounters. Amber asks what Mystery Dungeons are; Alonso sneaks her past the official route boundary to show her one. Younger Charcadet gets in over its head or loses control with fire; Amber visibly flinches from old fire trauma but protects it anyway, then later trusts it with a practical task. This is the specific emotional proof that makes the choice land.
+
 ### Teddiursa
 - **When/where:** Route 1, Day 2. Amber encounters him before the cave --- he's aggressive and attacks humans because humans/Team Rocket are tied to his mother's disappearance.
 - **Personality:** Grievance-driven, not warm. He's not a comfort bear; he's a small animal trying to get to his mother.
 - **The deal:** Amber realizes there should be an Ursaring nearby and there isn't. She promises to help save his mother. Teddiursa does not trust Amber because she is kind; he tolerates her because she names the actual problem and moves toward it.
-- **Camp trigger:** Teddiursa recognizes Team Rocket at the hidden camp and charges before Amber can plan. Amber protects him and takes a meaningful but not catastrophic hit. Alonso then arrives with Armarouge and Charcadet to save her.
+- **Camp trigger:** Teddiursa recognizes Team Rocket at the hidden camp and charges before Amber can plan. Amber protects him and takes a meaningful but not catastrophic hit. Alonso then arrives with his strong starter Charcadet and the younger Charcadet to save her.
 - **Cave escalation:** In Ch. 21, Rocket releases/provokes Ursaring. She rampages, briefly recognizes Teddy, then Rocket forcefully recalls/removes her as collapse/rubble cuts them off.
 - **Rescue agency:** After Amber and Alonso are trapped, Teddiursa, Charcadet, and Ditto slip out through a small passage to bring back help. Teddy has to carry part of the promise too.
 - **Ursaring thread:** Amber's promise to help Teddiursa save his mother remains unfulfilled. Teddiursa and Ursaring should eventually reunite, likely through a later, more serious Team Rocket experiment or operation involving rage/obedience/battle-drug/living-weapon use.
@@ -191,7 +194,7 @@ Key beats regardless of outcome:
 
 **Escalating background threat.** Not the primary story engine for Arc 1, but present and growing.
 
-- Day 2 Route 1 incident: grunts file a report (girl with a Ditto, Paldean adventurer Alonso, Armarouge/Charcadet, possible Paldean crew nearby, disrupted camp/cave operation, Ursaring removed during collapse)
+- Day 2 Route 1 incident: grunts file a report (girl with a Ditto, Paldean adventurer Alonso, two Charcadet, possible Paldean crew nearby, disrupted camp/cave operation, Ursaring removed during collapse)
 - Giovanni personally takes her measure at Viridian: not actionable at 13, filed away
 - Grunt-level grudge through Arc 1: the grunts who were embarrassed by a 13-year-old keep an eye out. Low-level, not organizational.
 - Minor encounters, interference with gym circuit (pulling Amber into situations)
@@ -327,7 +330,7 @@ They find a hidden Team Rocket camp or field operation outside a guarded cave. T
 
 Ditto helps defensively, but the Oak-Arcanine memory reveal is saved for a later crisis.
 
-Alonso Quijano arrives with Armarouge and Charcadet after Amber has already made the dangerous choice. He saves her from the consequences becoming fatal. Armarouge demonstrates disciplined, controlled fire; Amber may flinch, but Alonso is competent and sincere without needing archaic or performative knight-speech. His ideal comes through action: someone had to help, so he did.
+Alonso Quijano arrives with his strong starter Charcadet and the younger Charcadet after Amber has already made the dangerous choice. He saves her from the consequences becoming fatal. Alonso's starter demonstrates disciplined, controlled fire; Amber may flinch, but Alonso is competent and sincere without needing archaic or performative knight-speech. His ideal comes through action: someone had to help, so he did.
 
 Charcadet notices Amber's protective act. This is only the seed, not a capture.
 

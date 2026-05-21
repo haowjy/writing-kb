@@ -116,6 +116,20 @@ Private adventurer organizations exist outside government structures:
 - **Local vs international:** Some guilds are regional (operating in one mountain range or archipelago); others are interregional networks of expedition crews
 - **The Horizons Explorers** are one such fellowship — lightly adapted into this world as an example of organized adventurer culture. Alonso admires them as one expression of the adventurer ideal he grew up with in Paldea
 
+## Reputation and Bad Actors
+
+Adventurers should not be universally romanticized. In Kanto especially, the label can carry a bad reputation because many self-identified adventurers operate in gray zones:
+
+- chasing treasure, salvage, and rare Pokemon for money
+- claim-jumping dungeons or caves after someone else finds them
+- treating rescue or route work as an extraction opportunity
+- selling location data, Pokemon information, or route intelligence to questionable buyers
+- ignoring injuries or collateral damage when no one is paying them to care
+
+These people are not necessarily Team Rocket and should not automatically become a formal evil team. Their usefulness is mundane: they show that the same culture Alonso finds romantic can attract greedy, rude, or dangerous people.
+
+Alonso himself should not become an anti-corruption spokesman. He loves adventure and acts when someone concrete is hurt or abandoned. Amber is more likely to notice the broader pattern: in Kanto, "adventurer" can mean wonder, but it can also mean off-route treasure guy with flexible ethics.
+
 ## Cross-Refs
 
 - [[licensing]] — official trainer tiers; no Adventurer tier exists here

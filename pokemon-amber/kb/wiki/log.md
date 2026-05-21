@@ -269,3 +269,11 @@ package update, separate repo).
 - Recorded the current preferred Delta Episode adaptation: Zinnia owns the Draconid/Rayquaza burden and decisive action; Amber's later role is crucial but supporting, supplying the missing Meteorite condition and opposing dimensional-disposal logic after Alola.
 - Updated `plot-threads/mewtwo-thread.md` so Mewtwo #2 is framed as a controlled late-game strategic reserve used sparingly, not a recurring boss.
 - Updated `wiki/index.md` summaries for the Hoenn, Alola, and dimensional-bridge pages to match the new structure.
+
+## 2026-05-21 — Locked Alonso team and Charcadet Mystery Dungeon bonding direction
+
+- Updated `characters/alonso-quijano.md`: Alonso's Arc 1 team is now strong starter Charcadet / younger sibling Charcadet / Talonflame / final-evolution Pawmot. The starter Charcadet is very strong but has not yet found Auspicious Armor, keeping Alonso competent but still incomplete. The younger sibling is Amber's future Charcadet.
+- Updated `plot-threads/charcadet-to-ceruledge-throughline.md`: Charcadet's eventual choice should come after several Alonso encounters, likely during a later Mystery Dungeon mini-arc rather than immediately after the Route 1 Rocket cave. Amber's fire trauma becomes specific bonding logic: she flinches from Charcadet's fire, protects it anyway, then later trusts it with a practical task.
+- Updated `lore/mystery-dungeons.md` and `arcs/arc1-kanto-year1.md`: Alonso may semi-illegally sneak Amber past the route boundary to show her a Mystery Dungeon because she asked. Treasure/salvage can motivate continued exploration, but should stay ordinary enough not to hijack the arc into a major relic plot.
+- Updated `lore/trainer-systems/adventurer-system.md`: Kanto adventurers can have a bad reputation due to money, treasure, rare-Pokemon hunting, claim-jumping, and gray-zone ethics. These antagonists should be mundane rude adventurers / treasure crews, not a formal evil team.
+- Clarified Alonso's characterization: he should not lecture about true adventure versus corrupt adventure. He loves adventure and reacts when concrete cruelty or abandonment happens; Amber can be the one who notices the broader structural/reputation problem.

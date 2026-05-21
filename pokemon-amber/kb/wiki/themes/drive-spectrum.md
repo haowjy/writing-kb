@@ -128,7 +128,7 @@ Mewtwo is the product of others' obsession seeking autonomy. Its drive begins as
 
 ### Charcadet / Ceruledge
 
-Charcadet is becoming: what shape will this fire take, and who gets to shape it? Alonso and Armarouge offer one possible path. Amber offers a beginning. Rocket/Ceruledge forces a corrupted path through theft and weaponization.
+Charcadet is becoming: what shape will this fire take, and who gets to shape it? Alonso and the older/starter Charcadet offer one possible path; its eventual Armarouge form remains the mature version of that path. Amber offers a beginning. Rocket/Ceruledge forces a corrupted path through theft and weaponization.
 
 ## Design Rule
 

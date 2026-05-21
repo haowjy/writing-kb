@@ -72,7 +72,7 @@ Don Q should remain morally textured, but not secretly vindicated into pure trut
 
 Alonso is **why Charcadet is in Kanto.**
 
-He brought Charcadet from Paldea as part of his early team. Charcadet was with him through the expedition crossing — a companion from home, not a capture. When Alonso encounters Amber in Arc 1 and sees the beginning of her quest, Charcadet observes her too.
+He brought two Charcadet from Paldea as part of his early team. His starter is a very strong, fiery Charcadet that has not yet found the Auspicious Armor needed to evolve; this keeps Alonso serious and battle-tested but still incomplete. The second, weaker Charcadet is the starter's younger sibling and the one who will eventually choose Amber.
 
 Eventually **Charcadet chooses Amber.**
 
@@ -86,14 +86,14 @@ This intersects with the Mew-adjacent ore thread from the early Viridian cave in
 
 ### Early Team (Arc 1, when he meets Amber)
 
-- **Armarouge** — his ace; a fully evolved Paldean armored Pokemon, the disciplined embodiment of the ideals Alonso lives without needing to call himself a knight
-- **Charcadet** — the one who will eventually choose Amber; part of Alonso's team in Arc 1
-- **Talonflame** — speed and aerial coverage; a fire-type line that complements Alonso's bold adventurer identity
-- **Pawmot** — an unconventional pick from Paldea; scrappy, surprising, reflects Alonso's willingness to see value in unexpected places
+- **Charcadet** — his starter and current ace; very strong, fiery, battle-tested, and still unevolved because Alonso has not found Auspicious Armor yet
+- **Charcadet** — the starter's younger sibling; weaker, less settled, and the one who will eventually choose Amber
+- **Talonflame** — speed, scouting, aerial rescue, and travel utility; gives Alonso real field competence rather than only romantic imagery
+- **Pawmot** — final evolution; scrappy field support / rescue utility, practical counterweight to Alonso's romance of adventure
 
 ### Peak Team (Endgame Return)
 
-- Armarouge (ace)
+- Armarouge (his starter Charcadet's eventual evolved form and mature ace)
 - Talonflame
 - Pawmot
 - **Corviknight** — steel-armored flier; visual irony against his rejection of the knight role, acquired during his own growth arc
@@ -116,6 +116,15 @@ Alonso imports the **Paldean adventurer myth** into Kanto — a structural contr
 Alonso admires adventurers broadly. The Horizons Explorers are one example he respects, but not the only one — he is not a fanboy, just someone who recognizes kindred spirits.
 
 When Alonso enters Kanto, he doesn't reject the gym system — he simply operates in a frame where a gym badge is one marker among many, not the organizing principle of a trainer's life. This gives Amber a different lens on her own journey, even before she fully internalizes it.
+
+
+## Alonso and Adventurer Culture
+
+Alonso should **not** become a thesis-mouthpiece about true adventure versus corrupt adventure. His instinct is closer to a Luffy-type clarity: he loves adventure, does not analyze systems much, and does not generalize from every bad actor he meets. He may initially treat rude or extractive adventurers as rivals, nuisances, or fellow troublemakers rather than moral symbols.
+
+His line is concrete cruelty. If someone abandons a Pokemon, endangers a companion, steals from the vulnerable, or leaves people behind, Alonso acts. He does not need to explain why.
+
+Amber can notice the broader structural problem that Kanto adventurers may have a bad reputation because many operate in legal gray zones and chase money, treasure, or rare Pokemon. Alonso's role is to remain himself: excited, reckless, sincere, competent, and morally clear when a living being is actually in danger.
 
 ## Interregional Travel Context
 
