@@ -5,7 +5,7 @@ category: arc-structure
 spoilers: true
 status: planning
 hidden: true
-updated: 2026-05-19
+updated: 2026-05-20
 ---
 
 # Saga Overview — Full Arc Structure
@@ -199,7 +199,7 @@ The raid team should stay small — roughly 4-6 humans Amber trusts who are indi
 ### Arc 15 — Real-World Displacement / Alola Reset
 **Amber age:** 18 | **Region:** dimensional displacement -> Alola / Ultra Space
 
-After Kitakami II, Mega Darkrai fallout and Mega/dream residue may tear space badly enough to displace Amber into the real mundane world for a brief, painful interlude before **Aether / Lusamine** pull her back through Ultra Wormhole technology. Alola then functions as a mini-reset arc: Amber is still highly capable, but loses easy access to paperwork, roster depth, trusted infrastructure, and mainland support while Aether's crisis turns her into a local anomaly to contain or blame. This is currently planning direction, not full canon lock on mechanics.
+After Kitakami II, Mega Darkrai fallout and Mega/dream residue may tear space badly enough to displace Amber into the real mundane world for a brief, painful interlude before **Aether / Lusamine** pull her back through Ultra Wormhole technology. Alola then functions as a mini-reset arc: Amber is still highly capable, but loses easy access to paperwork, roster depth, trusted infrastructure, and mainland support while Aether's crisis — amplified by Giovanni's existing tendrils in Aether and adjacent institutions — turns her into a locally wanted anomaly to contain or blame. This is currently planning direction, not full canon lock on mechanics.
 
 See: [[arc-alola-ultra-space]], [[../plot-threads/dimensional-displacement-bridge]]
 
@@ -212,10 +212,16 @@ Mega Evolution fully harnessed. Peak roster assembling. The story shifts from "t
 
 - Political dimension: institutions, League, government — does she work within them or outside?
 - Mega-era power politics: trainers and their partners are now strategic actors, not just competitors
-- Team Rocket / Rainbow Rocket — Giovanni, coalition war, the full dismantling
+- Team Rocket / Rainbow Rocket — Giovanni, Kanto-first conquest, puppet legitimacy, coalition war, the full dismantling
 - Other evil teams and regional crises
 - Lance as peer — fight alongside him, not under him
 - Age 18–20+: peak physical and Pokemon bond capacity
+
+Late-saga Giovanni direction:
+- His first overt conquest move turns inward on **Kanto**, the place where his war trauma and ideology began.
+- He captures legitimacy as well as territory: one of his top commanders or allied proxies becomes a **puppet Champion** through force-backed institutional capture.
+- After Kanto, he tries to repeat the model globally through compromised governments, seized League infrastructure, port and wormhole control, and monopoly over Mega / Ultra Beast / legendary-class force.
+- Amber's counter-model is coalition through earned trust rather than centralized control.
 
 **Mewtwo #1 reunion / Genesect crisis:** Still future and not yet pinned to a specific slot in the macro order. The durable part is the thread, not the exact arc placement. Material from the early Viridian Mew-adjacent ore thread resurfaces as Mewtwonite Y and helps Amber support Mewtwo #1 during the crisis.
 
@@ -223,7 +229,7 @@ See: [[../plot-threads/mewtwo-thread]]
 
 **The question is no longer how strong she is. It's what she's fighting for.**
 
-**Endgame — Rainbow Rocket Giovanni:** The final antagonist is a Giovanni who would have conquered the world except for Amber. This confrontation culminates the saga's obsession variants — Fuji's grief, Giovanni's conquest, Alonso's chosen ideal, Amber's protection, Charcadet/Ceruledge's loyalty, Mewtwo's autonomy. The question is no longer who is strongest but what each character's drive was for.
+**Endgame — Rainbow Rocket Giovanni:** The final antagonist is a Giovanni who would have conquered the world except for Amber. This confrontation culminates the saga's obsession variants — Fuji's grief, Giovanni's conquest, Alonso's chosen ideal, Amber's protection, Charcadet/Ceruledge's loyalty, Mewtwo's autonomy. The question is no longer who is strongest but what each character's drive was for, and whether force will be centralized through capture or distributed through trust.
 
 ---
 

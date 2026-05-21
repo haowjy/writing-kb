@@ -4,7 +4,7 @@ scope: arc
 spoilers: true
 status: seed
 hidden: true
-updated: 2026-05-19
+updated: 2026-05-20
 ---
 
 # Future Arc: Alola / Aether / Ultra Space Reset
@@ -24,6 +24,7 @@ This reset is **circumstantial, not personal**. Amber is still competent, danger
 - **Arc function:** Alola is a forced reset after escalation. The point is exhaustion, improvisation, and isolation, not a clean victory lap after Kitakami.
 - **Pressure model:** Amber is weakened by circumstance rather than by loss of competence or conviction.
 - **Institutional shape:** Alola is connected to the wider world by this point, but unevenly. High-end institutions are globally linked; local trust and logistics are not.
+- **Rocket position:** By this stage Giovanni already has tendrils inside Aether and adjacent Alolan institutions; he is not a postgame surprise arrival.
 - **Emotional template:** The immediate Lusamine material should lean closer to **Sun/Moon-style Nihilego obsession** than to **Ultra Sun/Ultra Moon-style Necrozma escalation**, though later Ultra Space material can remain available.
 
 ## Aether / Lusamine Crisis Window
@@ -36,8 +37,35 @@ The current preferred version is that Amber arrives during **Aether Ultra Wormho
 - Amber's arrival may destabilize the experiment, coincide with an unstable opening, or otherwise become entangled with the failure state that follows.
 - A second wormhole event then leads into the familiar **Lusamine / Nihilego** disaster lane: pulled into, corrupted by, or partially merged with Nihilego.
 - After the incident, Aether treats Amber as an anomaly, contaminant, saboteur, or Ultra Beast-adjacent risk, which makes her locally wanted and forces the arc into survival mode.
+- Giovanni's embedded network helps turn the disaster into a formal manhunt through compromised staff, security channels, bureaucratic contacts, media/legal framing, and shell-company pressure around the scandal.
 
-The exact technical chain is still open. The durable part is the timing, Lusamine's fixation, and the fact that the disaster hardens Aether against Amber rather than turning Aether into a safe haven.
+The exact technical chain is still open. The durable part is the timing, Lusamine's fixation, the resulting Aether power vacuum, and the fact that the disaster hardens Aether against Amber rather than turning Aether into a safe haven.
+
+## Giovanni's Alola Position
+
+By the Alola arc, Giovanni should already have meaningful tendrils in:
+
+- **Aether staff or executives**
+- port or transport security
+- League, government, or bureaucratic contacts
+- media and legal channels that shape the public story
+- shell companies, procurement fronts, or equivalent infrastructure
+
+Lusamine's disappearance, incapacitation, or political collapse after the **Nihilego** crisis creates the kind of vacuum he knows how to exploit. The important point is not that Rocket openly conquers Alola on day one. The important point is that Giovanni already has enough access to make the crisis pay strategic dividends.
+
+## Wanted Status / Fugitive Reset
+
+Amber's Alola fugitive status should be enabled by a mix of real chaos and manipulated narrative.
+
+Usable accusations include:
+
+- lab sabotage
+- Ultra Beast contamination risk
+- attack on Foundation personnel
+- illegal entry or undocumented cross-world arrival
+- interference with emergency containment procedures
+
+The arc works best if some of the evidence is messy enough to be plausible on paper while still being politically weaponized in practice.
 
 ## Why Amber Can Still Be Isolated In Alola
 
@@ -48,6 +76,17 @@ Alola should not read as a sealed fantasy island cut off from the rest of the se
 - But local island culture, kahuna authority, informal routes, and Pokemon Center expectations remain less standardized than mainland systems.
 
 This asymmetry is what the arc needs. Amber can be broadly famous enough that some institutions would know her name, while still being unable to clear herself quickly because Aether controls the local narrative, the practical choke points, and much of the immediate security response.
+
+## Ultra Beast Appropriation
+
+The Alola crisis should double as Giovanni's reconnaissance / appropriation phase for the later Rainbow Rocket war.
+
+- He exploits Aether's wormhole research, containment systems, logistics, and scandal fallout.
+- He uses compromised staff and captured infrastructure to identify what can be stolen, redirected, or quietly inherited after the crisis.
+- Later Rocket / Rainbow Rocket operations use that infrastructure to **bring over or capture Ultra Beasts and other Pokemon from other dimensions**.
+- Those imports become strategic assets under Rocket control rather than a sudden postgame cameo reveal.
+
+Exact ratios remain open: how much is direct Giovanni engineering, how much is stolen Aether work, and how much is opportunistic capture during institutional collapse.
 
 ## Gladion
 
@@ -125,3 +164,5 @@ This beat should stay **symbolic rather than causal**. Aether locks onto Amber b
 - [[../plot-threads/dimensional-displacement-bridge]] — real-world displacement and Aether extraction handoff
 - [[../characters/amber-mc-team]] — Alola team direction
 - [[../lore/world-opening-timeline]] — wider-world connectivity context
+- [[../organizations/team-rocket]] — Rocket's institutional capture model
+- [[../plot-threads/rainbow-rocket-endgame]] — later war this arc helps set up

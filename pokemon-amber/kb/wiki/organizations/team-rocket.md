@@ -4,7 +4,7 @@ category: lore
 title: Team Rocket Organization
 status: draft
 hidden: false
-updated: 2026-03-30
+updated: 2026-05-20
 canon: true
 ---
 
@@ -169,6 +169,16 @@ Team Rocket's origin is rooted in a clan rejection. See [[clans/silvertail]] and
 - Restore Kanto pride and independence
 - Build superweapon capable of revenge against Mt. Silver legendaries
 
+### Rainbow Rocket Trajectory
+
+Giovanni's later strategic doctrine grows out of the same nationalism, not out of a separate surprise endgame motivation.
+
+- **Mewtwo** is the first answer: build a Kanto-controlled weapon stronger than the forces that humiliated Kanto at **Mt. Silver**.
+- When that fails, he shifts from a single superweapon model to a broader **captured-force model**: Mega-capable elites, Ultra Beasts, cross-dimensional assets, corrupt institutions, and proxy champions.
+- His first overt conquest move turns inward on **Kanto**. This is emotional as well as strategic: taking Kanto by force proves that power beats legitimacy in the place that matters most to him.
+- He uses the League system itself, not just terror, by backing a **puppet Champion** or equivalent legitimized proxy. The exact figure remains open.
+- After Kanto, he attempts to repeat that model globally.
+
 **Backers:**
 - Kanto hardliner elites (wealthy nationalists)
 - Silph Co. executives (business interests + ideology)
@@ -221,6 +231,27 @@ Team Rocket's origin is rooted in a clan rejection. See [[clans/silvertail]] and
 - Black market hub (backroom deals)
 - Stolen Pokemon holding facility (basement)
 - Intelligence gathering (observe wealthy patrons, recruit desperate gamblers)
+
+### Alola / Aether Infiltration
+
+By the Alola arc, Team Rocket should already have meaningful tendrils in:
+
+- **Aether Foundation staff or executives**
+- port, customs, or transport security
+- government and League-adjacent bureaucratic channels
+- media or legal channels useful for narrative shaping
+- shell companies, procurement fronts, and logistics infrastructure
+
+This lets Rocket exploit the **Lusamine / Nihilego** crisis rather than arriving afterward as a disconnected cameo force.
+
+### Ultra Beast / Cross-Dimensional Asset Pipeline
+
+Rocket's later Rainbow Rocket escalation uses Aether-derived infrastructure and research to:
+
+- monitor or manipulate wormhole openings
+- capture, transport, and contain **Ultra Beasts**
+- bring over or seize other Pokemon from other dimensions when feasible
+- convert crisis-era research and containment systems into long-term strategic assets
 
 ### Rare Pokemon Operations
 
@@ -332,9 +363,10 @@ Team Rocket's origin is rooted in a clan rejection. See [[clans/silvertail]] and
 
 **Escalation Potential:**
 - Passive surveillance → active pursuit
-- Targeting Amber directly (Ditto's value, Fuji connection)
-- Mewtwo project relevance (Amber is clone, Fuji's research)
+- Targeting Amber directly as a growing **strategic threat** and coalition-builder, not merely as lab-interesting material
+- Mewtwo project relevance (Amber is in the file), but later Rocket concern is just as much about what she keeps doing to their operations
 - Political dimension (nationalism, Kanto-Johto tensions)
+- Alola crisis exploitation, then Rainbow Rocket institutional capture at global scale
 
 **Thematic Role:**
 - Power vs. principle

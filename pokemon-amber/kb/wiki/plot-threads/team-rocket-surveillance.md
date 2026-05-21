@@ -3,10 +3,10 @@ type: note
 scope: story
 category: plot-thread
 spoilers: true
-status: idea-to-explore
+status: drafting
 hidden: true
 created: 2025-10-14
-updated: 2025-10-15
+updated: 2026-05-20
 ---
 
 # Team Rocket Surveillance Plot
@@ -19,11 +19,12 @@ updated: 2025-10-15
 
 - Team Rocket knows about Fuji's arrest and research
 - Amber has documented connection to Dr. Fuji (forged documents list her as daughter)
-- They might be watching her to:
-  - Recover Fuji's research/notes
-  - Acquire Ditto (perfect-copying clone is valuable)
-  - Find out what else Fuji created
-  - Leverage her to get Fuji to cooperate from jail
+- Early surveillance can begin for obvious research-adjacent reasons:
+  - recover Fuji's research/notes
+  - acquire Ditto (perfect-copying clone is valuable)
+  - find out what else Fuji created
+  - leverage her to get Fuji to cooperate from jail
+- The durable direction, however, is that Rocket's long-term fixation on Amber is **not** mainly because she is uniquely lab-interesting. It is because she keeps turning into a practical operational problem.
 
 ### Giovanni's Nationalist Motivations
 
@@ -38,11 +39,13 @@ Giovanni's interest in Amber/Ditto/Fuji isn't just about profit or acquiring a v
 - Superweapon to ensure Kanto can dominate Johto AND subdue legendary opposition
 
 **Amber's Strategic Value:**
-- **Living proof Fuji's cloning works** (even if she doesn't know she's a clone)
-- Ditto shows Fuji perfected transformation/copying technology
-- Amber herself might be prototype for cloning process that creates Mewtwo
-- **Leverage against Fuji**: Giovanni needs Fuji's cooperation to complete Mewtwo
-- If Fuji refuses, threatening Amber (his "daughter") might force compliance
+- She repeatedly survives Rocket pressure instead of disappearing.
+- She keeps ruining or complicating Rocket-linked operations.
+- Her file touches **Fuji**, **Ditto**, **Oak**, **Mewtwo**, and later broader interregional escalation.
+- She is mobile across regions and remains relevant as the force scale rises.
+- She tends to create teams, loyalties, and improvised coalitions around herself.
+
+Fuji/Mewtwo/cloning relevance remains part of why the file opens. It should not remain the whole reason the file stays hot.
 
 **Why This Makes TR Persistent:**
 - Giovanni's nationalist agenda (not just mother's profit motive)
@@ -53,11 +56,10 @@ Giovanni's interest in Amber/Ditto/Fuji isn't just about profit or acquiring a v
 - Madame Boss (his mother) wants profit from selling rare Pokemon; Giovanni wants superweapons
 - TR has resources from both: mother's criminal infrastructure + hardliner elite funding
 
-**Amber as Unwitting Symbol:**
-- Represents what Giovanni wants: artificial Pokemon stronger than nature
-- Her existence proves legendaries can be matched/exceeded
-- If Fuji can clone humans perfectly, he can clone legendary Pokemon
-- Giovanni's revenge against Mt. Silver legendaries embodied in cloning technology
+**Amber as Unwitting Counter-Model:**
+- Giovanni centralizes force through ownership, hierarchy, and captured legitimacy.
+- Amber keeps generating power through trust, reciprocal loyalty, and people choosing to stand with her.
+- That makes her politically dangerous to Rocket in a way a mere specimen would not be.
 
 ### Initial Phase: Passive Observation
 
@@ -85,6 +87,11 @@ Giovanni's interest in Amber/Ditto/Fuji isn't just about profit or acquiring a v
 - Confrontations become unavoidable
 - Companions dragged into danger
 - Discovery that she's been tracked since leaving Pallet
+
+### Stage 4: Strategic Containment
+- Rocket tries to discredit, isolate, or frame Amber rather than only steal from her
+- Bureaucratic and institutional channels become part of the threat model
+- This later scales naturally into the Alola fugitive/reset arc
 
 ## Narrative Tension Points
 
@@ -126,17 +133,16 @@ Giovanni's interest in Amber/Ditto/Fuji isn't just about profit or acquiring a v
    - Oak warns her
    - She figures it out herself
 
-3. **What's Rocket's endgame?**
-   - Just Ditto?
-   - Information about Fuji's other work?
-   - Leverage to force Fuji's cooperation?
-   - All of the above?
+3. **What's Rocket's endgame at each stage?**
+   - Early: Ditto, Fuji leverage, research recovery
+   - Mid: operational disruption management and threat assessment
+   - Late: strategic containment of a cross-regional coalition-builder
 
-4. **How does it resolve?**
+4. **How does it resolve or transform?**
    - Direct confrontation
    - Oak intervention
-   - Amber proves not worth the effort
-   - Rocket's priorities shift elsewhere
+   - Rocket loses the ability to keep the hunt quiet
+   - The surveillance thread mutates into open war / institutional framing instead of disappearing
 
 ## Related Files
 

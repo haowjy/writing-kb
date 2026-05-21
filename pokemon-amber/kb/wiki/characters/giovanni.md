@@ -1,6 +1,7 @@
 ---
 status: drafting
 spoilers: true
+updated: 2026-05-20
 ---
 
 # Giovanni
@@ -64,6 +65,27 @@ Giovanni's nationalism comes from the Kanto-Johto Unification War. Kanto lost to
 
 See [[../lore/history/kanto-johto-unification-war]].
 
+## Strategic Doctrine
+
+Giovanni's late-saga doctrine is not "collect more monsters until he wins." It is **centralize force until legitimacy has to serve him**.
+
+- He treats legendary-class force, Mega-capable trainers, and later Ultra Beast assets as strategic infrastructure.
+- He prefers capture from within to simple open war whenever institutions can be bent to his purposes.
+- His first overt conquest move turns inward on **Kanto**, because Kanto is both his wound and his proof target.
+- One of his senior commanders or allied proxies eventually serves as a **puppet Champion** under Rocket control; the exact identity remains intentionally open.
+- After Kanto, he attempts to replicate the model globally through compromised governments, League structures, ports, security, and wormhole infrastructure.
+
+## Why Amber Matters
+
+Amber matters to Giovanni less as a specimen than as a file that keeps getting worse.
+
+- She repeatedly survives or ruins Rocket-linked operations.
+- She intersects multiple priority dossiers at once: **Fuji**, **Ditto**, **Mewtwo**, **Oak**, and later Mega-era force politics.
+- She crosses regions instead of staying local.
+- She keeps gathering allies and Pokemon loyalty around herself.
+
+By late saga, Giovanni reads Amber as a **strategic rival and team-builder**. She is dangerous because she produces trust-based coalitions that do not belong to him.
+
 ## Connections to Other Plot Threads
 
 - [[../plot-threads/giovanni-fuji-jail]] --- post-arc consequences after the Fuji incident
@@ -79,8 +101,10 @@ See [[../lore/history/kanto-johto-unification-war]].
 - Not yet a direct antagonist she encounters face-to-face
 
 ### Future Arcs
-- Direct antagonist as TR's pursuit of Ditto/Amber escalates
-- Mewtwo project endgame
+- Direct antagonist as TR's pursuit of Amber evolves from research-adjacent interest into strategic threat recognition
+- Alola / Aether infiltration lets him exploit a crisis and appropriate wormhole / containment infrastructure before open conquest
+- Mewtwo project remains important, but no longer explains all of Giovanni's interest by itself
+- Kanto-first conquest and puppet-legitimacy model anchor the Rainbow Rocket war
 - Possible Giovanni vs. Mewtwo confrontation (Mewtwo IS the project that betrays its creators)
 - Mother/son organizational split potentially exploitable
 

@@ -249,3 +249,12 @@ package update, separate repo).
 - Updated `plot-threads/rainbow-rocket-endgame.md` so late-saga power is framed as Mega-era strategic force: strong trainers, legendary-class combatants, and Mega-capable elites become political actors, and Rainbow Rocket should read as the first global war of the Mega era.
 - Added `plot-threads/dimensional-displacement-bridge.md` for the post-Kitakami II fallout direction: brief displacement into the actual mundane real world, hollow/painful Pokemon-media beat, minimal bureaucracy subplot, and Aether/Lusamine extraction into the Alola / Ultra Space bridge.
 - Updated `wiki/index.md` to catalog the new dimensional bridge page.
+
+## 2026-05-20 — Locked Rainbow Rocket endgame around institutional capture and coalition war
+
+- Updated `plot-threads/rainbow-rocket-endgame.md` so Giovanni's endgame is no longer framed around Amber as a uniquely lab-interesting anomaly. Amber now matters primarily as a proven strategic threat actor and coalition-builder whose file links Oak, Fuji, Ditto, Mewtwo, multiple regions, and later Mega-era force politics.
+- Locked the late-saga Rainbow Rocket model: Giovanni turns inward on **Kanto first**, uses force for emotional and ideological proof, captures legitimacy through a **puppet Champion** or equivalent proxy, and then tries to repeat that model globally through governments, League infrastructure, ports, wormhole control, and monopoly over Mega / Ultra Beast / legendary-class force. Exact commander/champion identity remains intentionally open.
+- Updated `arcs/arc-alola-ultra-space.md` so Giovanni already has tendrils in **Aether** and adjacent institutions by the Alola arc, exploits the Lusamine/Nihilego power vacuum, helps frame Amber as wanted after the disaster, and uses the crisis as reconnaissance / appropriation for later Ultra Beast capture infrastructure.
+- Updated `arcs/saga-overview.md` to align Arc 15 and Arc 16+ with that direction: Alola as manipulated fugitive reset, then Rainbow Rocket as Kanto-first conquest and global coup/war.
+- Updated `organizations/team-rocket.md` and `characters/giovanni.md` so the organization and character pages carry the same doctrine: captured legitimacy, Kanto-first emotional logic, Aether infiltration, and global repetition instead of "sudden stronger boss fight" escalation.
+- Updated `plot-threads/team-rocket-surveillance.md` so Rocket's long-term fixation on Amber is framed as practical strategic concern rather than chosen-one/specimen logic, while keeping Fuji/Ditto/Mewtwo relevance as part of the file's origin.
