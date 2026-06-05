@@ -85,4 +85,4 @@ Peak expressions are TBD --- details to be developed in later arc planning.
 - [[professor-oak]] --- Oak's research and the post-4Ever conversation
 - [[amber-mc]] --- Amber's Mew DNA origin
 - [[arcs/arc-4ever]] --- first time Amber learns this system exists
-- [[arcs/arc-kitakami]] --- Mew DNA becomes plot-relevant; Gardevoir staying
+- [[arcs/arc-hidden-kingdom]] --- Gardevoir stays to sustain the seal against Mega Darkrai

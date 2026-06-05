@@ -153,7 +153,7 @@ Each evil team represents a different shape of ambition:
 - **Team Galactic:** Destruction of the current world to create a new one (Cyrus's nihilistic ambition)
 - **Rainbow Rocket:** The coalition — what happens when all these obsessions stack together under Giovanni's command
 
-Kitakami II's small trusted raid team is an important precursor pattern here: not the full endgame alliance, but proof that Amber has already started assembling legendary-class coalitions out of trust rather than command structure.
+The kingdom raid (Visit 2)'s small trusted raid team is an important precursor pattern here: not the full endgame alliance, but proof that Amber has already started assembling legendary-class coalitions out of trust rather than command structure.
 
 ## Strategic / Ideological Clash
 
@@ -176,7 +176,7 @@ Current preferred direction is that Giovanni may still retain control of **Mewtw
 One strong endgame lane is a private climactic confrontation involving **Amber, Ceruledge, Vee, Mewtwo #1 / Mega Mewtwo Y, and a small set of allies** against Giovanni, Mewtwo #2, and controlled force. Exact composition remains open.
 
 ### The World Opening: Exploration as Ambition
-The drive to explore, to map the unknown, to push beyond safe borders — Kitakami, the dragon gauntlet — is also a form of obsession. Amber's discovery of Kitakami village is ambition directed outward: not conquest, but discovery. The same force that makes Giovanni a conqueror makes Amber an explorer.
+The drive to explore, to map the unknown, to push beyond safe borders — the kingdom, the dragon gauntlet — is also a form of obsession. Amber's discovery of the hidden kingdom is ambition directed outward: not conquest, but discovery. The same force that makes Giovanni a conqueror makes Amber an explorer.
 
 ## Core Theme
 
@@ -192,12 +192,12 @@ Amber's speed of progression is extreme and unprecedented:
 - Age 13: Kanto Year 1, 4Ever, first conference
 - Age 14: Celadon return / Vee recruitment / Indigo Year 2 rebuild
 - Age 15: Hoenn (conference winner — youngest ever)
-- Age 16: Kitakami I
+- Age 16: the kingdom (Visit 1)
 - Age 17: Sinnoh
 - Age 17-18: Paldea -> Kalos
 - Age 18: brief dimensional displacement / Alola-Ultra Space reset
 - Age 18: Delta Episode / Hoenn return
-- Age 18: Kitakami II
+- Age 18: the kingdom raid (Visit 2)
 - Age 18-20+: later escalation / peak
 
 Alonso can also reach peak-level by endgame. Two characters shaped by consuming drive meet at the summit — the knight who chose greatness and the survivor who refused to stop.

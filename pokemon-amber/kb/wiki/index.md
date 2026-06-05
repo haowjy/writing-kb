@@ -92,7 +92,7 @@ Updated on every ingest. See `../AGENTS.md` for conventions.
 | [arc-celadon](arcs/arc-celadon.md) | Future Arc: Celadon — seed only |
 | [arc-4ever](arcs/arc-4ever.md) | Future Arc 4: 4Ever — Amber age 13; key beats locked, details TBD |
 | [arc-hidden-kingdom](arcs/arc-hidden-kingdom.md) | Hidden Kingdom arc (Arcs 10 + 16) --- Mega Darkrai, Cresselia, Prince Alexander; the folded Mega-Dimension region via Mt. Silver |
-| [arc-alola-ultra-space](arcs/arc-alola-ultra-space.md) | Future Arc: Alola / Aether / Ultra Space Reset — fugitive reset arc before Delta Episode and Kitakami II |
+| [arc-alola-ultra-space](arcs/arc-alola-ultra-space.md) | Future Arc: Alola / Aether / Ultra Space Reset — fugitive reset arc before Delta Episode and the kingdom raid (Visit 2) |
 | [arc-pikachu-handoff](arcs/arc-pikachu-handoff.md) | Future beat: The Pikachu Handoff — Year 2; far future, seed only |
 
 ### Plot Threads

@@ -14,7 +14,7 @@ Current planning direction for the brief mundane-world displacement that hands A
 
 ## Locked Direction
 
-- **Placement:** This happens after **Kalos** and before **Alola**, **Delta Episode**, and **Kitakami II**.
+- **Placement:** This happens after **Kalos** and before **Alola**, **Delta Episode**, and **the kingdom raid (Visit 2)**.
 - **Trigger family:** The current preferred family is **Kalos-side Mega Dimension fallout** or another closely related late-saga dimensional rupture. Exact mechanics remain open.
 - **Destination:** Amber is displaced into the **actual mundane real world**, not an alternate Earth where Pokemon exist as reduced pets or hidden fauna.
 - **Identity:** She remains physically **Amber**, not "reverted" into her pre-isekai self.
@@ -68,7 +68,7 @@ This is support, not a total canon lock on the exact mechanism.
 
 - What exact moment causes the rupture: Kalos Mega-Dimension failure, Hyperspace Lumiose-adjacent instability, cumulative cross-dimensional stress, or something else
 - Does Amber fall straight into the mundane world, or through a brief Ultra-space-like transit first
-- How much Darkrai-, dream-, or later Kitakami-adjacent residue should still matter in the broader dimensional ecology, even if it is no longer the direct trigger
+- How much Darkrai-, dream-, or later kingdom-adjacent residue should still matter in the broader dimensional ecology, even if it is no longer the direct trigger
 - How does Aether detect or target her specifically
 - How long does Amber spend in the mundane world before Aether recovers her
 - Does Amber's arrival directly destabilize the experiment, or does it happen during an already unstable threshold
@@ -79,7 +79,7 @@ This is support, not a total canon lock on the exact mechanism.
 - **Kalos** should now be the main lead-in because it lets Mega mastery and dimensional lore become groundwork rather than retroactive explanation.
 - **Alola / Ultra Space** begins as the recovery and consequences phase, with Lusamine useful but dangerous rather than simply benevolent.
 - **Delta Episode** follows because Amber's real-world displacement and Alola experience give her the ethical grounds to oppose dimensional-disposal plans and support Zinnia's claim on the Rayquaza crisis.
-- **Kitakami II** comes later, strengthened by Alola and Delta rather than causing them.
+- **The kingdom raid (Visit 2)** comes later, strengthened by Alola and Delta rather than causing them.
 - **Endgame** stays later. This bridge is not the climax; it is part of how the world gets bigger and more dangerous before the climax.
 
 ## Cross-Refs
@@ -87,5 +87,5 @@ This is support, not a total canon lock on the exact mechanism.
 - [[../arcs/saga-overview]] — macro arc order
 - [[../arcs/arc-alola-ultra-space]] — Alola reset arc direction after recovery
 - [[../arcs/arc2-hoenn]] — Delta Episode seed and later Hoenn return
-- [[../arcs/arc-kitakami]] — Kitakami promise and the later Mega Darkrai return
+- [[../arcs/arc-hidden-kingdom]] — the kingdom promise and the later Mega Darkrai return
 - [[rainbow-rocket-endgame]] — late-saga power politics and escalation

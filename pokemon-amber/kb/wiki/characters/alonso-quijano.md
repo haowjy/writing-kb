@@ -149,7 +149,7 @@ See [[../lore/trainer-systems/index]] for the trainer systems context; Alonso ex
 ### Future (Endgame)
 - Returns at peak trainer level — equal, not mentor
 - Fights alongside Amber against the saga's final threats (Team Rocket dismantling, legendary crises)
-- Likely natural fit for Kitakami II / other impossible-place raids before the true endgame alliance fully forms
+- Likely natural fit for the kingdom raid (Visit 2) / other impossible-place raids before the true endgame alliance fully forms
 - The Charcadet connection hangs between them — Alonso let go, Amber lost; both carry that
 
 ## Cross-Refs

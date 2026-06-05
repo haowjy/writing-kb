@@ -28,7 +28,7 @@ Mystery Dungeon-scale adventure is primarily **Alonso's lane**, not Amber's defa
 - For **Alonso**, these places are maps, rumors, expeditions, rescue work, impossible terrain, and proof of the Greatest Adventurer ideal.
 - For **Amber**, they matter when they turn into obligations: a promise, a trapped community, a suffering Pokemon population, or a danger she cannot ethically leave alone.
 - **Route 1 remains dungeon-adjacent only.** It foreshadows the idea without turning early Kanto into a Mystery Dungeon story.
-- **Kitakami is effectively a Mystery Dungeon-scale place,** but Amber approaches it as a sealed community and dangerous promise with a Gardevoir cost, not as a dungeon-crawler goal.
+- **The kingdom is effectively a Mystery Dungeon-scale place,** but Amber approaches it as a sealed community and dangerous promise with a Gardevoir cost, not as a dungeon-crawler goal.
 
 ## Canon Constraints
 
@@ -108,7 +108,7 @@ Good setup path:
 2. Ch. 20-21 Route 1 cave shows a dungeon-adjacent anomaly without naming the full system.
 3. Later chapters/arcs reveal that such places are a known phenomenon with Ranger warnings, quest postings, and adventurer lore.
 4. A later Alonso-led mini-arc explicitly onboards Amber and the reader: after several chance encounters, Amber asks what Mystery Dungeons are, and Alonso illegally or semi-illegally sneaks her past the route boundary to show her one.
-5. Major future locations, especially Kitakami-scale impossible places, can use Mystery Dungeon logic more openly.
+5. Major future locations, especially the hidden kingdom and similar impossible places, can use Mystery Dungeon logic more openly.
 
 ## Early Explicit Alonso Mini-Arc Direction
 
@@ -129,4 +129,4 @@ This mini-arc is also a strong place for the younger Charcadet bond: Amber's fir
 - [[trainer-systems/quest-system]] — Pokemon Center job-board infrastructure
 - [[trainer-systems/adventurer-system]] — informal adventurer identity and Paldean cultural myth
 - [[world-opening-timeline]] — wider world becoming more accessible over the saga
-- [[../arcs/arc-kitakami]] — future impossible-place escalation
+- [[../arcs/arc-hidden-kingdom]] — future impossible-place escalation

@@ -163,7 +163,7 @@ See: `arc-hidden-kingdom.md`, `arc-pikachu-handoff.md`
 ### Arc 11 — Sinnoh: Ceruledge + Team Galactic
 **Amber age:** 17 | **Region:** Sinnoh
 
-Amber arrives in Sinnoh already powerful — Kitakami was a real training ground. She's here for badges, progression, the next leg of the journey. Mid-arc, she sees Ceruledge in the field working for **Team Galactic** — no prior intelligence, just collision. How it passed from Rocket to Galactic happens off-screen between arcs. Cyrus's operation is the first evil team Amber targets with full intent to dismantle, not just disrupt — partly because of Galactic's scale, partly because Ceruledge is here.
+Amber arrives in Sinnoh already powerful — the kingdom was a real training ground. She's here for badges, progression, the next leg of the journey. Mid-arc, she sees Ceruledge in the field working for **Team Galactic** — no prior intelligence, just collision. How it passed from Rocket to Galactic happens off-screen between arcs. Cyrus's operation is the first evil team Amber targets with full intent to dismantle, not just disrupt — partly because of Galactic's scale, partly because Ceruledge is here.
 
 **Ceruledge reunion:** The emotional climax of the arc. Years since the theft. Amber finally strong enough. The question: does Charcadet remember her? Can it be reached through what Rocket and Galactic made it?
 
@@ -180,16 +180,16 @@ New Sinnoh roster: Shinx, Sneasel/Weavile, Rockruff/Lycanroc, Turtwig or Piplup.
 ### Arc 12 — Paldea
 **Amber age:** 17 | **Region:** Paldea
 
-Current preferred placement: **after Sinnoh, before Kalos and Kitakami II.** This widens the world before the next legendary-class return and reconnects Amber with Alonso's region, adventurer culture, impossible-place myths, and people who understand that frame natively.
+Current preferred placement: **after Sinnoh, before Kalos and the kingdom raid (Visit 2).** This widens the world before the next legendary-class return and reconnects Amber with Alonso's region, adventurer culture, impossible-place myths, and people who understand that frame natively.
 
-Specific plot beats remain open. The durable direction is structural: Paldea should reopen the story horizontally before Kitakami narrows it again.
+Specific plot beats remain open. The durable direction is structural: Paldea should reopen the story horizontally before the kingdom narrows it again.
 
 ---
 
 ### Arc 13 — Kalos
 **Amber age:** 17-18 | **Region:** Kalos
 
-Current preferred placement: **before Kitakami II.** Kalos is where Amber should deepen and stabilize Mega Evolution mastery, and where Mega Dimension / Hyperspace Lumiose / Darkrai-adjacent dimensional lore can become relevant groundwork rather than last-minute endgame explanation.
+Current preferred placement: **before the kingdom raid (Visit 2).** Kalos is where Amber should deepen and stabilize Mega Evolution mastery, and where Mega Dimension / Hyperspace Lumiose / Darkrai-adjacent dimensional lore can become relevant groundwork rather than last-minute endgame explanation.
 
 Specific arc content remains open. The durable direction is that Kalos is part training, part lore expansion, and part threshold into later-dimensional consequences. A **Champion-system anomaly** belongs here as one strong wrong-note lane: displaced Diantha, an impossible challenger, Mega-tech black markets, an Ultra Beast before the world publicly understands them, or Mega Dimension research with quiet Rocket/Aether money. Exact choice remains open.
 
