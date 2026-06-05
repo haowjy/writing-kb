@@ -18,12 +18,12 @@ Late-saga ordering from Sinnoh onward is current planning direction, not locked 
 - **Age 13:** Kanto Year 1, Celadon/Vee seed, 4Ever, first conference
 - **Age 14:** Celadon return, Vee recruitment, Indigo Year 2 rebuild
 - **Age 15:** Hoenn (conference winner)
-- **Age 16:** Kitakami I
+- **Age 16:** Hidden Kingdom I
 - **Age 17:** Sinnoh
 - **Age 17-18:** Paldea -> Kalos
 - **Age 18:** brief real-world displacement / Alola-Ultra Space reset
 - **Age 18:** Hoenn return / Delta Episode
-- **Age 18:** Kitakami II
+- **Age 18:** Hidden Kingdom II
 - **Age 18-20+:** later escalation / endgame
 - **Standard journey age:** 14
 - **Ash Ketchum:** Starts at 14 (2 years after Amber's start; picks up Pikachu end of Arc 9)
@@ -139,20 +139,24 @@ The original trainer who abandoned Trapinch may be in the conference. That confr
 
 ---
 
-### Arc 10 — Kitakami I
-**Amber age:** 16 | **Region:** Kitakami (wilderness, non-government territory)
+### Arc 10 --- Hidden Kingdom: Visit 1
+**Amber age:** 16 | **Region:** Hidden Kingdom (Mega Dimension pocket, gateway via Mt. Silver)
 
-Amber hears that travel into the unknown mountain wilds is now legally possible (or she and a companion stumble into it). No major villain arc — this is a **training and discovery arc.** Pure difficulty, wild Dragon territory, the gauntlet nobody has crossed.
+Amber and companions fight through the Mt. Silver dragon gauntlet --- Gible/Garchomp dens, Jangmo-o/Kommo-o packs, the same passes Oak failed to cross at 17 --- and enter the hidden kingdom folded into the Mega Dimension.
 
-Discovers Kitakami village. First outsider to ever reach it. Encounters the Ogerpon mythology / buried truth. Learns the Mega Darkrai / failing seal truth. Realizes she is nowhere near ready to solve it. Reinforces the seal for now; Gardevoir remains behind to help sustain it. Tells Oak what was on the other side — 40-year payoff.
+Mission: defeat the Mad King. Tragic reveal: he wasn't evil --- he was suppressing Mega Darkrai through Cresselia, hollowed by the duty over his reign. Beating him breaks the dam and reveals Mega Darkrai. Gardevoir stays to take up suppression despite the bond. A quiet goodbye. Amber walks home alone.
 
-**Roster expansion:** Kitakami is non-government territory — most acquisitions here can be stabled freely without visa restrictions. Serious powerup arc. Potential Gible acquisition from the dragon gauntlet.
+**Mega Evolution unlocked here.** It cracks open at the moment of losing Gardevoir. Being inside the Mega Dimension explains why she learns it so fast.
 
-**Pikachu:** On the road home from Kitakami, Amber finds a Pikachu that won't go in a ball. Recognizes it immediately. Travels with it briefly. Returns to Pallet Town. Tells Oak: *"Give it to Ash if he wakes up late."* Ash is 14 — just starting his journey.
+**Roster expansion:** Gible acquired from the dragon gauntlet (most narratively earned pickup). Ursaring evolves into Ursaluna inside the kingdom (time-locked Mega-Dimension environment resolves the Peat Block condition naturally).
 
-**Ends:** Amber returns from Kitakami significantly more powerful and carrying a promise she cannot yet fulfill. Pikachu handed off. Ash's story begins.
+**The Oak payoff:** Oak pushed into the Mt. Silver outskirts at 17, was driven back by a Kommo-o before reaching the gateway, and has been telling a story with no ending for forty years. After Amber discovers the kingdom, she finally tells him what was on the other side.
 
-See: `arc-kitakami.md`, `arc-pikachu-handoff.md`
+**Pikachu:** On the road home, Amber finds a Pikachu that won't go in a ball. Recognizes it. Brings it to Oak. Says: *"Give it to Ash if he wakes up late."* Ash is 14 --- just starting his journey.
+
+**Ends:** Amber returns significantly more powerful, carrying Gardevoir's absence and a promise she cannot yet fulfill. Pikachu handed off. Ash's story begins.
+
+See: `arc-hidden-kingdom.md`, `arc-pikachu-handoff.md`
 
 ---
 
@@ -213,16 +217,18 @@ See: [[arc2-hoenn]]
 
 ---
 
-### Arc 16 — Kitakami II
-**Amber age:** 18 | **Region:** Kitakami
+### Arc 16 --- Hidden Kingdom: Visit 2
+**Amber age:** 18 | **Region:** Hidden Kingdom
 
-Amber returns deliberately, not by accident or curiosity. This is now the preferred shape of her **first deliberate legendary-class raid**: a chosen return to a debt she already knows she owes.
+Amber returns deliberately with a small team of 4-6 people she trusts --- Alonso likely among them. This is her first deliberate legendary-class raid: a chosen return to a debt she has owed since Arc 10.
 
-Alola and Delta Episode should strengthen this return. Amber comes back with Ultra Wormhole experience, other-world ethics, Aether/Lusamine lessons, and the precedent that sometimes the right move is to **support the specialist** rather than lead every mythic crisis from the front. Kitakami II then becomes the **last major personal promise** she resolves before the full global war reveals itself.
+The goal is not exploration. The goal is to purify/reseal Mega Darkrai (Cresselia / Lunar Wing, not a damage race), free Gardevoir, and fulfill the promise Arc 10 created. Alexander reclaims the throne.
 
-The goal is not exploration for its own sake. The goal is to resolve the Mega Darkrai crisis, free Gardevoir and the village from the seal burden, and fulfill the promise Kitakami I created.
+Alola and the Delta Episode strengthen this return: Amber comes back with Ultra Wormhole experience, other-world ethics, Aether/Lusamine lessons, and proof that sometimes supporting the right specialist is the right move.
 
-The raid team should stay small — roughly 4-6 humans Amber trusts who are individually very strong. It previews the kind of coalition the endgame may require without becoming the full endgame alliance. Alonso likely belongs here; impossible places and Mystery Dungeon-scale expeditions are his natural lane.
+**Ends:** Mega Darkrai purified/resealed. Gardevoir freed. Alexander reclaims the throne. The last major personal promise resolved before the full global war reveals itself.
+
+See: `arc-hidden-kingdom.md`
 
 ---
 
@@ -272,13 +278,13 @@ See: [[../plot-threads/mewtwo-thread]]
 | 7 | 15 | Hoenn | Arrival, Trapinch arc begins |
 | 8 | 15 | Hoenn | Magma/Aqua/Rocket, Ceruledge sighting, Mega Stones |
 | 9 | 15 | Hoenn | Conference — youngest ever winner |
-| 10 | 16 | Kitakami | Kitakami I — seal truth, Gardevoir stays, Pikachu handoff |
+| 10 | 16 | Hidden Kingdom | Dragon gauntlet, Mad King tragic reveal, Gardevoir stays, Mega Evolution unlocked, Pikachu handoff |
 | 11 | 17 | Sinnoh | Team Galactic dismantled, Ceruledge reunion, Mega unlocked |
 | 12 | 17 | Paldea | Adventurer-culture widening, Alonso-region reconnection |
 | 13 | 17-18 | Kalos | Mega mastery and dimensional lore deepening |
 | 14 | 18 | Alola reset | Brief real-world displacement -> Aether extraction -> Alola / Ultra Space fugitive reset |
 | 15 | 18 | Hoenn return | Delta Episode — Zinnia owns the Rayquaza payoff; Amber supports |
-| 16 | 18 | Kitakami | Kitakami II — deliberate Mega Darkrai raid after Alola/Delta |
+| 16 | 18 | Hidden Kingdom | Mega Darkrai purification/reseal; Gardevoir freed; Alexander reclaims throne |
 | 17+ | 18-20+ | Beyond | Peak politics, Mewtwo payoff, Rainbow Rocket endgame |
 
 ---
@@ -288,7 +294,7 @@ See: [[../plot-threads/mewtwo-thread]]
 - `arc1-kanto-year1.md` — Kanto Year 1 detail
 - `arc-celadon.md` — Celadon/Erika/Vee arc
 - `arc2-hoenn.md` — Hoenn arc detail
-- `arc-kitakami.md` — Kitakami discovery
+- `arc-hidden-kingdom.md` — Hidden Kingdom arc (Arcs 10 + 16)
 - `arc-alola-ultra-space.md` — Alola / Aether / Ultra Space reset arc
 - `arc-pikachu-handoff.md` — Pikachu/Ash beat
 - `wiki/pokemon-teams/team-amber-mc.md` — full roster by region

@@ -26,6 +26,7 @@ Updated on every ingest. See `../AGENTS.md` for conventions.
 | [ciro-salvatierra](characters/ciro-salvatierra.md) | Ciro Salvatierra — Alonso crew hustler; wants to get rich and choose his own life, but has lines |
 | [mewtwo](characters/mewtwo.md) | Fuji's weaponized Mew clone; the saga's spine — created from the same lab as Ditto and Amber |
 | [professor-oak](characters/professor-oak.md) | Amber's mentor and benefactor; publicly renowned researcher, privately carrying a 40-year secret |
+| [prince-alexander](characters/prince-alexander.md) | Prince Alexander --- escaped prince of the hidden kingdom; met in Arc 1 alongside Alonso; reclaims throne in Arc 16 |
 | [sabrina](characters/sabrina.md) | Saffron Psychic Gym prodigy; Kyle's monstrous natural-talent boss; raw psychic power without drive |
 
 ### Places
@@ -90,7 +91,7 @@ Updated on every ingest. See `../AGENTS.md` for conventions.
 | [arc3-beyond](arcs/arc3-beyond.md) | Future Arc 3+: Beyond — speculative; nothing locked |
 | [arc-celadon](arcs/arc-celadon.md) | Future Arc: Celadon — seed only |
 | [arc-4ever](arcs/arc-4ever.md) | Future Arc 4: 4Ever — Amber age 13; key beats locked, details TBD |
-| [arc-kitakami](arcs/arc-kitakami.md) | Future Arc 10: Kitakami — Amber age 16; key beats locked |
+| [arc-hidden-kingdom](arcs/arc-hidden-kingdom.md) | Hidden Kingdom arc (Arcs 10 + 16) --- Mega Darkrai, Cresselia, Prince Alexander; the folded Mega-Dimension region via Mt. Silver |
 | [arc-alola-ultra-space](arcs/arc-alola-ultra-space.md) | Future Arc: Alola / Aether / Ultra Space Reset — fugitive reset arc before Delta Episode and Kitakami II |
 | [arc-pikachu-handoff](arcs/arc-pikachu-handoff.md) | Future beat: The Pikachu Handoff — Year 2; far future, seed only |
 
@@ -143,6 +144,11 @@ Updated on every ingest. See `../AGENTS.md` for conventions.
 |---|---|
 | [lore/history/kanto-johto-unification-war](lore/history/kanto-johto-unification-war.md) | Kanto–Johto Unification War — the war that defines Giovanni's nationalism and the Mt. Silver incident |
 | [lore/history/gym-evolution](lore/history/gym-evolution.md) | Evolution of Pokemon Gyms — ancient teaching guilds to modern multi-function institutions |
+
+#### Legendaries
+| Page | Summary |
+|---|---|
+| [lore/legendaries/darkrai-cresselia](lore/legendaries/darkrai-cresselia.md) | Darkrai and Cresselia --- official canon reference for the lunar duo, Mega Darkrai (Z-A Rogue Mega), and PMD redemption precedent |
 
 #### Mechanics
 | Page | Summary |

@@ -277,3 +277,17 @@ package update, separate repo).
 - Updated `lore/mystery-dungeons.md` and `arcs/arc1-kanto-year1.md`: Alonso may semi-illegally sneak Amber past the route boundary to show her a Mystery Dungeon because she asked. Treasure/salvage can motivate continued exploration, but should stay ordinary enough not to hijack the arc into a major relic plot.
 - Updated `lore/trainer-systems/adventurer-system.md`: Kanto adventurers can have a bad reputation due to money, treasure, rare-Pokemon hunting, claim-jumping, and gray-zone ethics. These antagonists should be mundane rude adventurers / treasure crews, not a formal evil team.
 - Clarified Alonso's characterization: he should not lecture about true adventure versus corrupt adventure. He loves adventure and reacts when concrete cruelty or abandonment happens; Amber can be the one who notices the broader structural/reputation problem.
+
+## 2026-06-05 --- Promoted Hidden Kingdom arc; replaced Kitakami
+
+- Moved `arcs/arc-kitakami.md` to `kb/trash/arc-kitakami-old.md`
+- Created `arcs/arc-hidden-kingdom.md`: full arc covering Arcs 10 + 16; replaces Kitakami entirely
+- Updated `arcs/saga-overview.md`: Arc 10 and Arc 16 entries rewritten; timeline table rows 10 and 16 updated; "Kitakami" -> "Hidden Kingdom" throughout; cross-refs updated
+- Created `characters/prince-alexander.md`: minimal stub for escaped prince; met Arc 1 alongside Alonso
+- Created `lore/legendaries/darkrai-cresselia.md`: canon research page for Darkrai/Cresselia/Mega Darkrai with sources and saga application
+- Updated `arcs/arc-pikachu-handoff.md`: "Kitakami" -> "kingdom" wording; cross-ref updated
+- Updated `characters/professor-oak.md`: section heading and body updated (Kitakami -> Mt. Silver outskirts); Charizard note updated
+- Updated `lore/history/kanto-johto-unification-war.md`: FLAG cross-ref added (Mt. Silver Incident as kingdom seal crack)
+- Updated `wiki/index.md`: removed arc-kitakami entry; added arc-hidden-kingdom, prince-alexander, darkrai-cresselia entries
+- Cut from KB: Kitakami as a place, Ogerpon, Loyal Three, Pecharunt, Mew-sacrifice origin (all moved to trash with arc-kitakami-old.md)
+- Open flags raised: (1) Kingdom name is unnamed --- do not invent; (2) Mega-unlock reconciliation between Visit 1 and Sinnoh/Ceruledge beats

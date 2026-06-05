@@ -4,7 +4,7 @@ category: characters
 title: Professor Samuel Oak
 status: draft
 hidden: false
-updated: 2026-05-18
+updated: 2026-06-05
 ---
 
 # Professor Samuel Oak
@@ -20,24 +20,24 @@ Amber's primary mentor and benefactor. Provides resources, Oak's Letter, and con
 
 ## Team
 
-- **Charizard** — starter Pokemon (Charmander). Stubborn for the first three weeks. Still a Charmeleon by age 15 (4Ever events). Evolved into Charizard at 17 during the Kitakami outskirts push — fighting through the dragon gauntlet is where it earned its wings.
+- **Charizard** — starter Pokemon (Charmander). Stubborn for the first three weeks. Still a Charmeleon by age 15 (4Ever events). Evolved into Charizard at 17 during the push through the Mt. Silver dragon gauntlet --- fighting toward the hidden kingdom's threshold is where it earned its wings.
 - **Dragonite** — ace. From Dragonite Island. Been with Oak since he was fourteen.
 - **Arcanine** — field research companion; well-traveled.
 - **Gyarados** — sea travel history.
 - **Tauros** — endurance, range.
 - **Exeggutor** — research utility.
 
-## The Story He Tells (The Kitakami Outskirts)
+## The Story He Tells (The Mt. Silver Outskirts)
 
-Oak heard rumors as a young trainer of something beyond the dragon-infested mountains in a remote region. Pushed into the outskirts — encountered Gible dens in the passes, Jangmo-o packs in the wilds, and was driven back by a Kommo-o before he could get through. Nearly died. Never found out what was on the other side.
+Oak heard rumors as a young trainer of something beyond the dragon-infested mountains near Mt. Silver. Pushed into the outskirts --- encountered Gible dens in the passes, Jangmo-o packs in the wilds, and was driven back by a Kommo-o before he could get through. Nearly died. Never found out what was on the other side.
 
-He made it as far as Wistful Fields — the outer edge of the dragon territory, Jangmo-o packs, Gible dens — before being driven back. He never reached Oni Mountain or the interior. He didn't fail at the hard part. He failed at the first part.
+He made it to the outer edge of the dragon territory --- Jangmo-o packs, Gible dens in the mountain passes --- before being driven back. He never reached the inner passes or the gateway. He didn't fail at the hard part. He failed at the first part.
 
 This is the story Gary has heard a hundred times. It has no ending. Gramps keeps telling a story that doesn't resolve.
 
-**What Oak doesn't know:** there is a village on the other side — Kitakami, population ~55, completely isolated, with a 300-year-old mythology built on a lie. Nobody in the outside world knows it exists. Only rumors.
+**What Oak doesn't know:** beyond the dragon gauntlet, via Mt. Silver's gateway, there is a hidden kingdom folded into the Mega Dimension --- sealed for 3,000 years. Nobody in the outside world knows it exists.
 
-**Future plot point:** Amber is the one who gets through. She discovers Kitakami for the world.
+**Future plot point:** Amber is the one who gets through. She discovers the kingdom for the world.
 
 ## Dragonite Island
 
@@ -55,7 +55,7 @@ His gaze in ch17 — *"recognition? Certainty?"* — is not suspicion about her 
 
 He lets her get away with things (the ramen deflection, deflecting questions) because he already knows her. He's had forty years to decide how he feels about her.
 
-**The ending of ch17:** Oak starts to tell the Kitakami story when Amber asks about adventures. Gary complains he's told it a hundred times. Oak looks at Amber — warm, distant, like he's somewhere else — and says: *"I met people I wouldn't trade for anything."* He is not talking about the Kitakami outskirts.
+**The ending of ch17:** Oak starts to tell the Mt. Silver outskirts story when Amber asks about adventures. Gary complains he's told it a hundred times. Oak looks at Amber — warm, distant, like he's somewhere else — and says: *"I met people I wouldn't trade for anything."* He is not talking about the Mt. Silver outskirts.
 
 ## The Post-4Ever Call
 
@@ -92,4 +92,4 @@ See: `wiki/lore/aura-system.md`
 - The gap between the girl he remembers and the Amber who showed up: Oak never mentions it. Not once. It lives entirely in behavior — small hesitations, moments where he looks at her slightly too long, indulgences he extends without explanation. The reader sees it. Amber doesn't.
 - The post-4Ever call is a low point in their relationship, not a breakthrough. Amber does not open up to Oak about being from another world — that secret stays kept for much longer, possibly the whole saga.
 - Oak never directly teaches Amber about aura or names the system to her. What he gives her is practical: bonding techniques, grounding before battles, how to listen to her Pokemon. She develops the rest herself.
-- The payoff: after Amber discovers Kitakami, she can finally tell Oak what was on the other side. He spent forty years wondering.
+- The payoff: after Amber discovers the kingdom, she can finally tell Oak what was on the other side. He spent forty years wondering.

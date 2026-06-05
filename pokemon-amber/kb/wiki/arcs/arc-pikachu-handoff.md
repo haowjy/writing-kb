@@ -4,7 +4,7 @@ scope: arc
 spoilers: true
 status: seed
 hidden: true
-updated: 2026-04-05
+updated: 2026-06-05
 ---
 
 # Future Beat: The Pikachu Handoff
@@ -13,7 +13,7 @@ updated: 2026-04-05
 
 ## The Beat
 
-At the end of Year 2, after the Kitakami arc, Amber is traveling home to Pallet Town. On the road she finds a Pikachu --- unusually strong, refuses to go in a ball. She recognizes it immediately.
+At the end of Year 2, after the hidden kingdom arc, Amber is traveling home to Pallet Town. On the road she finds a Pikachu --- unusually strong, refuses to go in a ball. She recognizes it immediately.
 
 She knows exactly whose Pokemon this is supposed to be.
 
@@ -40,6 +40,6 @@ Not triumphant. Not sentimental. She hands it over and leaves. The weight is in 
 ## Cross-Refs
 
 - wiki/pokemon-teams/team-amber-mc.md — Pikachu listed under confirmed roster beats
-- future/arcs/arc-kitakami.md — Kitakami arc, same Year 2 window
+- arcs/arc-hidden-kingdom.md — Hidden Kingdom arc, same Year 2 window
 - wiki/characters/professor-oak.md — Oak receives the handoff
 - future/current-direction.md — Ash age/timeline

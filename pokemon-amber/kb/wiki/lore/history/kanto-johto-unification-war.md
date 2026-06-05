@@ -94,6 +94,8 @@ Kanto and Johto developed as distinct regions separated by the Indigo mountain r
 - Living reminder of the war's true end
 - Political symbol: Johto sees legendary protection; Kanto hardliners see territory they should have conquered
 
+> [!FLAG] **Needs human review** --- The Mt. Silver Incident is now also the primary crack in the hidden kingdom's seal (see `wiki/arcs/arc-hidden-kingdom.md`). Oak stood at the kingdom's threshold the day the seal cracked. This connection may warrant a cross-ref or brief note in this page once the arc is further locked.
+
 ## Relevance to Story
 - Explains Oak's authority (personal respect from war leadership, not institutional) and his enemies (Kanto hardliners who resent his surrender)
 - Background to orphan crisis (Chapter 17) - war casualties still straining social services 10-20 years later
@@ -105,6 +107,7 @@ Kanto and Johto developed as distinct regions separated by the Indigo mountain r
 - Post‑war prosperity mixed with ongoing tensions; tourism booms at coastal hubs like Cinnabar
 - Sets stakes for League authority and regional conflict in later arcs
 - **The cover-up means most people don't know the real story** - creates mystery and political tension
+- See `wiki/arcs/arc-hidden-kingdom.md` --- Mt. Silver Incident as the primary trigger for the hidden kingdom seal's decay
 
 ## Citations / Sources
 - Story arc context: [Arc - The Perfect Family](../../arcs/1-the-perfect-family.md)
