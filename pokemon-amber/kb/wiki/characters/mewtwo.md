@@ -51,4 +51,4 @@ The full Mewtwo thread — its relationship to Amber, Ditto, Fuji's legacy, and 
 - `wiki/characters/amber-mc.md` — shared origin, Mew DNA
 - `wiki/characters/ditto.md` — the third product
 - `wiki/lore/aura-system.md` — Mew DNA capacity
-- `future/arcs/arc-kitakami.md` — Mew connection becomes plot-relevant
+- `arcs/arc-hidden-kingdom.md` — Mew connection becomes plot-relevant

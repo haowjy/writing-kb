@@ -28,7 +28,7 @@ Hoenn should feel broad, sun-bright, and adventurous on the surface while carryi
 
 ## Current Direction
 
-- **Placement:** Hoenn remains Amber's age-15 conference year and still sits before [[arc-kitakami]].
+- **Placement:** Hoenn remains Amber's age-15 conference year and still sits before [[arc-hidden-kingdom]].
 - **Trainer arc:** Amber establishes herself in a new region, builds a Hoenn roster, and wins the Hoenn junior conference as the youngest ever winner.
 - **Emotional spine:** Trapinch/Flygon is still a major internal Hoenn throughline.
 - **Power seed:** Amber acquires Mega Stones here but cannot fully use them yet.
@@ -81,7 +81,7 @@ Amber should matter a great deal in Hoenn without becoming the sole rightful sol
 - She can win the conference year without resolving every deeper system behind it.
 - Hoenn should teach the useful late-saga lesson that sometimes the right move is to **support the specialist**, not to claim the center of every impossible event.
 
-That lesson pays off twice later: first in Delta Episode with Zinnia, then again in how Amber approaches [[arc-kitakami]]'s return.
+That lesson pays off twice later: first in Delta Episode with Zinnia, then again in how Amber approaches [[arc-hidden-kingdom]]'s return.
 
 ## Open Questions
 
@@ -94,7 +94,7 @@ That lesson pays off twice later: first in Delta Episode with Zinnia, then again
 ## Cross-Refs
 
 - [[saga-overview]] — macro placement and later Hoenn return
-- [[arc-kitakami]] — the discovery/promise arc that still follows Hoenn
+- [[arc-hidden-kingdom]] — the discovery/promise arc that still follows Hoenn
 - [[arc-alola-ultra-space]] — the Alola reset that now precedes Delta Episode
 - [[../plot-threads/dimensional-displacement-bridge]] — late-saga displacement handoff into Alola
 - [[../plot-threads/rainbow-rocket-endgame]] — Giovanni's broader proxy-capture strategy
