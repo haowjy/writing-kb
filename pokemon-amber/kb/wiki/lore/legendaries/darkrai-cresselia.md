@@ -80,11 +80,14 @@ Thematic and structural precedent this provides:
 
 ## Saga Application
 
-How this canon material is used in Pokemon: Ambertwo:
+How this canon material is used in Pokemon: Ambertwo (origin reworked 2026-06-05 --- see `wiki/arcs/arc-hidden-kingdom.md`):
 
-- **Mega Darkrai as a protective figure turned rogue** by absorbing AZ's ultimate weapon during the Kalos War, rather than an intrinsically malicious entity
-- **Cresselia as the ongoing dreamcatcher** maintaining the hidden kingdom's seal; the duty slowly poisons each keeper, including the Mad King
-- **PMD's redemption arc** (purification, not destruction) as thematic precedent for Arc 16's win condition --- the goal is purification and reseal via Cresselia / Lunar Wing, not overpowering a legendary-tier opponent directly
-- **The B/W2 Lunar Wing distinction** is relevant: Cresselia cures nightmare-infliction; the scale of the kingdom seal involves something beyond standard nightmare suppression
+- **Cosmology = Z-A's Mega Dimension, transposed.** Darkrai, amplified by overwhelming energy, forms a hyperspace distortion woven from subconscious thought (canon: "Hyperspace Lumiose"; twists time, beyond Lv. 100). In the saga, **AZ's ultimate weapon** is the accelerant 3,000 years earlier: it overloads Darkrai into its **Mega form**, which folds **Argaea** into the Mega Dimension. Darkrai then loses all reasoning. **Darkrai has no royal/trainer bond** --- it is the wild Rogue Mega at the prison's heart.
+- **The lunar duo is severed.** Darkrai is locked *inside* the fold; **Cresselia is carried *out*** with Prince Alexander. With its counterweight gone, the dreamscape rots into nightmare --- this is *why* Darkrai goes mad and the realm corrupts. (Cresselia is **not** an in-kingdom dreamcatcher in this version; her *absence* is the wound.)
+- **Royal bonds (1:1 culture):** **King --- Cresselia**, **Queen --- Shaymin.** Both legendaries break Alexander out and escape *with* him; the parents stay trapped. The King, having given Cresselia away, holds the nightmare alone and hollows into the **Mad King.**
+- **Shaymin** (new to the saga): the Queen's partner; Gratitude/purification legendary (Seed Flare cleanses corrupted land). Escapes with Alexander alongside Cresselia.
+- **Arc 16 win condition = purification, not force:** Alexander returns with **Cresselia (Lunar Wing) + Shaymin (purification)** to purify and reseal Mega Darkrai. PMD's "redeem through purification, not destruction" is the thematic precedent; the **B/W2 Lunar Wing distinction** still applies (the kingdom's corruption is beyond standard nightmare-infliction, so Shaymin's purification complements Cresselia).
 
-Cross-ref: `wiki/arcs/arc-hidden-kingdom.md`
+> [!FLAG] Shaymin likely warrants its own `wiki/lore/legendaries/` page once its role firms up.
+
+Cross-ref: `wiki/arcs/arc-hidden-kingdom.md`, `wiki/characters/prince-alexander.md`, `wiki/vocab.md`
