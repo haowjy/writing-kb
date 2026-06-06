@@ -139,12 +139,12 @@ The original trainer who abandoned Trapinch may be in the conference. That confr
 
 ---
 
-### Arc 10 --- Hidden Kingdom: Visit 1
-**Amber age:** 16 | **Region:** Hidden Kingdom (Mega Dimension pocket, gateway via Mt. Silver)
+### Arc 10 --- Hidden Kingdom (Argaea): Visit 1
+**Amber age:** 16 | **Region:** Argaea --- the hidden kingdom folded into the Mega Dimension (gateway via the Mt. Silver anomaly)
 
-Amber and companions fight through the Mt. Silver dragon gauntlet --- Gible/Garchomp dens, Jangmo-o/Kommo-o packs, the same passes Oak failed to cross at 17 --- and enter the hidden kingdom folded into the Mega Dimension.
+Amber and companions fight through the Mt. Silver dragon gauntlet --- Gible/Garchomp dens, Jangmo-o/Kommo-o packs, the same passes Oak failed to cross at 17 --- and enter **Argaea**, the hidden kingdom folded into the Mega Dimension.
 
-Mission: defeat the Mad King. Tragic reveal: he wasn't evil --- he was suppressing Mega Darkrai through Cresselia, hollowed by the duty over his reign. Beating him breaks the dam and reveals Mega Darkrai. Gardevoir stays to take up suppression despite the bond. A quiet goodbye. Amber walks home alone.
+Mission: defeat the Mad King --- Alexander's father. Tragic reveal: he wasn't evil --- a dream-warding king bonded to Cresselia who gave her away to save his son, then held the unleashed nightmare alone until it hollowed him (the stasis vigil, not a long reign). Beating him breaks the dam and reveals Mega Darkrai. Gardevoir stays to take up suppression despite the bond. A quiet goodbye. Amber walks home alone.
 
 **Mega Evolution unlocked here.** It cracks open at the moment of losing Gardevoir. Being inside the Mega Dimension explains why she learns it so fast.
 
@@ -217,12 +217,12 @@ See: [[arc2-hoenn]]
 
 ---
 
-### Arc 16 --- Hidden Kingdom: Visit 2
-**Amber age:** 18 | **Region:** Hidden Kingdom
+### Arc 16 --- Hidden Kingdom (Argaea): Visit 2
+**Amber age:** 18 | **Region:** Argaea
 
 Amber returns deliberately with a small team of 4-6 people she trusts --- Alonso likely among them. This is her first deliberate legendary-class raid: a chosen return to a debt she has owed since Arc 10.
 
-The goal is not exploration. The goal is to purify/reseal Mega Darkrai (Cresselia / Lunar Wing, not a damage race), free Gardevoir, and fulfill the promise Arc 10 created. Alexander reclaims the throne.
+The goal is not exploration. The goal is to purify/reseal Mega Darkrai (Cresselia / Lunar Wing + Shaymin / purification, not a damage race), free Gardevoir, and fulfill the promise Arc 10 created. Alexander returns with both legendaries and reclaims the throne.
 
 Alola and the Delta Episode strengthen this return: Amber comes back with Ultra Wormhole experience, other-world ethics, Aether/Lusamine lessons, and proof that sometimes supporting the right specialist is the right move.
 

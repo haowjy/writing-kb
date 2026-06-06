@@ -3,7 +3,7 @@ type: wiki
 scope: global
 category: vocab
 title: Vocabulary --- Canonical Terms
-updated: 2026-06-05
+updated: 2026-06-06
 ---
 
 # Vocabulary --- Canonical Terms
@@ -48,10 +48,12 @@ Incorrect: "they were pulled into the dream realm."
 > fold needs its own proper name on that pattern (e.g. "Hyperspace Kitakami")
 > or whether "the Mega Dimension" suffices. Author's call.
 
-> [!FLAG] **Sweep pending.** Reconcile these six live pages to the canonical
-> terms: `arcs/arc-hidden-kingdom.md`, `arcs/saga-overview.md`, `index.md`,
-> `plot-threads/dimensional-displacement-bridge.md`,
-> `lore/legendaries/darkrai-cresselia.md`, `characters/professor-oak.md`.
+> [!NOTE] **Sweep done (2026-06-06).** Canonical terms propagated to
+> `arcs/arc-hidden-kingdom.md`, `arcs/saga-overview.md`, `index.md`,
+> `characters/amber-mc-team.md`; `lore/legendaries/darkrai-cresselia.md` is
+> authoritative. `plot-threads/dimensional-displacement-bridge.md` and
+> `characters/professor-oak.md` keep "the (hidden) kingdom" as natural
+> back-reference --- Oak doesn't know Argaea's name, which is correct in-world.
 
 ---
 

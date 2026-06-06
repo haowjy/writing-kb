@@ -4,7 +4,7 @@ scope: arc
 spoilers: true
 status: draft
 hidden: true
-updated: 2026-06-05
+updated: 2026-06-06
 ---
 
 # Arc 10 + 16 --- The Hidden Kingdom (Argaea)
@@ -17,8 +17,6 @@ updated: 2026-06-05
 **Name: Argaea.** An entire folded pocket region sealed inside the **Mega Dimension** --- not a village, not an outpost, a whole self-contained civilization. The gateway is an **anomalous region within the Mt. Silver massif**, reached through the dragon gauntlet; Argaea proper exists in the Mega Dimension fold on the other side. Nobody in the outside world knows it exists.
 
 > [!NOTE] **Naming.** "Argaea" derives from the **Argead** dynasty, the royal house of Macedon (Alexander the Great's line) --- a *concealed* play that does not telegraph Prince Alexander's later conquest turn. See `wiki/characters/prince-alexander.md`, `wiki/vocab.md`.
->
-> [!FLAG] Full KB sweep pending: `saga-overview`, `index`, `amber-mc-team` still say "the hidden kingdom" / "the kingdom" and should name **Argaea** where natural.
 
 ### How Time Works Inside: Stasis *(locked)*
 

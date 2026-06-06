@@ -291,3 +291,27 @@ package update, separate repo).
 - Updated `wiki/index.md`: removed arc-kitakami entry; added arc-hidden-kingdom, prince-alexander, darkrai-cresselia entries
 - Cut from KB: Kitakami as a place, Ogerpon, Loyal Three, Pecharunt, Mew-sacrifice origin (all moved to trash with arc-kitakami-old.md)
 - Open flags raised: (1) Kingdom name is unnamed --- do not invent; (2) Mega-unlock reconciliation between Visit 1 and Sinnoh/Ceruledge beats
+
+## 2026-06-06 --- Argaea rework: cosmology/stasis/bonds locked; KB consistency sweep
+
+Brainstorm session reworked the hidden-kingdom arc. Authoritative pages rewritten directly: `arcs/arc-hidden-kingdom.md`, `characters/prince-alexander.md`, `lore/legendaries/darkrai-cresselia.md`, and new `vocab.md`. Then a consistency sweep propagated the canonical terms.
+
+Locked this session:
+- **Name = Argaea** (from the Argead dynasty; a *concealed* Macedon play, so the conquest twist isn't telegraphed)
+- **Time = stasis** (Argaea skipped forward ~3,000 yrs; Alexander chronologically ancient, biologically a youth) --- replaces "3,000 years of continuous rule"
+- **Cosmology = Z-A's Mega Dimension, transposed:** AZ's ultimate weapon overloads Darkrai into Mega form, which folds Argaea into the Mega Dimension (a hyperspace woven from dreams). Canonical place-name is **Mega Dimension**; "dream/nightmare" is description, never a place-name
+- **Geography:** "Kitakami" dropped; site is an **anomalous region within the Mt. Silver massif** (preserves Oak mystery + dragon gauntlet)
+- **Lunar duo severed:** Darkrai locked in (no royal bond, wild Rogue Mega); Cresselia carried out
+- **1:1 bond culture** (one person, one lifelong bond)
+- **Royal bonds:** King -> Cresselia, Queen -> Shaymin; both legendaries escape *with* Alexander; both parents stay trapped; the King (Alexander's father) becomes the **Mad King**
+- **Arc 16 cure = Cresselia (Lunar Wing) + Shaymin (purification)**; no mentor/tutor (cut)
+
+Consistency sweep (this entry):
+- Updated `arcs/saga-overview.md`: Arc 10/16 named Argaea; fixed stale "suppressing through Cresselia / over his reign" line to the give-Cresselia-away / stasis-vigil version; added Shaymin to the Arc 16 cure
+- Updated `wiki/index.md`: named Argaea in prince + arc entries; "Mt. Silver" -> "Mt. Silver anomaly"
+- Updated `characters/amber-mc-team.md`: named Argaea (Gardevoir, Pikachu, Gible entries, cross-ref); **flagged** the Year-2 (~age 14) vs Arc 10 (age 16) timeline contradiction (Gardevoir is a Hoenn acquisition yet "stays in Argaea")
+- Verified no live page reintroduces "Kitakami" (only `vocab.md` "dropped" note + this log) or "dream realm" as a place-name (`darkrai-cresselia.md` keeps it only as a Gen 5 canon-reference). `professor-oak.md` and `dimensional-displacement-bridge.md` keep "the (hidden) kingdom" as natural back-reference --- in-world correct (Oak doesn't know the name)
+- Resolved the "sweep pending" flags in `vocab.md` and `arc-hidden-kingdom.md`
+- Note: lore-keeper spawn (p23) for this sweep failed on a billing error; sweep was completed inline instead
+
+Open story flags (author deciding --- not invented): reseal agent (self vs deliberate); Mad King's combat presence (corruption-channel vs partner); mother dies-vs-corrupted + parents' Arc 16 fate; third Arc-10 party member; Alexander's Phase-2 tone; endgame placement (mid vs co-final); Mega-unlock reconciliation; optional proper name for the Mt. Silver anomaly / Argaea's fold instance.

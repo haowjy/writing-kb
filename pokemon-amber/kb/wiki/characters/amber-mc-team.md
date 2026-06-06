@@ -4,7 +4,7 @@ category: pokemon-teams
 title: Amber MC — Team Planning (Spoilers)
 status: draft
 hidden: true
-updated: 2026-05-17
+updated: 2026-06-06
 canon: false
 ---
 
@@ -54,7 +54,7 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 - **Squirtle** *(Kanto)* — One of the oddball members of the Squirtle Squad, not the leader. Steps away from the group identity when Amber crosses paths with them. The story is in why this one leaves — not defection, something more personal. Details TBD.
 
-- **Pikachu** *(Year 2, road home from the kingdom; temporarily travels with Amber, returned to Oak)* — Found on the road home from the kingdom. Refuses to go in a ball. Amber travels with it briefly and recognizes it immediately — she knows exactly whose Pokemon this is supposed to be. Returns it to Oak's lab at Pallet Town. Tells Oak: *"Give it to Ash if he wakes up late."* She knows Ash will oversleep on his journey start day. She's not just dropping off a difficult Pokemon — she's quietly making sure the right story happens. Oak doesn't understand why she said it that way. See: `future/arcs/arc-pikachu-handoff.md`.
+- **Pikachu** *(road home from Argaea; temporarily travels with Amber, returned to Oak)* — Found on the road home from Argaea. Refuses to go in a ball. Amber travels with it briefly and recognizes it immediately — she knows exactly whose Pokemon this is supposed to be. Returns it to Oak's lab at Pallet Town. Tells Oak: *"Give it to Ash if he wakes up late."* She knows Ash will oversleep on his journey start day. She's not just dropping off a difficult Pokemon — she's quietly making sure the right story happens. Oak doesn't understand why she said it that way. See: `future/arcs/arc-pikachu-handoff.md`.
 
 ### Tertiary
 
@@ -88,7 +88,7 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 ### Primary
 
-- **Kirlia → Gardevoir** *(acquired early Hoenn; willingly stays in the kingdom)* — Amber's psychic slot. Caught early in Hoenn, travels with her through the full Hoenn arc and conference win. Over a year of bond before the goodbye. **In the kingdom, Gardevoir chooses to stay** — the seal against Mega Darkrai (weakening after 3,000 years) needs something with psychic power resonant enough to hold. Gardevoir understands what's at stake. Amber can't argue against it. Not a death, not a theft — a goodbye they both know is necessary. Amber leaves the kingdom knowing exactly what she left behind and why. She tells no one. See: `arcs/arc-hidden-kingdom.md`.
+- **Kirlia → Gardevoir** *(acquired early Hoenn; willingly stays in Argaea)* — Amber's psychic slot. Caught early in Hoenn, travels with her through the full Hoenn arc and conference win. Over a year of bond before the goodbye. **In Argaea, Gardevoir chooses to stay** — the seal against Mega Darkrai (weakening after 3,000 years) needs something with psychic power resonant enough to hold. Gardevoir understands what's at stake. Amber can't argue against it. Not a death, not a theft — a goodbye they both know is necessary. Amber leaves Argaea knowing exactly what she left behind and why. She tells no one. See: `arcs/arc-hidden-kingdom.md`.
 
 ### Secondary (approaching Primary)
 
@@ -127,7 +127,7 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 ### Candidate (Sinnoh)
 
-- **Gible → Garchomp** *(pseudo; also kingdom connection)* — Gible dens are in the Mt. Silver dragon gauntlet. If Amber gets through, acquiring a Gible from those passes is earned. Could be Sinnoh or the kingdom acquisition.
+- **Gible → Garchomp** *(pseudo; also Argaea connection)* — Gible dens are in the Mt. Silver dragon gauntlet. If Amber gets through, acquiring a Gible from those passes is earned. Could be Sinnoh or the Argaea acquisition.
 
 ---
 
@@ -173,7 +173,7 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 *Defined by acquisition difficulty and power level. Not subject to standard tier rules — these are long-game payoffs.*
 
-- **Gible → Garchomp** *(Sinnoh / the kingdom)* — Dragon/Ground. Mt. Silver dragon gauntlet hook. Aggressive, fast, combat-oriented.
+- **Gible → Garchomp** *(Sinnoh / Argaea)* — Dragon/Ground. Mt. Silver dragon gauntlet hook. Aggressive, fast, combat-oriented.
 - **Goomy → Goodra** — Dragon. Gentle, affectionate; wetlands. Softer than Garchomp.
 - **Larvitar → Tyranitar** *(Johto, Mt. Silver)* — Rock/Dark. Eats mountains; territorial. High narrative cost to field responsibly.
 - **Bagon → Salamence** *(Hoenn)* — Dragon/Flying. Obsessively headbutts rocks, dreams of flight.
@@ -231,7 +231,9 @@ Alternatives: medical retirement/sanctuary, permanent transfer to orgs, or ecolo
 ## Region Plan & Transitions
 
 - **Indigo Year 1** — Licensing, Oak-supported departure. Core: Ditto/Charcadet/Teddiursa. 4Ever at end of Year 1 (all 8 badges). Charcadet stolen; Teddy/Ursaring payoff TBD with the mother-Ursaring rescue debt. First conference entered without ace.
-- **Indigo Year 2** — Post-conference. Vee recruited in Celadon. The kingdom arc (skips conference). Pikachu handoff to Oak end of Year 2.
+- **Indigo Year 2** — Post-conference. Vee recruited in Celadon. The Argaea arc (skips conference). Pikachu handoff to Oak end of Year 2.
+
+> [!FLAG] **Timeline contradiction (unresolved --- author's call).** This page slots the Argaea arc + Pikachu handoff in **Indigo Year 2 (~age 14)**, but `arcs/arc-hidden-kingdom.md` and `arcs/saga-overview.md` place them at **Arc 10, age 16** --- *after* Hoenn. That ordering also conflicts with Gardevoir: she is acquired in the **Hoenn** arc yet "stays in Argaea," which cannot happen if Argaea precedes Hoenn. Reconcile where Argaea sits in the region order before locking team logistics.
 - **Transition trigger** — Two successful Rocket thefts within ~60 days, plus one secondary factor: denied gym rematch, sponsor offer contingent on relocation, Ranger advice, or Amber's own line *"I am not bait."*
 - **Hoenn** — Ecology shift; new additions. Trapinch arc. Tone hardens.
 - **Sinnoh** — History/identity themes deepen. Shinx, Rockruff arcs TBD.
@@ -253,7 +255,7 @@ Migration logistics: registration scan, health stamp, insurance proof, visa tier
 
 - future/current-direction.md — source of truth for story direction
 - future/arcs/arc-celadon.md — Celadon/Erika/Vee arc
-- arcs/arc-hidden-kingdom.md — the hidden kingdom discovery arc
+- arcs/arc-hidden-kingdom.md — Argaea (the hidden kingdom) discovery arc
 - future/arcs/arc-pikachu-handoff.md — Pikachu/Ash handoff beat
 - future/arcs/arc2-hoenn.md — Hoenn arc, Trapinch
 - wiki/characters/amber-mc.md — MC overview
