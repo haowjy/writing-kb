@@ -6,7 +6,7 @@ updated: 2026-05-18
 
 # Sabrina
 
-Sabrina is Kyle's monstrous natural-talent boss, not a companion. She is the Saffron Psychic Gym family's prodigy: age 14, terrifyingly powerful, emotionally distant, and positioned as the rising force that could displace the Fighting Dojo.
+Sabrina is Kyle's monstrous natural-talent boss, not a companion. She is the Saffron Psychic Gym family's prodigy: age 13, terrifyingly powerful, emotionally distant, and positioned as the rising force that could displace the Fighting Dojo.
 
 ## Core Concept
 
@@ -26,7 +26,7 @@ She is not cruel for fun. She is detached because closeness costs her more than 
 
 ## Status
 
-- **Age:** 14, peer rival to [[kyle-kong]].
+- **Age:** 13 (1 year early — prodigy, no reason to wait), peer rival to [[kyle-kong]].
 - **Family:** Sabrina's family runs the Saffron Psychic Gym, currently minor/challenger status but backed to rise.
 - **Resources:** Silph Co. backing, wealthy family, elite tutors, bred Pokemon, managed travel, full support infrastructure.
 - **Path:** Elite trainer path; projected 8 badges in Year 1 without needing outside coaching.

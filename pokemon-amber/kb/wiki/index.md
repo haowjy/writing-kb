@@ -33,9 +33,10 @@ Updated on every ingest. See `../AGENTS.md` for conventions.
 
 | Page | Summary |
 |---|---|
-| [celadon-city](places/celadon-city.md) | Celadon City — major Kanto hub; Erika's territory |
-| [celadon-gym](places/celadon-gym.md) | Celadon Gym — Grass-type pillar gym, Erika's domain |
-| [celadon-pokemon-center](places/celadon-pokemon-center.md) | Celadon Pokemon Center |
+| [celadon-city/](places/celadon-city/) | Celadon City — major Kanto hub; Piltover/Zaun structure; Erika's territory |
+| [celadon-gym](places/celadon-city/celadon-gym.md) | Celadon Gym — Grass-type pillar gym, GL succession in progress |
+| [celadon-pokemon-center](places/celadon-city/celadon-pokemon-center.md) | Celadon Pokemon Center |
+| [factory-ward](places/celadon-city/factory-ward.md) | Factory Ward — Celadon's industrial underbelly, Sludge Fever, Rocket territory |
 | [cerulean-gym](places/cerulean-gym.md) | Cerulean City Gym (stub) — Water-type, Misty |
 | [cinnabar-gym](places/cinnabar-gym.md) | Cinnabar Island overview (Amber continuity) — volcano island, Blaine's gym, Flame Forest, tourist economy *(note: misnamed; see also cinnabar-island)* |
 | [cinnabar-island](places/cinnabar-island.md) | Cinnabar Island (canon research) — bulbapedia-sourced reference *(partial duplicate of cinnabar-gym; consolidation pending)* |

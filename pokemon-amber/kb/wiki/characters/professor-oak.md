@@ -71,6 +71,22 @@ What Oak does in the aftermath — not as a revelation, just as practical advice
 
 Amber doesn't need him to. She develops it through the work itself.
 
+## Agatha (Settled 2026-06-07)
+
+Oak and Agatha were together during their competitive years --- rivals, partners, lovers. Both were top-tier trainers; Agatha made it to Championship finals against Oak. They were part of the same research group.
+
+The Unification War splits them. Oak chooses surrender and research. Agatha sees that as cowardice and personal betrayal. Their breakup mirrors the Kanto hardliner split that creates TR's ideological core --- Agatha represents the path Oak didn't take: pure battle, refusing to let the fire cool, interpreting his restraint as weakness.
+
+**Canon hooks used:** Agatha calls Oak "tough and handsome" and "a shadow of his former self" in the games. Semi-canonical crush. In Masters EX, she describes their youth together. The bitterness reads as ex-partner resentment, not just professional rivalry.
+
+**In AmberTwo:** Their split is personal AND political. Oak chose peace; Agatha stayed loyal to Kanto's strength. She didn't join TR, but she shares the hardliner worldview that produced it. She's Elite Four --- still inside the system, still powerful, still bitter that Oak walked away from everything they built together.
+
+**Open:** Does Agatha interact with Amber? Does she test Amber as a proxy for her grudge against Oak? Does she respect Amber's strength while resenting whose protégé she is?
+
+## Gary's Parents
+
+**Unsettled.** Canon never explains what happened to Gary and Daisy's parents. Fan theories range from death to abandonment to war. For AmberTwo, this is deliberately left open --- decide when the story needs it, not before.
+
 ## The Research
 
 Oak's Pokemon bond research is not purely academic. It is his current obsession. Young Oak burned with exploration and the desire to understand Pokemon in the field; old Oak has transformed that fire into a narrower, deeper question:

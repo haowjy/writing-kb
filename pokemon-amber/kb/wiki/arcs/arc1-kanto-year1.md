@@ -134,8 +134,9 @@ Viridian is Amber's **first** gym challenge (not the 8th as in games). Giovanni 
 
 ## Kyle Partnership
 
-### Kyle Kong (Age 14)
+### Kyle Kong (Age 13)
 - Fighting Dojo heir, Saffron politics
+- 1 year early (Dojo-sponsored — Saffron rivalry with Sabrina is time-sensitive)
 - Traditional walking journey (Dojo honor, not necessity)
 - Has family resources
 - Reckless, overconfident, tactically weak
@@ -147,7 +148,7 @@ Viridian is Amber's **first** gym challenge (not the 8th as in games). Giovanni 
 - Both contribute meaningfully
 
 ### Partnership Dynamic (Updated)
-- **More peer-based** than old version --- Amber is 13, Kyle is 14, both near standard journey age
+- **True peers** --- both 13, both early-departure kids, both first-years
 - Early Kanto's default frame is the two of them on the road together, not a wider fixed ensemble
 - Amber provides tactical insight; Kyle provides physical confidence and sometimes resources
 - Temporary third parties rotate through based on the local arc; they do not usually graduate into permanent companions

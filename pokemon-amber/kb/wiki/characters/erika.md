@@ -80,7 +80,7 @@ This version catches Erika before she's officially Gym Leader:
 
 **Medical Knowledge:** Beyond battle training, Erika possesses extensive knowledge of herbal medicine, immediately diagnosing Sludge Fever and creating effective treatments from gym greenhouse herbs.
 
-**Childhood Friend to Kaede:** The story preserves the manga connection between Erika and Kaede (from "How I Became a Pokémon Card"), showing their enduring friendship despite different life circumstances.
+**Stranger to Kaede (NOT childhood friends):** Unlike the manga source, Erika and Kaede have no prior relationship. They meet for the first time through the Oddish heist --- Erika responds to the theft and treats Hiro out of principle, not personal loyalty. This makes her compassion stronger (helps a stranger) but sets up later tension: Kaede eventually resents Erika after she becomes Gym Leader and the Factory Ward's problems persist.
 
 **HP UP Production:** The gym produces HP UP vitamins under Erika's oversight, with specific Pokémon spores as key ingredients (though which Pokémon is kept secret). This ties into the story's exploration of Celadon's pharmaceutical industry.
 
@@ -271,11 +271,11 @@ The gym produces HP UP vitamins using specific Pokémon spores:
 
 **Kayla:** A more casual professional relationship with the sleepy security staff member. Erika shows patience with Kayla's drowsiness and computer struggles, dismissing her with mercy when she's exhausted. However, Erika also maintains information security, shutting down Kayla's near-revelation about HP UP production.
 
-**Kaede:** Childhood friends, though this relationship is referenced more than directly shown:
-- Their friendship persists despite very different life circumstances
-- Erika's willingness to provide free treatment and trust Kaede suggests deep loyalty
-- The manga source material presents them as friends despite Kaede's Team Rocket affiliation (though that's not confirmed in this story)
-- Erika never considers punishing Kaede for the theft, only helping her
+**Kaede:** Strangers who meet through the Oddish heist. NOT childhood friends (manga-only):
+- Erika treats Hiro for free and lets Kaede keep the Oddish --- compassion toward a stranger, not an old friend
+- After becoming Gym Leader, Erika doesn't maintain contact (different worlds, no prior bond)
+- Kaede later joins TR and blames Erika for the Factory Ward's continued neglect
+- Their Arc 6 reunion is a collision: Erika remembers the girl she helped; Kaede sees the Gym Leader who runs a system that still fails the Ward
 
 **Amber:** Warm and welcoming despite Amber's trespassing and involvement in the investigation:
 - Pats her head affectionately
@@ -381,7 +381,7 @@ These skills suggest she's being groomed for gym leadership through comprehensiv
 
 **Knowledge Beyond Violence:** She can diagnose Sludge Fever on sight, make medicine from greenhouse herbs, oversee pharmaceutical production, and beat a skilled challenger's Golbat. Battling is one part of the job.
 
-**Class Consciousness:** She sees Kaede's apartment and doesn't stop to judge the theft. She starts treating Hiro. She grew up knowing Kaede --- she understands what the Factory Ward is.
+**Class Consciousness:** She sees Kaede's apartment and doesn't stop to judge the theft. She starts treating Hiro. She's never been to the Factory Ward before --- this is her first real look at what's fifteen minutes from her gym. That structural blindness is part of the Celadon indictment.
 
 ## Character Arc and Development
 
@@ -433,7 +433,7 @@ Several threads remain open for Erika's continued development:
 
 **Gym Leader Succession:** When and how will she officially become leader? What obstacles remain?
 
-**Kaede Relationship:** How does their childhood friendship develop given Kaede's potential Team Rocket connections?
+**Kaede Relationship:** Strangers from the heist --- Kaede later becomes TR, blames Erika. Arc 6 reunion is a key Celadon beat.
 
 **Mary's Redemption:** As Mary's mentor, Erika will likely play a role in resolving her suspension.
 

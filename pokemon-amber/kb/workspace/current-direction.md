@@ -28,11 +28,11 @@ This is the single source of truth for the story's current intended direction. A
 ## Character Ages
 
 - **Amber:** 13 at journey start (1 year early, Oak approves)
-- **Kyle Kong:** 14 (standard journey age)
+- **Kyle Kong:** 13 (1 year early, Dojo-sponsored — Saffron politics are time-sensitive)
 - **Ash Ketchum:** 12 (2 years from his own journey; canon events at 14)
-- **Sabrina:** 14 (same age as Kyle, peer rival)
+- **Sabrina:** 13 (prodigy, no reason to wait — 1 year early)
 
-Chapters 1-17 establish Amber is ~1 year older than Ash. These ages are consistent.
+Standard journey age is 14. Amber, Kyle, and Sabrina are all early-departure kids for different reasons — this shared trait is part of why they become a peer group. Chapters 1-17 establish Amber is ~1 year older than Ash. These ages are consistent.
 
 ---
 

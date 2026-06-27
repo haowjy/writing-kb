@@ -130,6 +130,40 @@ Mewtwo is the product of others' obsession seeking autonomy. Its drive begins as
 
 Charcadet is becoming: what shape will this fire take, and who gets to shape it? Alonso and the older/starter Charcadet offer one possible path; its eventual Armarouge form remains the mature version of that path. Amber offers a beginning. Rocket/Ceruledge forces a corrupted path through theft and weaponization.
 
+### Ditto
+
+Ditto doesn't have a driving obsession. It was a blob, and in many ways still is — shaped by whoever holds it, defined by what it copies. Its emerging drive is attachment and protection: choosing Amber, choosing forms for her sake, becoming something more than Fuji's tool. But this is nascent, not consuming. Ditto's arc is about agency slowly forming where none existed.
+
+### Teddiursa → Ursaring
+
+Pre-4Ever: playful, determined, scrappy — wants to find his mother and get stronger, but still has a childlike quality. The drive to get stronger is a means to the rescue, not yet an end in itself.
+
+4Ever: Teddiursa finds his mother among Rocket's corrupted Pokemon. She has been driven to madness — beyond saving. She dies. Teddiursa evolves into Ursaring through grief. The physical transformation is the emotional breaking point.
+
+Post-4Ever: Ursaring becomes destructively obsessed with strength and vengeance. Diminishing returns — rage without growth, training without improvement. Mirrors Amber's own radicalization after losing Charcadet. Both lost something in 4Ever; both harden into versions of themselves that can't sustain.
+
+Later: some event mellows both Ursaring and Amber. They come down from the destructive obsession together. The arc resolves into a sustainable version of their drive — not the fire going out, but the fire finding a shape it can hold.
+
+### Vee
+
+Endurance → trust → peace. Mirrors manga Vee's arc (Pokemon Adventures). TR experimented on Vee, forcing it to cycle between Vaporeon, Jolteon, and Flareon --- each transformation causes physical pain. Deep mistrust of humans as a result. Vee attacks anyone who approaches.
+
+Vee's drive is not a burning obsession --- it's the absence of one. What it wants is to stop hurting. What it gets instead is the ability to endure pain for someone who earned trust. The willingness to keep shifting, keep suffering, for Amber's sake --- that IS the drive, even though it looks passive from outside.
+
+Permanent evolution into Espeon is the resolution: loses the multi-form ability, gains stability. No longer burdened by the forced transformations. The Espeon form represents emotional recovery --- choosing one shape, one life, one bond. Not power-up. Peace.
+
+Resonates with Amber's identity themes (forced to be multiple things, in pain from it) and the broader Rocket-experimentation throughline.
+
+### Kaede
+
+Survival → resentment. Hiro lives --- that's the first object. Kaede steals an Oddish, gets caught, and a stranger (Erika) saves her brother for free. Gratitude is real but complicated.
+
+Then Erika becomes Gym Leader. Nothing changes for the Factory Ward. The system Erika runs still refuses unregistered patients, still lets Sludge Fever spread, still ignores the Ward. Kaede's gratitude curdles: Erika saved one family, got the title, and the Ward rots. Individual compassion, zero structural change.
+
+Kaede joins TR because it's the natural economic path for Factory Ward residents --- the only institution that treats them as worth investing in. Her drive shifts from pure survival to something harder: prove the legitimate system is a lie. Erika is the face of that lie, even if Erika is genuinely trying and blocked by the board. Kaede can't see that from outside. She sees outcomes.
+
+**Note:** Kaede and Erika are NOT childhood friends (manga-only). They meet for the first time through the heist (ch5-10). The resentment is structural, not personal betrayal.
+
 ## Design Rule
 
 The drive spectrum should be visible in plot pressure:

@@ -6,14 +6,14 @@ updated: 2026-05-20
 
 # Giovanni
 
-The Boss of [[../organizations/team-rocket]] and the official Gym Leader of [[../places/viridian-gym]] (Ground-type, Kanto pillar). The dual position --- legitimate gym authority + criminal empire leader --- isn't coincidence; it's structural, inherited from his parents.
+The most powerful faction leader within [[../organizations/team-rocket]] and the official Gym Leader of [[../places/viridian-gym]] (Ground-type, Kanto pillar). Publicly known to be connected to TR, but nobody knows how deeply — his exact role is ambiguous. The dual position --- legitimate gym authority + criminal faction leader --- isn't coincidence; it's structural, inherited from his parents.
 
 ## Origins
 
 Giovanni is the product of a strategic marriage between two organizations.
 
-**From his mother (Madame Boss, Team Rocket founder):**
-- The Team Rocket criminal empire
+**From his mother (Madame Boss, Team Rocket co-founder):**
+- The Team Rocket criminal empire (merged ex-military nationalist movement with her Silvertail logistics)
 - Silvertail merchant clan knowledge (logistics, breeding, networks --- see [[../organizations/clans/silvertail]])
 - Philosophy: "Bonds are fake. Pokemon are tools."
 
@@ -50,9 +50,9 @@ Charismatic, intelligent, ruthless when necessary. Balances his mother's profit 
 
 See [[../places/viridian-gym]] for the gym specifically.
 
-### Private: Team Rocket Boss
-- Strategic mastermind of the organization his mother founded
-- Transformed TR from his mother's profit-focused criminal enterprise into a nationalist movement
+### Private: Team Rocket's Most Powerful Faction Leader
+- Strategic mastermind controlling the largest faction within TR's federation structure
+- Pushed TR's center of gravity from his mother's profit focus toward nationalist ideology
 - Mt. Silver revenge agenda (Kanto hardliner ideology)
 - **Mewtwo project architect** --- superweapon to counter legendaries
 - Competing with his mother's vision: she wants TR to be profitable; he wants Kanto supremacy

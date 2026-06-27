@@ -16,10 +16,10 @@ updated: 2026-05-18
 ## Basic Info
 
 - **Full Name:** Kyle Kong
-- **Age:** 14 (standard journey age)
+- **Age:** 13 (1 year early — Dojo-sponsored)
 - **Origin:** Saffron City (Fighting Dojo)
 - **Father:** Koichi (Fighting Dojo Leader)
-- **Journey Start:** Age 14 (standard age, pressured by father to match Sabrina)
+- **Journey Start:** Age 13 (1 year early; Dojo pushed early departure because Sabrina rivalry is time-sensitive)
 
 ## Physical/Combat Abilities
 

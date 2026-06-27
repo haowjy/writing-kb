@@ -4,22 +4,28 @@ category: locations
 title: Celadon City
 requires_citations: true
 status: draft
-updated: 2025-10-09
+updated: 2026-06-07
 hidden: false
 canon: true
 ---
 
 # Celadon City
 
-**Celadon City** is a major commercial hub in central Kanto, known for its extensive gardens, corporate development, and the prestigious Celadon Gym. It serves as a primary setting for Chapters 5-9 of Pokemon Amber.
+**Celadon City** is a major commercial hub in central Kanto, known for its extensive gardens, corporate development, and the prestigious Celadon Gym. It serves as a primary setting for Chapters 5-11 of Pokemon Amber and a recurring location in Arcs 2 and 6.
+
+> **Design inspiration:** Piltover from *Arcane* — a beautiful, prosperous surface city whose wealth is maintained by neglecting and exploiting its industrial underbelly. See [Factory Ward](./factory-ward.md).
 
 ## Overview
 
-Celadon is characterized by its blend of natural beauty and urban development, with carefully maintained parks and gardens throughout the city. The city is surrounded by forests and green spaces, making it a natural habitat for Grass-type Pokemon. Celadon functions as both a commercial center and a haven for nature enthusiasts.
+Celadon presents two faces. The upper city is characterized by its blend of natural beauty and urban development — carefully maintained parks and gardens, ginkgo-lined avenues, a prestigious gym run by noble families, the largest department store in Kanto. It is the pinnacle of Kanto's commercial success.
+
+Beneath this surface is the [Factory Ward](./factory-ward.md) — an industrial district of pollution, poverty, and recurring Sludge Fever outbreaks. The noble families who govern the gym and dominate the city's institutions have let the Factory Ward rot for generations. Giovanni's Team Rocket fills the vacuum, operating the Game Corner as a front and maintaining deeper institutional reach into the neglected half of the city.
+
+The tension between these two Celadons — and who benefits from maintaining the divide — is a core thread of the Celadon arc.
 
 **Region:** Central Kanto  
-**Gym:** [Celadon Gym](./celadon-gym.md) (Grass-type, Leader: Erika)  
-**Notable Features:** Celadon Department Store, extensive park system, metro system, Pokemon Center with job board
+**Gym:** [Celadon Gym](./celadon-gym.md) (Grass-type, GL position currently vacant — Erika is the leading candidate)  
+**Notable Features:** Celadon Department Store, extensive park system, metro system, [Pokemon Center](./celadon-pokemon-center.md) with job board, [Factory Ward](./factory-ward.md), Game Corner (Team Rocket front)
 
 ## Geography & Layout
 
@@ -32,7 +38,7 @@ The approach to [Celadon Gym](./celadon-gym.md) is lined with ginkgo trees whose
 - Raised beds with Oddish-shaped topiaries
 - Irises and wisteria gardens
 - Small decorative pond (possibly inhabited by Magikarp or Goldeen)
-- Park benches (some occupied by questionable characters) ([Chapter 5](../../../story/chapter5/chapter5.md))
+- Park benches (some occupied by questionable characters) ([Chapter 5](../../../../story/chapter5/chapter5.md))
 
 **Downtown Area:**
 - Commercial district with shops and businesses
@@ -49,34 +55,34 @@ The approach to [Celadon Gym](./celadon-gym.md) is lined with ginkgo trees whose
 **Celadon Metro System:**
 An elevated train network connecting key city locations. Features:
 - Modern stations with escalators
-- 24-hour day passes (₽300 for children) ([Chapter 7](../../../story/chapter7/chapter7.md))
+- 24-hour day passes (₽300 for children) ([Chapter 7](../../../../story/chapter7/chapter7.md))
 - Turnstile entry with magnetic card readers
 - Metro stops include Pokemon Center Station
-- Clean, well-maintained system with automated announcements ([Chapter 7](../../../story/chapter7/chapter7.md))
+- Clean, well-maintained system with automated announcements ([Chapter 7](../../../../story/chapter7/chapter7.md))
 
 **Pokemon Center Station:**
-Underground station directly connected to the [Pokemon Center](./celadon-pokemon-center.md) complex, with escalators leading to main lobby. Features decorative Chansey-pink support columns and mosaic artwork depicting healing berries ([Chapter 7](../../../story/chapter7/chapter7.md)).
+Underground station directly connected to the [Pokemon Center](./celadon-pokemon-center.md) complex, with escalators leading to main lobby. Features decorative Chansey-pink support columns and mosaic artwork depicting healing berries ([Chapter 7](../../../../story/chapter7/chapter7.md)).
 
 ## Ecosystem & Pokemon
 
 ### Native Pokemon
 
 **Common Urban Species:**
-- Meowth (seen handling currency at ticket booths) ([Chapter 7](../../../story/chapter7/chapter7.md))
-- Mr. Mime (working as traffic directors at metro stations) ([Chapter 7](../../../story/chapter7/chapter7.md))
-- Machop (operating ticket booths with surprising precision) ([Chapter 7](../../../story/chapter7/chapter7.md))
-- Pidgey (delivery services, seen carrying packages) ([Chapter 7](../../../story/chapter7/chapter7.md))
+- Meowth (seen handling currency at ticket booths) ([Chapter 7](../../../../story/chapter7/chapter7.md))
+- Mr. Mime (working as traffic directors at metro stations) ([Chapter 7](../../../../story/chapter7/chapter7.md))
+- Machop (operating ticket booths with surprising precision) ([Chapter 7](../../../../story/chapter7/chapter7.md))
+- Pidgey (delivery services, seen carrying packages) ([Chapter 7](../../../../story/chapter7/chapter7.md))
 
 **Park & Garden Species:**
-- Oddish/Gloom (greenhouse and garden Pokemon) ([Chapters 5, 7](../../../story/chapter5/chapter5.md))
+- Oddish/Gloom (greenhouse and garden Pokemon) ([Chapters 5, 7](../../../../story/chapter5/chapter5.md))
 - Bellsprout/Weepinbell (gym training Pokemon)
-- Vileplume (greenhouse guardians) ([Chapter 8](../../../story/chapter8/chapter8.md))
+- Vileplume (greenhouse guardians) ([Chapter 8](../../../../story/chapter8/chapter8.md))
 - Various Grass-type Pokemon in maintained gardens
 
 **Surrounding Wilderness:**
 - Celadon Hills (berry collection areas)
 - Forest zones (Route 7 connections)
-- Undocumented wild areas with Eevee populations ([Chapter 7](../../../story/chapter7/chapter7.md) - rogue Eeveelutions quest)
+- Undocumented wild areas with Eevee populations ([Chapter 7](../../../../story/chapter7/chapter7.md) - rogue Eeveelutions quest)
 
 ### Pokemon Integration
 
@@ -120,7 +126,7 @@ Major hub for trainers and medical services. See: [Celadon Pokemon Center](./cel
 - Metro station access (underground)
 - Training field access (outdoor, through glass doors)
 
-Amber discovers the quest system here in [Chapter 7](../../../story/chapter7/chapter7.md).
+Amber discovers the quest system here in [Chapter 7](../../../../story/chapter7/chapter7.md).
 
 ### Celadon Department Store
 
@@ -159,7 +165,7 @@ Celadon Pokemon Center's job board offers region-appropriate quests:
 - Grass-type Pokemon handling
 - Greenhouse operations
 - Route 7 maintenance
-- Investigation work (Oddish theft, [Chapter 7](../../../story/chapter7/chapter7.md))
+- Investigation work (Oddish theft, [Chapter 7](../../../../story/chapter7/chapter7.md))
 
 Quest difficulty ranges from Class D (berry collection) to Class A (major threats), with most focusing on Grass-type and forest ecosystem skills.
 
@@ -176,15 +182,15 @@ Celadon prides itself on blending urban development with natural beauty:
 ### Social Dynamics
 
 **Observed in Story:**
-- Busy commuter culture (metro system crowded with practiced efficiency) ([Chapter 7](../../../story/chapter7/chapter7.md))
+- Busy commuter culture (metro system crowded with practiced efficiency) ([Chapter 7](../../../../story/chapter7/chapter7.md))
 - Pokemon working alongside humans accepted as normal
-- Gym holds significant social prestige (Erika's influence seen in [Chapter 8](../../../story/chapter8/chapter8.md))
+- Gym holds significant social prestige (Erika's influence seen in [Chapter 8](../../../../story/chapter8/chapter8.md))
 - Class-conscious society (certification requirements, expensive gym fees)
 
 **Public Safety:**
 - Generally safe urban environment
-- Occasional incidents (Oddish theft, [Chapter 7](../../../story/chapter7/chapter7.md))
-- Gym security actively monitors facilities ([Chapter 8](../../../story/chapter8/chapter8.md))
+- Occasional incidents (Oddish theft, [Chapter 7](../../../../story/chapter7/chapter7.md))
+- Gym security actively monitors facilities ([Chapter 8](../../../../story/chapter8/chapter8.md))
 - Rangers and police maintain order
 
 ## Climate & Environment
@@ -192,7 +198,7 @@ Celadon prides itself on blending urban development with natural beauty:
 While not explicitly detailed in current chapters, Celadon's extensive gardens and Grass-type focus suggest:
 - Moderate climate suitable for diverse plant life
 - Adequate rainfall for lush vegetation
-- Seasonal changes (autumn colors visible in [Chapter 5](../../../story/chapter5/chapter5.md))
+- Seasonal changes (autumn colors visible in [Chapter 5](../../../../story/chapter5/chapter5.md))
 - Well-maintained green spaces throughout urban areas
 
 ## Role in Story
@@ -239,17 +245,18 @@ Celadon represents:
 
 ## Related Locations
 
-- [Celadon Gym](./celadon-gym.md) - Primary institution
-- [Celadon Pokemon Center](./celadon-pokemon-center.md) - Medical and quest hub
-- Route 7 - Eastern route with wilderness zones
-- Saffron City - Neighboring major city to the east
+- [Celadon Gym](./celadon-gym.md) — Primary institution
+- [Celadon Pokemon Center](./celadon-pokemon-center.md) — Medical and quest hub
+- [Factory Ward](./factory-ward.md) — Industrial district, poverty, Sludge Fever
+- Route 7 — Eastern route with wilderness zones
+- Saffron City — Neighboring major city to the east
 
 ## Citations
 
-- City description and atmosphere: [Chapter 5](../../../story/chapter5/chapter5.md)
-- Metro system: [Chapter 7](../../../story/chapter7/chapter7.md)
-- Pokemon Center: [Chapter 7](../../../story/chapter7/chapter7.md)
-- Gym complex: [Chapters 5-8](../../../story/chapter5/chapter5.md)
-- Social dynamics: [Chapters 5-9](../../../story/chapter5/chapter5.md)
+- City description and atmosphere: [Chapter 5](../../../../story/chapter5/chapter5.md)
+- Metro system: [Chapter 7](../../../../story/chapter7/chapter7.md)
+- Pokemon Center: [Chapter 7](../../../../story/chapter7/chapter7.md)
+- Gym complex: [Chapters 5-8](../../../../story/chapter5/chapter5.md)
+- Social dynamics: [Chapters 5-9](../../../../story/chapter5/chapter5.md)
 - Canon comparison: [Bulbapedia - Celadon City](https://bulbapedia.bulbagarden.net/wiki/Celadon_City)
 

@@ -453,7 +453,7 @@ This story expands gym history and function significantly:
 - [Badge System](../trainer-systems/badge-system.md) - How modern badges work
 - [Gym System Structure](../trainer-systems.md) - Current gym functions
 - [Pokeball Revolution](./pokeball-invention.md) - Technological catalyst
-- [Celadon Gym](../../pok-locations/celadon-city/celadon-gym.md) - Modern example
+- [Celadon Gym](../../places/celadon-city/celadon-gym.md) - Modern example
 - [Saffron Psychic Gym](../../pok-locations/saffron-city/saffron-psychic-gym.md) - Type transition case
 
 ## Citations

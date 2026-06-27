@@ -11,7 +11,7 @@ canon: true
 
 # Celadon Pokemon Center
 
-The **Celadon Pokemon Center** is a major medical and coordination facility in [Celadon City](./celadon-city.md), serving as the primary setting for Chapter 7 where Amber discovers the [quest system](../../lore/training/quest-system.md).
+The **Celadon Pokemon Center** is a major medical and coordination facility in [Celadon City](./index.md), serving as the primary setting for Chapter 7 where Amber discovers the [quest system](../../../lore/training/quest-system.md).
 
 ## Overview
 
@@ -19,7 +19,7 @@ This Pokemon Center is significantly larger and more complex than standard facil
 
 **Services:**
 - Pokemon healing and medical care
-- Quest coordination ([job board](../../lore/training/quest-system.md))
+- Quest coordination ([job board](../../../lore/training/quest-system.md))
 - Trainer registration and certification verification
 - Emergency response coordination
 - Training field access
@@ -29,7 +29,7 @@ This Pokemon Center is significantly larger and more complex than standard facil
 ### Underground Access
 
 **Pokemon Center Station:**
-Metro station directly beneath the Pokemon Center, accessed via escalators ([Chapter 7](../../../story/chapter7/chapter7.md)).
+Metro station directly beneath the Pokemon Center, accessed via escalators ([Chapter 7](../../../../story/chapter7/chapter7.md)).
 
 **Station Features:**
 - "Underground station far larger and more polished than the downtown platforms"
@@ -47,7 +47,7 @@ Metro station directly beneath the Pokemon Center, accessed via escalators ([Cha
 ### Main Lobby
 
 **Scale:**
-"The escalator deposited me into the Pokemon Center's main lobby. I had to stop myself from gasping audibly. The familiar game sprite had done nothing to prepare me for the sheer scale of it all." ([Chapter 7](../../../story/chapter7/chapter7.md))
+"The escalator deposited me into the Pokemon Center's main lobby. I had to stop myself from gasping audibly. The familiar game sprite had done nothing to prepare me for the sheer scale of it all." ([Chapter 7](../../../../story/chapter7/chapter7.md))
 
 **Ceiling:**
 - Soars overhead with curving panels
@@ -83,7 +83,7 @@ The lobby branches into three distinct areas separated by sleek glass partitions
 ### Job Board
 
 **Physical Description:**
-"The bulletin board loomed before me, a maze of paper and possibility" - extensive cork board mounted prominently ([Chapter 7](../../../story/chapter7/chapter7.md))
+"The bulletin board loomed before me, a maze of paper and possibility" - extensive cork board mounted prominently ([Chapter 7](../../../../story/chapter7/chapter7.md))
 
 **Organization:**
 - Papers pinned to cork in organized sections
@@ -120,7 +120,7 @@ The lobby branches into three distinct areas separated by sleek glass partitions
 - "Oddly decent pay for some wild berry picking"
 
 **Fine Print:**
-Posted at bottom of board: "Quest acceptance requires valid Badge from authorized Gym. Present badge card at reception." ([Chapter 7](../../../story/chapter7/chapter7.md))
+Posted at bottom of board: "Quest acceptance requires valid Badge from authorized Gym. Present badge card at reception." ([Chapter 7](../../../../story/chapter7/chapter7.md))
 
 **Trainer Behavior:**
 - Move with "easy confidence of people who'd done this a thousand times"
@@ -134,7 +134,7 @@ Posted at bottom of board: "Quest acceptance requires valid Badge from authorize
 ### Medical Staff
 
 **Nurse Joy:**
-"A Nurse Joy-and wasn't that a trip, seeing one in person" - efficiently manages flow of trainers and Pokemon ([Chapter 7](../../../story/chapter7/chapter7.md))
+"A Nurse Joy-and wasn't that a trip, seeing one in person" - efficiently manages flow of trainers and Pokemon ([Chapter 7](../../../../story/chapter7/chapter7.md))
 
 **Chansey:**
 Multiple Chansey visible through frosted glass partitions, moving between treatment stations with "practiced grace"
@@ -172,7 +172,7 @@ Standard Pokemon Center services as seen across regions.
 
 ### Quest System Hub
 
-Pokemon Center serves as central coordination point for [quest system](../../lore/training/quest-system.md):
+Pokemon Center serves as central coordination point for [quest system](../../../lore/training/quest-system.md):
 
 **Functions:**
 1. **Job Board** - Display available quests
@@ -182,7 +182,7 @@ Pokemon Center serves as central coordination point for [quest system](../../lor
 5. **Record Keeping** - Track trainer quest history
 
 **Quest Sources Posted Here:**
-- [Ranger](../../lore/organizations/ranger-union.md) requests
+- [Ranger](../../../lore/organizations/ranger-union.md) requests
 - [Gym](./celadon-gym.md) postings (Oddish theft)
 - Private business contracts
 - Individual citizen requests
@@ -254,7 +254,7 @@ Cross-region quests also appear (Saffron City Hypno).
 
 ### Busy Professional Environment
 
-"The morning crowd had mostly gone silent, their attention locked on our little drama" - normally bustling with activity ([Chapter 7](../../../story/chapter7/chapter7.md))
+"The morning crowd had mostly gone silent, their attention locked on our little drama" - normally bustling with activity ([Chapter 7](../../../../story/chapter7/chapter7.md))
 
 **Typical Activity:**
 - Trainers collecting/returning quests
@@ -288,7 +288,7 @@ Amber feels out of place: "Meanwhile, I stood frozen like a tourist at a museum"
 8. Encounters Mary posting Oddish theft notice
 
 **Turning Point:**
-Mary recognizes Amber from greenhouse incident, leading to investigation in [Chapter 8](../../../story/chapter8/chapter8.md).
+Mary recognizes Amber from greenhouse incident, leading to investigation in [Chapter 8](../../../../story/chapter8/chapter8.md).
 
 ### Thematic Significance
 
@@ -329,23 +329,23 @@ Amber notes similarity to Mystery Dungeon job boards, showing her game knowledge
 
 ## Related Locations
 
-- [Celadon City](./celadon-city.md) - Host city
+- [Celadon City](./index.md) - Host city
 - [Celadon Gym](./celadon-gym.md) - Posts quests here
 - Pokemon Center Metro Station - Underground access
 - Training fields - Outdoor facilities
 
 ## Related Systems
 
-- [Quest System](../../lore/trainer-systems/quest-system.md) - Coordinated here
-- [Badge System](../../lore/trainer-systems/badge-system.md) - Badge cards verified here (area authorization)
-- [Ranger Union](../../lore/organizations/ranger-union.md) - Major quest poster
+- [Quest System](../../../lore/trainer-systems/quest-system.md) - Coordinated here
+- [Badge System](../../../lore/trainer-systems/badge-system.md) - Badge cards verified here (area authorization)
+- [Ranger Union](../../../lore/organizations/ranger-union.md) - Major quest poster
 
 ## Citations
 
-- Facility description: [Chapter 7](../../../story/chapter7/chapter7.md)
-- Metro station access: [Chapter 7](../../../story/chapter7/chapter7.md)
-- Job board discovery: [Chapter 7](../../../story/chapter7/chapter7.md)
-- Quest examples: [Chapter 7](../../../story/chapter7/chapter7.md)
-- Mary's appearance with WANTED poster: [Chapter 7](../../../story/chapter7/chapter7.md)
-- Amber's observations and reactions: [Chapter 7](../../../story/chapter7/chapter7.md)
+- Facility description: [Chapter 7](../../../../story/chapter7/chapter7.md)
+- Metro station access: [Chapter 7](../../../../story/chapter7/chapter7.md)
+- Job board discovery: [Chapter 7](../../../../story/chapter7/chapter7.md)
+- Quest examples: [Chapter 7](../../../../story/chapter7/chapter7.md)
+- Mary's appearance with WANTED poster: [Chapter 7](../../../../story/chapter7/chapter7.md)
+- Amber's observations and reactions: [Chapter 7](../../../../story/chapter7/chapter7.md)
 - Canon comparison: [Bulbapedia - Pokemon Center](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Center)

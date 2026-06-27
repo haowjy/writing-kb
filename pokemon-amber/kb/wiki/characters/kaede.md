@@ -13,18 +13,18 @@ canon: true
 ## Overview
 Kaede is a teenage girl living in Celadon City's Factory Ward who becomes entangled with Amber and Mary during a desperate attempt to save her sick younger brother. Despite being severely allergic to Grass-type Pokémon, she steals an Oddish from Celadon Gym in hopes of using its spores to help her brother Hiro, who suffers from Sludge Fever. Her character is based on Kaede from the manga *How I Became a Pokémon Card*.
 
-## Canonical Source
+## Canonical Source (Manga Reference Only)
 
 ### Manga: How I Became a Pokémon Card
-Kaede originates from the manga series *How I Became a Pokémon Card* ([Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kaede)), where she is characterized by several key traits that this story adapts:
+Kaede originates from the manga series *How I Became a Pokémon Card* ([Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Kaede)), [PW08](https://bulbapedia.bulbagarden.net/wiki/PW08). Key manga traits for reference --- **most are adapted significantly or dropped in this story**:
 
-**Friendship with Erika:** Kaede is childhood friends with Erika, the Celadon Gym Leader. Despite their different life paths, they remain close friends, with Erika seemingly unaware of Kaede's darker affiliations.
+**Manga-only: Childhood friendship with Erika.** In the manga, Kaede and Erika were close as children. Erika was oblivious to Kaede's flower allergies and kept giving her flowers, causing humiliation. Kaede swore revenge, joined TR, and tried to infiltrate the gym. Erika remained warmly oblivious. **This story does NOT use the childhood friendship.** Kaede and Erika are strangers who meet for the first time through the Oddish heist (ch5-10).
 
-**Severe Allergies:** Kaede is severely allergic to pollen, flowers, and Grass-type Pokémon in general. She is frequently depicted sneezing, looking tired, and clutching her runny nose due to these allergies.
+**Adapted: Severe allergies.** Kept. Kaede is allergic to Grass-type Pokemon / pollen / spores.
 
-**Team Rocket Affiliation:** In the original manga, Kaede is a member of Team Rocket, though Erika remains oblivious to this fact. This creates an interesting dynamic where their friendship persists despite Kaede's criminal connections.
+**Adapted: Team Rocket affiliation.** In the manga, Kaede is already TR when introduced. In this story, she's introduced as a desperate sister --- TR affiliation comes later, driven by Factory Ward economics.
 
-**Pokémon Partner:** Despite her crippling allergies, Kaede's only Pokémon is a Grass-type. She first met an Oddish as a young girl, and it later evolved into Gloom. The Oddish/Gloom carries around tissue boxes for her frequent sneezing fits and cares deeply for Kaede despite her allergic reactions to it.
+**Adapted: Grass-type partner despite allergies.** Kept. The stolen Oddish stays with her family. She suffers constant allergic reactions to keep it near Hiro.
 
 ## Pokemon Ambertwo's Interpretation
 
@@ -38,9 +38,9 @@ This story adapts Kaede's character with several key modifications while maintai
 
 **Allergies as Sacrifice:** Her severe allergies to the stolen Oddish's spores emphasize the sacrifice she's making for her brother---she's literally making herself sick to keep him alive, spending every moment in constant discomfort with red, running eyes and relentless sneezing.
 
-**No Initial Team Rocket Connection:** Unlike the manga, this version doesn't establish Kaede as a Team Rocket member during her introduction. Whether she has such connections remains unexplored, allowing for potential future development.
+**TR Comes Later:** Unlike the manga, Kaede is not TR when introduced. She joins Team Rocket after the heist arc, driven by Factory Ward economics --- TR is the natural path for anyone from the Ward who needs real opportunity. The legitimate system (which Erika now leads as Gym Leader) still fails Factory Ward residents despite Erika's one act of compassion.
 
-**Preserved Friendship:** Like the manga, Kaede's childhood friendship with Erika remains central to her character, creating emotional complexity when Erika must respond to the theft while still caring about her old friend.
+**No Prior Relationship with Erika:** Unlike the manga, Kaede and Erika are complete strangers. They meet for the first time through the heist --- Erika responds to the theft of her gym's Oddish and ends up treating Hiro. This makes Erika's compassion principled (she helps a stranger) rather than personal (helping an old friend), and makes Kaede's later resentment structurally driven rather than a personal betrayal.
 
 ## Role in the Story
 
@@ -116,7 +116,7 @@ Kaede's story concludes with the successful resolution of her brother's illness,
 
 **Hiro (Brother):** Her six-year-old brother suffering from Sludge Fever. Kaede's entire arc revolves around saving him. She sits by his side refusing to move, holds his hand during his illness, and risks everything for his survival. Their bond is the emotional core of her character.
 
-**Erika:** Childhood friends, though their relationship isn't explored in depth during Kaede's chapters. Erika's willingness to bend gym rules to provide free treatment suggests their friendship remains strong despite their different life circumstances. Erika trusts Kaede enough to allow continued access to gym medical facilities.
+**Erika:** Strangers who meet through the heist. Erika treats Hiro for free, lets Kaede keep the Oddish, asks nothing in return. Kaede's gratitude is real but complicated --- Erika's pristine kimono in a cardboard-patched apartment plants a seed. Later, after Erika becomes Gym Leader and nothing changes for the Factory Ward, Kaede's gratitude curdles into resentment. Erika saved one family, got the title, and the system she now runs still fails everyone else. From Kaede's view, Erika's compassion was a one-off act that helped Erika's career more than the Ward. This resentment drives Kaede toward TR, which actually provides for Factory Ward people --- even if the investment is criminal.
 
 **The Stolen Oddish:** Despite her severe allergies to it, Kaede develops a bond with the Oddish through their shared goal of helping Hiro. The Oddish shows surprising agency and compassion, choosing to stay with Kaede's family rather than return to the gym. It carefully releases therapeutic spores over Hiro while Kaede suffers the allergic consequences.
 
@@ -178,14 +178,14 @@ This context frames Kaede's theft as a symptom of larger social problems rather 
 
 **Environmental Consequences:** Sludge Fever's connection to industrial pollution implies that Celadon's economic prosperity (factories, manufacturing) comes at the cost of environmental health in poor neighborhoods. The wealthy shopping districts and struggling factory wards are connected---one literally sickens the other.
 
-## Future Potential
+## Future Arc: Factory Ward → Team Rocket
 
-While Kaede's immediate arc concludes in Chapter 10, several threads remain unexplored:
+Kaede's immediate crisis is resolved in ch10, but the structural problems persist:
 
-- Her childhood friendship with Erika could be developed further
-- The manga's Team Rocket connection remains unaddressed---does that affiliation exist in this version?
-- Her ongoing relationship with the Oddish (and her continued allergies) could provide future story opportunities
-- The Factory Ward's systemic problems persist even after Hiro receives treatment
-- Kaede's gratitude to Mary and Amber could lead to future assistance or friendship
+- Factory Ward is still rotting. Sludge Fever still spreading. Noble families still blocking real change.
+- Erika becomes Gym Leader --- uses the Oddish case partly to build her claim --- but is hamstrung by the board. Nothing changes for the Ward.
+- Kaede joins TR because it's the natural economic path for Factory Ward residents. TR provides real opportunity where the gym system doesn't.
+- Kaede blames Erika specifically: she saved one kid, got the title, and let the Ward rot. The resentment isn't irrational --- it's structural. Erika IS trying but Kaede can't see that from outside.
+- In Arc 6 (Celadon return, age 14): Erika is Gym Leader but blocked by the board. Kaede is Rocket. They meet again. Erika remembers the girl whose brother she saved. Kaede sees the Gym Leader who let the Factory Ward rot.
 
-The character remains available for future development while providing a complete emotional arc in her initial appearance.
+See: [[../arcs/arc-celadon]], [[../places/celadon-city/factory-ward]], [[../organizations/team-rocket]]

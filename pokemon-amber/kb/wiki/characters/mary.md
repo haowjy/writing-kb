@@ -3,213 +3,103 @@ type: wiki
 category: characters
 title: Mary (Gym Trainer)
 requires_citations: true
-status: published
-updated: 2026-04-05
+status: draft
+updated: 2026-06-07
 canon: true
 ---
 
 # Mary (Gym Trainer)
 
 ## Overview
-Mary is a young Celadon Gym trainer who serves as one of Erika's trusted staff members. She becomes one of Amber's first friends in this world after catching her trespassing in the gym's restricted greenhouse. Mary plays a central role in resolving the Oddish theft mystery and demonstrates compassion for those in difficult circumstances. Her character is based on Cooltrainer Mary from the Celadon Gym in the core Pokémon games.
 
-## Canonical Source
+Celadon Gym trainer, ~15. Tomboy ace-trainer type from a minor noble family. Scrappy, blunt, rough-but-caring. An outcast among the gym's noble ladies — Erika is the only one who really talks to her. Currently suspended from official gym battles. Becomes one of Amber's first friends.
 
-### Games: Cooltrainer Mary
-Mary is based on the Cooltrainer named Mary who appears in the Celadon Gym across multiple Pokémon games ([Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Celadon_Gym)). In the games, she serves as one of Erika's gym trainers.
+Based on Cooltrainer Mary from Celadon Gym in the core Pokemon games ([Bulbapedia][bulbapedia-celadon-gym]).
 
-**Canonical Team (varies by game):**
-- Bellsprout♀ Lv.22
-- Oddish♀ Lv.22
-- Weepinbell♀ Lv.22
-- Gloom♀ Lv.22
-- Ivysaur♂ Lv.22
+## Background
 
-In the games, Cooltrainers are typically portrayed as experienced trainers who are skilled in battle and serve as one of the tougher challenges before facing the Gym Leader.
+Mary's family is a smalltime noble house — enough status to have a seat at the margins of Celadon's elite, not enough to matter. Her parents want her to marry into a higher-ranking family. She's too rebellious for that. She ran away to the gym instead.
 
-## Pokemon Ambertwo's Interpretation
+Celadon Gym is governed by a board of noble families. Erika's family holds a seat. The gym is as much a social institution as a battling one — staffed largely by daughters of these families, trained in the refined tradition of Grass-type Pokemon and traditional aesthetics. Mary doesn't fit this mold. She's a fighter, not a lady.
 
-This story significantly expands Mary's role from a simple gym battle opponent into a fully realized character:
-
-**Age and Experience:** Portrayed as approximately 15 years old, suggesting she's relatively new to her position as gym trainer despite her skill. This youth makes her friendship with 10-year-old Amber feel more natural.
-
-**Compassionate Authority:** While maintaining her role as an authority figure at the gym, Mary demonstrates remarkable compassion. She doesn't immediately report Amber for trespassing, listens to Kaede's desperate situation, and consistently chooses understanding over punishment.
-
-**Suspension Subplot:** Unlike the games, this Mary is under suspension for unspecified reasons, preventing her from taking official gym battles. Erika hints that solving the Oddish theft might help her case with "the board," suggesting internal gym politics.
-
-**Pokemon Team Development:** At the start of the story, Mary primarily uses her Bellsprout partner. She doesn't yet have the full team from the games (specifically missing Ivysaur), suggesting room for growth as a trainer.
-
-**Bridge Character:** Mary serves as a narrative bridge between Amber's outsider perspective and the gym's internal workings, helping readers understand how the gym operates beyond simple battles.
-
-## Physical Appearance
-
-**Age:** Approximately 15 years old
-
-**Hair:** Purple, pulled back in a neat ponytail
-
-**Attire:** Celadon Gym uniform - a forest green kimono-style top with darker trim and asymmetrical closure. The uniform features an embroidered Rainbow Badge on the chest, marking her as official gym staff.
-
-**Demeanor:** Generally professional and authoritative when in her official capacity, but softens considerably when dealing with children or difficult situations. Shows practiced confidence in her movements and speech.
+**Why the gym took her:** She's genuinely talented. Ace Trainer caliber. The gym needs strong battlers even if they don't wear the kimono gracefully.
 
 ## Personality
 
-**Authoritative but Kind:** Mary balances her role as gym authority with genuine compassion. She enforces rules (stopping Amber's trespassing) while recognizing when circumstances call for mercy (not reporting her).
+**Scrappy fighter.** She wants to battle. She wants to get stronger. The suspension from official gym battles is eating her alive — she watches other trainers on the security monitors with visible longing.
 
-**Professionally Frustrated:** Her suspension from official battles clearly bothers her. She watches other trainers with longing and shows eagerness to solve the Oddish case to restore her standing.
+**Blunt mouth.** Doesn't do diplomacy naturally. Sarcasm is her default register ("Not the first farm kid I've seen go cross-eyed at the size"). Official inquiry mode sits awkwardly on her — she can do it, but it's clearly a learned skill, not instinct.
 
-**Investigative and Determined:** When tasked with finding the stolen Oddish, Mary demonstrates methodical investigation skills, questioning merchants and piecing together clues about Kaede's movements.
+> **TODO:** Current prose has her too polished in shop interactions (Ch9). Revise to show the effort it takes her to be diplomatic. She should be visibly uncomfortable playing gym representative.
 
-**Protective of Children:** Consistently shows concern for Amber's safety and wellbeing. Hesitates to bring her into the Game Corner district, warns her about dangers, and ensures she stays close during their investigation.
+**Rough-but-caring.** Protective of Amber but shows it through directness, not maternal warmth. Worries about taking a kid into the Game Corner district — but frames it practically, not sentimentally. When Kaede is caught, Mary kneels and asks about her brother instead of reading charges. She bends rules when people need help, which is how she got suspended in the first place.
 
-**Compassionate Pragmatist:** Understands that sometimes breaking rules is justified by circumstances. Rather than simply arresting Kaede, she listens to the full story and brings Erika to help solve the underlying problem.
+**Outcast.** Only Erika treats her as a real colleague. The other gym girls — Kayla, the trainers — are polite enough, but Mary is socially isolated in this institution of refined noble daughters.
 
-**Curious but Professional:** Shows fascination with Amber's unusual Ditto but doesn't press for details or report the strange transforming Pokémon to authorities.
+> **TODO:** This dimension is absent from existing prose. Needs to be visible — not through exposition, but through small moments of social friction or isolation.
+
+## Suspension
+
+**What happened:** She fought too hard. Beat a challenger (or fellow trainer) too aggressively — embarrassed someone with board connections. The board suspended her from official battles for "not representing the gym's image."
+
+**The real offense:** She doesn't fit. The suspension is the board's way of pushing back against a rough, non-noble girl who fights like she means it in a gym that values grace.
+
+**Erika's angle:** Erika values Mary and wants her reinstated. Assigns her the Oddish investigation as a backdoor: "solving our Oddish predicament might help your case with the board" ([Ch9][ch9]).
+
+**How it shows:** She attacks paperwork with unnecessary vigor. Stares at battle monitors. Throws herself into the investigation because it's the only outlet she has.
 
 ## Role in the Story
 
-### Chapter 5: First Encounter
-Mary's introduction occurs when she catches Amber trespassing in a restricted greenhouse ([Ch.5](../../story/chapter5/chapter5.md)):
+### Ch5 — First encounter
+Catches Amber trespassing in the restricted greenhouse. Confrontational at first, then softens. Doesn't report Amber. Curious about Ditto.
 
-**Initial Confrontation:** Discovers Amber watching two Gloom (one being Ditto in disguise) playing together in the restricted greenhouse. Her initial authority ("What are you doing in here?") establishes her as a gym official.
+### Ch7 — Wanted notice
+Posts WANTED notice for the Oddish thief at the Pokemon Center. Recognizes Amber.
 
-**Ditto Discovery:** Witnesses Ditto's transformation wavering, revealing its pink form. Shows obvious fascination ("What... what kind of Pokemon is that?") but quickly returns to her professional role.
+### Ch8 — Investigation begins
+Brings Amber in for questioning about the theft. Erika joins, proposes HP UP corporate espionage theory. Mary assigned to investigate.
 
-**Gentle Authority:** Upon realizing Amber is a young child without parental supervision, Mary's approach softens considerably. She gives a warning about "Do Not Enter" signs rather than reporting the trespassing.
+### Ch9 — The chase
+Leads investigation through Celadon shops and Game Corner district with Amber in tow. Tracks Kaede through merchant interviews. Overhears Kaede in a back-alley shop. Chase through the district — Bellsprout trips Kaede with Vine Whip. Mary kneels beside the crying girl and asks about her brother.
 
-**Missed Connection:** The two part ways after this encounter, but the moment establishes Mary's character as someone who balances rules with compassion.
+### Ch10 — Resolution
+Brings Kaede to verify her story. Returns with Erika for medical help. Assists with Hiro's treatment. Quietly approves Erika's decision to provide free care.
 
-### Chapter 7-8: [Expanded Role - Details TBD based on chapter content]
+### Ch11 — Aftermath
+[Details TBD]
 
-### Chapter 9: The Investigation
-Mary takes the lead in investigating the Oddish theft, with Amber accompanying her ([Ch.9](../../story/chapter9/chapter9.md)):
+### Post-Celadon arc
+Leaves the gym. Doesn't go back to her family. Lives meagerly as a wandering adventurer — rescue missions, odd jobs, exploring. The ace trainer who stopped pretending to be a lady.
 
-**Erika's Assignment:** After hearing about the theft, Erika tasks the suspended Mary with finding the missing Oddish, hinting this could help her case with the board. Mary's eagerness to take the assignment shows both professional ambition and genuine care for the gym's Pokémon.
+## Pokemon
 
-**Investigation Skills:** Methodically works through Celadon's item shops and herbalists, interviewing merchants about suspicious customers. Demonstrates detective-like questioning techniques while maintaining friendly rapport with shop staff.
+**Bellsprout** — Primary partner. Stays outside its Pokeball. Precise vine control (trips Kaede during chase). Well-bonded, responsive to complex commands.
 
-**Coffee Incident:** Shows protective concern when Amber insists on drinking coffee despite Mary's warnings. After Amber's predictable caffeine overreaction ("I told you the coffee was a bad idea"), Mary remains patient rather than judging.
-
-**Game Corner District Reluctance:** Hesitates to bring Amber into the area behind the Game Corner, explicitly warning about "a different crowd" and expressing concern about people who might "get interested in a Ditto." Shows understanding of local dangers.
-
-**The Chase:** When they overhear Kaede's conversation about stealing the Oddish, Mary immediately takes action, shouldering past Amber to confront the situation. During the chase, she demonstrates battle skills by commanding Bellsprout to trip Kaede with vine techniques.
-
-**Compassionate Capture:** Rather than immediately arresting Kaede, Mary takes time to understand the situation ("Your brother? Tell us about him."). Her steady, calm approach helps de-escalate Kaede's panic.
-
-### Chapter 10: Resolution
-Mary helps resolve the Oddish theft case with compassion rather than punishment ([Ch.10](../../story/chapter10/chapter10.md)):
-
-**Verification of Truth:** Accompanies Kaede to her apartment, where she assesses the situation and verifies Kaede's story about her sick brother. Her experience as a trainer helps her recognize genuine need versus manipulation.
-
-**Bringing Help:** Rather than making a unilateral decision, Mary recognizes she needs Erika's authority and expertise. She leaves Kaede with instructions to stay put and returns with the gym leader.
-
-**Educational Moment:** Explains to Kaede why HP UP wouldn't work for humans and could even be dangerous ("our bodies aren't made to handle those kinds of compounds"). Provides crucial information that prevents future dangerous attempts.
-
-**Supporting Role:** Assists Erika with treatment preparation, holding equipment and providing extra hands during the medical intervention. Shows she's learned practical skills beyond just Pokémon battles.
-
-**Quiet Approval:** Mary "carefully keeps her face turned away from Erika" while smiling about the compassionate resolution, suggesting she approves of bending rules for humanitarian reasons but doesn't want to influence Erika's decision.
-
-### Chapter 11: [Aftermath - Details TBD]
-
-## Pokémon Team
-
-### Bellsprout (Primary Partner)
-Mary's most frequently seen Pokémon, used throughout the story:
-
-**Battle Skills:** Demonstrates precise control with vine-based moves:
-- Wrap techniques (used to trip and capture Kaede during the chase)
-- Movement alongside Mary without requiring pokéball containment
-- Shows intelligence in understanding complex commands
-
-**Personality:** The Bellsprout appears well-trained and responsive, moving "silently alongside" Mary during tense situations. Its vine wrapped around a rusty railing while climbing stairs suggests either caution or protectiveness.
-
-**Bond:** The Bellsprout's constant presence outside its pokéball suggests a strong bond with Mary, similar to how Ash's Pikachu typically stays outside.
-
-### Future Team
-Based on the canonical Cooltrainer Mary, she will likely acquire:
-- Oddish → Gloom (possibly one of the gym's Pokémon)
-- Weepinbell (evolution of current Bellsprout)
-- Ivysaur (notably absent in current story, suggesting room for character growth)
-
-The story notes she "doesn't have Ivysaur yet," implying potential future development.
+**Future team** (from games): Oddish, Weepinbell (Bellsprout evolution), Gloom, Ivysaur. She doesn't have these yet — room to grow.
 
 ## Relationships
 
-**Erika (Gym Leader):** Mary serves under Erika and clearly respects her authority. However, their relationship shows complexity:
-- Erika trusts Mary enough to assign investigation duties despite her suspension
-- Erika speaks to Mary with gentle reminders rather than harsh commands ("you know you're still suspended")
-- Erika hints that good performance could help Mary's case, suggesting she wants Mary to succeed
-- The unspecified reason for suspension creates tension in their otherwise positive relationship
+**Erika:** Her only real ally at the gym. Erika trusts her enough to assign the Oddish investigation despite the suspension, speaks to her with gentle reminders rather than commands. Their relationship has genuine warmth underneath the hierarchy. Erika wants Mary to succeed.
 
-**Amber (MC):** Develops from authority figure to friend:
-- First encounter involves catching Amber trespassing, but Mary chooses understanding over punishment
-- Takes Amber along on investigation despite concerns about safety
-- Warns Amber about coffee and local dangers, showing protective instincts
-- Pays for Amber's train tickets and gives her coins as "quest reward"
-- The relationship demonstrates Mary's capacity to look past rules to see individuals
+**Amber:** Evolves from authority figure to friend. Mary's protectiveness is practical, not sentimental — she warns Amber about dangers, pays for her train ticket, gives her coins as "quest reward." One of Amber's first real connections in this world.
 
-**Kaede:** While initially adversarial (chasing and capturing her), Mary's approach remains compassionate:
-- Listens to Kaede's full story rather than immediate arrest
-- Brings help instead of just applying punishment
-- Educates Kaede about HP UP dangers, preventing future harm
-- Her kindness likely prevents Kaede from repeating criminal behavior
+**Kaede:** Initially adversarial (chasing and capturing her), but Mary listens to the full story instead of processing her as a criminal. Brings help. Her compassion likely matters to Kaede's trajectory.
 
-**The Gym's "Board":** An unnamed authority within the gym hierarchy that has suspended Mary. Their presence suggests internal politics and oversight beyond just Erika's personal authority. Mary's eagerness to solve the Oddish case to improve her standing with this board shows she values her position.
+**The other gym trainers:** Polite distance. Mary is tolerated for her skill, not accepted for who she is.
 
-## Status and Suspension
+**The board:** The institutional face of what keeps her down. They suspended her. She wants to prove herself to them anyway.
 
-**Current Status:** Suspended from official gym battles and duties
+## Thematic Role
 
-**Evidence of Suspension:**
-- Erika reminds Mary: "You know you're still suspended until further notice" ([Ch.9](../../story/chapter9/chapter9.md))
-- Mary watches active trainers battling challengers with visible longing
-- Erika suggests solving the Oddish theft "might help your case with the board"
+Mary is what happens when competence doesn't match the culture. She's good enough to be there. She doesn't belong. The suspension isn't about what she did wrong — it's about who she is. The Oddish investigation forces her to prove her value without the one thing she's best at (battling), and she does.
 
-**Reason for Suspension:** Not explicitly stated in the story, creating an interesting mystery. Possibilities include:
-- Rule violation (perhaps similar to her eventual bending of rules for Kaede?)
-- Failed duty or responsibility
-- Conflict with gym policies or the board
-- Political/internal gym conflicts
+Her eventual departure from the gym isn't failure — it's recognition that she was never going to fit, and she's better off on the road.
 
-**Impact:** The suspension clearly frustrates Mary, as evidenced by her gaze "drifting to one of the security monitors where trainers gathered for the afternoon's challenges, lingering just long enough to betray her longing."
+## Canon Source
 
-## Thematic Significance
+**Games:** Cooltrainer Mary, Celadon Gym. Team: Bellsprout Lv.22, Oddish Lv.22, Weepinbell Lv.22, Gloom Lv.22, Ivysaur Lv.22.
 
-**Compassionate Authority:** Mary enforces rules and still looks at the actual person in front of her. She doesn't treat people as problems to be processed.
+Cooltrainers (Ace Trainers in later gens) are skilled battlers who serve as tough pre-Leader challenges.
 
-**Youth and Responsibility:** She's 15 and has more practical wisdom than most. She has the authority and the badge on her chest. She also hasn't learned yet to let the job harden her.
-
-**Redemption Through Service:** She can't fight her way back into good standing --- she's suspended. So she investigates. She solves it the long way. That turns out to matter.
-
-**Bridge Between Worlds:** Mary connects things that don't usually touch: the gym's internal hierarchy, Amber's outsider perspective, Kaede's poverty, the city's various districts. She's what allows the Oddish arc to resolve instead of just escalate.
-
-**Rules vs. Right:** She doesn't report Amber for trespassing. She supports Erika's free treatment. Every time following the rule would make things worse, she bends it. Not carelessly --- she thinks about it. But she bends it.
-
-## Future Potential
-
-Several narrative threads remain open for Mary's continued development:
-
-**Suspension Resolution:** Will she regain her full status? What caused the suspension? How will solving the Oddish case affect her standing?
-
-**Team Development:** Her missing Ivysaur and potential for evolving Bellsprout into Weepinbell suggest growth opportunities as a trainer.
-
-**Erika Relationship:** The complexity of their mentor/subordinate dynamic could be explored further, especially regarding the mysterious "board" and internal gym politics.
-
-**Friendship with Amber:** As one of Amber's first friends in this world, Mary could continue serving as a guide and ally.
-
-**Professional Growth:** As she gains experience and age, will Mary maintain her compassionate approach or become more rigid with authority?
-
-The character remains rich with potential for future story development while having completed a satisfying arc in the Oddish theft storyline.
-
-## Character Development Arc
-
-**Initial State:** Professional, a little stiff, frustrated by the suspension. Naturally inclined toward kindness but trying to do the job right.
-
-**Catalyst:** The suspension means she has something to prove and no official way to do it. Erika hands her the Oddish investigation. She takes it.
-
-**Challenge:** The investigation takes her through parts of Celadon she knows about but hasn't had to really look at. The Game Corner district. The Factory Ward. Kaede's apartment. It becomes harder to pretend that following procedure is always the same as doing the right thing.
-
-**Growth:** She backs Erika's call to treat Hiro for free. She's been backing her own judgment the whole arc; this is just the last one.
-
-**Resolution:** She solves the case. Without battling. The suspension forced her to, and it turns out investigation is its own form of competence.
-
-She ends the arc with a better understanding of what authority is actually for.
+[bulbapedia-celadon-gym]: https://bulbapedia.bulbagarden.net/wiki/Celadon_Gym
+[ch9]: ../../../story/ch9/chapter9.md

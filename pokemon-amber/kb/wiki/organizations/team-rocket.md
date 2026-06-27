@@ -10,35 +10,45 @@ canon: true
 
 # Team Rocket
 
-**Yakuza-style criminal organization with Kanto-nationalist political movement ties**
+**Kanto's deeply embedded nationalist-criminal institution — not just tolerated, partially respected and structurally intertwined with legitimate power.**
+
+> **Design inspiration:** The Japanese yakuza, especially post-WWII — displaced military filling a power vacuum, becoming load-bearing infrastructure in the gaps legitimate government wouldn't reach, and intertwining with politics until they're inseparable from the system they nominally oppose.
+
+## Origins
+
+Team Rocket's roots are in the aftermath of the **Kanto-Johto Unification War**. Kanto's military was reorganized under a shared government with Johto. Bitter ex-soldiers — veterans of Mt. Silver who saw Kanto humiliated by legendaries, who lost their institutional roles in the new unified order — filled the power vacuum.
+
+They organized around **Kanto nationalist pride**: the belief that Kanto was betrayed by the unification settlement, that Oak's surrender was cowardice, and that the new government serves Johto's interests at Kanto's expense. Displaced soldiers without a nation, looking for purpose.
+
+**Madame Boss** (Silvertail clan black sheep — see [[clans/silvertail]]) gave the anger a business model. She brought stolen Silvertail logistics infrastructure — merchant networks, breeding knowledge, supply chains — and married into the [[clans/viridian-house]] for political legitimacy. The ex-military had manpower and nationalist ideology. Madame Boss had organizational sophistication and criminal ambition. Team Rocket is the product of that merger.
+
+The new unified government needed people who could maintain order in the gaps — black markets, unregistered districts, the spaces between jurisdictions. TR became load-bearing infrastructure in Kanto's understructure, especially in neglected areas like Celadon's Factory Ward. By the time anyone wanted to separate TR from legitimate Kanto, it was too late. They were intertwined.
 
 ## Public Face
 
-### What Everyone Knows
+### Not Feared — Intertwined
 
-**Petty Crime Operations:**
-- Stealing from individuals and small businesses
-- Racketeering and protection money schemes
-- Loan-sharking with predatory interest rates
-- Smuggling contraband goods
-- Running gambling establishments (Game Corners)
-- Fencing stolen property
+Team Rocket is not a shadowy conspiracy. It is a partially respected institution that many Kanto citizens view as a necessary part of how things work — the way yakuza were viewed in Japan as maintaining order through organized crime that deterred worse chaos.
 
-**Public Tolerance:**
-- Everyone in Kanto knows Team Rocket exists
-- Operatives wear uniforms openly (black with red R logo)
-- Not hiding - confident in their immunity
-- Authorities look the other way (corruption, infiltration)
-- Small-time crime is tacitly accepted as "cost of doing business"
-- Rangers and police focus on violent crime, not TR operations
+**What everyone knows:**
+- TR exists openly. Operatives wear uniforms (black with red R logo). They're not hiding.
+- They run gambling establishments (Game Corners), protection rackets, loan operations, smuggling.
+- They have political connections and nationalist rhetoric that appeals to Kanto hardliner factions.
+- Small-time crime is accepted as "cost of doing business."
+- Some people genuinely believe TR keeps order in places the government won't reach.
 
-**Why They're Tolerated:**
-- Deep infiltration into Kanto government and police
-- Psychic operatives gather intelligence and blackmail material
-- Political connections protect organization from prosecution
-- Nationalist rhetoric appeals to hardline Kanto factions
-- Economic influence (legitimate business fronts)
-- Fear of retaliation keeps witnesses quiet
+**Why they're respected, not just feared:**
+- Ex-military roots give TR a veneer of patriotic service — "these are Kanto's soldiers."
+- They provide services in neglected areas (the Factory Ward, rural routes, places Rangers don't patrol).
+- Nationalist rhetoric resonates with a significant portion of Kanto's population, especially post-war hardliners.
+- Economic influence through legitimate business fronts and political donations.
+- Deep infiltration into government, police, and commerce — not just corruption, but genuine institutional overlap.
+- Kanto elites (wealthy nationalists, Silph Co. executives, industrial magnates, some noble families) support TR's political wing openly.
+
+**What stays hidden:**
+- Rare Pokemon trafficking, human experimentation (cloning), weapons development, political assassination.
+- Only top-tier operatives conduct major crimes; compartmentalized, never in uniform, never claimed.
+- The public never connects major crimes to Team Rocket — if caught, individuals take the fall.
 
 ## Hidden Operations
 
@@ -69,53 +79,57 @@ canon: true
 
 ## Organizational Structure
 
-### Leadership
+### Leadership Structure: Federation, Not Pyramid
 
-**Giovanni (Boss):**
-- Public face: Viridian Gym Leader (legitimate authority position)
-- Private role: Team Rocket leader, strategic mastermind
-- Kanto nationalist with revenge agenda (Mt. Silver defeat)
-- Mewtwo project architect (superweapon against legendaries)
-- Charismatic, intelligent, ruthless when necessary
-- Balances mother's profit motives with his nationalist goals
+TR is not a single organization with one boss. It is a **federation of factions** — multiple groups operating under the Rocket umbrella, each with their own leaders, interests, and power bases. This mirrors real yakuza federations (like the Sumiyoshi-rengo) more than a single pyramidal hierarchy.
+
+**Giovanni:**
+- Publicly known to be **connected to TR** — but nobody knows how deeply. He's the Viridian Gym Leader; rumors link him to Rocket, but his exact role is ambiguous. He is NOT the public face of TR.
+- Privately: the most powerful faction leader, strategic mastermind, and the one driving the nationalist/Mewtwo agenda.
+- His power comes from controlling the largest faction AND holding legitimate gym authority.
+- Charismatic, intelligent, ruthless when necessary.
 
 **Madame Boss (Giovanni's Mother):**
-- Founder of original Team Rocket criminal enterprise
-- Profit-focused (crime as business opportunity)
-- Less interested in nationalism, more in money and power
-- Semi-retired but still influential
-- Giovanni inherited organization, shifted focus toward ideology
+- Co-founder who organized the ex-military anger into a professional operation.
+- Runs her own faction focused on **profit** — traditional crime, stolen Silvertail logistics infrastructure, black market Pokemon trade.
+- Less interested in nationalism, more in money and power.
+- Still influential. The profit-vs-ideology tension between her faction and Giovanni's is a structural fault line.
+
+**Other Factions:**
+- Ex-military hardliners (the original nationalist core — some predate Madame Boss's involvement)
+- Regional operators (Celadon Game Corner, Saffron operations, etc.)
+- The exact number and leaders of factions are intentionally undefined — TR is large enough that nobody, possibly including Giovanni, controls all of it.
 
 ### Clan & Family Origins
 
-Team Rocket's origin is rooted in a clan rejection. See [[clans/silvertail]] and [[clans/viridian-house]] for full canon.
+The Madame Boss / Viridian House connection predates the ex-military merger. See [[clans/silvertail]] and [[clans/viridian-house]] for full canon.
 
 **Madame Boss --- Silvertail black sheep:**
 - Born into the [[clans/silvertail]] merchant lineage (Meowth/Persian, Celadon/Saffron markets)
 - Couldn't bond with Pokemon like other clan members --- emotionally cold
 - Her Meowth left her for a happier trainer
 - Concluded "bonds are fake/transactional" (defense mechanism)
-- Founded Team Rocket using **stolen Silvertail clan knowledge** --- logistics, breeding, merchant networks
+- Brought **stolen Silvertail clan knowledge** --- logistics, breeding, merchant networks — to the ex-military nationalists
 - This is why TR has the operational sophistication of an established merchant house: it literally inherited that infrastructure
 - The Silvertails publicly distance themselves: "She doesn't represent us. We wish she'd stop using our name."
 
 **The Viridian House Marriage:**
-- After founding TR, Madame Boss married into the [[clans/viridian-house]] family for political legitimacy
+- Madame Boss married into the [[clans/viridian-house]] family for political legitimacy
 - Viridian House controls [[../places/viridian-gym]] (legitimate gym leader authority)
 - Giovanni's father's identity is deliberately obscured (Madame Boss won't say; Giovanni suspects a Viridian gym member)
 - The marriage put TR's headquarters and the Viridian Gym in the same family --- this is why the gym/HQ overlap is structural, not coincidental
 
 **Giovanni's Dual Inheritance:**
 - From father's side: Viridian Gym position (legitimate authority)
-- From mother's side: Team Rocket criminal empire
+- From mother's side: Team Rocket criminal empire + ex-military nationalist movement
 - Raised with mother's philosophy ("Pokemon are tools") AND father's functional Pokemon relationships
 - Result: can bond with Pokemon pragmatically but not emotionally
 
-**Organizational Split:**
-- Madame Boss runs TR as **pure profit enterprise** (traditional crime, her Silvertail-stolen logistics)
-- Giovanni transformed it into **nationalist movement** (Mt. Silver revenge, Mewtwo project)
-- **Tension:** Mother wants money from selling rare Pokemon; Giovanni wants Kanto supremacy and revenge on legendaries
-- The dual funding model below reflects this split
+**The Founding Merger:**
+- Ex-military Kanto nationalists had ideology, manpower, and grievance
+- Madame Boss had Silvertail logistics, business acumen, and criminal ambition
+- TR is the product of both — the profit-vs-nationalism tension reflects the original merger's fault line
+- Giovanni inherited both sides and leans harder into nationalism (Mt. Silver revenge, Mewtwo project)
 
 **Executive Admins:**
 - Handle logistics, finances, recruitment, operations

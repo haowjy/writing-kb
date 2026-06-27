@@ -77,11 +77,9 @@ When Dr. Fuji arrives in Pallet Town with Amber's clone and abandons her in Deli
 
 Fuji then attacks Delia's home, burning it down in his attempt to "reclaim" Amber and present himself as Delia's rescuer ([Ch.14-15](../../story/chapter14/14chapter.md)). Professor Oak defeats Fuji, but the damage is done: Stephen is dead, the house is destroyed, and Delia is left to care for Ash's trauma while legally responsible for the clone of her dead daughter.
 
-Staying at Oak's house, Delia discovers that Fuji hacked government systems to list her as Amber's legal mother on forged birth certificates ([Ch.18](../../story/chapter18/18chapter.md)). She is trapped in an impossible situation—intellectually knowing Amber is innocent, but viscerally unable to look at the child without seeing Stephen burning to death.
+In the aftermath, Delia is trapped in an impossible situation—legally listed as Amber's mother on forged documents she never signed, intellectually knowing Amber is innocent, but viscerally unable to look at the child without seeing Stephen burning to death.
 
-After a few days, Delia reopens Pallet House restaurant, claiming to patrons that she's "bored at home" and needs to provide for Ash now that Stephen is gone ([Ch.18](../../story/chapter18/18chapter.md)). The real reason is more complicated: being in the house with Amber is suffocating, and work provides an escape from the constant reminder of her trauma.
-
-The week following Stephen's funeral becomes increasingly unbearable for both Delia and Amber, with small moments of avoidance accumulating into crushing weight for both of them ([Ch.18](../../story/chapter18/18chapter.md)). On the morning of the funeral, Delia reaches her breaking point and breaks down, telling Amber she can't look at her without seeing Stephen burning. The next morning, Amber runs away, leaving Delia with crushing guilt and the knowledge that some words cannot be unsaid ([Ch.18](../../story/chapter18/18chapter.md)).
+Over the following years, Delia and Amber settle into functional avoidance. No dramatic blowup, no single breaking point—just quiet erosion. Amber sleeps at Delia's house but spends her real time at Oak's lab. Delia leaves clean towels, makes food, keeps things running—but flinches when Amber enters a room. They orbit the same house without connecting. It's the best either of them can manage.
 
 ## Personality & Characteristics
 
@@ -107,7 +105,7 @@ When he returns with Amber's clone, Fuji still views Delia as "his wife" and bel
 ### Stephen Ketchum (Husband, Deceased)
 Stephen represented safety, stability, and a chance to start over. Their relationship was built on mutual understanding—two people with painful pasts choosing to build something new together. His protective nature and quiet strength complemented Delia's practical warmth.
 
-His murder by Fuji devastates Delia, and his absence becomes a visceral wound. Every time she looks at Amber, she sees the moment Stephen burned to death ([Ch.18](../../story/chapter18/18chapter.md)).
+His murder by Fuji devastates Delia, and his absence becomes a visceral wound. Every time she looks at Amber, she sees the moment Stephen burned to death.
 
 ### Ash Ketchum (Son)
 Delia's relationship with Ash represents everything good she managed to build from her tragedy. He is her joy, her purpose, her reason to keep going. She balances supporting his dreams of becoming a Pokemon Master with practical concerns about his safety and education.
@@ -146,5 +144,4 @@ Auburn hair, often worn in a practical style suitable for restaurant work. Descr
 - Her relationship with Dr. Fuji and role as Amber's biological mother creates a unique interpretation not present in any canonical Pokemon media
 - Mrs. Keiko manages Pallet House in Delia's absence after Stephen's death
 - As of Chapter 17, Delia is staying at Oak's house with Ash and Amber after her home was destroyed in the fire
-- After Stephen's death, she reopens Pallet House partly out of financial necessity and partly to escape being trapped in the house with Amber ([Ch.18](../../story/chapter18/18chapter.md))
-- She maintains a forced cheerful facade with restaurant patrons who question whether she should be working so soon after Stephen's death, claiming she's "bored at home" while internally desperate for escape ([Ch.18](../../story/chapter18/18chapter.md))
+- The house is eventually rebuilt; Amber lives there as Delia's legal daughter for ~3 years before departing on her journey at 13

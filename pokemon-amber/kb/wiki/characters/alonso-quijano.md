@@ -146,6 +146,8 @@ See [[../lore/trainer-systems/index]] for the trainer systems context; Alonso ex
 - Charcadet observes Amber through their shared time; the choice to let Charcadet go defines Alonso's character
 - Rejoins his Paldean crew after the mini-arc; his own journey continues elsewhere
 
+**Amber's internal arc (NEVER STATED --- implied through behavior only):** Amber starts dismissive ("this guy is insane"), shifts to grudging respect ("he's actually competent... he means this"), arrives at something quieter: sincerity is not fake just because it looks ridiculous. A life can be organized around a chosen ideal. This progression should be visible in how she treats him, not in narration or dialogue that names it.
+
 ### Future (Endgame)
 - Returns at peak trainer level — equal, not mentor
 - Fights alongside Amber against the saga's final threats (Team Rocket dismantling, legendary crises)

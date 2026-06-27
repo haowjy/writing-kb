@@ -29,19 +29,25 @@ Teddiursa sees his mother. For one moment Ursaring starts to come back to hersel
 
 Amber and Alonso are trapped. Teddiursa, Charcadet, and Ditto slip out through a small passage to bring help. Teddy has to carry part of the promise too.
 
-## Longer-Term Direction
+## 4Ever Resolution (Settled 2026-06-07)
 
-Teddiursa and Ursaring should eventually reunite, but not cleanly or immediately. A strong future direction is a more serious Team Rocket operation or experiment: rage/obedience, battle drugs, captured powerful wild Pokemon as living weapons, or related experimentation.
+Teddiursa finds his mother during the 4Ever arc — she is among Rocket's corrupted/controlled Pokemon (possibly Dark Ball, possibly experimentation). She has been driven to madness and is beyond saving. She dies in the exchange.
 
-This turns an early Route 1 promise into a personal debt that keeps pulling Amber back toward Rocket.
+Teddiursa evolves into Ursaring through grief. The evolution is the emotional breaking point — not a power-up, a wound.
+
+Post-4Ever, Ursaring becomes destructively obsessed with strength and vengeance. Diminishing returns — rage without growth. This mirrors Amber's own radicalization after losing Charcadet in the same arc. Both lost something in 4Ever; both harden into unsustainable versions of themselves.
+
+Some later event mellows both Ursaring and Amber. They come down together. The arc resolves into a sustainable version of their drive.
+
+**Note:** 4Ever is a double-loss arc. Amber loses Charcadet (stolen, evolved into Ceruledge under Rocket control) AND Teddiursa loses his mother (killed). The losses serve different functions: Charcadet's theft is the plot driver (Amber's anti-Rocket campaign), Ursaring's death is the emotional driver (Teddiursa's transformation, the promise broken).
 
 ## Open Questions
 
 - Is Teddiursa officially caught in Ch. 20, after Ch. 21, or later?
-- How does Rocket remove Ursaring during the almost-reunion?
-- Which later Rocket operation contains mother Ursaring?
-- Does Teddiursa reunite with his mother before, during, or after 4Ever?
-- How does this thread reconcile with Teddiursa's own eventual evolution into Ursaring?
+- How does Rocket remove Ursaring during the almost-reunion in Ch. 21?
+- How exactly does Ursaring die in 4Ever? In battle? Mercy kill? Self-destruction?
+- What corrupted her — Dark Ball, experimentation, battle drugs?
+- What is the later event that mellows both Ursaring and Amber?
 
 ## Cross-Refs
 

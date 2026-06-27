@@ -334,7 +334,7 @@ Rangers have limited capacity (only so many personnel) and can't handle everythi
 - Specialized tasks (need type expertise Rangers lack)
 
 **Ranger Involvement:**
-- Post quests at [Pokemon Centers](../../pok-locations/celadon-city/celadon-pokemon-center.md)
+- Post quests at [Pokemon Centers](../../places/celadon-city/celadon-pokemon-center.md)
 - Review quest completions (verify work done properly)
 - Issue payments (government funds)
 - Provide quest details and support
@@ -371,7 +371,7 @@ Rangers have limited capacity (only so many personnel) and can't handle everythi
 - Viridian Station (Viridian Forest, western Kanto)
 - Various route and wilderness stations
 
-**Proximity:** Often near [Pokemon Centers](../../pok-locations/celadon-city/celadon-pokemon-center.md) for coordination.
+**Proximity:** Often near [Pokemon Centers](../../places/celadon-city/celadon-pokemon-center.md) for coordination.
 
 ## Ranger Presence & Culture
 
@@ -562,7 +562,7 @@ Rangers are adapted to fit the main series world:
 - [Quest System](../training/quest-system.md) - Rangers post and coordinate quests
 - [Badge System](../training/badge-system.md) - Required for Ranger application (5-6+ badges)
 - [Police Force](./police-force.md) - Coordinate on jurisdiction boundaries
-- [Pokemon Centers](../../pok-locations/celadon-city/celadon-pokemon-center.md) - Host quest boards
+- [Pokemon Centers](../../places/celadon-city/celadon-pokemon-center.md) - Host quest boards
 - [Pokemon Fainting Mechanics](../mechanics/pokemon-fainting.md) - Why rescue quests exist
 
 ## Story References
