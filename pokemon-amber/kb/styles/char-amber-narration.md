@@ -65,6 +65,8 @@ References thin as Amber accumulates direct experience: very dense in Ch. 1-5, m
 
 Amber's reference pool is "college-age internet-literate gamer" — Pokemon games, anime, internet culture. No literary allusions, no high-culture references.
 
+**Gamer voice decay** is settled: decorative gamer metaphors and Let's Play-style narration are cut; plot-functional foreknowledge, meaningful game/reality corrections, and earned first-contact comparisons are kept. By Ch. 18 (post-time-skip), decorative gamer comparisons are gone — Pokemon is Amber's lived reality. See `[gamer-voice-rule]`.
+
 ---
 
 ## Tonal Range
@@ -83,3 +85,5 @@ Amber's reference pool is "college-age internet-literate gamer" — Pokemon game
 - **Kaomoji section breaks**: `\[@.@]/`, `\[^.^]/`, `-[?.?]-` etc. — unique to Amber's POV, never in serious/dark scenes, never in third-person chapters
 - **Hedging**: "probably," "kind of," "maybe" are frequent. They thin in high-stakes moments.
 - **Italics**: move names (*Overheat*), emphasis (*there*), emotionally charged thought (*I touched a Ditto.*)
+
+[gamer-voice-rule]: ../issues/dual-lens-shelf-life.md

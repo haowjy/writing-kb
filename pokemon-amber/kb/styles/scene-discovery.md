@@ -36,4 +36,6 @@ No pure exposition exists in the text. All worldbuilding routes through Amber's 
 
 ## Calibration Over Time
 
-The dual-lens comparisons thin as Amber accumulates direct experience: very dense in Ch. 1-5, moderate in Ch. 7-10, sparse by Ch. 11-17. The technique may need evolution as "first time" moments run out — shifting from "game vs reality" to "expected reality vs surprising reality."
+The dual-lens comparisons thin as Amber accumulates direct experience: very dense in Ch. 1-5, moderate in Ch. 7-10, sparse by Ch. 11-17. By Ch. 18 (post-time-skip), decorative gamer comparisons are gone — Pokemon is Amber's lived reality, and discovery scenes use a sensory framework without the game-to-reality gap. Game foreknowledge may still surface as plot substance. The full keep/cut gamer-voice rule is settled in `[gamer-voice-rule]`.
+
+[gamer-voice-rule]: ../issues/dual-lens-shelf-life.md
