@@ -1,14 +1,3 @@
----
-type: note
-scope: story
-category: character
-spoilers: true
-status: planned
-hidden: true
-created: 2025-10-25
-updated: 2026-05-18
----
-
 # Kyle Kong
 
 **Recurring rival/ally character introduced in Route 1 arc**
@@ -69,11 +58,11 @@ Kyle walks the **traditional Walking Journey** by choice (Dojo tradition, not po
 - **Full team** --- can afford to catch/train multiple Pokemon
 - **8 badges Year 1 goal** --- WITH Amber's strategy coaching + Dojo resources
 
-Combined with [[../characters/sabrina]]'s elite path (private tutors, bred Pokemon), Kyle represents a different but still-resourced trainer position. He is not poor or untrained; his problem is that his inherited strength is too straightforward for Sabrina until Amber and Alonso help him change shape.
+Combined with [Sabrina](../characters/sabrina.md)'s elite path (private tutors, bred Pokemon), Kyle represents a different but still-resourced trainer position. He is not poor or untrained; his problem is that his inherited strength is too straightforward for Sabrina until Amber and Alonso help him change shape.
 
 ## The Saffron Dojo Pressure
 
-Kyle isn't just journeying --- he's carrying the Fighting Dojo's desperate attempt to prove it still deserves to be Saffron's true civic gym. His father Koichi sent him out at the standard age (14) specifically to match [[sabrina]]'s timeline. The U19 tournament is a political proxy war:
+Kyle isn't just journeying --- he's carrying the Fighting Dojo's desperate attempt to prove it still deserves to be Saffron's true civic gym. His father Koichi sent him out at the standard age (14) specifically to match [Sabrina](sabrina.md)'s timeline. The U19 tournament is a political proxy war:
 
 - Win = Fighting Dojo restores/defends its claim as Saffron's true civic gym
 - Lose = Psychic Gym's expected replacement becomes much harder to stop
@@ -82,7 +71,7 @@ Current direction: Kyle eventually **defeats Sabrina** at the critical public mo
 
 The deeper turn: after accomplishing the inherited mission, Kyle realizes it was inherited. Winning frees him to want something larger, and he eventually leaves the gym path to adventure.
 
-See [[../plot-threads/saffron-gym-rivalry]] for the full proxy war setup.
+See [Saffron Gym Rivalry](../plot-threads/saffron-gym-rivalry.md) for the full proxy war setup.
 
 ## Pokemon Team
 

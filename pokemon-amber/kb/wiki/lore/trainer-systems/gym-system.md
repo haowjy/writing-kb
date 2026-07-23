@@ -1,14 +1,3 @@
----
-type: wiki
-category: lore
-title: Gym Tier System (Pillar vs Minor)
-requires_citations: true
-status: draft
-updated: 2026-04-01
-hidden: false
-canon: false
----
-
 # Gym Tier System (Pillar vs Minor)
 
 Kanto's gym network is divided into two operational tiers: League-recognized pillar gyms and non-pillar minor gyms. Both can issue valid badges, but they differ in governance standards, appointment pressure, and challenge structure.

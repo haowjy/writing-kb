@@ -1,12 +1,3 @@
----
-type: wiki
-category: characters
-title: Ditto (Amber's)
-status: draft
-hidden: false
-updated: 2026-04-05
----
-
 # Ditto
 
 Amber's first Pokemon. Originally Dr. Fuji's ace — a trained weapon. Now something else entirely.

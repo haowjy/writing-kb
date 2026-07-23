@@ -1,11 +1,3 @@
----
-type: wiki
-scope: global
-category: vocab
-title: Vocabulary --- Canonical Terms
-updated: 2026-06-06
----
-
 # Vocabulary --- Canonical Terms
 
 One name per concept, one concept per name. When prose drifts to a synonym, fix

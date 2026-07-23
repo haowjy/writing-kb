@@ -1,13 +1,3 @@
----
-type: wiki
-category: characters
-title: Delia Ketchum
-requires_citations: true
-status: draft
-updated: 2026-04-05
-canon: true
----
-
 # Delia Ketchum
 
 ## Overview

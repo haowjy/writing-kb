@@ -1,12 +1,3 @@
----
-type: note
-scope: arc
-spoilers: true
-status: seed
-hidden: true
-updated: 2026-06-07
----
-
 # Future Arc: Celadon
 
 **Status:** Seed with political structure established. Plot details TBD.

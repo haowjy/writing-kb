@@ -4,7 +4,7 @@ status: canon
 
 # Pokemon Fainting Mechanics
 
-Clarifies what "fainting" means, why it matters for rescue and capture, and how Poke Balls interact with a fainted target. See [[pokemon-sustenance]] for the broader sustenance mechanic that fainting connects to.
+Clarifies what "fainting" means, why it matters for rescue and capture, and how Poke Balls interact with a fainted target. See [Pokemon Sustenance & Battle Mechanics](pokemon-sustenance.md) for the broader sustenance mechanic that fainting connects to.
 
 ## Definitions
 
@@ -63,8 +63,8 @@ Clarifies what "fainting" means, why it matters for rescue and capture, and how 
 
 ## Cross-Refs
 
-- [[crime/poaching]] --- why poachers cage rather than ball
-- [[trainer-systems/quest-system]] --- rescue work norms
-- [[mechanics/pokemon-sustenance]] --- the broader sustenance mechanic
-- [[mechanics/pokeball-technology]] --- pokeball mechanics
-- [[organizations/ranger-union]] --- rescue institutional context
+- [Poaching, Black Markets, and Illegal Control Tech](crime/poaching.md) --- why poachers cage rather than ball
+- [Quest System & Job Boards](trainer-systems/quest-system.md) --- rescue work norms
+- [Pokemon Sustenance & Battle Mechanics](mechanics/pokemon-sustenance.md) --- the broader sustenance mechanic
+- [Pokeball Technology](mechanics/pokeball-technology.md) --- pokeball mechanics
+- [Ranger Union](organizations/ranger-union.md) --- rescue institutional context

@@ -1,14 +1,3 @@
----
-type: wiki
-category: lore
-title: Gym and Elite Badges
-requires_citations: true
-status: draft
-updated: 2025-10-26
-hidden: false
-canon: false
----
-
 # Gym and Elite Badges
 
 Badges are symbols of trust and recognition issued by gyms. They originated as marks of respect from type masters and were later co‑opted by the Pokemon League for tournament qualification. Badges represent local trust and mastery, not absolute power levels.

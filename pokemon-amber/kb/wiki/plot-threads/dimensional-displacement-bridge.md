@@ -1,13 +1,3 @@
----
-type: note
-scope: global
-category: plot-thread
-spoilers: true
-status: seed
-hidden: true
-updated: 2026-05-20
----
-
 # Late-Saga Dimensional Displacement Bridge
 
 Current planning direction for the brief mundane-world displacement that hands Amber into Alola. The emotional shape is fairly strong; the exact cosmology and trigger remain partly open.
@@ -84,8 +74,8 @@ This is support, not a total canon lock on the exact mechanism.
 
 ## Cross-Refs
 
-- [[../arcs/saga-overview]] — macro arc order
-- [[../arcs/arc-alola-ultra-space]] — Alola reset arc direction after recovery
-- [[../arcs/arc2-hoenn]] — Delta Episode seed and later Hoenn return
-- [[../arcs/arc-hidden-kingdom]] — the kingdom promise and the later Mega Darkrai return
-- [[rainbow-rocket-endgame]] — late-saga power politics and escalation
+- [Saga Overview — Full Arc Structure](../arcs/saga-overview.md) — macro arc order
+- [Future Arc: Alola / Aether / Ultra Space Reset](../arcs/arc-alola-ultra-space.md) — Alola reset arc direction after recovery
+- [Future Arc: Hoenn](../arcs/arc2-hoenn.md) — Delta Episode seed and later Hoenn return
+- [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](../arcs/arc-hidden-kingdom.md) — the kingdom promise and the later Mega Darkrai return
+- [Rainbow Rocket Endgame](rainbow-rocket-endgame.md) — late-saga power politics and escalation

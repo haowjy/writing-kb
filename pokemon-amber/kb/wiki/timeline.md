@@ -1,13 +1,3 @@
----
-type: wiki
-category: index
-title: Overall Timeline
-requires_citations: true
-status: draft
-updated: 2025-10-15
-canon: false
----
-
 # Overall Timeline
 
 Chronological, reader-focused summary of events so far. Citations link to `story/`.

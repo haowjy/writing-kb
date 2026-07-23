@@ -1,14 +1,3 @@
----
-type: wiki
-category: lore
-title: Kanto–Johto Unification and the Indigo Corridor
-requires_citations: true
-status: draft
-updated: 2025-10-13
-hidden: false
-canon: false
----
-
 # Kanto–Johto Unification and the Indigo Corridor (Amber Continuity)
 
 ## Overview

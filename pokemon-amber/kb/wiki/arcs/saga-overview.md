@@ -1,13 +1,3 @@
----
-type: note
-scope: global
-category: arc-structure
-spoilers: true
-status: planning
-hidden: true
-updated: 2026-05-20
----
-
 # Saga Overview — Full Arc Structure
 
 High-level map of Amber's journey from start to peak. Individual arc files contain detail. This document is the structural skeleton.
@@ -202,7 +192,7 @@ After Kalos-side dimensional fallout — or some closely related late-saga ruptu
 
 This ordering is now preferred because Alola gives Amber **Ultra Wormhole experience, other-world ethics, Aether/Lusamine lessons, and hard proof that other worlds are real** before the next mythic return.
 
-See: [[arc-alola-ultra-space]], [[../plot-threads/dimensional-displacement-bridge]]
+See: [Future Arc: Alola / Aether / Ultra Space Reset](arc-alola-ultra-space.md), [Late-Saga Dimensional Displacement Bridge](../plot-threads/dimensional-displacement-bridge.md)
 
 ---
 
@@ -213,7 +203,7 @@ After Alola, Amber returns to Hoenn for the **Delta Episode payoff**. Zinnia sho
 
 Rayquaza is not choosing a destined player. Zinnia becomes worthy through preparation, burden, and accepting necessary help.
 
-See: [[arc2-hoenn]]
+See: [Future Arc: Hoenn](arc2-hoenn.md)
 
 ---
 
@@ -257,7 +247,7 @@ Late-saga Giovanni direction:
 
 **Mewtwo #1 reunion / Genesect crisis:** Still future and not yet pinned to a specific slot in the macro order. The durable part is the thread, not the exact arc placement. Material from the early Viridian Mew-adjacent ore thread resurfaces as Mewtwonite Y and helps Amber support Mewtwo #1 during the crisis.
 
-See: [[../plot-threads/mewtwo-thread]]
+See: [The Mewtwo Thread](../plot-threads/mewtwo-thread.md)
 
 **The question is no longer how strong she is. It's what she's fighting for.**
 
@@ -299,7 +289,7 @@ See: [[../plot-threads/mewtwo-thread]]
 - `arc-pikachu-handoff.md` — Pikachu/Ash beat
 - `wiki/pokemon-teams/team-amber-mc.md` — full roster by region
 - `future/current-direction.md` — source of truth for ages and direction
-- [[../plot-threads/mewtwo-thread]] — the two-Mewtwo structure and ore-to-Mewtwonite Y thread
-- [[../plot-threads/dimensional-displacement-bridge]] — late-saga real-world displacement / Alola-Ultra Space bridge
+- [The Mewtwo Thread](../plot-threads/mewtwo-thread.md) — the two-Mewtwo structure and ore-to-Mewtwonite Y thread
+- [Late-Saga Dimensional Displacement Bridge](../plot-threads/dimensional-displacement-bridge.md) — late-saga real-world displacement / Alola-Ultra Space bridge
 - `wiki/characters/alonso-quijano.md` — Alonso character
 - `wiki/plot-threads/rainbow-rocket-endgame.md` — Endgame direction

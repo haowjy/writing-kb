@@ -1,14 +1,3 @@
----
-type: note
-scope: story
-category: plot-thread
-spoilers: true
-status: confirmed
-hidden: true
-created: 2025-10-14
-updated: 2026-03-30
----
-
 # The Forged Documents
 
 **Background legal tension and future interlude material**

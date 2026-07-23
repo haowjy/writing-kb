@@ -1,13 +1,3 @@
----
-type: wiki
-category: lore
-title: Communications (Amber Continuity)
-requires_citations: true
-status: draft
-updated: 2025-09-21
-hidden: false
----
-
 # Communications (Amber Continuity)
 
 ## Broadcast and Networks

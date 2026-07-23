@@ -1,13 +1,3 @@
----
-type: wiki
-category: characters
-title: Mary (Gym Trainer)
-requires_citations: true
-status: draft
-updated: 2026-06-07
-canon: true
----
-
 # Mary (Gym Trainer)
 
 ## Overview

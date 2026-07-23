@@ -1,12 +1,6 @@
----
-status: drafting
-spoilers: true
-updated: 2026-05-20
----
-
 # Giovanni
 
-The most powerful faction leader within [[../organizations/team-rocket]] and the official Gym Leader of [[../places/viridian-gym]] (Ground-type, Kanto pillar). Publicly known to be connected to TR, but nobody knows how deeply — his exact role is ambiguous. The dual position --- legitimate gym authority + criminal faction leader --- isn't coincidence; it's structural, inherited from his parents.
+The most powerful faction leader within [Team Rocket](../organizations/team-rocket.md) and the official Gym Leader of [Viridian Gym](../places/viridian-gym.md) (Ground-type, Kanto pillar). Publicly known to be connected to TR, but nobody knows how deeply — his exact role is ambiguous. The dual position --- legitimate gym authority + criminal faction leader --- isn't coincidence; it's structural, inherited from his parents.
 
 ## Origins
 
@@ -14,11 +8,11 @@ Giovanni is the product of a strategic marriage between two organizations.
 
 **From his mother (Madame Boss, Team Rocket co-founder):**
 - The Team Rocket criminal empire (merged ex-military nationalist movement with her Silvertail logistics)
-- Silvertail merchant clan knowledge (logistics, breeding, networks --- see [[../organizations/clans/silvertail]])
+- Silvertail merchant clan knowledge (logistics, breeding, networks --- see [Silvertail Lineage](../organizations/clans/silvertail.md))
 - Philosophy: "Bonds are fake. Pokemon are tools."
 
 **From his father (a Viridian House member, identity unknown):**
-- Viridian Gym position (legitimate political authority --- see [[../organizations/clans/viridian-house]])
+- Viridian Gym position (legitimate political authority --- see [Viridian House](../organizations/clans/viridian-house.md))
 - Family Ground-type breeding lineage (Nidoking, Rhydon, etc.)
 - Functional Pokemon relationships (industrial but not cruel)
 
@@ -48,7 +42,7 @@ Charismatic, intelligent, ruthless when necessary. Balances his mother's profit 
 - Cold, transactional gym atmosphere (no instruction, no mentorship)
 - Experienced trainers feel something is "off" but can't prove anything
 
-See [[../places/viridian-gym]] for the gym specifically.
+See [Viridian Gym](../places/viridian-gym.md) for the gym specifically.
 
 ### Private: Team Rocket's Most Powerful Faction Leader
 - Strategic mastermind controlling the largest faction within TR's federation structure
@@ -57,13 +51,13 @@ See [[../places/viridian-gym]] for the gym specifically.
 - **Mewtwo project architect** --- superweapon to counter legendaries
 - Competing with his mother's vision: she wants TR to be profitable; he wants Kanto supremacy
 
-See [[../organizations/team-rocket]] for the organization, including the Madame Boss split.
+See [Team Rocket](../organizations/team-rocket.md) for the organization, including the Madame Boss split.
 
 ## Mt. Silver Background
 
 Giovanni's nationalism comes from the Kanto-Johto Unification War. Kanto lost to a coalition that included legendary Pokemon. His ideology: "If we'd had Mewtwo at Mt. Silver, we'd have won." The Mewtwo project is literally a "make Kanto-controlled Pokemon stronger than legendaries" engineering effort.
 
-See [[../lore/history/kanto-johto-unification-war]].
+See [Kanto–Johto Unification and the Indigo Corridor (Amber Continuity)](../lore/history/kanto-johto-unification-war.md).
 
 ## Strategic Doctrine
 
@@ -90,10 +84,10 @@ By late saga, Giovanni reads Amber as a **strategic rival and team-builder**. Sh
 
 ## Connections to Other Plot Threads
 
-- [[../plot-threads/giovanni-fuji-jail]] --- post-arc consequences after the Fuji incident
-- [[../plot-threads/team-rocket-surveillance]] --- TR operations targeting Amber/Ditto
-- [[../plot-threads/mewtwo-thread]] --- the superweapon project
-- [[dr-fuji]] --- TR funded Fuji's cloning research; their work intersects with Mewtwo
+- [Giovanni–Fuji Jail Conversation Planning (Rev B)](../plot-threads/giovanni-fuji-jail.md) --- post-arc consequences after the Fuji incident
+- [Team Rocket Surveillance Plot](../plot-threads/team-rocket-surveillance.md) --- TR operations targeting Amber/Ditto
+- [The Mewtwo Thread](../plot-threads/mewtwo-thread.md) --- the superweapon project
+- [Dr. Fuji](dr-fuji.md) --- TR funded Fuji's cloning research; their work intersects with Mewtwo
 
 ## Story Role
 
@@ -114,12 +108,12 @@ By late saga, Giovanni reads Amber as a **strategic rival and team-builder**. Sh
 
 ## Cross-Refs
 
-- [[../organizations/team-rocket]] --- the empire
-- [[../places/viridian-gym]] --- the public position
-- [[../organizations/clans/viridian-house]] --- father's family
-- [[../organizations/clans/silvertail]] --- mother's family (rejected)
-- [[mewtwo]] --- the project
-- [[dr-fuji]] --- the cloning collaborator
-- [[../plot-threads/giovanni-fuji-jail]]
-- [[../plot-threads/mewtwo-thread]]
-- [[../plot-threads/team-rocket-surveillance]]
+- [Team Rocket](../organizations/team-rocket.md) --- the empire
+- [Viridian Gym](../places/viridian-gym.md) --- the public position
+- [Viridian House](../organizations/clans/viridian-house.md) --- father's family
+- [Silvertail Lineage](../organizations/clans/silvertail.md) --- mother's family (rejected)
+- [Mewtwo](mewtwo.md) --- the project
+- [Dr. Fuji](dr-fuji.md) --- the cloning collaborator
+- [Giovanni–Fuji Jail Conversation Planning (Rev B)](../plot-threads/giovanni-fuji-jail.md)
+- [The Mewtwo Thread](../plot-threads/mewtwo-thread.md)
+- [Team Rocket Surveillance Plot](../plot-threads/team-rocket-surveillance.md)

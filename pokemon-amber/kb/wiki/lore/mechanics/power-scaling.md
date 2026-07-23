@@ -1,6 +1,5 @@
 ---
 status: canon
-spoilers: false
 ---
 
 # Power Scaling --- Author Guidance
@@ -46,7 +45,7 @@ Internal benchmarks for relative strength without exposing numeric levels in-tex
 
 ## Cross-Refs
 
-- [[aura-mechanics]] --- aura cultivation as growth-ceiling determinant
-- [[trainer-systems/licensing]] --- tier requirements
-- [[trainer-systems/quest-system]] --- quest class definitions
-- [[organizations/ace-trainers]] --- ACE tier specifically
+- [Aura and Bonds — Mechanics](aura-mechanics.md) --- aura cultivation as growth-ceiling determinant
+- [Licensing System & Trainer Tiers](trainer-systems/licensing.md) --- tier requirements
+- [Quest System & Job Boards](trainer-systems/quest-system.md) --- quest class definitions
+- [Ace Trainers (Recognition & Roles)](organizations/ace-trainers.md) --- ACE tier specifically

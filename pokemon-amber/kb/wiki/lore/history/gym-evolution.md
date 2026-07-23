@@ -1,14 +1,3 @@
----
-type: wiki
-category: history
-title: Evolution of Pokemon Gyms
-requires_citations: true
-status: draft
-updated: 2025-10-10
-hidden: false
-canon: false
----
-
 # Evolution of Pokemon Gyms
 
 The transformation of Pokemon Gyms from ancient teaching guilds to modern multi-function institutions reflects the dramatic societal changes brought by the [Pokeball Revolution](./pokeball-invention.md).

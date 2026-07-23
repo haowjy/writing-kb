@@ -1,13 +1,3 @@
----
-type: wiki
-category: lore
-title: Poaching, Black Markets, and Illegal Control Tech
-status: draft
-hidden: false
-updated: 2025-10-26
-canon: true
----
-
 # Poaching, Black Markets, and Illegal Control Tech
 
 Defines how illegal capture works in Amber continuity, why it’s different from lawful training, and how black markets intersect with Team Rocket and other buyers.

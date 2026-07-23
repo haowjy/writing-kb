@@ -1,12 +1,3 @@
----
-type: wiki
-category: characters
-title: Mewtwo
-status: stub
-hidden: false
-updated: 2026-05-18
----
-
 # Mewtwo
 
 Created by Dr. Fuji under Team Rocket's Project Chimera — a clone of Mew, weaponized. The "successful" product of the same lab that produced Ditto and Amber.

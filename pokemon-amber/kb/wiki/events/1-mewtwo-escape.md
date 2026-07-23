@@ -1,13 +1,3 @@
----
-type: wiki
-category: events
-title: Mewtwo Escape
-requires_citations: true
-status: draft
-updated: 2025-09-20
-canon: false
----
-
 # Event: Mewtwo Escape
 
 ## Overview

@@ -1,13 +1,3 @@
----
-type: wiki
-category: characters
-title: Erika
-requires_citations: true
-status: published
-updated: 2026-04-05
-canon: true
----
-
 # Erika
 
 ## Overview

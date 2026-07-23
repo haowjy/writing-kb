@@ -13,7 +13,7 @@ How pokeballs work mechanically and what they did to Pokemon society.
 - Initially crude, improved rapidly
 - Modern balls: instant transport, accelerated healing, bond enhancement
 
-See [[trainer-systems/cultural-history]] for the broader societal impact.
+See [Trainer Culture --- Historical Evolution & Social Norms](trainer-systems/cultural-history.md) for the broader societal impact.
 
 ## Effects on Pokemon
 
@@ -33,13 +33,13 @@ See [[trainer-systems/cultural-history]] for the broader societal impact.
 
 ## Limitations
 
-- Cannot recall fainted Pokemon (see [[pokemon-fainting]])
+- Cannot recall fainted Pokemon (see [Pokemon Fainting Mechanics](pokemon-fainting.md))
 - Some legendary Pokemon resist/break balls
 - Stolen balls still respond to original trainer (usually)
 - Ball damage can trap Pokemon or release unexpectedly
 
 ## Cross-Refs
 
-- [[economics/pokeball-pricing]] --- market pricing
-- [[mechanics/pokemon-fainting]] --- ball interaction with fainted Pokemon
-- [[history/gym-evolution]] --- gym institutional history (post-pokeball)
+- [Pokeball Economics & Pricing](economics/pokeball-pricing.md) --- market pricing
+- [Pokemon Fainting Mechanics](mechanics/pokemon-fainting.md) --- ball interaction with fainted Pokemon
+- [Evolution of Pokemon Gyms](history/gym-evolution.md) --- gym institutional history (post-pokeball)

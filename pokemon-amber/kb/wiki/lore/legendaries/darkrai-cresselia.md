@@ -1,12 +1,3 @@
----
-type: research
-category: lore
-title: Darkrai and Cresselia --- Canon Reference
-status: draft
-hidden: true
-updated: 2026-06-05
----
-
 # Darkrai and Cresselia --- Canon Reference
 
 This page records official Pokemon game and media facts. It is a reference, not saga invention. Saga-specific use is collected at the bottom under [Saga Application](#saga-application).

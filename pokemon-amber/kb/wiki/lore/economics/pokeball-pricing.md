@@ -1,13 +1,3 @@
----
-type: wiki
-category: lore/economics
-title: Pokeball Economics & Pricing
-requires_citations: true
-status: draft
-updated: 2025-10-15
-hidden: false
----
-
 # Pokeball Economics & Pricing
 
 Pokeballs represent one of the most significant technological achievements in the Pokemon world—and one of the most expensive barriers to becoming a trainer.

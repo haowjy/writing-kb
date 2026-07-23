@@ -1,14 +1,3 @@
----
-type: note
-scope: story
-category: plot-thread
-spoilers: true
-status: planned
-hidden: true
-created: 2026-05-17
-updated: 2026-05-21
----
-
 # Charcadet → Ceruledge Throughline
 
 ## Core Emotional Idea
@@ -73,8 +62,8 @@ Open questions: Does Ceruledge remember Amber? Alonso? Armarouge? Does it interp
 
 ## Cross-Refs
 
-- [[../characters/alonso-quijano]]
-- [[../characters/amber-mc-team]]
-- [[../arcs/arc1-kanto-year1]]
-- [[mewtwo-thread]]
-- [[rainbow-rocket-endgame]]
+- [Alonso Quijano](../characters/alonso-quijano.md)
+- [Amber MC — Team Planning (Spoilers)](../characters/amber-mc-team.md)
+- [Arc 1: Kanto (Year 1)](../arcs/arc1-kanto-year1.md)
+- [The Mewtwo Thread](mewtwo-thread.md)
+- [Rainbow Rocket Endgame](rainbow-rocket-endgame.md)

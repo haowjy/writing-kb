@@ -1,13 +1,3 @@
----
-type: wiki
-category: lore
-title: Team Rocket Organization
-status: draft
-hidden: false
-updated: 2026-05-20
-canon: true
----
-
 # Team Rocket
 
 **Kanto's deeply embedded nationalist-criminal institution — not just tolerated, partially respected and structurally intertwined with legitimate power.**
@@ -20,7 +10,7 @@ Team Rocket's roots are in the aftermath of the **Kanto-Johto Unification War**.
 
 They organized around **Kanto nationalist pride**: the belief that Kanto was betrayed by the unification settlement, that Oak's surrender was cowardice, and that the new government serves Johto's interests at Kanto's expense. Displaced soldiers without a nation, looking for purpose.
 
-**Madame Boss** (Silvertail clan black sheep — see [[clans/silvertail]]) gave the anger a business model. She brought stolen Silvertail logistics infrastructure — merchant networks, breeding knowledge, supply chains — and married into the [[clans/viridian-house]] for political legitimacy. The ex-military had manpower and nationalist ideology. Madame Boss had organizational sophistication and criminal ambition. Team Rocket is the product of that merger.
+**Madame Boss** (Silvertail clan black sheep — see [Silvertail Lineage](clans/silvertail.md)) gave the anger a business model. She brought stolen Silvertail logistics infrastructure — merchant networks, breeding knowledge, supply chains — and married into the [Viridian House](clans/viridian-house.md) for political legitimacy. The ex-military had manpower and nationalist ideology. Madame Boss had organizational sophistication and criminal ambition. Team Rocket is the product of that merger.
 
 The new unified government needed people who could maintain order in the gaps — black markets, unregistered districts, the spaces between jurisdictions. TR became load-bearing infrastructure in Kanto's understructure, especially in neglected areas like Celadon's Factory Ward. By the time anyone wanted to separate TR from legitimate Kanto, it was too late. They were intertwined.
 
@@ -102,10 +92,10 @@ TR is not a single organization with one boss. It is a **federation of factions*
 
 ### Clan & Family Origins
 
-The Madame Boss / Viridian House connection predates the ex-military merger. See [[clans/silvertail]] and [[clans/viridian-house]] for full canon.
+The Madame Boss / Viridian House connection predates the ex-military merger. See [Silvertail Lineage](clans/silvertail.md) and [Viridian House](clans/viridian-house.md) for full canon.
 
 **Madame Boss --- Silvertail black sheep:**
-- Born into the [[clans/silvertail]] merchant lineage (Meowth/Persian, Celadon/Saffron markets)
+- Born into the [Silvertail Lineage](clans/silvertail.md) merchant lineage (Meowth/Persian, Celadon/Saffron markets)
 - Couldn't bond with Pokemon like other clan members --- emotionally cold
 - Her Meowth left her for a happier trainer
 - Concluded "bonds are fake/transactional" (defense mechanism)
@@ -114,8 +104,8 @@ The Madame Boss / Viridian House connection predates the ex-military merger. See
 - The Silvertails publicly distance themselves: "She doesn't represent us. We wish she'd stop using our name."
 
 **The Viridian House Marriage:**
-- Madame Boss married into the [[clans/viridian-house]] family for political legitimacy
-- Viridian House controls [[../places/viridian-gym]] (legitimate gym leader authority)
+- Madame Boss married into the [Viridian House](clans/viridian-house.md) family for political legitimacy
+- Viridian House controls [Viridian Gym](../places/viridian-gym.md) (legitimate gym leader authority)
 - Giovanni's father's identity is deliberately obscured (Madame Boss won't say; Giovanni suspects a Viridian gym member)
 - The marriage put TR's headquarters and the Viridian Gym in the same family --- this is why the gym/HQ overlap is structural, not coincidental
 

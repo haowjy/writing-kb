@@ -112,8 +112,8 @@ Carry limits scale with demonstrated competency. The license is the floor; badge
 
 ## Cross-Refs
 
-- [[trainer-systems/index]] --- catalog of training systems
-- [[trainer-systems/badge-system]] --- gym vs elite badges
-- [[trainer-systems/cultural-history]] --- how this system evolved
-- [[trainer-systems/international-licensing]] --- cross-region travel
-- [[organizations/ace-trainers]] --- the ACE tier specifically
+- [Celadon City](trainer-systems/index.md) --- catalog of training systems
+- [Gym and Elite Badges](trainer-systems/badge-system.md) --- gym vs elite badges
+- [Trainer Culture --- Historical Evolution & Social Norms](trainer-systems/cultural-history.md) --- how this system evolved
+- [International Licensing & Travel](trainer-systems/international-licensing.md) --- cross-region travel
+- [Ace Trainers (Recognition & Roles)](organizations/ace-trainers.md) --- the ACE tier specifically

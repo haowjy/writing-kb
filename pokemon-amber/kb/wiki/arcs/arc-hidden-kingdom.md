@@ -1,12 +1,3 @@
----
-type: wiki
-scope: arc
-spoilers: true
-status: draft
-hidden: true
-updated: 2026-06-06
----
-
 # Arc 10 + 16 --- The Hidden Kingdom (Argaea)
 
 **Arcs:** 10 (Visit 1, Amber age ~16) and 16 (Visit 2, Amber age ~18)

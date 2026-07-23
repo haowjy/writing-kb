@@ -1,14 +1,3 @@
----
-type: wiki
-category: lore
-title: Trainer Paths & Socioeconomic Class
-requires_citations: true
-status: draft
-updated: 2026-04-01
-hidden: false
-canon: false
----
-
 # Trainer Paths & Socioeconomic Class
 
 ## The Journey as College

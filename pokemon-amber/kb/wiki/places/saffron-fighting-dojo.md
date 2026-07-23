@@ -1,17 +1,12 @@
----
-status: drafting
-spoilers: true
----
-
 # Saffron Fighting Dojo
 
-Saffron City's official Pillar Gym (Fighting-type). Ancient Fighting-type clan tradition with Aura Guardian lineage techniques. **Currently official, but under serious threat** --- expected by Saffron elites to lose pillar status to the [[saffron-psychic-gym]] unless Kyle creates a public reversal.
+Saffron City's official Pillar Gym (Fighting-type). Ancient Fighting-type clan tradition with Aura Guardian lineage techniques. **Currently official, but under serious threat** --- expected by Saffron elites to lose pillar status to the [Saffron Psychic Gym](saffron-psychic-gym.md) unless Kyle creates a public reversal.
 
 ## Leadership
 
-- **Leader:** Koichi (father of [[../characters/kyle-kong]])
+- **Leader:** Koichi (father of [Kyle Kong](../characters/kyle-kong.md))
 - Ancient Fighting-type clan tradition
-- Aura Guardian lineage techniques (see [[../lore/aura-mechanics]])
+- Aura Guardian lineage techniques (see [Aura and Bonds — Mechanics](../lore/aura-mechanics.md))
 
 ## Current Status
 
@@ -30,7 +25,7 @@ Multiple forces converge against the Dojo:
 - Science advancement: psychic training methods improving rapidly
 - Tradition fading: fewer young people interested in ancient Fighting Dojo methods
 
-See [[../plot-threads/saffron-gym-rivalry]] for the political backdrop.
+See [Saffron Gym Rivalry](../plot-threads/saffron-gym-rivalry.md) for the political backdrop.
 
 ## Kyle's Role
 
@@ -38,7 +33,7 @@ Kyle is the Dojo's heir and effectively its desperate last attempt to prove rele
 
 ## Cross-Refs
 
-- [[saffron-psychic-gym]] --- the rising rival
-- [[../characters/kyle-kong]] --- the heir
-- [[../plot-threads/saffron-gym-rivalry]] --- the proxy war
-- [[../lore/aura-mechanics]] --- the Aura Guardian tradition
+- [Saffron Psychic Gym](saffron-psychic-gym.md) --- the rising rival
+- [Kyle Kong](../characters/kyle-kong.md) --- the heir
+- [Saffron Gym Rivalry](../plot-threads/saffron-gym-rivalry.md) --- the proxy war
+- [Aura and Bonds — Mechanics](../lore/aura-mechanics.md) --- the Aura Guardian tradition

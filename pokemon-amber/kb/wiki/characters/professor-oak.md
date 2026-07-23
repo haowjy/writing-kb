@@ -1,12 +1,3 @@
----
-type: wiki
-category: characters
-title: Professor Samuel Oak
-status: draft
-hidden: false
-updated: 2026-06-05
----
-
 # Professor Samuel Oak
 
 Amber's primary mentor and benefactor. Provides resources, Oak's Letter, and continued support throughout her journey. Publicly a renowned Pokemon researcher; privately a man who has been carrying a forty-year-old memory he has never told anyone.

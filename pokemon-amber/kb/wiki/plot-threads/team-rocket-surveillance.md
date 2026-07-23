@@ -1,14 +1,3 @@
----
-type: note
-scope: story
-category: plot-thread
-spoilers: true
-status: drafting
-hidden: true
-created: 2025-10-14
-updated: 2026-05-20
----
-
 # Team Rocket Surveillance Plot
 
 **Potential long-term threat escalating from observation to pursuit**

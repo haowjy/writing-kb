@@ -1,14 +1,3 @@
----
-type: wiki
-category: pok-locations
-title: Flame Forest
-requires_citations: false
-status: draft
-updated: 2025-10-14
-hidden: false
-canon: false
----
-
 # Flame Forest
 
 ## Overview

@@ -1,8 +1,3 @@
----
-status: drafting
-spoilers: true
----
-
 # World Opening Timeline
 
 How the wider world becomes accessible over the saga's timespan. The "gradual world opening" model paces interregional travel by infrastructure and safety capacity, not political declaration.
@@ -16,7 +11,7 @@ The Big 4 cluster:
 - Regular ferry/flight services
 - Safe travel infrastructure (maintained by Rangers + ACE trainers)
 
-See [[trainer-systems/conference-system]] for how these regions coordinate competitive scheduling.
+See [Quarterly Conference System (Big 4 Rotation)](trainer-systems/conference-system.md) for how these regions coordinate competitive scheduling.
 
 ## Not Yet Accessible (Story Start)
 
@@ -42,7 +37,7 @@ See [[trainer-systems/conference-system]] for how these regions coordinate compe
 - Government/League contracts (well-paid)
 - This makes becoming ACE meaningful --- not just strong trainer, but explorer/pioneer
 
-See [[organizations/ace-trainers]].
+See [Ace Trainers (Recognition & Roles)](organizations/ace-trainers.md).
 
 ## Gradual Opening Timeline (Rough)
 
@@ -74,8 +69,8 @@ This gives later arcs room for both modern institutional reach and local isolati
 
 ## Cross-Refs
 
-- [[trainer-systems/conference-system]] --- Big 4 quarterly system
-- [[organizations/ace-trainers]] --- the explorer/route-clearer role
-- [[organizations/ranger-union]] --- route maintenance
-- [[arcs/saga-overview]] --- multi-arc structure
-- [[arcs/arc-alola-ultra-space]] --- later-saga Alola reset arc
+- [Quarterly Conference System (Big 4 Rotation)](trainer-systems/conference-system.md) --- Big 4 quarterly system
+- [Ace Trainers (Recognition & Roles)](organizations/ace-trainers.md) --- the explorer/route-clearer role
+- [Ranger Union](organizations/ranger-union.md) --- route maintenance
+- [Saga Overview — Full Arc Structure](arcs/saga-overview.md) --- multi-arc structure
+- [Future Arc: Alola / Aether / Ultra Space Reset](arcs/arc-alola-ultra-space.md) --- later-saga Alola reset arc

@@ -1,12 +1,3 @@
----
-type: note
-scope: arc
-spoilers: true
-status: seed
-hidden: true
-updated: 2026-06-05
----
-
 # Future Beat: The Pikachu Handoff
 
 **Status:** Far future. Seed only. Year 2 arc.

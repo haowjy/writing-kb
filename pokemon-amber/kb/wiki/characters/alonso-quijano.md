@@ -1,8 +1,3 @@
----
-status: drafting
-spoilers: true
----
-
 # Alonso Quijano
 
 A **Paldean adventurer**, age 17, from a minor noble family. He traveled from Paldea to Kanto with a small adventurer crew before getting separated near Route 1. His parents want him to grow into a proper knight; Alonso rejects that role-label and dreams of becoming the **Greatest Adventurer** instead. Ironically, he embodies the better knightly virtues — courage, loyalty, worthiness, and going where someone has to go — more sincerely because he is not performing knighthood. His personality and actions carry the ideal, not his diction.
@@ -33,7 +28,7 @@ He walks into Kanto with a framework that does not map cleanly onto the trainer/
 
 ## Core Philosophy: Drive and Chosen Life
 
-Alonso represents the **chosen-ideal** variant of the saga's [[../themes/core-story-elements|obsession/drive theme]]. His goal is not to become the proper knight his parents want, and not to roleplay a knight in speech or costume; it is to become the **Greatest Adventurer** — a mythic, informal ideal closer to "Pokemon Master" than an official rank. The tension is that his adventurer path makes him look like the opposite of a respectable knight while making him act more knightly than the title would.
+Alonso represents the **chosen-ideal** variant of the saga's [obsession/drive theme](../themes/core-story-elements.md). His goal is not to become the proper knight his parents want, and not to roleplay a knight in speech or costume; it is to become the **Greatest Adventurer** — a mythic, informal ideal closer to "Pokemon Master" than an official rank. The tension is that his adventurer path makes him look like the opposite of a respectable knight while making him act more knightly than the title would.
 
 Part of that ideal is the pull toward **impossible places**: rumor maps, rescues in bad terrain, expeditions into unstable wilderness, Mystery Dungeon-scale anomalies, and any place that proves whether a person can really go where someone has to go.
 
@@ -80,7 +75,7 @@ Alonso letting Charcadet go is not a failure or a loss — it's the proof of his
 
 > **Alonso is why Charcadet is in Kanto. Amber is why Charcadet stays.**
 
-This intersects with the Mew-adjacent ore thread from the early Viridian cave incident (see [[../plot-threads/mewtwo-thread]]), which eventually becomes Mewtwonite Y. Alonso brings Charcadet into the incident; Amber gives Charcadet a reason to stay.
+This intersects with the Mew-adjacent ore thread from the early Viridian cave incident (see [The Mewtwo Thread](../plot-threads/mewtwo-thread.md)), which eventually becomes Mewtwonite Y. Alonso brings Charcadet into the incident; Amber gives Charcadet a reason to stay.
 
 ## Pokemon
 
@@ -131,12 +126,12 @@ Amber can notice the broader structural problem that Kanto adventurers may have 
 Alonso's arrival in Kanto is **plausible but not casual:**
 
 - He came as part of a small **Paldean adventurer crew** — organized crossing, not solo
-- His core companions are [[beatriz-romero]] and [[ciro-salvatierra]]
+- His core companions are [Beatriz Romero](beatriz-romero.md) and [Ciro Salvatierra](ciro-salvatierra.md)
 - Near Route 1, Alonso gets separated after chasing trouble / Rocket movement / a Pokemon-in-danger lead; this is more "got lost following something important" than clean solo professionalism
 - Interregional travel in this world is **possible but not normalized** — dangerous wilderness between regions, though Repel, Poke Balls, healing infrastructure, ships, aviation, communications, and mapping are gradually making it more viable
 - Alonso and his crew are early adopters of interregional movement — they are there before the infrastructure is easy, which says something about them
 
-See [[../lore/trainer-systems/index]] for the trainer systems context; Alonso exists partially outside those systems as a foreign adventurer.
+See [Celadon City](../lore/trainer-systems/index.md) for the trainer systems context; Alonso exists partially outside those systems as a foreign adventurer.
 
 ## Story Role Summary
 
@@ -156,12 +151,12 @@ See [[../lore/trainer-systems/index]] for the trainer systems context; Alonso ex
 
 ## Cross-Refs
 
-- [[amber-mc]] — the apprentice; Amber learns from his example
-- [[amber-mc-team]] — Charcadet's full arc: from Alonso's team → Amber's → stolen → Ceruledge
-- [[beatriz-romero]] — crew naturalist; wants to discover and catalog every Pokemon
-- [[ciro-salvatierra]] — crew hustler; wants to get rich and choose his own life
-- [[giovanni]] — structural contrast: Giovanni's conquest-drive vs. Alonso's chosen ideal
-- [[../arcs/saga-overview]] — Arc 1 placement and endgame return
-- [[../themes/core-story-elements]] — obsession theme, mismatch/misread identity
-- [[../lore/trainer-systems/index]] — trainer systems Alonso exists partially outside of
-- [[../organizations/team-rocket]] — the force that steals Charcadet from Amber, completing the arc Alonso started by letting Charcadet go
+- [Amber (MC)](amber-mc.md) — the apprentice; Amber learns from his example
+- [Amber MC — Team Planning (Spoilers)](amber-mc-team.md) — Charcadet's full arc: from Alonso's team → Amber's → stolen → Ceruledge
+- [Beatriz Romero](beatriz-romero.md) — crew naturalist; wants to discover and catalog every Pokemon
+- [Ciro Salvatierra](ciro-salvatierra.md) — crew hustler; wants to get rich and choose his own life
+- [Giovanni](giovanni.md) — structural contrast: Giovanni's conquest-drive vs. Alonso's chosen ideal
+- [Saga Overview — Full Arc Structure](../arcs/saga-overview.md) — Arc 1 placement and endgame return
+- [Core Story Elements](../themes/core-story-elements.md) — obsession theme, mismatch/misread identity
+- [Celadon City](../lore/trainer-systems/index.md) — trainer systems Alonso exists partially outside of
+- [Team Rocket](../organizations/team-rocket.md) — the force that steals Charcadet from Amber, completing the arc Alonso started by letting Charcadet go

@@ -1,13 +1,3 @@
----
-type: wiki
-category: pokemon-teams
-title: Amber MC — Team Planning (Spoilers)
-status: draft
-hidden: true
-updated: 2026-06-06
-canon: false
----
-
 # Amber MC — Team Planning (Spoilers)
 
 This page tracks Amber's confirmed roster and candidate pool, organized by region. Non-native species are fair game with narrative cost — each region has an allowlist, and exceptions exist. We use exceptions as story demands rather than resolving every case upfront.
@@ -44,7 +34,7 @@ Within each region, Pokemon are organized by depth of narrative bond:
   - **4Ever:** Finds his mother among Rocket's corrupted Pokemon — she has been driven to madness and is beyond saving. She dies. Teddiursa evolves into Ursaring through grief. The evolution is the emotional breaking point, not a power-up.
   - **Post-4Ever:** Ursaring becomes destructively obsessed with strength and vengeance. Diminishing returns — rage without growth. Mirrors Amber's own radicalization after losing Charcadet. Both lost something in 4Ever; both harden into unsustainable versions of themselves.
   - **Later:** Some event mellows both Ursaring and Amber. They come down together.
-  - See: [[../plot-threads/ursaring-rescue-thread]]
+  - See: [Teddiursa / Mother Ursaring Rescue Thread](../plot-threads/ursaring-rescue-thread.md)
 
 - **Vee (Eevee → Espeon)** *(first encountered in Celadon pre-4Ever; recruited post-4Ever on deliberate return)* — Team Rocket experiment. Modified to cycle freely between Vaporeon, Jolteon, and Flareon; transformations cause physical pain. Deeply mistrustful of humans as a result. Seeded in ch7 as a [Defeat] notice: *"Rogue Eevee and Eeveelutions Route 7 — Exercise Caution. (Class C)"* — Amber half-recognizes the setup but can't place it.
   - **First encounter (pre-4Ever):** Amber runs into Vee in Celadon. They interact — Vee bonds with Amber's Pokemon (likely Ditto). A brief Team Rocket escalation: Rocket shows up, probably trying to recapture Vee; Amber helps fight them off. Then she leaves. Vee doesn't come with her. Not yet.

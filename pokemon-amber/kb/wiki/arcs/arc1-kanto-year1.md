@@ -1,14 +1,3 @@
----
-type: note
-scope: story
-category: arc-structure
-spoilers: true
-status: planned
-hidden: true
-created: 2025-10-14
-updated: 2026-05-19
----
-
 # Arc 1: Kanto (Year 1)
 
 **Region:** Kanto
@@ -87,12 +76,12 @@ This is NOT desperate survival. It's the gap between theory and experience.
 
 ### Charcadet
 
-- **When/where:** Route 1 / Viridian off-route mini-arc, beginning in Ch. 20. Charcadet is in Kanto because it traveled from Paldea with [[../characters/alonso-quijano]], a 17-year-old Paldean adventurer. Alonso is why Charcadet is in Kanto; Amber is why Charcadet stays.
+- **When/where:** Route 1 / Viridian off-route mini-arc, beginning in Ch. 20. Charcadet is in Kanto because it traveled from Paldea with [Alonso Quijano](../characters/alonso-quijano.md), a 17-year-old Paldean adventurer. Alonso is why Charcadet is in Kanto; Amber is why Charcadet stays.
 - **Personality:** Ambition, drive, intensity. Not yet settled (Armarouge vs Ceruledge mirrors its unsettled identity). Knightly, but not property --- it chooses the quest it wants to serve.
 - **First seed:** At the Team Rocket camp, Charcadet sees Amber protect Teddiursa before Alonso arrives to save her. This is a meaningful but not catastrophic hit: the moral choice, not the maximum physical cost.
 - **Deepening evidence:** In the cave escalation, Charcadet sees Amber keep pursuing Teddy's mother, then joins Teddiursa and Ditto in slipping out to bring back help after Amber/Alonso are trapped.
 - **Capture:** Not captured at the camp or immediately after the cave. Its choice comes after observing Amber's pattern over a short stretch with Alonso. At the eventual separation, Alonso recognizes Charcadet's choice and lets it go. Amber catches it after that choice is clear.
-- **The ore thread:** The strange Mew-adjacent ore from the Viridian cave incident is a Rocket/Mewtwo/Mewtwonite Y setup, not a Charcadet custody thread. Charcadet is present for the incident because Alonso brought it to Kanto, but it should not be treated as the ore guardian or as handing Amber the ore before 4Ever. See [[../plot-threads/mewtwo-thread]].
+- **The ore thread:** The strange Mew-adjacent ore from the Viridian cave incident is a Rocket/Mewtwo/Mewtwonite Y setup, not a Charcadet custody thread. Charcadet is present for the incident because Alonso brought it to Kanto, but it should not be treated as the ore guardian or as handing Amber the ore before 4Ever. See [The Mewtwo Thread](../plot-threads/mewtwo-thread.md).
 
 - **Alonso's team context:** Alonso currently has two Charcadet: a very strong starter/ace that has not found Auspicious Armor yet, and a younger weaker sibling who becomes Amber's Charcadet. His team also includes Talonflame for scouting/travel and final-evolution Pawmot for field support/rescue utility.
 - **Mystery Dungeon bond beat:** The actual capture/choice should likely happen in a later Alonso-led Mystery Dungeon mini-arc, after several chance encounters. Amber asks what Mystery Dungeons are; Alonso sneaks her past the official route boundary to show her one. Younger Charcadet gets in over its head or loses control with fire; Amber visibly flinches from old fire trauma but protects it anyway, then later trusts it with a practical task. This is the specific emotional proof that makes the choice land.
@@ -205,7 +194,7 @@ Key beats regardless of outcome:
 **The long thread (Arc 1 → mid-saga):**
 The Route 1 camp/cave incident sits in Rocket files for years: a failed field operation, an escaped witness, a foreign adventurer, unusual Paldean Pokemon, Ursaring removed for later use, and an energy reading that was never fully explained. Eventually old records get pulled. Badge records, conference results, and Oak's sponsorship trace back to Amber. By then she is not a 13-year-old first-year anymore; she is the youngest-ever Hoenn conference winner. The organizational-level pursuit escalates. This converges with the Mewtwo thread: TR eventually understands they are chasing the same person connected to a significant Mega Stone ore deposit. The grunt grudge becomes something larger.
 
-Cross-ref: [[../plot-threads/mewtwo-thread]] (ore acquisition, long-thread payoff)
+Cross-ref: [The Mewtwo Thread](../plot-threads/mewtwo-thread.md) (ore acquisition, long-thread payoff)
 
 ---
 
@@ -343,7 +332,7 @@ Rocket releases or provokes Ursaring as a last resort. Ursaring is not evil: she
 
 Teddiursa sees his mother. For one moment, Ursaring starts to come back to herself and recognizes her cub. Then Rocket forcefully recalls/removes her as rubble cuts them off. Teddy finds his mother and loses her again.
 
-Amber and Alonso are trapped behind collapse. The solution is not heroic navigation while injured: Teddiursa, Charcadet, and Ditto slip out through a small passage to get help. Teddy gets agency, Charcadet protects Teddy for Amber, and Ditto helps without using the delayed Arcanine reveal. Charcadet knows Alonso's crew; with Ditto and Teddiursa, it can find [[../characters/beatriz-romero]] and [[../characters/ciro-salvatierra]] or guide them back with other responders. A rescue party reaches Amber and Alonso.
+Amber and Alonso are trapped behind collapse. The solution is not heroic navigation while injured: Teddiursa, Charcadet, and Ditto slip out through a small passage to get help. Teddy gets agency, Charcadet protects Teddy for Amber, and Ditto helps without using the delayed Arcanine reveal. Charcadet knows Alonso's crew; with Ditto and Teddiursa, it can find [Beatriz Romero](../characters/beatriz-romero.md) and [Ciro Salvatierra](../characters/ciro-salvatierra.md) or guide them back with other responders. A rescue party reaches Amber and Alonso.
 
 **Aftermath:** Ursaring remains in Rocket hands. Amber's promise to help Teddiursa save his mother remains unfulfilled. Charcadet has now seen Amber choose Teddy twice and has participated in carrying the promise forward, but its choice still comes later after a short stretch with Alonso.
 
@@ -378,6 +367,6 @@ She performs normal first-year trainer anyway.
 
 - `current-direction.md` - SOURCE OF TRUTH
 - `_open-questions.md` - Decision tracker
-- [[../plot-threads/mewtwo-thread]] - The Viridian cave ore is the Mewtwonite Y origin; exact custody chain remains open
+- [The Mewtwo Thread](../plot-threads/mewtwo-thread.md) - The Viridian cave ore is the Mewtwonite Y origin; exact custody chain remains open
 - `plot/giovanni-fuji-jail.md` - Giovanni context; why the Viridian gym battle carries weight
 - `wiki/characters/mewtwo.md` - Mewtwo connection to Amber

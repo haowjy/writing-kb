@@ -1,8 +1,3 @@
----
-status: drafting
-spoilers: true
----
-
 # Viridian Gym
 
 Kanto's Ground-type pillar gym in Viridian City. Officially run by Giovanni; functionally also Team Rocket headquarters. The Viridian Gym is a textbook case of a legitimate institution providing perfect cover for criminal operations.
@@ -25,7 +20,7 @@ Kanto's Ground-type pillar gym in Viridian City. Officially run by Giovanni; fun
 
 ## Hidden Reality
 
-- Front for [[../organizations/team-rocket]] headquarters
+- Front for [Team Rocket](../organizations/team-rocket.md) headquarters
 - Giovanni often absent (running TR operations)
 - Gym trainers are TR operatives maintaining cover
 - Cold, transactional atmosphere is the operational signature
@@ -40,7 +35,7 @@ Kanto's Ground-type pillar gym in Viridian City. Officially run by Giovanni; fun
 
 ## Family History
 
-The Viridian Gym has been controlled by the [[../organizations/clans/viridian-house]] for generations --- Ground-type specialization passed down through family breeding programs. Giovanni inherited it through his unknown father (a Viridian family member; his mother, Madame Boss, married into the family for political legitimacy after founding Team Rocket).
+The Viridian Gym has been controlled by the [Viridian House](../organizations/clans/viridian-house.md) for generations --- Ground-type specialization passed down through family breeding programs. Giovanni inherited it through his unknown father (a Viridian family member; his mother, Madame Boss, married into the family for political legitimacy after founding Team Rocket).
 
 The dual inheritance --- Viridian Gym authority from his father, Team Rocket from his mother --- makes the gym/HQ overlap structurally inevitable rather than coincidental.
 
@@ -52,7 +47,7 @@ The dual inheritance --- Viridian Gym authority from his father, Team Rocket fro
 
 ## Cross-Refs
 
-- [[../characters/giovanni]] --- (when created) the gym leader
-- [[../organizations/team-rocket]] --- the actual operational tenant
-- [[../organizations/clans/viridian-house]] --- family lineage
-- [[../plot-threads/giovanni-fuji-jail]] --- post-arc consequences
+- [Giovanni](../characters/giovanni.md) --- (when created) the gym leader
+- [Team Rocket](../organizations/team-rocket.md) --- the actual operational tenant
+- [Viridian House](../organizations/clans/viridian-house.md) --- family lineage
+- [Giovanni–Fuji Jail Conversation Planning (Rev B)](../plot-threads/giovanni-fuji-jail.md) --- post-arc consequences

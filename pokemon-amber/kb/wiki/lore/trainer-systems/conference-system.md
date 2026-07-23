@@ -1,14 +1,3 @@
----
-type: wiki
-category: lore
-title: Quarterly Conference System (Big 4 Rotation)
-requires_citations: true
-status: draft
-updated: 2026-04-01
-hidden: false
-canon: false
----
-
 # Quarterly Conference System (Big 4 Rotation)
 
 ## Overview

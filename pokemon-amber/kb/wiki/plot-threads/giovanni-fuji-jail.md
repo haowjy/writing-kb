@@ -1,14 +1,3 @@
----
-type: note
-scope: story
-category: plot-thread
-spoilers: true
-status: planned
-hidden: true
-created: 2025-10-14
-updated: 2025-10-15
----
-
 # Giovanni–Fuji Jail Conversation Planning (Rev B)
 
 > **Change requested:** The scene must end with Giovanni's order, **"make him disappear quietly."**

@@ -1,14 +1,3 @@
----
-type: wiki
-category: lore
-title: Quest System & Job Boards
-requires_citations: true
-status: draft
-updated: 2025-10-12
-hidden: false
-canon: false
----
-
 # Quest System & Job Boards
 
 The **Quest System** is a coordinated network of freelance Pokemon training work, posted on job boards at Pokemon Centers throughout Kanto-Johto. It provides economic opportunities for licensed trainers while supplementing the work of professional [Rangers](../organizations/ranger-union.md).
@@ -88,7 +77,7 @@ Information gathering, tracking, and detective work.
 
 ## Mystery Dungeon-Related Quests
 
-[[../mystery-dungeons]] are canonical but introduced later in the story. They do not require a separate quest bureaucracy: Pokemon Centers use the same category labels for dungeon-adjacent work — `[Rescue]`, `[Item]`, `[Investigation]`, `[Defeat]`, and `[Escort]`. The board describes the job, not the trainer's identity.
+[Mystery Dungeons](../mystery-dungeons.md) are canonical but introduced later in the story. They do not require a separate quest bureaucracy: Pokemon Centers use the same category labels for dungeon-adjacent work — `[Rescue]`, `[Item]`, `[Investigation]`, `[Defeat]`, and `[Escort]`. The board describes the job, not the trainer's identity.
 
 ## Quest Requirements
 

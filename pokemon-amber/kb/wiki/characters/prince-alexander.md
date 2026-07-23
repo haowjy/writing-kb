@@ -1,13 +1,3 @@
----
-type: wiki
-category: characters
-title: Prince Alexander
-status: drafting
-hidden: true
-spoilers: true
-updated: 2026-06-05
----
-
 # Prince Alexander
 
 Escaped prince of **Argaea** (the hidden kingdom), and the saga's study of **liberation that does not know how to stop**. His name follows the "A" theme (Amber / Alonso / Alexander) and deliberately invokes **Alexander the Great**: the king who set out to free and ended up conquering. His three-act shape across the saga is rescued -> restored -> conqueror.
@@ -75,7 +65,7 @@ An earlier idea gave Alexander an accompanying tutor/manservant (an Aristotle-to
 
 ## Core Philosophy: Drive on the Conquest Axis
 
-Alexander belongs on the saga's [[../themes/drive-spectrum|drive / obsession spectrum]], occupying a slot none of the others do: **ambition you cannot put down even when you want to.** Where Giovanni *chooses* conquest from conviction and Amber *refuses to stop* to stay un-vulnerable, Alexander **can't stop because the machine he started won't let him** --- drive as entrapment rather than appetite.
+Alexander belongs on the saga's [drive / obsession spectrum](../themes/drive-spectrum.md), occupying a slot none of the others do: **ambition you cannot put down even when you want to.** Where Giovanni *chooses* conquest from conviction and Amber *refuses to stop* to stay un-vulnerable, Alexander **can't stop because the machine he started won't let him** --- drive as entrapment rather than appetite.
 
 He also sharpens the saga's legitimacy theme by contrast:
 

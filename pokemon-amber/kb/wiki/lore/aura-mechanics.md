@@ -1,12 +1,11 @@
 ---
 status: canon
-spoilers: true
 ---
 
 # Aura and Bonds — Mechanics
 
 The underlying mechanics of how aura and Pokemon bonds work in this world.
-For the wiki-level concept overview, see [[aura-system]].
+For the wiki-level concept overview, see [Aura & Bond System](aura-system.md).
 
 These mechanics inform writing but should not be exposition-dumped.
 Characters in-world don't have this systematic vocabulary --- show effects,
@@ -186,7 +185,7 @@ All types grant easier bonding with matching Pokemon.
 - But locked into path from childhood
 - Less flexibility, predetermined specialization
 
-See also: [[clan-system]]
+See also: [Clan & Lineage System](clan-system.md)
 
 ---
 
@@ -316,7 +315,7 @@ Good patterns:
 
 ## Cross-Refs
 
-- [[aura-system]] --- the wiki-level concept overview
-- [[clan-system]] --- ancient clans and their systematic training
-- [[professor-oak]] --- Oak's research into bond mechanics
-- [[amber-mc]] --- Amber's unusual baseline (Mew DNA)
+- [Aura & Bond System](aura-system.md) --- the wiki-level concept overview
+- [Clan & Lineage System](clan-system.md) --- ancient clans and their systematic training
+- [Professor Samuel Oak](professor-oak.md) --- Oak's research into bond mechanics
+- [Amber (MC)](amber-mc.md) --- Amber's unusual baseline (Mew DNA)

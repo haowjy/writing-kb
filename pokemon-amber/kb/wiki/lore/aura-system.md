@@ -1,13 +1,12 @@
 ---
 status: canon
-locked_by: [ch6, ch12]
 ---
 
 # Aura & Bond System
 
 A real but poorly understood phenomenon known at the champion and elite trainer level. Most trainers never encounter it. The general public doesn't have a name for the broader system --- they only know about psychic powers, which is one visible manifestation.
 
-For the underlying mechanics (cultivation, elemental opposition, knowledge tiers, evolution interactions), see [[aura-mechanics]].
+For the underlying mechanics (cultivation, elemental opposition, knowledge tiers, evolution interactions), see [Aura and Bonds — Mechanics](aura-mechanics.md).
 
 ## What It Is
 
@@ -51,7 +50,7 @@ His academic work is publicly framed as Pokemon bond studies. Privately, it's an
 
 He cannot teach it. He can only point toward it.
 
-See: [[professor-oak]]
+See: [Professor Samuel Oak](professor-oak.md)
 
 ## Amber
 
@@ -81,8 +80,8 @@ Peak expressions are TBD --- details to be developed in later arc planning.
 
 ## Cross-Refs
 
-- [[aura-mechanics]] --- detailed mechanics, cultivation, knowledge tiers
-- [[professor-oak]] --- Oak's research and the post-4Ever conversation
-- [[amber-mc]] --- Amber's Mew DNA origin
-- [[arcs/arc-4ever]] --- first time Amber learns this system exists
-- [[arcs/arc-hidden-kingdom]] --- Gardevoir stays to sustain the seal against Mega Darkrai
+- [Aura and Bonds — Mechanics](aura-mechanics.md) --- detailed mechanics, cultivation, knowledge tiers
+- [Professor Samuel Oak](professor-oak.md) --- Oak's research and the post-4Ever conversation
+- [Amber (MC)](amber-mc.md) --- Amber's Mew DNA origin
+- [Future Arc: 4Ever (Arc 4)](arcs/arc-4ever.md) --- first time Amber learns this system exists
+- [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](arcs/arc-hidden-kingdom.md) --- Gardevoir stays to sustain the seal against Mega Darkrai

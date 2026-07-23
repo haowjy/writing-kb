@@ -1,14 +1,3 @@
----
-type: note
-scope: story
-category: themes
-spoilers: true
-status: confirmed
-hidden: true
-created: 2026-05-18
-updated: 2026-05-18
----
-
 # Drive Spectrum
 
 The drive spectrum is a central thematic engine for AmberTwo, especially for Amber and the main protagonist cast. It is the story's way of asking:
@@ -183,11 +172,11 @@ Do not pause the story to explain the theme. Let the theme choose the collisions
 
 ## Cross-Refs
 
-- [[core-story-elements]]
-- [[../characters/amber-mc]]
-- [[../characters/alonso-quijano]]
-- [[../characters/kyle-kong]]
-- [[../characters/professor-oak]]
-- [[../characters/sabrina]]
-- [[../plot-threads/charcadet-to-ceruledge-throughline]]
-- [[../plot-threads/rainbow-rocket-endgame]]
+- [Core Story Elements](core-story-elements.md)
+- [Amber (MC)](../characters/amber-mc.md)
+- [Alonso Quijano](../characters/alonso-quijano.md)
+- [Kyle Kong](../characters/kyle-kong.md)
+- [Professor Samuel Oak](../characters/professor-oak.md)
+- [Sabrina](../characters/sabrina.md)
+- [Charcadet → Ceruledge Throughline](../plot-threads/charcadet-to-ceruledge-throughline.md)
+- [Rainbow Rocket Endgame](../plot-threads/rainbow-rocket-endgame.md)

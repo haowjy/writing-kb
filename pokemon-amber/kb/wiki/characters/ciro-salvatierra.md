@@ -1,13 +1,6 @@
----
-status: drafting
-spoilers: true
-created: 2026-05-18
-updated: 2026-05-18
----
-
 # Ciro Salvatierra
 
-Ciro Salvatierra is one of [[alonso-quijano]]'s Paldean adventurer-crew companions: charming, semi-shady, money-minded, daring, and more noble under pressure than he wants people to notice.
+Ciro Salvatierra is one of [Alonso Quijano](alonso-quijano.md)'s Paldean adventurer-crew companions: charming, semi-shady, money-minded, daring, and more noble under pressure than he wants people to notice.
 
 His surface dream is blunt:
 
@@ -86,7 +79,7 @@ But when danger arrives, Ciro's actions reveal the shared core: he will protect 
 
 ## Relationship to Beatriz
 
-[[beatriz-romero]] wants to discover and catalog every Pokemon. Ciro wants to make discoveries pay.
+[Beatriz Romero](beatriz-romero.md) wants to discover and catalog every Pokemon. Ciro wants to make discoveries pay.
 
 Their friction is productive:
 
@@ -129,7 +122,7 @@ He also helps define Alonso by contrast: Alonso does not care enough about profi
 
 ## Cross-Refs
 
-- [[alonso-quijano]] — crew leader/heart; wants to become the Greatest Adventurer
-- [[beatriz-romero]] — crew naturalist; catalog-every-Pokemon drive
-- [[../lore/trainer-systems/adventurer-system]] — cultural context for Paldean adventuring
-- [[../arcs/arc1-kanto-year1]] — Route 1 / Viridian placement
+- [Alonso Quijano](alonso-quijano.md) — crew leader/heart; wants to become the Greatest Adventurer
+- [Beatriz Romero](beatriz-romero.md) — crew naturalist; catalog-every-Pokemon drive
+- [Adventurer System](../lore/trainer-systems/adventurer-system.md) — cultural context for Paldean adventuring
+- [Arc 1: Kanto (Year 1)](../arcs/arc1-kanto-year1.md) — Route 1 / Viridian placement

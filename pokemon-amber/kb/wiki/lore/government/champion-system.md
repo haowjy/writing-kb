@@ -1,14 +1,3 @@
----
-type: wiki
-category: lore
-title: Champion & Elite Four Government System
-requires_citations: false
-status: draft
-updated: 2025-10-12
-hidden: false
-canon: false
----
-
 # Champion & Elite Four Government System
 
 The Champion and Elite Four serve as the highest level of regional government in Pokemon regions. This system evolved from ancient power-based meritocracy into the modern political structure, though its foundations remain rooted in Pokemon battle strength.

@@ -133,8 +133,8 @@ How Pokemon training, licensing, and cultural expectations evolved from noble pr
 
 ## Cross-Refs
 
-- [[trainer-systems/index]] --- catalog of training systems
-- [[trainer-systems/licensing]] --- licensing and tier mechanics
-- [[trainer-systems/trainer-paths]] --- the four modern training paths
-- [[history/gym-evolution]] --- gym institution history
-- [[history/kanto-johto-unification-war]] --- post-war context
+- [Celadon City](trainer-systems/index.md) --- catalog of training systems
+- [Licensing System & Trainer Tiers](trainer-systems/licensing.md) --- licensing and tier mechanics
+- [Trainer Paths & Socioeconomic Class](trainer-systems/trainer-paths.md) --- the four modern training paths
+- [Evolution of Pokemon Gyms](history/gym-evolution.md) --- gym institution history
+- [Kanto–Johto Unification and the Indigo Corridor (Amber Continuity)](history/kanto-johto-unification-war.md) --- post-war context

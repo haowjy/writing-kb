@@ -1,12 +1,3 @@
----
-type: note
-scope: arc
-spoilers: true
-status: seed
-hidden: true
-updated: 2026-04-05
----
-
 # Future Arc: 4Ever (Arc 4)
 
 **Amber age:** 13 | **Status:** Seed. Key beats locked. Details TBD.

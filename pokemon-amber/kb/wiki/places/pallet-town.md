@@ -1,14 +1,3 @@
----
-type: wiki
-category: locations
-title: Pallet Town
-requires_citations: true
-status: draft
-updated: 2025-11-01
-hidden: false
-canon: true
----
-
 # Pallet Town
 
 **Pallet Town** is a small coastal town in southwestern Kanto, known as the location of Professor Oak's prestigious Pokemon research laboratory. It serves as a key setting for Chapters 11-18 of Pokemon Amber.

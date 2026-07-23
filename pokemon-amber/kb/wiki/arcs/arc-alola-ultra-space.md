@@ -1,12 +1,3 @@
----
-type: note
-scope: arc
-spoilers: true
-status: seed
-hidden: true
-updated: 2026-05-20
----
-
 # Future Arc: Alola / Aether / Ultra Space Reset
 
 **Amber age:** 18 | **Status:** Arc function, pressure, and key relationship lanes are clear. Exact mechanics and final composition remain partly open.
@@ -169,10 +160,10 @@ This beat should stay **symbolic rather than causal**. Aether locks onto Amber b
 
 ## Cross-Refs
 
-- [[saga-overview]] — macro placement
-- [[arc-hidden-kingdom]] — the promise established in the kingdom (Visit 1) and the later return it now precedes
-- [[../plot-threads/dimensional-displacement-bridge]] — real-world displacement and Aether extraction handoff
-- [[../characters/amber-mc-team]] — Alola team direction
-- [[../lore/world-opening-timeline]] — wider-world connectivity context
-- [[../organizations/team-rocket]] — Rocket's institutional capture model
-- [[../plot-threads/rainbow-rocket-endgame]] — later war this arc helps set up
+- [Saga Overview — Full Arc Structure](saga-overview.md) — macro placement
+- [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](arc-hidden-kingdom.md) — the promise established in the kingdom (Visit 1) and the later return it now precedes
+- [Late-Saga Dimensional Displacement Bridge](../plot-threads/dimensional-displacement-bridge.md) — real-world displacement and Aether extraction handoff
+- [Amber MC — Team Planning (Spoilers)](../characters/amber-mc-team.md) — Alola team direction
+- [World Opening Timeline](../lore/world-opening-timeline.md) — wider-world connectivity context
+- [Team Rocket](../organizations/team-rocket.md) — Rocket's institutional capture model
+- [Rainbow Rocket Endgame](../plot-threads/rainbow-rocket-endgame.md) — later war this arc helps set up

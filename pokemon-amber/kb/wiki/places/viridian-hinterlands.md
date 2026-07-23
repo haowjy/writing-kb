@@ -1,14 +1,3 @@
----
-type: wiki
-category: pok-locations
-title: Viridian Hinterlands (Route 1 Off-Route Locations)
-requires_citations: false
-status: draft
-updated: 2025-10-13
-hidden: false
-canon: false
----
-
 # Viridian Hinterlands (Route 1 Off-Route Locations)
 
 Overview

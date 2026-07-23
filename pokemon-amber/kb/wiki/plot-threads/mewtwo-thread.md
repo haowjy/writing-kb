@@ -1,13 +1,3 @@
----
-type: note
-scope: global
-category: plot-thread
-spoilers: true
-status: seed
-hidden: true
-updated: 2026-05-18
----
-
 # The Mewtwo Thread
 
 This is the spine of the saga. Not a subplot. The whole arc of Amber's journey is, in part, the story of two Mewtwo --- one she carries a piece of toward, across regions and years, without knowing it.
@@ -124,8 +114,8 @@ That's the spine.
 
 ## Cross-Refs
 
-- [[../arcs/arc1-kanto-year1]] — Day 2 camp/cave mini-arc, Alonso/Charcadet seed
+- [Arc 1: Kanto (Year 1)](../arcs/arc1-kanto-year1.md) — Day 2 camp/cave mini-arc, Alonso/Charcadet seed
 - `story/ch20/plan.md` and `story/ch21/plan.md` — current beat-by-beat plans
-- [[../arcs/saga-overview]] — Arc 12+ future Unova / Genesect entry
-- [[giovanni-fuji-jail]] — Fuji's extraction, Mewtwo #2 context, two-Mewtwo distinction
+- [Saga Overview — Full Arc Structure](../arcs/saga-overview.md) — Arc 12+ future Unova / Genesect entry
+- [Giovanni–Fuji Jail Conversation Planning (Rev B)](giovanni-fuji-jail.md) — Fuji's extraction, Mewtwo #2 context, two-Mewtwo distinction
 - `wiki/characters/mewtwo.md` — Mewtwo character file (stub, needs expansion)

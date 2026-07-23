@@ -1,14 +1,3 @@
----
-type: wiki
-category: locations
-title: Factory Ward
-requires_citations: true
-status: draft
-updated: 2026-06-07
-hidden: false
-canon: true
----
-
 # Factory Ward
 
 The **Factory Ward** is Celadon City's industrial district — the underbelly that the garden city pretends doesn't exist. Polluted, impoverished, and neglected by the noble families who govern Celadon's institutions.

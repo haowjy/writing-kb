@@ -1,14 +1,3 @@
----
-type: wiki
-category: lore
-title: Trainer Systems Overview
-requires_citations: true
-status: draft
-updated: 2025-10-11
-hidden: false
-canon: false
----
-
 # Trainer Systems Overview
 
 The modern Pokemon training landscape in Kanto-Johto features multiple interconnected systems that serve different purposes: legal licensing for handling Pokemon, competitive battling achievement, and elite recognition.

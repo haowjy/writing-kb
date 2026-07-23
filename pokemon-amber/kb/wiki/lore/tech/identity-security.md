@@ -1,13 +1,3 @@
----
-type: wiki
-category: lore
-title: Identity & Security (Amber Continuity)
-requires_citations: true
-status: draft
-updated: 2025-09-21
-hidden: false
----
-
 # Identity & Security (Amber Continuity)
 
 ## IDs and Enforcement

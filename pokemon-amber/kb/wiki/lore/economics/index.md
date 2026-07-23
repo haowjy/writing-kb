@@ -1,14 +1,3 @@
----
-type: wiki
-category: lore
-title: Economy & Currency (Amber Continuity)
-requires_citations: true
-status: draft
-updated: 2025-10-12
-hidden: false
-canon: false
----
-
 # Economy & Currency (Amber Continuity)
 
 ## Currency

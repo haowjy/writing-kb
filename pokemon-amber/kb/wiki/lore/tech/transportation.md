@@ -1,13 +1,3 @@
----
-type: wiki
-category: lore
-title: Transportation
-requires_citations: true
-status: draft
-updated: 2025-09-21
-hidden: false
----
-
 # Transportation
 
 ## Air

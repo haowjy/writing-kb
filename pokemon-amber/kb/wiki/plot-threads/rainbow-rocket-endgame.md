@@ -1,9 +1,3 @@
----
-status: drafting
-spoilers: true
-updated: 2026-05-20
----
-
 # Rainbow Rocket Endgame
 
 The culmination of the saga's variants of obsession — where Giovanni's ambition meets Amber's drive at the summit.
@@ -78,7 +72,7 @@ Giovanni's late-game model is not just "attack the League from outside." He weap
 - The takeover happens through the formal challenge structure, a corrupted version of it, or a crisis-distorted version that still reads as institutional legitimacy to the public.
 - The point is demonstration: the Champion system can be captured from within and made to certify conquest.
 
-See: [[../lore/government/champion-system]]
+See: [Champion & Elite Four Government System](../lore/government/champion-system.md)
 
 ## Global Pattern
 
@@ -112,22 +106,22 @@ The endgame doesn't moralize ambition. It examines its shape — what different 
 ### Fuji: Grief → Possession → Destructive Obsession
 Grief was real. The obsession that followed consumed everything else. Fuji's drive to rebuild his dead family produced Mewtwo, destroyed Stephen, burned down a home, and ultimately consumed Fuji himself. The obsession was personal, intimate, and annihilating.
 
-See: [[../characters/dr-fuji]]
+See: [Dr. Fuji](../characters/dr-fuji.md)
 
 ### Giovanni: Trauma → Nationalism → Conquest
 Giovanni's ambition is structural, not personal. He wants Kanto supremacy — and eventually world domination — as redress for historical defeat. His obsession is cold, strategic, and patient. He built an empire to serve it. Mewtwo was the first superweapon. When Mewtwo walked, Giovanni found other weapons, other institutions to capture, and other ways to make force look legitimate. He never stops.
 
-See: [[../characters/giovanni]], [[../organizations/team-rocket]]
+See: [Giovanni](../characters/giovanni.md), [Team Rocket](../organizations/team-rocket.md)
 
 ### Alonso Quijano: Chivalric Ideal → Genuine Aspiration → The Chosen Quest
 **Alonso** represents ambition as a chosen adventuring ideal — not performative knight-speech, but plainspoken courage. He wants to become a true adventurer: brave enough, noble enough, and worthy enough to go where someone has to go. His drive gives his life shape: discipline, courage, loyalty, and a willingness to walk toward danger when the cause is worthy. It is not possession, conquest, or grief trying to control the world. He reaches peak by endgame through the same broad force that drives Giovanni to conquest — the desire to become more. The difference is what he wants greatness *for*, and what he refuses to own.
 
-See: [[../characters/alonso-quijano]]
+See: [Alonso Quijano](../characters/alonso-quijano.md)
 
 ### Amber: Protection → Greatness → The Drive That Refuses to Stop
 Amber's core drive is protection — becoming strong enough that nothing can take from her again. 4Ever radicalized her. Losing Charcadet taught her that metagame knowledge isn't enough. She keeps going because stopping means being vulnerable, and she will never be vulnerable again. Her speed of progression is unprecedented — an extreme historical outlier. By endgame (~age 17–20), she operates at peak, and the question is no longer how strong she is but what she's fighting for.
 
-See: [[../characters/amber-mc]], [[../arcs/saga-overview]]
+See: [Amber (MC)](../characters/amber-mc.md), [Saga Overview — Full Arc Structure](../arcs/saga-overview.md)
 
 
 ### Kyle Kong: Inherited Duty → Earned Victory → Chosen Adventure
@@ -139,12 +133,12 @@ Sabrina corrects the theme by showing that not all greatness comes from obsessio
 ### Charcadet / Ceruledge: Loyalty Refracted Through Who Holds the Reins
 Charcadet first knows Alonso's knightly ideal, then chooses Amber after watching the beginning of her quest. When the Iron-Masked Marauder steals it, that loyalty and becoming are reforged by malice. Ceruledge becomes what happens when a knightly fire is forced into someone else's story. The reunion in Sinnoh asks whether the original choice can survive what Team Rocket and Team Galactic made it into.
 
-See: [[../characters/amber-mc]]
+See: [Amber (MC)](../characters/amber-mc.md)
 
 ### Mewtwo: Obsession's Product Demanding Autonomy
 Mewtwo is Fuji's research made flesh — the product of a grief-obsession that was never about Mewtwo at all. Its arc is the refusal to be defined by its creator's purpose. The Mewtwo #1 reunion during the future Genesect crisis is the moment that arc completes: early Viridian Mew-adjacent ore resurfacing as Mewtwonite Y, helping Mewtwo achieve something Fuji never imagined — not a weapon, but a partner.
 
-See: [[../characters/mewtwo]], [[mewtwo-thread]]
+See: [Mewtwo](../characters/mewtwo.md), [The Mewtwo Thread](mewtwo-thread.md)
 
 ### Evil Teams: Flavors of Obsession
 Each evil team represents a different shape of ambition:
@@ -204,15 +198,15 @@ Alonso can also reach peak-level by endgame. Two characters shaped by consuming 
 
 ## Cross-Refs
 
-- [[../characters/giovanni]] — Giovanni's full profile
-- [[../characters/alonso-quijano]] — Alonso character
-- [[../characters/amber-mc]] — Amber's full profile
-- [[../characters/mewtwo]] — Mewtwo profile
-- [[../characters/dr-fuji]] — Dr. Fuji profile
-- [[../organizations/team-rocket]] — Team Rocket organization
-- [[../lore/government/champion-system]] — Champion system as captured legitimacy target
-- [[../arcs/saga-overview]] — Full arc structure
-- [[dimensional-displacement-bridge]] — late-saga displacement and Alola / Ultra Space bridge
-- [[../themes/core-story-elements]] — Core story elements
-- [[mewtwo-thread]] — Mewtwo plot thread
-- [[giovanni-fuji-jail]] — Giovanni/Fuji jail aftermath
+- [Giovanni](../characters/giovanni.md) — Giovanni's full profile
+- [Alonso Quijano](../characters/alonso-quijano.md) — Alonso character
+- [Amber (MC)](../characters/amber-mc.md) — Amber's full profile
+- [Mewtwo](../characters/mewtwo.md) — Mewtwo profile
+- [Dr. Fuji](../characters/dr-fuji.md) — Dr. Fuji profile
+- [Team Rocket](../organizations/team-rocket.md) — Team Rocket organization
+- [Champion & Elite Four Government System](../lore/government/champion-system.md) — Champion system as captured legitimacy target
+- [Saga Overview — Full Arc Structure](../arcs/saga-overview.md) — Full arc structure
+- [Late-Saga Dimensional Displacement Bridge](dimensional-displacement-bridge.md) — late-saga displacement and Alola / Ultra Space bridge
+- [Core Story Elements](../themes/core-story-elements.md) — Core story elements
+- [The Mewtwo Thread](mewtwo-thread.md) — Mewtwo plot thread
+- [Giovanni–Fuji Jail Conversation Planning (Rev B)](giovanni-fuji-jail.md) — Giovanni/Fuji jail aftermath

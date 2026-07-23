@@ -1,6 +1,5 @@
 ---
 status: canon
-spoilers: true
 ---
 
 # Pokemon Sustenance & Battle Mechanics
@@ -86,7 +85,7 @@ These keep wild Pokemon populations stable:
 
 ## Cross-Refs
 
-- [[mechanics/pokemon-fainting]] --- what happens when Pokemon faint
-- [[mechanics/power-scaling]] --- relative strength benchmarks
-- [[organizations/ranger-union]] --- population management role
-- [[trainer-systems/quest-system]] --- rescue work
+- [Pokemon Fainting Mechanics](mechanics/pokemon-fainting.md) --- what happens when Pokemon faint
+- [Power Scaling --- Author Guidance](mechanics/power-scaling.md) --- relative strength benchmarks
+- [Ranger Union](organizations/ranger-union.md) --- population management role
+- [Quest System & Job Boards](trainer-systems/quest-system.md) --- rescue work

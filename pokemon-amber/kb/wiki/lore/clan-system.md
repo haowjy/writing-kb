@@ -1,8 +1,3 @@
----
-status: drafting
-spoilers: false
----
-
 # Clan & Lineage System
 
 Regional distinction in how families control Pokemon breeding and training. The fundamental split: **Johto retained traditional clan structures; Kanto modernized into corporate families**. Both descend from pre-Pokeball survival necessity.
@@ -50,7 +45,7 @@ Regional distinction in how families control Pokemon breeding and training. The 
 - Some Johto clan members in Kanto (wandering heirs, merchants, exiles)
 - Kanto corporate families gaining power
 
-See [[history/kanto-johto-unification-war]] for the broader political context.
+See [Kanto–Johto Unification and the Indigo Corridor (Amber Continuity)](history/kanto-johto-unification-war.md) for the broader political context.
 
 ## Knowledge & Power Tiers
 
@@ -81,20 +76,20 @@ See [[history/kanto-johto-unification-war]] for the broader political context.
 - Johto: full shrines, councils, inter-clan politics, old treaties
 - No mystic hand-waving --- clan "secrets" are methods (breeding protocols, drills, logistics), not magic
 
-This connects to [[aura-mechanics]] --- ancient clans' systematic training is one of the most efficient paths to aura cultivation.
+This connects to [Aura and Bonds — Mechanics](aura-mechanics.md) --- ancient clans' systematic training is one of the most efficient paths to aura cultivation.
 
 ## Specific Clans
 
-See [[../organizations/clans/index]] for the catalog of named clans (14 entries: Houndstone, Silvertail, Sandbind, Emberfall, Thunderway, Hearthbloom, Stonehand, Driftroot, Stonewing, Mindglass, Bugwarden, Nightveil, Viridian House, Blackthorn).
+See [Celadon City](../organizations/clans/index.md) for the catalog of named clans (14 entries: Houndstone, Silvertail, Sandbind, Emberfall, Thunderway, Hearthbloom, Stonehand, Driftroot, Stonewing, Mindglass, Bugwarden, Nightveil, Viridian House, Blackthorn).
 
 Substantial individual pages:
-- [[../organizations/clans/silvertail]] --- merchant house with Madame Boss / Team Rocket origin canon
-- [[../organizations/clans/viridian-house]] --- Giovanni's family lineage, abandoned traditional practices
+- [Silvertail Lineage](../organizations/clans/silvertail.md) --- merchant house with Madame Boss / Team Rocket origin canon
+- [Viridian House](../organizations/clans/viridian-house.md) --- Giovanni's family lineage, abandoned traditional practices
 
 ## Cross-Refs
 
-- [[../organizations/clans/index]] --- the catalog
-- [[../organizations/team-rocket]] --- TR origin in Silvertail rejection
-- [[aura-mechanics]] --- clan training as aura cultivation method
-- [[history/kanto-johto-unification-war]] --- post-war tensions
-- [[history/gym-evolution]] --- gyms possibly influenced by clan specializations
+- [Celadon City](../organizations/clans/index.md) --- the catalog
+- [Team Rocket](../organizations/team-rocket.md) --- TR origin in Silvertail rejection
+- [Aura and Bonds — Mechanics](aura-mechanics.md) --- clan training as aura cultivation method
+- [Kanto–Johto Unification and the Indigo Corridor (Amber Continuity)](history/kanto-johto-unification-war.md) --- post-war tensions
+- [Evolution of Pokemon Gyms](history/gym-evolution.md) --- gyms possibly influenced by clan specializations

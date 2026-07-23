@@ -1,13 +1,3 @@
----
-type: wiki
-category: lore
-title: Technology Overview (Amber Continuity)
-requires_citations: true
-status: draft
-updated: 2025-09-21
-hidden: false
----
-
 # Technology Overview (Amber Continuity)
 
 ## Snapshot

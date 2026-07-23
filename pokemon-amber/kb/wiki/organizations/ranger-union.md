@@ -1,14 +1,3 @@
----
-type: wiki
-category: lore
-title: Ranger Union
-requires_citations: true
-status: draft
-updated: 2025-10-26
-hidden: false
-canon: true
----
-
 # Ranger Union
 
 The **Ranger Union** is an official organization from the Pokémon Ranger spin‑off series that supervises Pokémon Rangers across multiple regions (Fiore, Almia, Oblivia). It operates a headquarters in northwest Almia and is led by Chairperson Erma. Rangers in that canon use Capture Stylers rather than Poké Balls.

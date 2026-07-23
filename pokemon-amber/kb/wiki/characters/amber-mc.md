@@ -1,13 +1,3 @@
----
-type: wiki
-category: characters
-title: Amber (MC)
-requires_citations: true
-status: draft
-updated: 2026-04-05
-canon: false
----
-
 # Amber (MC)
 
 An isekai'd adult consciousness inhabiting the body of Ambertwo — Dr. Fuji's clone of his deceased daughter. Not Fuji's daughter. Never was.
@@ -27,7 +17,7 @@ Ambertwo was created with trace Mew DNA as part of Fuji's cloning process. Nobod
 
 This is the same capacity Oak's bond research is trying to understand from the outside. It's what the Aura Guardian tradition calls "aura" — Pokemon bond/empathy type. Amber develops it through Oak's practical training advice (grounding techniques, how to listen to her team) without ever being told what it is.
 
-See: [[../lore/aura-system]], [[ditto]], [[mewtwo]]
+See: [Aura & Bond System](../lore/aura-system.md), [Ditto](ditto.md), [Mewtwo](mewtwo.md)
 
 ## Economic Position
 
@@ -37,10 +27,10 @@ Amber walks her journey by **choice**, not poverty. Oak supports her properly --
 - **No academy** --- Oak-mentored, self-taught with adult knowledge
 - **Oak funding** --- starter funds, equipment, supplies; not wealthy but not struggling
 - **Quest boards** --- supplemental income and trainer experience, not survival
-- **Pokeballs** are still meaningful expenses (₽200 each, see [[../lore/economics/pokeball-pricing]]) but affordable
+- **Pokeballs** are still meaningful expenses (₽200 each, see [Pokeball Economics & Pricing](../lore/economics/pokeball-pricing.md)) but affordable
 - **Failed gym attempts** = setback, not financial disaster
 - **8 badges as goal** --- disrupted by weird incidents/Team Rocket, not economics
 
 She's somewhere between the Trainer Academy path and the traditional Walking Journey path economically --- closer to "modern adventurer with a benefactor" than either pure pole.
 
-This is part of why class stratification still shows around her. She sees the Path B (working-class loan) trainers struggling; she's not one of them, but she notices. And she sees the Path D (elite) trainers like [[sabrina]] who never worry about money at all. She's the comfortable middle who can observe both.
+This is part of why class stratification still shows around her. She sees the Path B (working-class loan) trainers struggling; she's not one of them, but she notices. And she sees the Path D (elite) trainers like [Sabrina](sabrina.md) who never worry about money at all. She's the comfortable middle who can observe both.

@@ -1,14 +1,3 @@
----
-type: note
-scope: story
-category: core-elements
-spoilers: true
-status: confirmed
-hidden: true
-created: 2025-10-14
-updated: 2026-05-18
----
-
 # Core Story Elements
 
 **Read `TONE.md` first** - this file describes story elements that create drama, not themes to explore philosophically.
@@ -87,7 +76,7 @@ updated: 2026-05-18
 **Drama from:** Being misjudged, finding your own way despite expectations
 
 ### 6. Drive Spectrum: Obsession, Ambition, Duty, Survival
-**Central thematic current:** the main protagonists are organized by different kinds of drive, not by a single flat idea of "obsession." See [[drive-spectrum]] for the working framework.
+**Central thematic current:** the main protagonists are organized by different kinds of drive, not by a single flat idea of "obsession." See [Drive Spectrum](drive-spectrum.md) for the working framework.
 
 - Amber: circumstance → survival/control → attachment → protection/greatness → worthiness
 - Alonso Quijano: chosen adventuring ideal → plainspoken courage → the self-chosen quest

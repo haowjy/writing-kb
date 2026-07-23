@@ -1,14 +1,3 @@
----
-type: wiki
-category: locations
-title: Celadon City
-requires_citations: true
-status: draft
-updated: 2026-06-07
-hidden: false
-canon: true
----
-
 # Celadon City
 
 **Celadon City** is a major commercial hub in central Kanto, known for its extensive gardens, corporate development, and the prestigious Celadon Gym. It serves as a primary setting for Chapters 5-11 of Pokemon Amber and a recurring location in Arcs 2 and 6.

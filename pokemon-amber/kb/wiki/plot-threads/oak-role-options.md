@@ -1,14 +1,3 @@
----
-type: note
-scope: story
-category: plot-decision
-spoilers: true
-status: decided
-hidden: true
-created: 2025-10-14
-updated: 2025-10-25
----
-
 # Oak's Role (DECIDED: No Time Loop)
 
 **Major decision affecting long-term story structure and thematic implications**

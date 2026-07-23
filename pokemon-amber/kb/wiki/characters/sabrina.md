@@ -1,9 +1,3 @@
----
-status: drafting
-spoilers: true
-updated: 2026-05-18
----
-
 # Sabrina
 
 Sabrina is Kyle's monstrous natural-talent boss, not a companion. She is the Saffron Psychic Gym family's prodigy: age 13, terrifyingly powerful, emotionally distant, and positioned as the rising force that could displace the Fighting Dojo.
@@ -26,7 +20,7 @@ She is not cruel for fun. She is detached because closeness costs her more than 
 
 ## Status
 
-- **Age:** 13 (1 year early — prodigy, no reason to wait), peer rival to [[kyle-kong]].
+- **Age:** 13 (1 year early — prodigy, no reason to wait), peer rival to [Kyle Kong](kyle-kong.md).
 - **Family:** Sabrina's family runs the Saffron Psychic Gym, currently minor/challenger status but backed to rise.
 - **Resources:** Silph Co. backing, wealthy family, elite tutors, bred Pokemon, managed travel, full support infrastructure.
 - **Path:** Elite trainer path; projected 8 badges in Year 1 without needing outside coaching.
@@ -71,7 +65,7 @@ She is greatness as burden and asymmetry. Kyle is drive trying to answer that as
 
 ## Cross-Refs
 
-- [[kyle-kong]] --- Saffron rival and eventual challenger
-- [[../plot-threads/saffron-gym-rivalry]] --- political backdrop
-- [[../places/saffron-psychic-gym]] --- her family institution
-- [[../lore/aura-mechanics]] --- psychic/aura contrast
+- [Kyle Kong](kyle-kong.md) --- Saffron rival and eventual challenger
+- [Saffron Gym Rivalry](../plot-threads/saffron-gym-rivalry.md) --- political backdrop
+- [Saffron Psychic Gym](../places/saffron-psychic-gym.md) --- her family institution
+- [Aura and Bonds — Mechanics](../lore/aura-mechanics.md) --- psychic/aura contrast

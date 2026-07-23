@@ -1,17 +1,13 @@
----
-status: drafting
----
-
 # Clans --- Catalog
 
 The catalog of named clans across Kanto and Johto. Most entries here are short --- they have notable NPCs, signature techniques, and story hooks. Substantial clans with significant story canon get their own pages.
 
-For the Johto-vs-Kanto framework that explains clan structure, see [[../../lore/clan-system]].
+For the Johto-vs-Kanto framework that explains clan structure, see [Clan System](../../lore/clan-system.md).
 
 ## Substantial pages (have own page)
 
-- [[silvertail]] --- *Meowth / Persian* merchant house. Houses critical Madame Boss / Team Rocket origin canon.
-- [[viridian-house]] --- *Ground-types* (Nidoking, Rhydon, etc.). Kanto-only, no Johto ties. Houses Giovanni parentage canon.
+- [Silvertail Lineage](silvertail.md) --- *Meowth / Persian* merchant house. Houses critical Madame Boss / Team Rocket origin canon.
+- [Viridian House](viridian-house.md) --- *Ground-types* (Nidoking, Rhydon, etc.). Kanto-only, no Johto ties. Houses Giovanni parentage canon.
 
 ## Index entries (no individual page yet)
 
@@ -100,7 +96,7 @@ For the Johto-vs-Kanto framework that explains clan structure, see [[../../lore/
 - **Culture/Rites:** First Night vigil with a Zubat; Quiet Hour hand-sign practice
 - **Signature Techniques:** **Shadow Echo** (echolocation mapping), **Gauze Wing** (sightline screen), **Silent Descent** (swoop extract)
 - **Notable NPCs:** Ikku (scout), Grandmother Rei (archivist)
-- **Politics/Allies:** discreet contracts with merchants ([[silvertail]]); avoids open fights with Rocket
+- **Politics/Allies:** discreet contracts with merchants ([Silvertail Lineage](silvertail.md)); avoids open fights with Rocket
 - **Story Hooks:** stealth courier job; cave map of an old lab; quick silent-approach lesson for Amber
 
 ### Blackthorn / Scalehand --- *Dratini / Dragonair / Dragonite* (Johto-only)
@@ -125,6 +121,6 @@ These aren't true clans --- modern wealthy families using Pokemon for status:
 
 ## Cross-Refs
 
-- [[../../lore/clan-system]] --- the framework
-- [[../team-rocket]] --- TR origin in Silvertail rejection
-- [[../../lore/aura-mechanics]] --- clan training as aura cultivation
+- [Clan System](../../lore/clan-system.md) --- the framework
+- [Team Rocket](../team-rocket.md) --- TR origin in Silvertail rejection
+- [Aura Mechanics](../../lore/aura-mechanics.md) --- clan training as aura cultivation

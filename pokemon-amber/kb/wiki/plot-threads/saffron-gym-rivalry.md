@@ -1,12 +1,6 @@
----
-status: drafting
-spoilers: true
-updated: 2026-05-18
----
-
 # Saffron Gym Rivalry
 
-The political proxy war between Saffron's two gyms: the ancient Fighting Dojo (currently official pillar status) and the rising Psychic Gym (currently minor, Silph Co.--backed). The rivalry plays out through their respective heirs --- [[../characters/kyle-kong]] and [[../characters/sabrina]] --- competing in the U19 Junior League.
+The political proxy war between Saffron's two gyms: the ancient Fighting Dojo (currently official pillar status) and the rising Psychic Gym (currently minor, Silph Co.--backed). The rivalry plays out through their respective heirs --- [Kyle Kong](../characters/kyle-kong.md) and [Sabrina](../characters/sabrina.md) --- competing in the U19 Junior League.
 
 ## The Two Gyms
 
@@ -17,7 +11,7 @@ The political proxy war between Saffron's two gyms: the ancient Fighting Dojo (c
 - **Current status:** Official Saffron City pillar gym
 - **Trajectory:** Declining, but not doomed if Kyle can create a public reversal
 - **Crisis:** Political and cultural momentum favors replacement by the Psychic Gym
-- See [[../places/saffron-fighting-dojo]]
+- See [Saffron Fighting Dojo](../places/saffron-fighting-dojo.md)
 
 ### Psychic Gym (Currently Minor)
 
@@ -26,7 +20,7 @@ The political proxy war between Saffron's two gyms: the ancient Fighting Dojo (c
 - **Current status:** Challenger / minor gym (not official)
 - **Trajectory:** Rising fast and expected by elites to displace the Dojo
 - **Core weapon:** Sabrina's monstrous natural psychic talent
-- See [[../places/saffron-psychic-gym]]
+- See [Saffron Psychic Gym](../places/saffron-psychic-gym.md)
 
 ## Why the Dojo Looks Doomed
 
@@ -102,9 +96,9 @@ She is not the protagonist of the Saffron proxy war. She is the chance influence
 
 ## Cross-Refs
 
-- [[../characters/kyle-kong]]
-- [[../characters/sabrina]]
-- [[../places/saffron-fighting-dojo]]
-- [[../places/saffron-psychic-gym]]
-- [[../lore/trainer-systems/conference-system]]
-- [[../arcs/arc1-kanto-year1]] --- where this plays out
+- [Kyle Kong](../characters/kyle-kong.md)
+- [Sabrina](../characters/sabrina.md)
+- [Saffron Fighting Dojo](../places/saffron-fighting-dojo.md)
+- [Saffron Psychic Gym](../places/saffron-psychic-gym.md)
+- [Quarterly Conference System (Big 4 Rotation)](../lore/trainer-systems/conference-system.md)
+- [Arc 1: Kanto (Year 1)](../arcs/arc1-kanto-year1.md) --- where this plays out

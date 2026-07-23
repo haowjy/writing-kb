@@ -1,13 +1,3 @@
----
-type: wiki
-category: lore
-title: Ace Trainers (Recognition & Roles)
-requires_citations: true
-status: draft
-updated: 2025-10-11
-hidden: false
----
-
 # Ace Trainers (Recognition & Roles)
 
 "Ace Trainer" is a recognition for trainers who hold at least one Elite Badge, earned by defeating a Gym Leader’s primary team on an elite challenge. It signals exceptional mastery and reliability.

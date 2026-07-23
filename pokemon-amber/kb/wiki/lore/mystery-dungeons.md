@@ -1,8 +1,3 @@
----
-status: draft
-spoilers: true
----
-
 # Mystery Dungeons
 
 **Mystery Dungeon-style phenomena are canonical**, but they should enter the story later than the Route 1 / Alonso introduction. Chapter 20-21 can foreshadow the idea through an unstable, dungeon-adjacent off-route cave, but it should not teach the reader the full system yet.
@@ -64,7 +59,7 @@ They help explain:
 
 ## Relationship to Quest Boards
 
-Mystery Dungeons should use the existing [[trainer-systems/quest-system]] rather than requiring a new bureaucracy.
+Mystery Dungeons should use the existing [Quest System & Job Boards](trainer-systems/quest-system.md) rather than requiring a new bureaucracy.
 
 Possible postings:
 
@@ -126,7 +121,7 @@ This mini-arc is also a strong place for the younger Charcadet bond: Amber's fir
 
 ## Related Pages
 
-- [[trainer-systems/quest-system]] — Pokemon Center job-board infrastructure
-- [[trainer-systems/adventurer-system]] — informal adventurer identity and Paldean cultural myth
-- [[world-opening-timeline]] — wider world becoming more accessible over the saga
-- [[../arcs/arc-hidden-kingdom]] — future impossible-place escalation
+- [Quest System & Job Boards](trainer-systems/quest-system.md) — Pokemon Center job-board infrastructure
+- [Adventurer System](trainer-systems/adventurer-system.md) — informal adventurer identity and Paldean cultural myth
+- [World Opening Timeline](world-opening-timeline.md) — wider world becoming more accessible over the saga
+- [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](../arcs/arc-hidden-kingdom.md) — future impossible-place escalation

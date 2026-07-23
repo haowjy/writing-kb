@@ -1,14 +1,3 @@
----
-type: wiki
-category: arcs
-title: Arc Outline -The Perfect Family
-requires_citations: true
-status: draft
-updated: 2025-09-21
-hidden: false
-canon: false
----
-
 # Arc Outline - The Perfect Family
 
 Note: This outline synthesizes on-page events and hidden backstory to track the escalating conflict around Dr. Fuji's attempt to reconstruct his family. It is forward-looking but grounded in the current canon through Chapter 17.

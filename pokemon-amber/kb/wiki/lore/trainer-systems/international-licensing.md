@@ -1,13 +1,3 @@
----
-type: wiki
-category: lore
-title: International Licensing & Travel (Big 4 Regions)
-status: draft
-hidden: false
-updated: 2025-10-26
-canon: true
----
-
 # International Licensing & Travel
 
 This page defines how trainers legally move with their Pokemon between the "Big 4" regions in Amber continuity (Kanto–Johto, Hoenn, Sinnoh). It favors practical interoperability over hard bans: no blanket prohibition on cross‑region parties; compliance hinges on registration, quarantine, and insurance.

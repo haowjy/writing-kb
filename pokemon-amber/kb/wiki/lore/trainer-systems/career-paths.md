@@ -86,8 +86,8 @@ Choosing a type specialty is culturally almost like choosing a profession --- fa
 
 ## Cross-Refs
 
-- [[trainer-systems/index]]
-- [[trainer-systems/licensing]] --- tier requirements
-- [[trainer-systems/conference-system]] --- tournament structure
-- [[clan-system]] --- traditional family-type lineages
-- [[economics/index]] --- broader economic context
+- [Celadon City](trainer-systems/index.md)
+- [Licensing System & Trainer Tiers](trainer-systems/licensing.md) --- tier requirements
+- [Quarterly Conference System (Big 4 Rotation)](trainer-systems/conference-system.md) --- tournament structure
+- [Clan & Lineage System](clan-system.md) --- traditional family-type lineages
+- [Celadon City](economics/index.md) --- broader economic context

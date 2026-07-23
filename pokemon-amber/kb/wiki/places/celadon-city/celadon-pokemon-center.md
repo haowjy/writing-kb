@@ -1,14 +1,3 @@
----
-type: wiki
-category: locations
-title: Celadon Pokemon Center
-requires_citations: true
-status: draft
-updated: 2025-10-09
-hidden: false
-canon: true
----
-
 # Celadon Pokemon Center
 
 The **Celadon Pokemon Center** is a major medical and coordination facility in [Celadon City](./index.md), serving as the primary setting for Chapter 7 where Amber discovers the [quest system](../../../lore/training/quest-system.md).

@@ -1,13 +1,6 @@
----
-status: drafting
-spoilers: true
-created: 2026-05-18
-updated: 2026-05-18
----
-
 # Beatriz Romero
 
-Beatriz Romero is one of [[alonso-quijano]]'s Paldean adventurer-crew companions. She is quiet around people, intense around Pokemon, and driven by a huge field-naturalist dream:
+Beatriz Romero is one of [Alonso Quijano](alonso-quijano.md)'s Paldean adventurer-crew companions. She is quiet around people, intense around Pokemon, and driven by a huge field-naturalist dream:
 
 > **To discover and catalog every Pokemon.**
 
@@ -58,7 +51,7 @@ She can admire Alonso while also thinking he is an idiot who should have packed 
 
 ## Relationship to Ciro
 
-[[ciro-salvatierra]] treats discoveries as potential income. Beatriz treats them as knowledge first.
+[Ciro Salvatierra](ciro-salvatierra.md) treats discoveries as potential income. Beatriz treats them as knowledge first.
 
 This creates constant friction:
 
@@ -97,12 +90,12 @@ Avoid making her team overshadow Alonso's fire/knight visual identity in Ch. 20/
 
 Beatriz expands adventuring beyond Alonso's greatness myth. She shows adventure as cataloging, field science, and responsibility to the Pokemon being discovered.
 
-She also mirrors young [[professor-oak]]: the dream of seeing and understanding every Pokemon, before age and history transform that fire into institutional research.
+She also mirrors young [Professor Samuel Oak](professor-oak.md): the dream of seeing and understanding every Pokemon, before age and history transform that fire into institutional research.
 
 ## Cross-Refs
 
-- [[alonso-quijano]] — crew leader/heart; wants to become the Greatest Adventurer
-- [[ciro-salvatierra]] — crew scoundrel; money/freedom drive
-- [[professor-oak]] — older field-scholar echo
-- [[../lore/trainer-systems/adventurer-system]] — cultural context for Paldean adventuring
-- [[../arcs/arc1-kanto-year1]] — Route 1 / Viridian placement
+- [Alonso Quijano](alonso-quijano.md) — crew leader/heart; wants to become the Greatest Adventurer
+- [Ciro Salvatierra](ciro-salvatierra.md) — crew scoundrel; money/freedom drive
+- [Professor Samuel Oak](professor-oak.md) — older field-scholar echo
+- [Adventurer System](../lore/trainer-systems/adventurer-system.md) — cultural context for Paldean adventuring
+- [Arc 1: Kanto (Year 1)](../arcs/arc1-kanto-year1.md) — Route 1 / Viridian placement

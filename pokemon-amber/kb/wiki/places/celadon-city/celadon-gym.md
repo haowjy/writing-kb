@@ -1,14 +1,3 @@
----
-type: wiki
-category: locations
-title: Celadon Gym
-requires_citations: true
-status: draft
-updated: 2026-06-07
-hidden: false
-canon: true
----
-
 # Celadon Gym
 
 **Celadon Gym** is one of the eight traditional Kanto Pokemon Gyms, specializing in Grass-type Pokemon. Located in [Celadon City](./index.md), it serves as a major setting for Chapters 5-11 of Pokemon Amber. The Gym Leader position is currently vacant following the previous leader's decline; Erika is the leading candidate for succession.

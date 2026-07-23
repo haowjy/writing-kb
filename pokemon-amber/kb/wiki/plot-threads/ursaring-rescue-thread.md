@@ -1,14 +1,3 @@
----
-type: note
-scope: story
-category: plot-thread
-spoilers: true
-status: planned
-hidden: true
-created: 2026-05-17
-updated: 2026-05-17
----
-
 # Teddiursa / Mother Ursaring Rescue Thread
 
 ## Core Promise
@@ -51,7 +40,7 @@ Some later event mellows both Ursaring and Amber. They come down together. The a
 
 ## Cross-Refs
 
-- [[../arcs/arc1-kanto-year1]]
-- [[../characters/amber-mc-team]]
-- [[../organizations/team-rocket]]
-- [[charcadet-to-ceruledge-throughline]]
+- [Arc 1: Kanto (Year 1)](../arcs/arc1-kanto-year1.md)
+- [Amber MC — Team Planning (Spoilers)](../characters/amber-mc-team.md)
+- [Team Rocket](../organizations/team-rocket.md)
+- [Charcadet → Ceruledge Throughline](charcadet-to-ceruledge-throughline.md)

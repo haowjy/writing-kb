@@ -1,13 +1,3 @@
----
-type: wiki
-category: characters
-title: Kaede
-requires_citations: true
-status: published
-updated: 2026-04-05
-canon: true
----
-
 # Kaede
 
 ## Overview
@@ -188,4 +178,4 @@ Kaede's immediate crisis is resolved in ch10, but the structural problems persis
 - Kaede blames Erika specifically: she saved one kid, got the title, and let the Ward rot. The resentment isn't irrational --- it's structural. Erika IS trying but Kaede can't see that from outside.
 - In Arc 6 (Celadon return, age 14): Erika is Gym Leader but blocked by the board. Kaede is Rocket. They meet again. Erika remembers the girl whose brother she saved. Kaede sees the Gym Leader who let the Factory Ward rot.
 
-See: [[../arcs/arc-celadon]], [[../places/celadon-city/factory-ward]], [[../organizations/team-rocket]]
+See: [Future Arc: Celadon](../arcs/arc-celadon.md), [Factory Ward](../places/celadon-city/factory-ward.md), [Team Rocket](../organizations/team-rocket.md)
