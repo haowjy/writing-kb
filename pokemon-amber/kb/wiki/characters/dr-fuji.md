@@ -47,9 +47,7 @@ Delia tried to reach him. She was grieving too, and she told herself the drinkin
 With Delia gone, the drinking continued but there was no one left to take it out on. Just the bottles and the research notes and the empty house. He was at rock bottom when Giovanni found him --- not a grieving scientist with a controversial proposal, but a drunk in a basement surrounded by failed experiments and empty bottles. Giovanni offered the one thing that could pull him back: funding, facilities, and the promise of bringing Amber back. Fuji didn't hesitate.
 
 **The Team Rocket Years (~12 years ago to present):**
-Giovanni didn't treat the alcoholism --- he made it unnecessary. A lab, a purpose, a structure, and a stated goal of resurrecting Amber. The drinking stopped. Not managed, not hidden --- stopped. Fuji was sober for roughly twelve years, and that sobriety is *why* he could rebuild himself into someone composed and competent enough to run Project Chimera.
-
-This is the shape of him for the entire early story: a man who is not drinking, because he has something better. See [The Alcohol Timeline](#the-alcohol-timeline) below.
+Giovanni gave him a lab, funding, and a stated goal of resurrecting Amber, and Fuji quit drinking. He stayed sober about twelve years. That sobriety is what let him rebuild into someone composed and competent enough to run Project Chimera. See [The Alcohol Timeline](#the-alcohol-timeline) below.
 
 Team Rocket restarts Project Chimera under Fuji's leadership: clone Mew, produce a controllable weapon. In exchange, Fuji gets unlimited resources and latitude for the side experiments he actually cares about. He spends this period producing "two" prototypes (Charmandertwo, Bulbatwo, etc.) by spiking source genomes with trace Mew cells. The Mew admixture destabilizes morphogenesis. Most fail.
 
@@ -84,7 +82,7 @@ What he is starts showing through:
 
 ## The Alcohol Timeline
 
-Fuji's drinking is **cyclical, not continuous**. It tracks one variable: whether he has a purpose. When he has one, he doesn't drink. When it's taken away, he does. Writers should never portray him as a steady background drinker --- at any given point in the story he is either dry or in free fall, and which one is always answerable.
+Fuji's drinking tracks one variable: whether he has a purpose. When he has one, he's dry. When it's taken away, he drinks. At any point in the story he's in one state or the other, and the table below says which.
 
 | Phase | State | Trigger |
 |---|---|---|
@@ -94,19 +92,19 @@ Fuji's drinking is **cyclical, not continuous**. It tracks one variable: whether
 | After Ch 17 | Raging. Openly the drunk scientist | Losing Amber --- she escapes him |
 | Clone-family era (+5-10y) | **Sober again.** Present, capable, a good father | Giovanni: new Ambertwo |
 
-**Basement years.** Obsessive research by day, alcohol by night. The violence came out of the drinking, not the reverse --- he wasn't a violent man who drank, he was a drunk who became violent. Delia left and filed.
+**Basement years.** Obsessive research by day, alcohol by night. The violence grew out of the drinking, in stages: withdrawal, then verbal cruelty, then the anger that made Delia flinch. She left and filed.
 
-**The Team Rocket years.** He stopped. Purpose displaced the bottle entirely, which is the only reason the composed Fuji of Ch 1-5 exists at all.
+**The Team Rocket years.** He quit. The composed Fuji of Ch 1-5 only exists because of this.
 
-**Ch 6 --- the relapse.** Domino hands him surveillance photos of Delia with Stephen. He had declined a drink minutes earlier --- water was fine. After the photos he asks for whiskey. Whiskey is his coping drink from here on. Ch 11 he buys wine, framed to himself as a reunion gift; Ch 13 he drinks that bottle alone on a log and murders Stephen. He is never sloppy drunk in these chapters --- impaired at the edges, not enough to be an excuse.
+**Ch 6 --- the relapse.** Domino hands him surveillance photos of Delia with Stephen. He had declined a drink minutes earlier and asked for water. After the photos he asks for whiskey, and whiskey stays his coping drink from here on. In Ch 11 he buys wine and tells himself it's a reunion gift. In Ch 13 he drinks that bottle alone on a log and murders Stephen. Through all of it he's impaired at the edges rather than visibly drunk.
 
-**After Ch 17 --- the raging phase.** Amber escapes. The daughter he resurrected chose to leave, and that is the failure that breaks him for good. This is the visible, undeniable drunk-scientist period: everyone around him knows, including his own research staff, whom he snaps at and physically lashes out at. Unpredictable --- sometimes brilliant work while drunk, sometimes purely destructive. Nobody is concealing it, least of all him.
+**After Ch 17 --- the raging phase.** Amber escapes him. The daughter he resurrected chose to leave, and it breaks him for good. He drinks openly now and everyone around him knows, including the research staff he snaps at and lashes out at. Sometimes he does brilliant work drunk. Sometimes he just wrecks things. Nobody can predict which.
 
-**Clone-family era --- sober again.** Giovanni offers him another daughter, and it works exactly as it did the first time.
+**Clone-family era --- sober again.** Giovanni offers him another daughter and it works the same way it did the first time.
 
 ### What This Means
 
-Giovanni never cures Fuji. He *supplies* him. Purpose is the actual dependency; alcohol is only what fills the vacuum when the supply is cut. Giovanni has now run the identical transaction twice --- the promise of a daughter, in exchange for total compliance --- which means he manufactures the dependency he then relieves. See [Giovanni --- The Clone Family][clone-family].
+Purpose is Fuji's real dependency, and alcohol floods in whenever the supply gets cut. Giovanni controls that supply. He's run the same trade twice now --- the promise of a daughter, in exchange for total compliance --- which means he manufactures the need he then relieves. See [Giovanni --- The Clone Family][clone-family].
 
 [clone-family]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/characters/giovanni.md#the-clone-family
 

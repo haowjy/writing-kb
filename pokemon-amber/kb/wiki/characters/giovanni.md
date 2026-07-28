@@ -183,9 +183,9 @@ This is the thematic inversion of everything Amber does. Amber builds trust-base
 
 Fuji's second chance is also devastating for our Amber. The man who hit Delia, murdered Stephen, burned down a house with children inside — he gets another daughter. And this time, without the alcohol and grief-madness, he might actually be good at it. New Ambertwo has the childhood, the family, the stable father that our Amber never had — and it's in Giovanni's house.
 
-Note the sequence, because it is the *second* time Giovanni does this. Fuji was sober for twelve years on Giovanni's original promise, relapsed across Ch 6-17, and after losing Amber went into a period of open, violent drunkenness that his own research staff had to work around. Giovanni sobered him up again the same way he did the first time: by offering him a daughter. See [Dr. Fuji — The Alcohol Timeline][fuji-alcohol].
+This is the second time Giovanni does it. Fuji stayed sober twelve years on the original promise, relapsed across Ch 6-17, and after losing Amber spent years openly drunk and violent enough that his research staff worked around him. Giovanni sobered him up again by offering him a daughter, the same lever as the first time. See [Dr. Fuji — The Alcohol Timeline][fuji-alcohol].
 
-Which is the uglier reading of Giovanni's whole method. He doesn't rehabilitate Fuji — he *supplies* him. Purpose is the dependency; alcohol is only what floods in when the supply is cut. Having run the transaction twice, Giovanni now knows exactly which lever produces total compliance, and he is manufacturing the need he then relieves. The loyalty is real. So is the leash.
+That repetition exposes the method. Purpose is Fuji's dependency, alcohol floods in whenever the supply gets cut, and Giovanni controls the supply. Having run the trade twice, he knows exactly which lever produces total compliance, and he manufactures the need he then relieves. The familial loyalty in this house is genuine and it is also a leash.
 
 [fuji-alcohol]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/characters/dr-fuji.md#the-alcohol-timeline
 
