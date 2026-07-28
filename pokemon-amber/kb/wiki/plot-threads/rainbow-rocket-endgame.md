@@ -64,13 +64,16 @@ Giovanni's first overt conquest move should turn inward on **Kanto**.
 
 ## Captured Legitimacy
 
-Giovanni's late-game model is not just "attack the League from outside." He weaponizes the League system itself.
+Giovanni's model is not "attack the League from outside." He weaponizes the League system itself — by becoming Champion **himself**.
 
-- One of his senior commanders or allied proxies becomes a **puppet Kanto Champion**.
-- The exact identity remains open; the durable part is the mechanism, not the specific person.
-- That figure is armed with **Ultra Beasts**, **Mega tech**, legendary-class assets, or some combination strong enough to break the existing balance.
-- The takeover happens through the formal challenge structure, a corrupted version of it, or a crisis-distorted version that still reads as institutional legitimacy to the public.
-- The point is demonstration: the Champion system can be captured from within and made to certify conquest.
+- Giovanni defeats Lance in a sanctioned match. Mewtwo #2 is his ace, but the challenge follows the system's own rules. He *earned* it.
+- The legitimacy argument is nearly impossible to tear apart: the system says this is how power transfers. He used the system.
+- He then reforms Kanto from the Champion's seat — populist modernization (cheaper Pokeballs, state-funded academies, route infrastructure, meritocratic gym system). Every reform is genuine AND centralizes his power.
+- Popular support is earned, not manufactured. People's lives improve. The propaganda works because it's *true*.
+- When he's exposed as Rocket's leader, Kanto nationalists defend him — "he built all this, and you want to tear it down because of his past?"
+- The war begins as "defensive" — the coalition comes for Giovanni, Kanto fights back — then expands into conquest framed as security.
+
+The point is not just demonstration but **legitimacy that survives exposure**. Napoleon kept France's loyalty even after his worst crimes were known. Giovanni keeps Kanto's loyalty even after Rocket is exposed — because the roads are better and the Pokeballs are cheaper.
 
 See: [Champion & Elite Four Government System](../lore/government/champion-system.md)
 
@@ -108,8 +111,10 @@ Grief was real. The obsession that followed consumed everything else. Fuji's dri
 
 See: [Dr. Fuji](../characters/dr-fuji.md)
 
-### Giovanni: Trauma → Nationalism → Conquest
-Giovanni's ambition is structural, not personal. He wants Kanto supremacy — and eventually world domination — as redress for historical defeat. His obsession is cold, strategic, and patient. He built an empire to serve it. Mewtwo was the first superweapon. When Mewtwo walked, Giovanni found other weapons, other institutions to capture, and other ways to make force look legitimate. He never stops.
+### Giovanni: Trauma → Nationalism → Modernization → Conquest
+Giovanni's ambition is structural, not personal. He wants Kanto supremacy — and eventually world domination — as redress for historical defeat. But unlike a simple conqueror, he **solves real problems** along the way. His Napoleon-model trajectory: become Champion himself (not through a puppet), reform Kanto (break Silph monopoly, fund education, build infrastructure, establish meritocracy), earn genuine popular support, then leverage that base for expansion. The reforms are real. The improvements are genuine. And every single one also centralizes his power. When he's exposed as Rocket's leader, Kanto's citizens defend him — because he made their lives better and the accusation feels like foreign interference. The war starts "defensive" and becomes conquest.
+
+His obsession is cold, strategic, and patient. He built an empire to serve it. Mewtwo was the first superweapon — but when Mewtwo #1 escaped, Giovanni learned. Mewtwo #2 isn't a weapon. It's family. Raised alongside starter clones and a new Ambertwo as a genuine family unit, with Giovanni as father figure. The loyalty is real. That's worse than control.
 
 See: [Giovanni](../characters/giovanni.md), [Team Rocket](../organizations/team-rocket.md)
 
@@ -158,16 +163,21 @@ The Amber/Giovanni endgame should land as a strategic and ideological clash, not
 
 The conflict is not "special bloodline vs special bloodline." It is **captured legitimacy and controlled force** versus **distributed trust and voluntary alliance**.
 
-## Mewtwo #2 and the Private Final Layer
+## Mewtwo #2 and the Clone Family
 
-Current preferred direction is that Giovanni may still retain control of **Mewtwo #2** rather than losing it cleanly in the same way canon or the anime does.
+Mewtwo #2 is not a controlled weapon. It is Giovanni's **raised partner** — a being of legendary-class power that fights for him out of genuine familial loyalty.
 
-- Mewtwo #2 is a **controlled strategic weapon**, not a recurring boss monster.
-- Its story function is ideological proof for Giovanni: autonomy was the flaw in Mewtwo #1, so the answer is tighter engineering and tighter command.
-- It should be used sparingly before the endgame: rumors, aftermaths, one impossible defeat, psychic pressure, evidence that something too large is being kept off the public board.
-- The final confrontation can therefore stay partly **secretive**. Publicly, the world sees puppet regimes, Champion upsets, Ultra Beast incidents, and proxy crises. Privately, a small set of people understand that Giovanni himself, Mewtwo #2, and other controlled assets were the hand behind them.
+Giovanni learned from Mewtwo #1's rebellion: autonomy wasn't the flaw. *Isolation* was. You can't chain a being that powerful. But you can raise one. Mewtwo #2 was raised from consciousness alongside the starter clones (Charmandertwo, Bulbasaurtwo, Squirtletwo) and a new Ambertwo, with Giovanni as father figure and Fuji raising the human clone. They grew up as a family. The loyalty is real. The bonds are real.
 
-One strong endgame lane is a private climactic confrontation involving **Amber, Ceruledge, Vee, Mewtwo #1 / Mega Mewtwo Y, and a small set of allies** against Giovanni, Mewtwo #2, and controlled force. Exact composition remains open.
+- Mewtwo #2's story function is the dark mirror of Amber's bonds: genuine trust-based connection directed toward conquest rather than protection
+- It should be used sparingly before the endgame: rumors, aftermaths, one impossible defeat, psychic pressure, evidence that something too large is being kept off the public board
+- The final confrontation is partly **personal**: Amber's coalition of earned trust vs. Giovanni's family of engineered belonging. Both models produce real loyalty. The question is what that loyalty serves.
+
+One strong endgame lane is a climactic confrontation involving **Amber, Ceruledge, Vee, Mewtwo #1 / Mega Mewtwo Y, and a small set of allies** against **Giovanni, Mewtwo #2, the clone family, and Kanto's institutional force**. Exact composition remains open.
+
+The hardest question: can Mewtwo #2 be reached? Not freed — it isn't captive. Can it be shown what its "family" actually is? And if it sees it, does that change anything? Some children never turn on their parents. Some true believers die believing. The story doesn't have to answer this cleanly.
+
+See: [Giovanni — The Clone Family](../characters/giovanni.md#the-clone-family), [Mewtwo — Mewtwo #2](../characters/mewtwo.md#mewtwo-2-the-corrected-version)
 
 ### The World Opening: Exploration as Ambition
 The drive to explore, to map the unknown, to push beyond safe borders — the kingdom, the dragon gauntlet — is also a form of obsession. Amber's discovery of the hidden kingdom is ambition directed outward: not conquest, but discovery. The same force that makes Giovanni a conqueror makes Amber an explorer.

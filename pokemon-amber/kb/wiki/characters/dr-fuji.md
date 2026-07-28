@@ -40,9 +40,15 @@ When the Great Unification War erupted, Fuji was recruited to head the top-secre
 **The Fall & Obsession (~12 years before story):**
 After the war ended and Project Chimera was defunded, Amber was diagnosed with aggressive, untreatable cancer. She was ten years old. Fuji watched his daughter's cells destroy her and could not stop it.
 
-Her death broke him. While Delia tried to grieve, Fuji fixated on undoing it. He pursued increasingly unethical research proposals through legitimate institutions and was rejected by all of them. Delia, watching him spiral, divorced him and left. With nowhere else to turn and nothing left to lose, Fuji accepted Team Rocket's offer without hesitation.
+Her death broke him. He retreated to his basement lab --- obsessive research by day, alcohol by night, the line between the two blurring until there wasn't one. He pursued increasingly unethical research proposals through legitimate institutions and was rejected by all of them. Each rejection pushed him further into the bottle and deeper into the work.
+
+Delia tried to reach him. She was grieving too, and she told herself the drinking and the obsession were temporary --- that the man she married was still in there. But alcohol and grief eroded his impulse control in stages: withdrawal first, then verbal cruelty, then the kind of anger that made her flinch when he moved too fast. The violence didn't arrive all at once. It escalated from drunkenness --- he wasn't a violent man who drank, he was a drunk who became violent. She endured it longer than she should have because she could see the grief underneath and kept believing it would pass. It didn't. She finally left and filed for divorce --- easy case, well-documented history. Open and shut.
+
+With Delia gone, the drinking continued but there was no one left to take it out on. Just the bottles and the research notes and the empty house. He was at rock bottom when Giovanni found him --- not a grieving scientist with a controversial proposal, but a drunk in a basement surrounded by failed experiments and empty bottles. Giovanni offered the one thing that could pull him back: funding, facilities, and the promise of bringing Amber back. Fuji didn't hesitate.
 
 **The Team Rocket Years (~12 years ago to present):**
+Giovanni didn't cure the alcoholism --- he redirected it. Gave Fuji a lab, a purpose, a structure. The drinking became functional, managed, part of the routine rather than the whole of it. Fuji rebuilt himself into someone composed and competent, but the bottle never left. It just became invisible.
+
 Team Rocket restarts Project Chimera under Fuji's leadership: clone Mew, produce a controllable weapon. In exchange, Fuji gets unlimited resources and latitude for the side experiments he actually cares about. He spends this period producing "two" prototypes (Charmandertwo, Bulbatwo, etc.) by spiking source genomes with trace Mew cells. The Mew admixture destabilizes morphogenesis. Most fail.
 
 Meanwhile, Delia fled to Pallet Town, met war veteran Stephen Ketchum, married him, and had Ash.
