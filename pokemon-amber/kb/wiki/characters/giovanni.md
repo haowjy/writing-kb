@@ -181,7 +181,13 @@ Mewtwo #2 isn't mind-controlled. It **believes**. And that's harder to break tha
 
 This is the thematic inversion of everything Amber does. Amber builds trust-based bonds with her Pokemon. Giovanni builds trust-based bonds with his clones. Both are *real*. The difference isn't the method — it's the purpose. Amber's bonds exist for their own sake. Giovanni's bonds exist to serve his project. But from inside the family, Mewtwo #2 can't see that difference. Can any child see that about their parent?
 
-Fuji's second chance is also devastating for our Amber. The man who hit Delia, murdered Stephen, burned down a house with children inside — he gets another daughter. And this time, without the alcohol and grief-madness (Giovanni sobered him up, gave him purpose), he might actually be good at it. New Ambertwo has the childhood, the family, the stable father that our Amber never had — and it's in Giovanni's house.
+Fuji's second chance is also devastating for our Amber. The man who hit Delia, murdered Stephen, burned down a house with children inside — he gets another daughter. And this time, without the alcohol and grief-madness, he might actually be good at it. New Ambertwo has the childhood, the family, the stable father that our Amber never had — and it's in Giovanni's house.
+
+Note the sequence, because it is the *second* time Giovanni does this. Fuji was sober for twelve years on Giovanni's original promise, relapsed across Ch 6-17, and after losing Amber went into a period of open, violent drunkenness that his own research staff had to work around. Giovanni sobered him up again the same way he did the first time: by offering him a daughter. See [Dr. Fuji — The Alcohol Timeline][fuji-alcohol].
+
+Which is the uglier reading of Giovanni's whole method. He doesn't rehabilitate Fuji — he *supplies* him. Purpose is the dependency; alcohol is only what floods in when the supply is cut. Having run the transaction twice, Giovanni now knows exactly which lever produces total compliance, and he is manufacturing the need he then relieves. The loyalty is real. So is the leash.
+
+[fuji-alcohol]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/characters/dr-fuji.md#the-alcohol-timeline
 
 ## Strategic Doctrine
 
