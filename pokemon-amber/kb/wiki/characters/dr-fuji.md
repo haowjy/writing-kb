@@ -108,41 +108,6 @@ Purpose is Fuji's real dependency, and alcohol floods in whenever the supply get
 
 [clone-family]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/characters/giovanni.md#the-clone-family
 
-### Arc 1 --- The Reunion Gifts (Ch 6-14)
-
-Inside the relapse phase, one bottle and two bunches of flowers. Fuji stages the
-same reunion twice; each attempt is flowers plus wine.
-
-| Where | Flowers | Drink |
-|---|---|---|
-| Ch 6, Celadon | --- | Declines wine or whiskey, takes water. Sees Domino's photos of Delia and Stephen. *"Actually, pour me some whiskey."* Half the glass, a cough, *"Been a while."* Spills it into the untouched water. |
-| Ch 10, train | --- | Amber smells it on his breath. |
-| Ch 11, Viridian | Stop one, announced: roses, both hands, paper and ribbon | Stop two, six blocks on, silent: a bottle of wine |
-| Ch 11, Delia's garden | Held out *"at the exact angle of a man arriving for dinner."* Ordered off the property | Still sealed |
-| Ch 11, exit | Leaves with the flowers **and** the bottle | |
-| Ch 13, dawn-afternoon | Photos, not flowers | *"most of the way down"* → one drink shown → *"empty for an hour"* → goes over in the leaves as he stands to kill Stephen |
-| Ch 13, after | Plans *"better clothes. Maybe some of the best wine. And dahlias."* | |
-| Ch 14, night | Dahlias. *"just like our first date."* White suit; Magmar takes the door off | None appears |
-
-**Roses first, dahlias second, on purpose.** Ch 13's *"Do things right again"* points
-back at Ch 11. He reads the failure as execution rather than premise, so the retry
-corrects the flower, the clothes, and the wine. Had he brought dahlias the first
-time he would have nothing left to fix. The dahlia is his own hybrid, bred in a
-university greenhouse and named after her --- bringing it is a claim, not a gesture.
-
-**Ch 13 and Ch 14 are the same day**, opposite POVs. Stephen makes pancakes in Ch
-14's morning and dies in Ch 13's late afternoon, which is why Delia spends Ch 14's
-dinner checking the clock.
-
-The Ch 11 → Ch 13 chapter break needs nothing written into it. The bottle's state
-reports the drinking; the absent roses and the dahlia shopping list report the
-flowers.
-
-Open: does Delia still grow dahlias? One clause in Ch 12 decides whether Ch 14's
-*"your favorite flowers, your namesake"* is obscene or delusional.
-
-Drafting rules for the thread: `story/ch13/notes.md`.
-
 ## Personality
 
 **What he projects:**

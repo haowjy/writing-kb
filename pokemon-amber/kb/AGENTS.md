@@ -25,7 +25,7 @@ intent, and unrevealed canon.
 | `organizations/`    | Entity    | Team Rocket, Ranger Union, Ace Trainers, etc.  |
 | `events/`           | Entity    | Specific story moments (Pallet attack, etc.)   |
 | `arcs/`             | Concept   | Arc-level pages, both canon and planned        |
-| `plot-threads/`     | Concept   | Ongoing storylines spanning multiple chapters  |
+| `plot-threads/`     | Concept   | Storylines spanning multiple **arcs** --- see `wiki/plot-threads/AGENTS.md` |
 | `lore/`             | Concept   | Mechanics, systems, worldbuilding              |
 | `themes/`           | Concept   | Abstract author concerns                       |
 | `summaries/`        | Summary   | Per-chapter and per-research-source summaries  |
