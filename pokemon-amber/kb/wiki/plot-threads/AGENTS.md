@@ -1,25 +1,13 @@
 # plot-threads/AGENTS.md
 
-Saga machinery. A page here is a storyline whose resolution changes the shape of
-the saga, and it spans **arcs**, not chapters.
+Storylines that span arcs. Cut one and several arcs lose their reason to happen.
 
-The bar is not "recurs." Almost everything recurs. The bar is: cut this thread and
-multiple arcs lose their reason to happen.
+## The Test
 
-## Qualifies
+Name the arcs the thread touches. If you can only name chapters, it belongs in
+`story/chX/notes.md`.
 
-- Spans two or more arcs, or is explicitly the spine (`mewtwo-thread`).
-- Has an unresolved question the reader carries across arcs.
-- Its payoff reorganizes what came before.
-
-Current members that clear this: `mewtwo-thread`, `rainbow-rocket-endgame`,
-`giovanni-fuji-jail`, `team-rocket-surveillance`, `dimensional-displacement-bridge`,
-`charcadet-to-ceruledge-throughline`.
-
-## Does Not Qualify
-
-A beat, a prop, a motif, a running joke, one character's behavior inside one arc,
-or a decision record. These have homes:
+## Where Everything Else Goes
 
 | Thing | Home |
 |---|---|
@@ -30,26 +18,20 @@ or a decision record. These have homes:
 | Settled decision with alternatives considered | `wiki/log.md`, or the page it affects |
 | Canon facts in conflict | `wiki/contradictions/` |
 
-Test before creating a page here: name the arcs it touches. If you can only name
-chapters, it goes in `story/chX/notes.md`.
+## Pages That Would Not Pass
 
-## Known Drift
+These predate this file. Leave them; add no more like them.
 
-These predate this file and would not pass the bar today:
-
-- `saffron-gym-rivalry` --- Arc 1 only. Belongs in `arcs/` unless the proxy war
-  runs past the U19 league.
-- `ursaring-rescue-thread` --- Ch 20-21 promise. Arc-local until the reunion is
-  actually placed in a later arc.
+- `saffron-gym-rivalry` --- Arc 1 only. Moves to `arcs/` unless the proxy war
+  outlives the U19 league.
+- `ursaring-rescue-thread` --- a Ch 20-21 promise. Arc-local until the reunion is
+  placed in a later arc.
 - `forged-documents` --- background legal texture, explicitly not a catalyst.
-- `oak-role-options` --- a decision record (no time loop, 2025-10-25), not a
-  storyline.
+- `oak-role-options` --- a decision record (no time loop, 2025-10-25).
 
-Leave them until someone is reorganizing on purpose. Do not add more.
+## Nothing Here Covers Ch 1-18
 
-## Also Note
-
-Nothing here covers Ch 1-18. Every page is Ch 20+ or Arc 2+. Threads running
-through published chapters --- Fuji's relapse, Ditto's escalating disobedience,
-Amber's unanswered name --- live in character pages, event pages, and chapter
-notes. That is correct. Do not "fix" it by promoting them.
+Every page is Ch 20+ or Arc 2+. The threads running through published chapters ---
+Fuji's relapse, Ditto's escalating disobedience, Amber's unanswered name --- live in
+character pages, event pages, and chapter notes. That is where they belong. Do not
+promote them.
