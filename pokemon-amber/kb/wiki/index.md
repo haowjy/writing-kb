@@ -186,14 +186,6 @@ Pages marked ✦ are **canon** (settled worldbuilding — don't contradict). Eve
 | [timeline](timeline.md) | Chronological map of in-story events |
 | [vocab](vocab.md) | Project vocabulary |
 
-## Continuity
-
-Object and motif state across chapters --- what a recurring prop looks like in each scene, and what must not desync.
-
-| Page | Summary |
-|---|---|
-| [reunion-gifts](continuity/reunion-gifts.md) | Fuji's flowers and wine, Ch 6–14; roses → dahlias |
-
 ## Backlogs
 
 | Page | Summary |
