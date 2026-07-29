@@ -1,6 +1,6 @@
-# Fuji's Reunion Gifts
+# Reunion Gifts --- Flowers and Alcohol
 
-**Continuity spine for the flowers and the alcohol, Ch 6 through Ch 14**
+**Prop state chapter by chapter, Ch 6 through Ch 14.** For why Fuji drinks rather than where the bottle is, see [Dr. Fuji --- The Alcohol Timeline](../characters/dr-fuji.md#the-alcohol-timeline).
 
 Fuji stages the same reunion twice. Each attempt is flowers plus wine. The first
 fails and he drinks the gift; the second ends with him blowing Delia's door in.
