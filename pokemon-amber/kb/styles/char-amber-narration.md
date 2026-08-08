@@ -22,11 +22,11 @@ Three mechanisms, often in the same chapter:
 
 ## Pop-Culture / Isekai References
 
-References are sparse, brief, and grounded in what Amber would naturally think at that moment: "Twenty years of anime episodes where he simply didn't exist, and here he was washing dishes." (Ch. 11)
+Use references sparingly when they arise naturally from Amber's immediate thought: "Twenty years of anime episodes where he simply didn't exist, and here he was washing dishes." (Ch. 11)
 
 Amber's reference pool is "college-age internet-literate gamer" — Pokemon games, anime, internet culture. No literary allusions, no high-culture references.
 
-Decorative gamer metaphors and Let's Play-style narration should be rare. Keep plot-functional foreknowledge and meaningful game/reality corrections. Pokemon is Amber's lived reality, not something she continually compares with a screen. See `[gamer-voice-rule]`.
+Game knowledge belongs when it changes Amber's decision or reveals a meaningful mismatch between what she expects and what she encounters.
 
 ---
 
@@ -43,5 +43,3 @@ Decorative gamer metaphors and Let's Play-style narration should be rare. Keep p
 ## Distinctive Patterns
 
 - **Italics**: move names (*Overheat*), emphasis (*there*), emotionally charged thought (*I touched a Ditto.*)
-
-[gamer-voice-rule]: ../issues/dual-lens-shelf-life.md
