@@ -2,7 +2,7 @@
 
 **Status:** drafting
 
-This saga thread follows Rocket from early surveillance of Amber through Giovanni's failed constitutional route, forceful Kanto secession, and later overreach. It is a story-level direction, not a completed sequence of arc beats.
+This saga thread follows Rocket from early surveillance of Amber through Giovanni's Kanto-independence project and later overreach. It is a story-level direction, not a completed sequence of arc beats.
 
 ## Surveillance and Escalation
 
@@ -16,27 +16,25 @@ Possible escalation:
 4. **Containment:** discrediting, framing, or isolating Amber through bureaucratic and institutional channels.
 5. **Background infection:** regional anomalies that only later reveal Rocket's wider strategy.
 
-## Peaceful Secession Attempt and Failure
+## Championship Challenge: Outcome Deliberately Open
 
 Giovanni's opening political aim is peaceful Kanto secession, not Kanto hegemony over unified Indigo. Years of Viridian modernization --- first-partner programs, schools, roads and underground routes, cheap Pokeballs, public safety, trade, and emergency capacity --- create real material support while building registration, patronage, logistics, surveillance, and strategic capacity.
 
 Rocket crime, fronts, donors, contractors, and corrupt procurement seed this work; legitimate taxes, trade, and manufacturing later sustain much of it. Support comes from separatists, peaceful independence supporters who do not know Rocket's full role, modernization allies, anti-clan or anti-corruption reformers, careerists, honest beneficiaries, and unaware bureaucrats. Some Indigo loyalists remain.
 
-Giovanni challenges Lance for unified Indigo Champion/Protector status because he expects the office to give peaceful secession constitutional and military legitimacy. He fields a legitimate conventional anti-Dragon team, with the roster open. He neither reveals nor uses Mewtwo #2.
+Giovanni seeks the unified Indigo Champion/Protector title because he believes its martial and popular legitimacy could support Kanto independence. The office's exact legal leverage remains intentionally undecided. Existing Ch. 18 planning foreshadows Oak and Lance researching Mega Evolution; whether Lance uses it in this challenge is open.
 
-Lance's classified, government-sponsored Mega Evolution defeats him. The technology can be legal, while its secrecy allows Kanto propaganda to claim the peaceful path was rigged or closed. Existing Ch. 18 planning foreshadows Oak and Lance researching Mega Evolution and remains unchanged.
+These are mutually exclusive planning possibilities, not canon:
 
-## Forceful Secession
+1. Lance defeats Giovanni, after which Giovanni uses the failed institutional route to justify escalation.
+2. Giovanni defeats Lance and gains legitimate institutional authority before abusing or centralizing it.
+3. Giovanni fails to become unified Indigo Champion but later becomes or claims a separate Kanto Champion office after secession.
 
-Giovanni had a forceful contingency. After losing, he seizes Indigo assets and facilities in Kanto, neutralizes loyalist officials, withholds taxes and resources, establishes separate administration and licensing, controls routes, borders, and communications, and mobilizes Gym allies with Rocket infrastructure. Lance remains unified Indigo Champion/Protector.
+Do not settle the exact challenge roster, Mewtwo #2's participation, Lance's Mega Evolution use, the result, the title's legal leverage, a later Kanto office, or the secession or war trigger here.
 
-The exact first-shot crisis --- garrison/property/resupply, preemptive action against mobilization, or local unauthorized escalation --- remains open. Kanto may later create its own Champion/Protector office; the arrangement is not settled.
+## The Clone Partner
 
-## The Clone Partner and Hidden Military Hand
-
-Mewtwo #2 is a genuine loyal partner and true believer raised in Giovanni's clone family, not a mind-controlled weapon. Giovanni expected the legal team to win, and keeps Mewtwo #2 out of the public challenge to avoid exposing Fuji, illegal research, and registration issues. The clone first appears in the forceful secession as a deterrent or war asset; deterrence versus immediate battlefield deployment remains open.
-
-Other assets include forced evolution, accelerated training, rare powerful Pokemon for elite units, standardized command systems, and Rocket Pokeballs, healing, restraint, and communications. Forced evolution has serious limits and costs, but their mechanism remains open.
+Mewtwo #2 is a genuine loyal partner and true believer raised in Giovanni's clone family, not a mind-controlled weapon. Its participation in the challenge, first public deployment, and any military role are open. The detailed mechanics and costs of Rocket's other strategic capabilities remain open.
 
 ## Later Endgame Direction
 
@@ -44,11 +42,9 @@ Giovanni's reforms and real supporters make later exposure of Rocket hard to res
 
 ## Open Questions
 
-- Timing of the challenge and second secession in Amber's journey.
-- Exact legal team roster.
-- Exact first-shot trigger and later Kanto Champion/Protector arrangement.
+- Timing of the challenge and any later Kanto conflict in Amber's journey.
 - Exact Gym-Leader coalition and retained loyalists.
-- Mewtwo #2's first public use and forced-evolution limits/costs.
+- Mewtwo #2's clone-household composition and Fuji's later participation.
 - When and how Amber learns she is tracked, and which incidents are genuine, staged, or merely suspicious.
 
 ## Cross-References

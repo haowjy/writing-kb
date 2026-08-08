@@ -400,3 +400,7 @@ This entry supersedes the active Giovanni/Rocket direction recorded immediately 
 - Recast Rocket's origin as surviving Kanto-separatist wartime infrastructure. Madame Boss is a Silvertail merchant-clan financier who professionalizes an autonomous profit faction, not Giovanni's unquestioned superior or a noble by strategic marriage.
 - Removed the invented Viridian House and inherited-Gym model. Giovanni's father was the previous Viridian Gym Leader, killed in the first secession war; Giovanni wins the Gym through sanctioned challenge and local support.
 - Recorded Mewtwo #2 as a genuine loyal partner and hidden war asset, not a controlled weapon. Its first use, the second-war trigger, Council mechanics, exact teams, and forced-evolution limits remain open.
+
+## 2026-08-08 — Reopened Giovanni's Championship outcome
+
+This entry supersedes the active Giovanni/Rocket outcome recorded immediately above. Giovanni's wartime family history, Rocket's surviving-separatist-infrastructure origin, Viridian modernization, and independence motive remain settled. The future challenge now has no definite outcome; its alternatives are consolidated in `planning/saga-threads/giovanni-team-rocket.md`. Exact constitutional mechanics, roster, Mega Evolution use, Mewtwo #2's role and first public deployment, and any secession or war trigger are intentionally undecided.

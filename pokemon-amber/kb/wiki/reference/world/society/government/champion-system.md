@@ -20,13 +20,11 @@ Ancient Indigo's hereditary Council of Houses left commoners and noncombatants w
 
 Old noble families and Kanto industrial elites retain practical influence through wealth, patronage, Gyms, schools, and candidate funding. Exact Council franchise, constitution, emergency powers, and checks remain open. The settled principle is that battle authority cannot by itself make policy.
 
-## Champion Challenge and the Second Secession
+## Champion Challenge: Open Planning Boundary
 
 The established route is a lawful Elite Four plus Champion gauntlet. Administration can decide certification, access, scheduling, security, and regulatory questions; it cannot simply falsify matches or compel a Champion to lose.
 
-Giovanni challenges Lance for Champion/Protector because the title could legitimize orderly peaceful Kanto secession. Giovanni uses a conventional legal team and keeps Mewtwo #2 secret. Lance uses classified, government-sponsored Mega Evolution and wins. The Mega can be legal, while its secrecy leaves the fairness contestable.
-
-Giovanni then forcefully secedes Kanto rather than becoming unified Champion/Protector. Lance remains in the office. Whether Kanto later creates a separate Champion/Protector office is open.
+Giovanni believes the title's martial and popular legitimacy could help Kanto independence. Its exact constitutional power, referendum or escalation trigger, military authority, and effect on a later conflict are intentionally open. The future challenge's outcome and all alternatives belong only in [Giovanni and Team Rocket](../../../../planning/saga-threads/giovanni-team-rocket.md).
 
 ## Historical Pressure
 

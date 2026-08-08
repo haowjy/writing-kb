@@ -23,7 +23,7 @@ Chronological, reader-focused summary of events so far. Citations link to `story
 
 ### Current Day (Story Present)
 - **10-20 years after the war:** the Indigo League remains the joint Kanto--Johto top-level institution.
-- Lance is unified Indigo Champion/Protector; Oak is a respected researcher with influence but no present Champion office. Giovanni later challenges Lance, loses to classified Mega Evolution, and forcefully secedes Kanto; exact dating and trigger remain planning.
+- Lance is unified Indigo Champion/Protector; Oak is a respected researcher with influence but no present Champion office. Giovanni's future challenge to Lance and any later Kanto conflict remain open planning, not continuity.
 - Kanto nationalist networks remember Oak as having surrendered Kanto freedom; Johto treats his secession role as illegal. Team Rocket uses the first narrative as a political resource.
 - Giovanni controls Viridian Gym and the strongest Team Rocket faction.
 

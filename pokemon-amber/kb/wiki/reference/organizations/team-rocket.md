@@ -31,13 +31,11 @@ Publicly, Rocket appears in gambling, loans, protection, smuggling, and the unde
 
 Rocket-linked crime, fronts, contractors, donors, and corrupt procurement seed Giovanni's real Viridian modernization. The projects later draw legitimate taxes, trade, and manufacturing revenue; do not treat every road, school, or public employee as indefinitely Rocket-funded.
 
-Giovanni first seeks peaceful Kanto secession, using a lawful challenge for the unified Champion/Protector office to legitimize it. After Lance defeats him with classified Mega Evolution, he uses Rocket as covert general staff: logistics, intelligence, secret assets, communications, Pokeballs, healing, restraint, and standardized command. Gym allies supply local trainer forces, civic legitimacy, and infrastructure.
-
-Mewtwo #2 is held out of the public Championship match and first revealed during the forceful secession as a strategic deterrent or war asset. It is a genuine loyal partner, not a mind-controlled tool. Forced evolution, accelerated training, and elite rare-Pokemon units are additional assets; their limits and costs remain open.
+Giovanni seeks Kanto independence through an institutional route while preserving the ability to act outside it. The future Championship challenge, any use of Rocket in a secession or war, Mewtwo #2's role, and the eventual political outcome are open; see [Giovanni and Team Rocket](../../planning/saga-threads/giovanni-team-rocket.md).
 
 ## Limits and Open Questions
 
-Rocket has finite funds, public-legitimacy constraints, factional conflict, and opponents across Ranger, League, regional, and international institutions. The exact naming moment, the father and Madame Boss's relationship, and the detail of Mewtwo #2's first deployment remain open.
+Rocket has finite funds, public-legitimacy constraints, factional conflict, and opponents across Ranger, League, regional, and international institutions. The exact naming moment and the father and Madame Boss's relationship remain open.
 
 ## Cross-References
 

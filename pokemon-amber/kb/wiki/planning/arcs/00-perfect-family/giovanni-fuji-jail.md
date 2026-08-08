@@ -10,7 +10,7 @@
 ### Giovanni's Background
 - **Viridian legacy:** Giovanni's father was the previous Viridian Gym Leader and died in the first secession war; Giovanni later takes the Gym by sanctioned challenge and local support, not inheritance.
 - **Kanto restorationist:** Inherits the nationalist memory that Oak proved Kanto could lead, then surrendered Kanto freedom to Johto clan power. This is a political interpretation, not neutral history.
-- **Separatist strategist:** Initially seeks peaceful Kanto independence through legitimate institutions; force becomes his contingency after that path fails.
+- **Separatist strategist:** Prefers peaceful Kanto independence through legitimate institutions, but prepares coercive alternatives because he trusts his own control more than other institutions.
 - **True believer:** Not just a criminal opportunist; he genuinely believes Kanto needs independence and increasingly mistakes his own control for its survival.
 
 ### Team Rocket: Madame Boss's Criminal Empire
@@ -67,7 +67,7 @@
 **Giovanni's True Goal:**
 - **Kanto independence through peaceful constitutional legitimacy if possible, with force as contingency**
 - Mewtwo #2 must be able to choose, reason, and fight as a partner; Chapter 6's "Then it can understand reason" is the seed
-- It stays out of Giovanni's lawful challenge; after Lance defeats him, its first appearance is as deterrent or war asset during forceful secession
+- Its participation in Giovanni's lawful challenge and first public deployment remain open; see [Giovanni and Team Rocket](../../saga-threads/giovanni-team-rocket.md) for the consolidated Championship boundary
 - Not merely a profit asset: a political partnership shaped by family, modernization, and conquest
 
 **Why This Scene Matters:**
