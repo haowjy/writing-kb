@@ -89,7 +89,7 @@ Carry limits scale with demonstrated competency. The license is the floor; badge
 - Gyms ARE regional authority (decentralized government)
 - Gym leaders best positioned to evaluate real competency
 - Personal judgment more reliable than standardized test
-- Prevents mass-catching without proven skill (Mt. Silver lesson)
+- Limits unsafe accumulation before demonstrated competency
 - Forces engagement with gym system
 
 **Practical Impact:**

@@ -198,12 +198,11 @@ Standard pricing as listed above. Silph Co. headquarters in Saffron ensures stea
 - Population of trainers exploded
 - Gyms overwhelmed by new trainers (led to area certification system)
 
-**Industrial Warfare Era (~30-20 years ago):**
-- Cheap mass-produced Pokeballs enabled military applications
-- Kanto-Johto War: Both sides used mass-catching strategies
-- **Mt. Silver incident**: Wild Pokemon retaliated against ecosystem disruption from mass-catching
-- Revealed danger of treating Pokemon as ammunition (poorly-bonded Pokemon failed in battle)
-- Led to stricter regulations on catching (protected zones, carrying limits)
+**Secession-War Era (~30-20 years ago):**
+- Cheap mass-produced Pokeballs made large-scale mobilization and extraction possible
+- The Kanto secession war exposed the ecological and political danger of treating Pokemon as mass assets
+- Conservation and capture regulation gained urgency after the war
+- Exact events, including Mt. Silver's role, remain open
 
 ### Post-War Pokeball Shortage (~20-10 years ago)
 

@@ -1,106 +1,55 @@
-# Kanto–Johto Unification and the Indigo Corridor (Amber Continuity)
+# Kanto Secession War and Indigo Reunification
 
-## Overview
-Kanto and Johto developed as distinct regions separated by the Indigo mountain range. Dangerous routes and limited communications kept cultures and governments apart. As transit slowly improved, both governments sought to control the strategic Indigo Corridor, culminating in a bloody border conflict and eventual unification treaty.
+**Status:** drafting
 
-## Pre‑War Context
-- Geography: The Indigo Plateau and passes formed a natural barrier; only expert trainers could reliably cross.
-- Fragmented States: City‑state governance dominated; regional authorities were weak, alliances fluid.
-- Trade Pressure: Safer crossings and growing demand for goods/League events increased pressure to formalize control.
+Kanto and Johto were already regions of the unified **Indigo League** when Kanto's secession movement turned into civil war. The conflict was not a war that created the League or joined two foreign states; it was a failed attempt to break Kanto out of an existing shared institution.
 
-## The Indigo Corridor Conflict (aka Unification War)
-- Causes: Competing sovereignty claims over the corridor; customs control; League jurisdiction. Likely triggered by assassination or border incident that escalated beyond control.
-- Character: Skirmish‑heavy initially, escalated to industrial warfare; mass-produced Pokeballs enabled army-scale Pokemon deployment.
-- Escalation: Both sides began mass-catching wild Pokemon for military use (quantity over traditional bonding), disturbing ecosystems and territorial Pokemon populations.
-- Civil Impact: Evacuations near passes; disrupted trade; surge in orphan care and Pokemon shelters. Hundreds to thousands of casualties across both regions.
+## Before the War
 
-## The Mt. Silver Incident
+The unified Indigo League joined two unequal but interdependent regional bases.
 
-### What Happened
-- The war reached Mt. Silver approaches as Kanto forces pushed toward Johto heartland
-- Both sides engaged in mass-catching of wild Pokemon from surrounding territories to reinforce armies
-- This disturbed: Tyranitar breeding colonies, legendary bird nesting sites, Ursaring territories, Steelix caves, and territorial populations of Nidoking/Nidoqueen, Rhydon, and other powerful species
-- **Coordinated counter-attack**: Wild Pokemon defended their territory against both armies simultaneously
-- Legendary birds (Articuno, Zapdos, Moltres) destroyed supply lines; Tyranitar brought down mountainsides; territorial Pokemon overwhelmed poorly-bonded, mass-caught Pokemon who refused orders or broke free
-- Result: Hundreds of casualties on both sides within hours; complete rout of both armies
+| Johto | Kanto |
+|---|---|
+| Older League institutions, historical clans, hereditary Pokemon lineages, and accumulated ecological and breeding knowledge. | Stronger modern industrial, scientific, urban, communications, manufacturing, and technological base. |
+| Traditional power rested heavily in clan networks and long-standing institutions. | Modern power rested heavily in cities, firms, technical systems, and growing administrative capacity. |
 
-### The Immediate Aftermath
-- Professor Oak (leading Kanto forces) witnessed the catastrophe firsthand
-- Both armies retreated in disarray
-- Immediate ceasefire negotiations within days
-- Oak chose surrender terms over regrouping, believing continued escalation would lead to worse disasters
-- **Kanto was winning the human war** - Oak's decision was pragmatic survival, not military necessity
+Kanto separatists argued that Johto's clans lived off Kanto-built wealth and technology. This was nationalist rhetoric, not neutral fact: Johto's institutions supplied knowledge, breeding practice, ecological stewardship, and durable League capacity that Kanto also depended on. The disagreement was therefore about status, power, and the distribution of authority inside a shared state, not simply about who contributed more.
 
-### The Cover-Up
-- Official story: "Heavy casualties in Mt. Silver campaign led to ceasefire"
-- **What's hidden**: That wild Pokemon routed both armies; that mass-caught Pokemon failed; exact casualty numbers; involvement of legendary birds; how close both sides came to total collapse
-- **Why both sides agreed**: Mutual embarrassment (beaten by nature), political complications (Kanto hardliners wanted to continue; Johto couldn't admit how badly they were losing before intervention), industrial implications (Silph Co. mass production caused ecosystem disruption)
-- Veterans encouraged to "move forward" rather than discuss details; official records vague or sealed
-- **Culture of silence**: Most survivors don't talk about it due to trauma, shame, orders, or because civilians won't believe them
+## Oak and the Secession
 
-### Kanto Hardliner Resentment
-- Faction of Kanto elites (Silph Co. executives, Saffron merchants, Vermilion industrialists, military commanders) believe Oak "gave away victory"
-- Their argument: "It was one bad battle - could have regrouped, avoided Mt. Silver area, and still won the human war"
-- See Oak as corrupted by Johto sympathies (his youth travels) and weak for choosing peace over total victory
-- Secretly fund resistance movements and criminal organizations to destabilize unified League
-- **Goal**: Eventually restore Kanto dominance and finish what they see as incomplete conquest
+Samuel Oak, a Kanto trainer, briefly became unified Indigo Champion. His victory became a potent symbol of Kanto capability and a mandate that separatist elites, institutions, and public opinion pressed him to fulfill.
 
-## Treaty and Unification
-- Terms: Joint League administration of the Indigo complex; shared customs; phased demilitarization of passes; Johto retained significant autonomy (Oak's concession to end war quickly)
-- Outcome: Kanto and Johto unify under **decentralized confederation** - not federal government, but coordinated gym council alliance (Indigo League); regions retain local autonomy
-- Leadership compromise: Oak stepped down as Kanto Champion to enable Lance (Johto, Blackthorn clan) as first unified Champion - symbolic of equal standing
-- Aftermath: Infrastructure programs (roads, relay towers); gradual normalization of travel; **creation of Ranger Union and poaching laws** to prevent another ecosystem disaster
+Oak did not begin as a committed secessionist, but he bears real responsibility for what followed. Under that pressure, he authorized and participated in the Kanto secession effort, believing force could produce a short conflict followed by negotiated autonomy or independence. He quickly recognized the scale of bloodshed and began seeking negotiation. Negotiation and demobilization did not necessarily stop every act of violence at once.
 
-## Timeline Notes (Tech/Comms)
-- 1980s analogue (Arc era): Minimal cross‑region TV; limited trunk lines; ad‑hoc airfields; patchy enforcement.
-- 1990s analogue (Journey era): Satellite relays, better roads, standardized IDs, stronger inter‑region bureaucracy.
+Oak eventually abandoned the secession effort, relinquished the Championship, and supported Lance and Blackthorn-associated Johto authority as the reunification successor. The legal procedure of that succession is not yet fixed.
 
-## Civil Aftereffects (Social Services)
-- Orphan care systems strained by displacement and casualties; long waitlists and uneven regional funding persisted for years after the treaty.
-- Identity and registry fragmentation led to inconsistent records; forged or erroneous documents were not uncommon and complicated guardianship disputes.
-- The League expanded limited authority to intervene in trainer custody when guardianship was unclear, especially where Pokemon welfare or public safety was implicated.
-- These pressures shaped modern expectations around licensing, custody linkage, and Center registration for minors with Pokemon.
+## Contested Memory
 
-## Post-War Ecosystem Protection
+The war remains a live political wound because its meaning is contested.
 
-### Ranger Union Creation
-- Direct response to Mt. Silver - prevent another mass-catch disaster
-- Monitor wild Pokemon populations and legendary sites
-- Enforce new poaching laws (catching in protected zones now illegal)
-- Early warning system for ecosystem disruption
-- Different authority from gyms: wilderness protection vs human governance
+- **Kanto nationalist memory:** Oak proved Kanto could lead, began the independence struggle, then lost his nerve, surrendered Kanto freedom, and returned the Championship to Johto clan power.
+- **Johto memory:** Oak used unified authority to participate in an illegal Kanto secession.
+- **Moderate and historical view:** Oak made a grave, pressured choice, recognized it, and prevented a worse catastrophe.
 
-### Poaching Laws
-- Concept of "illegal catching" is **post-war invention**
-- Pre-war: wild Pokemon were fair game anywhere
-- Post-Mt. Silver: Protected breeding grounds, migration routes, legendary territories
-- Conservation framed as survival (prevent legendary retaliation) not environmentalism
-- Team Rocket's poaching operations violate these new laws
+These are interpretations of shared history, not interchangeable facts. Giovanni and Team Rocket draw heavily on the first; the continuing legitimacy of the Indigo League depends on the second and third remaining publicly intelligible.
 
-### Mt. Silver Today
-- Restricted access (Ranger-enforced)
-- Protected legendary bird nesting sites and Tyranitar colonies
-- Living reminder of the war's true end
-- Political symbol: Johto sees legendary protection; Kanto hardliners see territory they should have conquered
+## Lasting Settlement
 
-> [!FLAG] **Argaea connection open** --- The cause and culpability of Argaea's
-> breach are unresolved. Do not treat the Mt. Silver Incident as the primary
-> crack without a later author decision.
+The outcome was reunification under the existing Indigo League, not a new Kanto--Johto union treaty. Kanto regional administration continued to handle civil policy such as roads, education, commerce, health, and local funding; Johto retained its own regional and clan institutions. The Indigo League remained the joint top-level institution for Champion and Elite Four authority, defense, Gym and trainer regulation, and major interregional or international functions.
 
-## Relevance to Story
-- Explains Oak's authority (personal respect from war leadership, not institutional) and his enemies (Kanto hardliners who resent his surrender)
-- Background to orphan crisis (Chapter 17) - war casualties still straining social services 10-20 years later
-- Team Rocket's nationalist faction funded by Kanto elites wanting to "finish" the war
-- Giovanni's Mewtwo obsession: creating weapon to dominate legendaries (revenge for Mt. Silver)
-- Lance as Champion represents compromise Oak negotiated - resented by hardliners
-- Lax security and inconsistent ID enforcement result of decentralized government structure
-- Explains patchwork communications and the rise of airstrips with mixed transport
-- Post‑war prosperity mixed with ongoing tensions; tourism booms at coastal hubs like Cinnabar
-- Sets stakes for League authority and regional conflict in later arcs
-- **The cover-up means most people don't know the real story** - creates mystery and political tension
-- See [the Argaea saga thread](../../../planning/saga-threads/argaea.md) --- the breach cause
-  remains open
+The war also accelerated concern about the ecological cost of treating Pokemon as mass assets. Conservation, poaching enforcement, and wilderness coordination gained political urgency, but the exact event sequence, participants, and relationship of Mt. Silver to the war remain open.
 
-## Citations / Sources
-- Story arc context: [Arc - The Perfect Family](../../../planning/arcs/00-perfect-family/overview.md)
-- World systems cross‑ref: [Transportation](../technology/transportation.md), [Technology Overview](../technology/index.md)
+## Open Questions
+
+- The exact duration of the war.
+- The legal and institutional procedure by which Oak relinquished the Championship and Lance succeeded him.
+- The precise role, timing, and public memory of Mt. Silver.
+- Which particular ecological and regulatory reforms followed directly from the war.
+
+## Cross-References
+
+- [Champion & Elite Four Government System](../society/government/champion-system.md)
+- [Professor Oak](../../characters/humans/professor-oak.md)
+- [Giovanni](../../characters/humans/giovanni.md)
+- [Team Rocket](../../organizations/team-rocket.md)
+- [Clan & Lineage System](../society/clan-system.md)

@@ -6,7 +6,7 @@ The trainer journey functions as the cultural equivalent of college — a multi-
 
 **Historically:** Only wealthy families could afford to send a child out for years with Pokemon, gear, and living expenses. The journey was a mark of elite status, not a common path.
 
-**Post-war democratization:** Following the Great Unification War, government-backed loan programs made journey funding accessible to working and middle-class families as part of reconstruction and nation-building. The state had an interest in producing capable, bonded trainers — they form the backbone of regional defense, disaster response, and infrastructure maintenance.
+**Post-war democratization:** In the post-secession-war period, Kanto regional programs and League-linked funding made journey support more accessible to working and middle-class families as part of reconstruction and civic development. Public institutions had an interest in producing capable, bonded trainers — they form the backbone of regional defense, disaster response, and infrastructure maintenance.
 
 **The journey prep industry:** An entire commercial sector has emerged around journey preparation — academies, tutors, specialist breeders, gear outfitters, and coaching services. Families invest heavily in their child's journey the way they once invested in university prep.
 

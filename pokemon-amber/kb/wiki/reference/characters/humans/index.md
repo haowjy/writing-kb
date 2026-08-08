@@ -13,6 +13,7 @@
 | [Giovanni](giovanni.md) | Viridian Gym Leader and Team Rocket power center |
 | [Kaede](kaede.md) | Factory Ward girl behind the Oddish theft |
 | [Kyle Kong](kyle-kong.md) | Fighting Dojo heir and Amber's rival/ally |
+| [Lance](lance.md) | Unified Indigo Champion and later Giovanni's lawful opponent |
 | [Mary](mary.md) | Celadon Gym trainer |
 | [Prince Alexander](prince-alexander.md) | Argaean prince tied to both Argaea visits |
 | [Professor Oak](professor-oak.md) | Amber's mentor and benefactor |

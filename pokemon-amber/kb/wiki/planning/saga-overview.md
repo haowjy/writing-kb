@@ -245,7 +245,7 @@ Mega Evolution fully harnessed. Peak roster assembling. The story shifts from "t
 
 - Political dimension: institutions, League, government — does she work within them or outside?
 - Mega-era power politics: trainers and their partners are now strategic actors, not just competitors
-- Team Rocket / Rainbow Rocket — Giovanni, Kanto-first conquest, puppet legitimacy, coalition war, the full dismantling
+- Team Rocket / Rainbow Rocket — Giovanni, lawful Indigo ascent, Kanto-led institutional capture, coalition war, the full dismantling
 - Other evil teams and regional crises
 - Lance as peer — fight alongside him, not under him
 - Age 18–20+: peak physical and Pokemon bond capacity
@@ -256,9 +256,9 @@ Late-saga capture pattern:
 - Amber may help identify the pattern, but not alone. Silver, Looker, Lance, Zinnia, and others bring different pieces.
 
 Late-saga Giovanni direction:
-- His first overt conquest move turns inward on **Kanto**, the place where his war trauma and ideology began.
-- He captures legitimacy as well as territory: one of his top commanders or allied proxies becomes a **puppet Champion** through force-backed institutional capture.
-- After Kanto, he tries to repeat the model globally through compromised governments, seized League infrastructure, port and wormhole control, and monopoly over Mega / Ultra Beast / legendary-class force.
+- His defining first capture is the **unified Indigo Championship**: Giovanni lawfully defeats Lance through the Elite Four and Champion gauntlet, with Mewtwo #2 as his decisive partner.
+- Years of real Viridian-centered modernization mean he reaches the title with public support, institutional networks, and a credible claim that he has been doing the Champion's job already.
+- He then tries to turn Indigo into a Kanto-led order and later extend that model through compromised governments, League infrastructure, ports, and strategic-force systems. The exact pace and escalation remain open.
 - Amber's counter-model is coalition through earned trust rather than centralized control, but she is one major actor among several rather than the sole rightful leader of every front.
 
 **Mewtwo #1 reunion / Genesect crisis:** Still future and not yet pinned to a specific slot in the macro order. The durable part is the thread, not the exact arc placement. Material from the early Viridian Mew-adjacent ore thread resurfaces as Mewtwonite Y and helps Amber support Mewtwo #1 during the crisis.

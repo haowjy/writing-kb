@@ -9,9 +9,9 @@
 
 ### Giovanni's Background
 - **Family Legacy:** Viridian Gym has been controlled by Giovanni's family for generations (Ground-type specialization)
-- **War Veteran:** Fought in Kanto-Johto War, witnessed Mt. Silver incident (wild Pokemon routing both armies)
-- **Kanto Nationalist:** Believes Oak "gave away victory" when he surrendered; wants to finish what war started
-- **True Believer:** Not just criminal opportunist - genuinely wants to restore Kanto supremacy over Johto
+- **Kanto restorationist:** Inherits the nationalist memory that Oak proved Kanto could lead, then surrendered Kanto freedom to Johto clan power. This is a political interpretation, not neutral history.
+- **Institutional strategist:** Learns from the failed secession effort that Kanto should capture the unified Indigo League, not leave it.
+- **True believer:** Not just a criminal opportunist; he genuinely wants a Kanto-led order.
 
 ### Team Rocket: Madame Boss's Criminal Empire
 
@@ -47,36 +47,35 @@
 - **Giovanni's father unknown** (Madame Boss won't say - strategic connection)
 - Raised Giovanni with her twisted philosophy: "Bonds are fake, Pokemon are tools"
 - But Giovanni also exposed to father's side (Viridian family had normal Pokemon relationships)
-- Result: Giovanni can bond functionally but not emotionally
+- Result: Giovanni begins with a cold, instrumental inheritance but learns to use genuine belonging and loyalty for political ends
 - Inherited Viridian Gym (father) AND Team Rocket criminal empire (mother)
 
 **Giovanni (New Guard):**
 - Transformed Team Rocket into **nationalist movement** post-war
-- Uses mother's criminal infrastructure for political agenda
-- Funded by Kanto hardliner elite (Silph Co. executives, Saffron merchants, Vermilion industrialists)
-- **Vision:** Team Rocket as shadow military to destabilize unified League and restore Kanto dominance
-- Unlike mother, doesn't HATE Pokemon - just treats them pragmatically/coldly
+- Uses his mother's criminal infrastructure to seed a political agenda
+- Draws support from hardline donors, nationalist networks, careerists, and some people who simply see working public programs
+- **Vision:** build a Kanto-led order by capturing the unified League rather than destabilizing it from outside
+- Unlike his mother, he understands that genuine loyalty can be cultivated and politically directed
 
 **Internal Tension:**
 - Old guard (loyal to Madame Boss): Profit-focused, apolitical, auction rare Pokemon for money
-- New guard (loyal to Giovanni): Ideological, militaristic, revenge-driven against legendaries
-- Mother wants Mewtwo to sell/control markets; Giovanni wants it as superweapon
+- New guard (loyal to Giovanni): ideological, centralizing, and committed to Kanto restoration
+- Mother treats Mewtwo as a profit or control asset; Giovanni intends to raise a decisive political partner
 - Giovanni consolidating power but hasn't fully sidelined his mother
 
 ### Mewtwo Project Motivations
 
 **Giovanni's True Goal:**
-- **Revenge against nature itself** (Mt. Silver legendaries beat Kanto forces)
-- Create Pokemon stronger than legendary birds, Tyranitar, any wild Pokemon that could oppose humans
-- "If we'd had Mewtwo at Mt. Silver, we'd have won" mindset
-- Superweapon to ensure Kanto can dominate Johto AND subdue any legendary opposition
-- Not about profit (Madame Boss's view) but about **finishing the war properly**
+- **Kanto restoration through decisive force** rather than a repeat of failed secession
+- Mewtwo #2 must be able to choose, reason, and fight as a partner; Chapter 6's "Then it can understand reason" is the seed
+- Its later role is decisive in Giovanni's lawful unified Indigo Champion challenge
+- Not merely a profit asset: a political partnership shaped by family, modernization, and conquest
 
 **Why This Scene Matters:**
-- Giovanni evaluating if Fuji can deliver the weapon Kanto "should have had"
+- Giovanni evaluating whether Fuji can help create the decisive partner Kanto restoration requires
 - Fuji's competence directly serves nationalist agenda, not just Team Rocket crime
-- Keeping Fuji alive is strategic: second Mewtwo program supports future conflict
-- Giovanni sees Mewtwo as correction of Mt. Silver "mistake" (humans submitting to Pokemon)
+- Keeping Fuji alive is strategic: the second Mewtwo program supports Giovanni's future political ascent
+- Giovanni sees belonging, not chains, as the correction to the first project's failure
 
 ---
 
@@ -159,7 +158,7 @@
 **Internal Reality (Track R):**
 - Night-of transfer to a Rocket-aligned black site (Sevii/Kanto hinterlands).
 - New identity ("consultant"), limited lab, handlers only.
-- Agreement: deliver **Mewtwo-II** frameworks under stricter control.
+- Agreement: deliver **Mewtwo-II** frameworks for a project Giovanni intends to raise, not simply restrain.
 
 **Contingency (Track C):**
 - If Fuji goes erratic → real termination, maintain P.
@@ -174,8 +173,7 @@
    - Begins writing private notes/letters (unmailed) about ethics, Amber, and "ending cycles."
 
 2. **Second Mewtwo Program**
-   - Fuji contributes constrained designs (failsafes, stability heuristics).
-   - Subtly *refuses* to recreate the exact consciousness-risk that birthed Amber—early sign of mellowing conscience.
+   - Fuji contributes designs for a viable second Mewtwo. How far he knowingly enables Giovanni's family-and-partnership model, and when he resists it, remain open.
 
 3. **Turn / Epiphany**
    - Trigger options (choose later):
@@ -227,7 +225,7 @@
   **Mitigation:** Plant multiple ambiguity cues **and** deliver rich moral payoff when the truth lands (Mr. Fuji's penance arc).
 
 - **Risk:** Second Mewtwo undercuts the first's uniqueness.
-  **Mitigation:** Make Mewtwo-II qualitatively different (safer, duller, more controlled) to *highlight* why true autonomy (Amber/Mewtwo-I) can't be mass-produced.
+  **Mitigation:** Make Mewtwo-II a genuine loyal partner rather than a controlled copy. The contrast is not autonomy versus programming; it is autonomy shaped by Giovanni's family and political purpose versus autonomy that resists imposed purpose.
 
 ---
 

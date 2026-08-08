@@ -382,3 +382,11 @@ role.
 - Added collection indexes for characters, organizations, places, world domains,
   arcs, saga threads, themes, decisions, rosters, events, and contradictions.
 - Updated the root index to route through local indexes.
+
+## 2026-08-08 — Replaced the superseded Kanto–Johto war and Giovanni-ascent model
+
+- Recast the old “unification war” as a Kanto secession war inside the pre-existing Indigo League; removed the separate-states, unification-treaty, and fixed Mt. Silver rout account.
+- Recorded Oak's pressured but culpable secession role, abandonment of the effort, and support for Lance's reunification succession; war duration, legal procedure, and Mt. Silver remain open.
+- Replaced the puppet-Champion model with Giovanni's lawful unified Indigo Championship over Lance, supported by years of real Viridian modernization and Mewtwo #2 as a loyal partner.
+- Removed the blunt Napoleon-plus-Hitler framing, distinguished real public benefits from Rocket capture mechanisms, and recorded the mixed coalition behind Giovanni's ascent.
+- Added Lance's reference page and normalized League terminology across the affected history, government, character, organization, planning, and timeline pages.

@@ -1,4 +1,4 @@
 # History Index
 
 - [Gym Evolution](gym-evolution.md) — teaching guilds to modern gyms
-- [Kanto-Johto Unification War](kanto-johto-unification-war.md) — conflict shaping Oak, Giovanni, and modern Kanto
+- [Kanto Secession War and Indigo Reunification](kanto-johto-unification-war.md) — civil war shaping Oak, Giovanni, and modern Indigo

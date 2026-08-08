@@ -40,7 +40,7 @@ How Pokemon training, licensing, and cultural expectations evolved from noble pr
 
 ### Post-War Boom (~20-30 years ago)
 
-**Kanto-Johto War Impact:**
+**Kanto Secession War Impact:**
 - War strained orphanage systems beyond capacity
 - Decentralized government = limited social services
 - **Journey culture encouraged** to fill gaps for displaced youth
@@ -136,5 +136,5 @@ How Pokemon training, licensing, and cultural expectations evolved from noble pr
 - [Celadon City](index.md) --- catalog of training systems
 - [Licensing System & Trainer Tiers](licensing.md) --- licensing and tier mechanics
 - [Trainer Paths & Socioeconomic Class](trainer-paths.md) --- the four modern training paths
-- [Evolution of Pokemon Gyms](https://github.com/haowjy/pokemon-amber/blob/main/story/) --- gym institution history
-- [Kanto–Johto Unification and the Indigo Corridor (Amber Continuity)](https://github.com/haowjy/pokemon-amber/blob/main/story/) --- post-war context
+- [Evolution of Pokemon Gyms](../../history/gym-evolution.md) --- gym institution history
+- [Kanto Secession War and Indigo Reunification](../../history/kanto-johto-unification-war.md) --- post-war context

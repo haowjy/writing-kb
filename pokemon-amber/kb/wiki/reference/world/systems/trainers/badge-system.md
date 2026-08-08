@@ -77,8 +77,10 @@ Quests are freelance work posted at Pokemon Centers. Legally, quests require a v
 - Holding 8 Elite Badges (from official pillar gyms) qualifies a trainer for Elite Four candidacy (rare)
 - Defeating all four Elite Four permits a Champion challenge under League rules
 
-### Champion Title (Separate System)
-- Pokemon League results determine sporting titles; the regional “Champion” is a government appointment (separate career track)
+### Champion Title
+- In Indigo, a qualified challenger who defeats the Elite Four may challenge the sitting Champion under League rules.
+- The resulting title carries major institutional authority, but League and regional checks mediate it; battle victory is not unlimited personal rule.
+- See [Champion and Elite Four System](../../society/government/champion-system.md).
 
 ## Legal Implications
 

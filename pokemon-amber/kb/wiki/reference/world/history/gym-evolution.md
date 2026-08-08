@@ -103,25 +103,21 @@ Once Pokeballs made life safer from wild Pokemon, humans could finally:
 - **Develop inter-regional relations** - Could worry about other humans, not just Pokemon
 - **Professionalize defense** - Rangers/Ace Trainers supplemented gym council response
 
-**IMPORTANT: Gym Councils ARE the Government:**
-- **NOT "governments emerged from gym councils"** - gym councils formalized as the government structure itself
-- **Pokemon League = confederation of gym councils**, not federal government above them
-- Gyms retain local autonomy and authority over their territories
-- Champion coordinates gym council alliance, doesn't command them (influence-based leadership)
-- No central bureaucracy, no executive branch, no federal agencies
-- More like Greek city-states or feudal system than modern nation-state
-- **This explains system inconsistencies** (education, welfare, law enforcement all locally managed with no central coordination)
+**League and civic authority:**
+- Gym councils remain important local institutions, but they are not the only layer of government.
+- Regional administrations handle civil policy; top-level League institutions coordinate Champion authority, defense, trainer regulation, and major interregional functions.
+- Gyms retain meaningful local autonomy and certification authority.
+- The exact constitutional division of authority remains open.
 
 **Champion Role Evolution:**
-- **Old role**: Strongest defender, led gym council against Pokemon threats
-- **New role**: Coordinator for gym council confederation, symbol of regional unity
-- **Modern**: Representative position (influence-based, not executive authority)
-- **Key distinction:** Champion coordinates gym councils, doesn't govern above them
+- **Old role:** strongest defender and crisis leader.
+- **Modern role:** battle-qualified League leader with public, defensive, and institutional responsibilities.
+- **Key distinction:** the Champion has consequential authority, but must operate through League and regional checks rather than rule without mediation.
 
 ### System Coordination (Not Full Standardization)
 
 **Gym Council Coordination Actions:**
-As gym councils formalized into Pokemon League confederation, they coordinated systems (but didn't fully standardize):
+As League and civic institutions developed, they coordinated systems without fully standardizing them:
 - **Area-based certification** formalizing gym badges (each gym sets own standards)
 - **Graduated difficulty levels** for safer trainer progression (recommendations, not mandates)
 - **Legal framework** for quest contracts and wilderness access (varies by region/gym)
@@ -130,13 +126,10 @@ As gym councils formalized into Pokemon League confederation, they coordinated s
 - **Ace Trainer program** creating elite coordination force (not "federal" military, more like coalition)
 
 **Why Inconsistency Persists:**
-- No central authority to enforce uniform standards
-- Each gym/city manages own education, welfare, law enforcement independently
-- "Pokemon League" is alliance/confederation, not government layer above gyms
-- **This explains forged documents working** (no central ID database, each Pokemon Center issues own)
-- **This explains strained orphanages** (local funding only, no federal social services)
-- **This explains regional variation** (Kanto modern/corporate, Johto traditional/clan-based)
-- **This explains badge-unlock system** (gyms ARE the authority, not implementing government policy)
+- League standards and local practice do not always align
+- Municipal, regional, Gym, and League layers can have overlapping or uneven capacity
+- Exact centralization and record-sharing mechanisms remain open
+- This supports regional variation, local discretion, and imperfect enforcement without claiming that no shared administration exists
 
 **Gym Expansion:**
 With safety and government support:
@@ -342,9 +335,9 @@ Each region faced different Pokemon threats and formed different gym council str
 
 **Historical Foundation:**
 - 8-gym council tradition (Kanto) + 8-gym council tradition (Johto)
-- Post-war: merged into **Indigo League confederation** (not unified government, but coordinated gym councils)
-- Champion (Lance) represents both regions equally (Oak's compromise after Mt. Silver)
-- Strong Ranger tradition from wilderness emphasis (post-Mt. Silver ecosystem protection)
+- Kanto and Johto remain in the **unified Indigo League** through the secession war and reunification
+- Lance succeeds Oak as unified Champion after Oak abandons the secession effort; exact procedure remains open
+- Strong Ranger tradition follows war-era ecological urgency; Mt. Silver's role remains open
 
 **Modern Systems:**
 - Dual badge system (standard + Ace)
