@@ -1,9 +1,9 @@
 {
-  "status": "open",
+  "status": "done",
   "description": "",
   "goal": null,
   "created_at": "2026-08-08T19:22:06Z",
-  "archived_at": null,
+  "archived_at": "2026-08-08T19:47:47Z",
   "task_dir": null,
   "worktree": {
     "path": null,
