@@ -1,31 +1,45 @@
 # Erika: Dialogue and Scene Presence
 
-Load this file when Erika appears in any scene. She has no POV chapters but is significant in Chs. 8-10 (Celadon investigation arc).
+Load this file when Erika appears.
 
 ---
 
-## The Voice in One Paragraph
+## Core Behavior
 
-Erika is *poise* — composure with selective reveal. She can sound ceremonial, managerial, clinical, or privately warm, but transitions are always controlled. Even her jokes feel curated rather than impulsive. She almost never sounds accidental.
-
----
+Erika controls the pace and disclosure of a conversation. She can be warm, clinical, or political without surrendering authority. Her wording is deliberate: each question gathers information, each courtesy preserves leverage, and each command gives a precise action.
 
 ## Register by Context
 
-**Subordinates** — gentle but unmistakable authority: "Mary... You know you're still suspended until further notice." (Ch. 9)
+### Subordinates
 
-**Amber** — disarming warmth, slightly amused older-sister energy: "So this is our thief?" (Ch. 8)
+> "Mary... You know you're still suspended until further notice." (Ch. 9)
 
-**Battle** — concise technical imperatives, the most efficient command style of any character: "Stun Spore, wide dispersion!" (Ch. 10)
+Erika uses Mary's name and a quiet reminder instead of raising her voice. "Still" closes the attempted loophole; "until further notice" keeps the decision in Erika's hands.
 
-**Politics** — elliptical, strategic, careful about what she *doesn't* say: "Though I suspect solving our Oddish predicament might help your case with the board." (Ch. 9)
+### Amber
 
-**Medical/clinical** — precise assessment: "Sludge Fever... It's been spreading through the Factory Ward again." (Ch. 10)
+> "So this is our thief?" (Ch. 8)
 
----
+The short question acknowledges the accusation while leaving Erika room to reassess Amber for herself. The lightly amused delivery lowers Amber's guard without dismissing the theft.
 
-## Differentiator from Mary
+### Battle
 
-Both are competent and professional. Erika is more politically aware, more polished. Mary is more blunt, more operational. Erika manages; Mary investigates. In shared scenes, distinguish by Erika's diplomatic framing vs Mary's procedural directness.
+> "Stun Spore, wide dispersion!" (Ch. 10)
 
-Action beats: pats Amber's head, taps finger against desk, studies evidence, works herbs with practiced efficiency. Carries herself like a public figure even in cramped rooms.
+The move name identifies the action; "wide dispersion" specifies coverage. Erika's commands are concise because the tactical choice is already made.
+
+### Politics
+
+> "Though I suspect solving our Oddish predicament might help your case with the board." (Ch. 9)
+
+Erika presents an exchange without promising an outcome she does not control. "Might" is meaningful uncertainty about the board, not habitual hedging.
+
+### Medical work
+
+> "Sludge Fever... It's been spreading through the Factory Ward again." (Ch. 10)
+
+She names the condition before giving the fact that changes the situation. "Again" implies prior cases and turns one sick Pokemon into a wider problem.
+
+## Difference from Mary
+
+Erika manages institutions and competing interests; Mary pursues the next operational fact. In a shared investigation, Erika frames what can happen and who must accept it. Mary asks what happened and what they do next.

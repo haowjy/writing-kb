@@ -1,48 +1,53 @@
-# Professor Oak: POV Voice and Dialogue
+# Professor Oak: Dialogue and Scene Presence
 
-Load this file when Oak is present — either as POV character (close third person, Ch. 16) or as a speaking character.
-
----
-
-## The Voice in One Paragraph
-
-Oak is the most controlled voice. He processes the world as assessment → action, not analysis or obsession. His prose is less introspective than Fuji, much less performative than Amber. Even his humor is functional. He sounds like someone who has already thought three turns ahead — lines are rarely the loudest but feel structurally complete.
+Load this file when Oak appears. Ch. 16 is near-omniscient rather than an Oak POV chapter; do not give him private thoughts unless the scene's POV explicitly changes.
 
 ---
 
-## POV Narration (Close Third Person)
+## Core Behavior
 
-Oak enters as forceful external competence — rapid triage, not reflection:
+Oak identifies what can be acted on and moves to the next decision. His competence appears through priorities: protect people, read Pokemon condition and capability, limit collateral damage, then press the opponent for useful information.
+
+## Scene Presence
+
+### Triage before discussion
+
 > "Professor Samuel Oak did not waste any time on words." (Ch. 16)
 
-**Command-driven prose.** Battle directives alternate command, response, result in short bursts. Language converts perception into decision:
-> "'Arcanine, Extreme Speed! Tank it if you must!'" (Ch. 16)
+The next action must prove the sentence. In Ch. 16, Oak removes the children from immediate danger before confronting Fuji.
 
-**Civic and situational awareness.** Oak always measures the public radius of the fight — the crowd, the police, the collateral:
+### Public radius
+
 > "Oak glanced at the crowd that had formed across the street, and the additional policemen that had pulled up." (Ch. 16)
 
-**Pokemon as trained partners.** The clearest contrast with Fuji: "Even a Pidgey, if trained, can become a mighty Pidgeot." (Ch. 16). Oak coordinates capability; Fuji demands obedience.
+The glance matters because it changes his tactical constraints. Bystanders and police are part of the battlefield, not background inventory.
 
-**Minimal interiority by design.** When Oak gets interior access, it's brief and dry: "*I'm too old for this*, was the only thing on Professor Oak's mind..." (Ch. 16)
+### Pokemon as partners
 
-**Sensory filter is tactical and material** — shields flicker, cracks spread, smoke curls, ground buckles. Actionable physics, not mood or symbol.
+Oak gives commands that coordinate a Pokemon's capability with the larger objective.
 
----
+> "Arcanine, Extreme Speed! Tank it if you must!" (Ch. 16)
 
-## Spoken Dialogue
+The move creates immediate interception. The second command defines the priority: protect the target even at a cost.
 
-**To Fuji**: neutral, probing, slightly baiting. Uses pointed questions to make Fuji expose himself:
+## Dialogue by Audience
+
+### Fuji
+
+Oak stays neutral enough to keep Fuji talking. His questions or mild provocations should expose information or buy time.
+
 > "Ah, but there is so much to learn from Pidgey..." (Ch. 16)
 
-**To Pokemon**: clipped tactical command bundles. Battlefield coordinator.
+The reply rejects Fuji's contempt without matching his volume. It also keeps Fuji engaged in the argument.
 
-**To children**: broad reassurance, then careful truth in digestible pieces:
+### Children
+
+Oak reassures first, then gives the amount of truth the child can use.
+
 > "Don't worry! It looks much worse than it actually is!" (Ch. 17)
 
-**To Amber privately**: legally cautious, emotionally gentler, subtly curious.
+The broad reassurance addresses the children's visible shock before anyone asks him for a medical explanation.
 
----
+### Amber privately
 
-## What to Avoid
-
-No game references (Amber's territory). No symbolic object-work or spiraling obsession (Fuji's territory). No extended interior monologue. No performative humor or self-deprecation. Oak does not fixate — he moves to the next decision.
+Oak is careful with facts he cannot verify. Gentleness changes his delivery, while curiosity changes the questions he chooses.

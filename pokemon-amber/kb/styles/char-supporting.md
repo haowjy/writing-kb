@@ -1,54 +1,63 @@
 # Supporting Characters: Dialogue Voices
 
-Load this file when any of these characters speak: Kayla, Mary, Stephen, Delia, Ash. Each has limited corpus — if any expands significantly, they may warrant their own file.
+Load this file when Kayla, Mary, Stephen, Delia, or Ash speaks. Give each character different priorities and sentence choices; do not rely on repeated gestures or verbal tics to identify them.
 
 ---
 
 ## Kayla
 
-Hesitant, low-energy, full of false starts and corrective clarifications. Stops, restarts, and trails off more than anyone else:
-> "Oh, uh, yeah. I did." (Ch. 8)
+Kayla wants to be accurate without becoming the center of the exchange. Hesitation appears when she corrects someone or introduces information that may cause conflict.
+
 > "But... that's not the Pokemon we use for HP UP production anymore. Oddish isn't even---" (Ch. 8)
 
-Action beats: adjusts glasses, mumbles, yawns, physically shrinks. (Primarily Ch. 8 — thin corpus.)
+The opening pause marks the social cost of contradicting someone. The unfinished correction shows that she is interrupted or loses the floor; use that break only when the scene supplies one of those causes.
 
 ## Mary
 
-Practical, suspicious, procedural but not flat. Lines sharpen when interrogating, soften when she sees vulnerability:
+Mary pursues operational facts. Suspicion sharpens her questions; visible vulnerability can redirect her toward a practical offer.
+
 > "There was a theft... That's quite a coincidence, don't you think?" (Ch. 8)
+
+She places the known event beside Amber's story and asks Amber to account for the connection.
+
 > "Take us to Oddish, and your brother. Maybe we can help." (Ch. 10)
 
-More blunt and local than Erika. Mary investigates; Erika manages.
+The first sentence requests the next actionable step. "Maybe" reflects a real limit on what Mary can promise.
 
 ## Stephen
 
-Domestic, patient, quietly guarded. The most parent-coded speaker — uses food, humor, and gentle redirecting:
+Stephen makes care concrete through food, shelter, and gentle redirection. When guarded, he asks for small agreements rather than delivering speeches.
+
 > "Sit. Are you hungry? We have leftover curry." (Ch. 12)
+
+The three short sentences move from immediate safety to a need he can meet.
+
 > "Just... don't tell your mother, okay? Either of you." (Ch. 14)
 
-Stephen nurtures and de-escalates. Delia draws lines and protects.
+The pause and tag question show that he is asking for cooperation he cannot comfortably demand. "Either of you" closes the obvious loophole.
 
 ## Delia
 
-Firm and practical when calm; sentences break around unspeakable material when pressured:
-> "While you were hiding in your lab trying to play god, I built something real. Something whole." (Ch. 11)
+Delia protects people by drawing clear boundaries. Under pressure, her speech narrows toward the action she needs someone else to take.
+
 > "Get off my property. Before I call Officer Jenny." (Ch. 11)
 
-Clipped firmness is distinct from Stephen's gentleness.
+The first sentence states the boundary. The second gives the immediate consequence if Fuji ignores it.
 
 ## Ash
 
-Bright, impulsive, Pokemon-fixated. Short bursts, fairness complaints, abrupt topic shifts, overinvestment in battles:
+Ash speaks from the want occupying him right now. Excitement, unfairness, or frustration arrives in short bursts and can replace the previous topic immediately.
+
 > "How come she gets the first one?" (Ch. 14)
-> "OH WATCH THIS! See how Blastoise's cannons are angled?" (Ch. 14)
+
+The question reduces the situation to the fairness issue Ash cares about.
+
 > "I quit! This is stupid!" (Ch. 17)
 
-Instantly recognizable because the syntax is so child-forward and enthusiasm-heavy.
+The first declaration tries to end an upsetting activity. The second attacks the activity because he cannot explain the actual source of his distress.
 
----
+## Useful Contrasts
 
-## Cross-Character Notes
-
-Dialogue is primarily carried by context and action beats, not repeated tagging. Dialogue paragraphs almost always interleave internal reaction or physical action alongside spoken lines — pure "talking heads" passages are rare.
-
-**Watch for voice blur**: battle commands without tags can be hard to tell apart; Mary and Erika can converge in investigation mode (distinguish by polish vs directness); Amber's child-safe dialogue is intentionally plain — narration must do identity work around it.
+- Erika manages permissions and interests; Mary identifies the next fact or action.
+- Stephen offers care and seeks cooperation; Delia establishes boundaries and consequences.
+- Amber considers what an explanation will accomplish; Ash says what the immediate feeling demands.

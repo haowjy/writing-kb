@@ -1,50 +1,44 @@
 # Emotional / Intimate Scene Technique
 
-Use this file when writing scenes at emotional peaks — grief, fear, vulnerability, tenderness, loss.
+Load this file for grief, fear, vulnerability, tenderness, loss, or a relationship-changing admission.
 
 ---
 
-## Core Technique: The Body Reports, The Reader Interprets
+## Core Choice
 
-The prose rarely states feelings directly. It renders them through physical sensation:
+Choose the behavior, sensation, object, or absence the POV character would notice under this specific pressure. Let the reader reconstruct the emotion from that evidence. Name the feeling when recognizing it changes the character's understanding or next action.
+
+An emotional scene needs a turn: a relationship changes, a character makes or avoids a choice, information becomes bearable or unbearable, or an existing wound gains a new consequence.
+
+## Restraint
+
+Give the strongest detail room. Additional gestures or sensations must add a different piece of emotional information. Repeating several signs of the same feeling reduces their force.
+
+Fragments and silence can represent interrupted thought, but their shape must follow what the character cannot complete or what the other person refuses to say.
+
+## Annotated Example: Care and Departure
 
 > "A hand touched my back. Rubbed slow circles while I retched. When the heaving finally stopped, the hand lifted. Footsteps moved away." (Ch. 2)
 
-No "I felt grateful" or "I felt abandoned." Action, then the sound of leaving. The reader does the emotional work.
+**Purpose in the beat:** Amber receives care without yet knowing whether the person providing it will stay.
 
----
+- **"A hand"** withholds identity because Amber's physical crisis limits what she can register.
+- **Touching her back** gives immediate support.
+- **"slow circles"** makes the care sustained rather than accidental.
+- **"while I retched"** keeps the comfort inside an unpleasant physical reality.
+- **The heaving stopping** marks the point when the practical need ends.
+- **The hand lifting** removes contact before Amber interprets it.
+- **Footsteps moving away** answers the scene's relational question through action.
 
-## How This Differs from Battle and Discovery
+## Annotated Example: Absence
 
-In action, short sentences are kinetic (things happen fast). In emotional scenes, short sentences are *stopped* — the mind refusing to complete thoughts:
+> "Cold tea in a forgotten mug. An empty chair where Dr. Fuji should be. And there, the empty space by the kettle where Ditto's Pokeball used to sit, a glaring absence." (Ch. 11)
 
-> "The smells hit me all at once. Metallic. Chemical. Something else underneath that I didn't have words for and didn't want to find them." (Ch. 2)
+**Purpose in the beat:** The room shows Amber that both Fuji and Ditto are gone before she can act on either loss.
 
-The fragments ("Metallic. Chemical.") create halting sensation, not speed.
-
-Internal monologue disappears. The game-knowledge commentary that dominates discovery scenes is absent. Amber stops analyzing and starts *experiencing*. Compare Ch. 2 (emotional, almost no commentary) to Ch. 3 (discovery, constant commentary) — same character, voice almost unrecognizable.
-
----
-
-## Weight Through Silence and Omission
-
-Objects standing in for feelings. Space where a person or thing should be:
-> "Cold tea in a forgotten mug. An empty chair where Dr. Fuji should be. And there, the empty space by the kettle where Ditto's Poké Ball used to sit, a glaring absence." (Ch. 11)
-
-The Ch. 10 ending is the most radical compression — ten sentences from "I let myself smile" to the slap. No internal reaction. Just motion.
-
----
-
-## The Two Strongest Emotional Sequences
-
-**Ch. 2 bathroom scene**: pure physical crisis. Vomiting, blood, Fuji's hand on her back. No interpretation, no humor, no game references.
-
-**Ch. 15 Electabuzz death**: Amber's dissociative calm — "A strange calm washed over me. I'd already died once, after all." The only moment the isekai framing pays emotional dividends rather than comic ones. Works because it was earned over 15 chapters.
-
----
-
-## Calibration
-
-**Show when the moment matters** — emotional peaks, character-defining choices, relationship shifts. **Tell when texture doesn't matter** — transitions, time compression, low-stakes connective tissue. Deploying the full show-don't-tell apparatus for minor beats breaks flow.
-
-**Comedy-to-gravity transitions are abrupt.** The humor stops and the weight arrives simultaneously. No "the mood darkened" sentences. See Ch. 10 ending, Ch. 14 door explosion.
+- **Cold tea** shows that ordinary activity was interrupted long enough for time to pass.
+- **The forgotten mug** implies the person left without completing that activity.
+- **The empty chair** locates Fuji's absence in his habitual place.
+- **The space by the kettle** directs Amber to the second missing presence.
+- **Where the Pokeball used to sit** relies on her memory of the room rather than exposition.
+- **"glaring absence"** gives the final missing object priority because Ditto's disappearance changes Amber's next concern.

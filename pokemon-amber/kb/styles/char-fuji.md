@@ -1,44 +1,73 @@
 # Dr. Fuji: POV Voice and Dialogue
 
-Load this file when Fuji is present — either as POV character (close third person, Chs. 6, 13) or as a speaking character in someone else's scene.
+Load this file for Fuji's close-third chapters (Chs. 6 and 13) or whenever he speaks.
 
 ---
 
-## The Voice in One Paragraph
+## Core Behavior
 
-Fuji's voice is built on fracture. He moves from "my daughter" grief to "proof of concept" disgust in the same scene. Both are sincere. That's the horror. At his calmest, he speaks and thinks in formal, controlling sentences with scientific prestige baked in. At his worst, the diction swings into obsession, contempt, and command-bark escalation. His scientific register functions as moral anesthesia.
+Fuji tries to correct reality until it matches the family, status, or scientific success he believes he deserves. Family language, professional language, and commands can occupy the same exchange. The register he chooses shows what he is trying to control.
 
----
+## Close-Third Narration
 
-## POV Narration (Close Third Person)
+### Ritual as action
 
-Fuji's narration differs from Amber's in every dimension: no humor, no game knowledge, no self-report, no kaomoji. The prose is more balanced and literary, with long modulated sentences built around symbolic objects. Paragraphs center on one object or one worsening thought spiral.
+Fuji arranges meals, clothes, flowers, and drinks as parts of a reunion he expects other people to perform with him. Include an object only when handling it advances that plan or exposes a mismatch he intends to correct.
 
-**Grief externalized through ritual objects.** Fuji doesn't confess grief — he handles things. He arranges settings. The prose becomes ceremonial:
 > "Three plates, three sets of chopsticks, three glasses of juice... The third setting sat like a promise..." (Ch. 6)
 
-**Language of correction and control.** Amber is not a person to Fuji — she's a failed restoration project:
+The repeated count shows that Fuji has built the absent person into the meal. "Promise" gives the empty setting his expectation rather than explaining his grief.
+
+### Correction as perception
+
+Fuji notices differences as defects in his reconstruction.
+
 > "He watched her pick at her food, noted how she held her chopsticks---all wrong, nothing like before---and added it to his mental list of differences to fix later." (Ch. 6)
 
-**Free indirect style carries resentment.** The narration borrows Fuji's contempt without quotation marks: "Just a reasonable discussion... Man to man." (Ch. 13); "this... this *lab assistant*" (Ch. 13). More literary, more sinister than Amber's direct sarcasm.
+"Noted" and "list" turn a child's behavior into research data. "Fix later" converts his discomfort into a future action.
 
-**Violence oscillates between hysteria and procedure.** "'Protocol Five.'" followed by "'Unfortunate, but necessary.'" (Ch. 13) — deranged and bureaucratic in the same scene. See also Ch. 16 confrontation with Oak.
+### Rationalization as free indirect thought
 
----
+His conclusions can enter the narration as if they are reasonable facts.
+
+> "Just a reasonable discussion... Man to man." (Ch. 13)
+
+The formal phrase gives Fuji's preferred account of the encounter. The surrounding plan and violence allow the reader to judge it.
+
+### Escalation
+
+When control holds, Fuji's sentences are formal and complete. When control fails, repetition, fragments, and commands take over. Use the change at the moment his plan stops producing the response he expected.
 
 ## Spoken Dialogue
 
-**Register collision is the strongest Fuji marker.** He shifts between paternal control, credential flexing, and violent imperative — sometimes mid-sentence:
-> "I've tried so hard to give you everything again. The same dresses. The same toys. The same love." (Ch. 15) vs. "A successful proof of concept, perhaps, but a failure in the end." (Ch. 16)
+### Amber
 
-**To Amber**: paternal scolding, corrective, fantasy-family rhetoric. "Mind your tone, young lady." (Ch. 6)
-**To peers/rivals**: credential flexing, status insults. "I was reconstructing genetic sequences while you were still learning how to operate a centrifuge." (Ch. 13)
-**To Pokemon**: stripped command-bark. Sounds like a lab operator, not a trainer. "I created you! Obey me!" (Ch. 16)
+Fuji uses family roles and corrective authority.
 
-Action beats: tightens grip, jabs fingers, snaps, gnashes teeth, waves dismissively.
+> "Mind your tone, young lady." (Ch. 6)
 
----
+He answers her manner rather than her claim, reasserting the parent-child structure he wants.
 
-## Dark Humor (Not Amber's Comedy)
+### Peers and rivals
 
-Fuji's humor is irony or horror: "Unfortunate, but necessary." (Ch. 13); "Such pastoral mediocrity." (Ch. 13); the chapter title "A Very Reasonable Man." It's the humor of a character who doesn't realize how monstrous he sounds.
+Fuji reaches for credentials, hierarchy, and technical superiority.
+
+> "I was reconstructing genetic sequences while you were still learning how to operate a centrifuge." (Ch. 13)
+
+The comparison replaces the present dispute with a status contest Fuji believes he can win.
+
+### Pokemon
+
+His commands frame Pokemon as products required to obey.
+
+> "I created you! Obey me!" (Ch. 16)
+
+The first claim supplies his reason; the second strips the relationship down to ownership and command.
+
+### Violence
+
+Fuji can place procedural language beside extreme harm.
+
+> "Unfortunate, but necessary." (Ch. 13)
+
+The balanced phrasing treats violence as a completed professional calculation, allowing the horror to come from his seriousness.

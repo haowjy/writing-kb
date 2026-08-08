@@ -5,199 +5,47 @@ category: core-guidance
 status: confirmed
 hidden: true
 created: 2025-10-31
-updated: 2026-03-30
+updated: 2026-08-08
 ---
 
-# Story Tone & Approach
+# Story Tone and Approach
 
-**What this story is:**
-A Pokemon adventure with realistic consequences, where characters struggle, connect, and grow through their experiences.
-
----
-
-## The Actual Goal
-
-**Make readers care about the characters.**
-
-That's it. If readers are invested in:
-- Whether Amber finds her footing on the road
-- Whether Heracross can fight on its own terms
-- Whether Kyle and Amber's partnership works out
-- Whether Team Rocket catches up to them
-- What happens when secrets are revealed
-
-Then the story is working.
+Load this file when deciding what emotional experience a chapter should create.
 
 ---
 
-## Tonal Balance (Natural Rollercoaster)
+## Reader Effect
 
-The story should mix:
+Make the reader care what the characters want, what their choices cost, and how their relationships change. Pokemon adventure, domestic warmth, absurdity, fear, and grief can occupy the same story because each grows from what is happening to the characters.
 
-**Fun moments:**
-- Kyle getting lost constantly (comedy relief)
-- Ditto doing silly transformations
-- Small victories (earned badges, successful quests)
-- Discovery and exploration
-- Mundane slice-of-life details
+## Grounded Consequences
 
-**Tense moments:**
-- Team Rocket battles (actual danger)
-- Gym challenges (stakes matter)
-- Wilderness reality checks (game knowledge ≠ real experience)
-- Background threats closing in
+Pokemon abilities and institutions have material and social consequences. Injury changes what a character can do. Money limits choices. Public violence draws authorities and witnesses. A secret matters because of what another person or organization may do with it.
 
-**Sorrowful moments:**
-- Delia's unresolved tension (emotional wound)
-- Heracross judged for being the "wrong kind" of Heracross
-- Loneliness and isolation
-- The gap between what Amber knows and what she can do
+Choose the consequence that changes the current decision. Additional realism belongs only when it alters action, expectation, or relationship.
 
-**Heartwarming moments:**
-- Heracross finding a fighting style that's genuinely its own
-- Kyle accepting help without ego
-- Found family forming naturally
-- Small victories that feel earned
+## Meaning Through Events
 
-**No one emotion dominates.** Events happen, characters react naturally, tone shifts as appropriate.
+Build meaning through choices and consequences. A character protects someone, refuses an order, changes a plan, or remains when leaving would be easier. The reader can interpret what that action means.
 
----
+Interiority should reveal information the reader cannot obtain from action alone: the option a character rejects, the mistaken assumption guiding a choice, the memory changing the present, or the consequence they are trying to avoid.
 
-## About Themes
+## Tonal Movement
 
-**Themes emerge naturally from story events. Don't force them.**
+Let tone change when the event changes. A ridiculous practical problem can produce deadpan humor; the discovery of harm ends that humor without a sentence announcing the shift. No emotion needs a prescribed share of the chapter.
 
-Yes, the story has elements that could support philosophical exploration:
-- Amber is a clone (creates secret, danger, identity questions)
-- Ditto is a failed Mew clone (parallel to Amber)
-- Mewtwo exists (dark mirror, shared origin)
+Warmth comes from specific care: food prepared, space made, a Pokemon handled gently, a promise kept. Darkness comes from specific harm, coercion, loss, or consequence. The prose should give the consequential action more weight than a general statement about the mood.
 
-But these are **plot devices that create drama**, not invitations to pause the story for existential meditation.
+## Relationship Development
 
-**Good:** Team Rocket wants Ditto because it's Fuji's research → creates danger → Amber has to deal with it
-**Bad:** Amber contemplates what it means to be "artificial" for three paragraphs
+Relationships accumulate through repeated choices under changing circumstances. Trust grows when one character takes a risk, keeps a confidence, accepts help, repairs harm, or changes behavior because of what another person needs. Use dialogue to negotiate the immediate issue; let the pattern across scenes carry the larger relationship.
 
-**Good:** Mewtwo shows up, conflict happens because shared origin creates tension
-**Bad:** Mewtwo and Amber debate the nature of creation and personhood
+## Chapter Check
 
-Readers can take whatever themes they want from the events. Some will see identity exploration, some will see found family, some will just enjoy the Pokemon adventure. All valid!
+Before keeping a beat, identify:
 
----
-
-## Writing Approach
-
-**Let events speak for themselves:**
-- Heracross hates fighting dirty → Amber builds a style around that → bond forms
-- Don't need to explicitly state "this shows worth isn't determined by fitting expectations"
-- Readers get it from the events
-
-**Character moments over message:**
-- Kyle learning strategy matters > thematic statement about pride
-- Amber navigating her first real wilderness day > philosophical realization about knowledge vs experience
-- Show through action, not introspection
-
-**Keep moving:**
-- Don't dwell in characters' heads for extended navel-gazing
-- Internal thoughts should be brief and action-oriented
-- Focus on what's happening, not what it all means
-
----
-
-## What Makes This Story Work
-
-**Realistic consequences in Pokemon world:**
-- Money matters (pokeballs are expensive, Oak funds help but aren't unlimited)
-- Wilderness is dangerous (game knowledge ≠ real survival)
-- Not everyone is kind
-- Some battles can't be won (Fighting Dojo will decline)
-
-**Characters with real problems:**
-- Amber: hiding secret, not fully belonging anywhere, adult mind in teen body
-- Kyle: pressure from father, tactically weak, overconfident
-- Heracross: judged for not being the brawler everyone expects
-- Each has struggles readers can invest in
-
-**Relationships that develop naturally:**
-- Not instalove or instant friendship
-- People help each other along the way
-- Reluctant allies become friends (Kyle)
-- Bonds form through shared experiences, not speeches
-
-**Stakes that matter:**
-- Team Rocket is actually dangerous (not comic relief)
-- Secrets can have real consequences if revealed
-- Failed gym attempts have cooldowns (time/money cost)
-- Weird incidents keep pulling her off the gym circuit
-
----
-
-## Story Scope & Structure
-
-### Long-Term Vision
-
-**Multi-region, multi-year journey:**
-- This is NOT a one-year story where a teenager becomes champion
-- Realistic growth over many years and regions
-- Growing up with Pokemon gradually
-- Becoming elite through accumulated experience, not destiny
-
-**Age progression:**
-- Age 13-14 (Arc 1): Learning the ropes, Oak-supported adventure
-- Age 14-15 (Arc 2-3): Competent but still learning
-- Age 15-16 (Arc 4+): Strong trainer
-- Age 17+ (Arc 5-6+): Elite-level capability
-
-**Growth takes years.** Even starting at 13 with good resources, becoming elite is a long road.
-
----
-
-### Regional Arc Structure
-
-**Arc 0:** Pre-journey (Chapters 1-17, Cinnabar/Pallet)
-
-**Arc 1: Kanto (Year 1)** - DETAILED PLANNING
-- First year as trainer in Kanto
-- Semi-lighthearted adventure, Oak-supported, 8-badge goal (disrupted by incidents)
-- Charcadet + Heracross join team, Kyle partnership
-- Weird Pokemon incidents keep pulling her off the gym circuit
-
-**Arc 2: Hoenn (Years 2-3?)** - TENTATIVE
-- New region, fresh start
-- Team Rocket escalates
-- Secret complications
-- More growth and badges
-
-**Arc 3+: Beyond (Years 3-6+)** - PURE SPECULATION
-- Possible regions: Sinnoh, Kanto/Johto return, Unova/Kalos
-- Delia reconciliation? Oak training? Mewtwo encounters?
-- Team Rocket climax (Arc 6+)
-- Nothing locked in - story will evolve naturally
-
-**Organized by region, NOT by theme.**
-- Arcs = geographic locations and what happens there
-- Themes emerge from events, not vice versa
-- Later arcs highly flexible based on how early arcs develop
-
----
-
-## Reminder for Planning
-
-When brainstorming future story:
-- Think: "What happens next?" not "What does this symbolize?"
-- Ask: "How do characters react?" not "What theme does this explore?"
-- Focus: Drama, relationships, consequences
-- Let themes: Emerge naturally from reader interpretation
-
-The planning docs sometimes get heavy with thematic scaffolding. Ignore that. The actual story beats are what matter.
-
----
-
-## In Summary
-
-**Just tell a good story about characters people care about.**
-
-Mix fun and tension and sorrow and warmth naturally. Let events create their own meaning. Don't overthink it.
-
-If readers finish a chapter thinking "I wonder how Heracross handles the next fight" or "I hope Kyle doesn't get too hurt in that gym battle" or "Oh no, will Team Rocket catch up?" then you're doing it right.
-
-Everything else is gravy.
+1. What does the character want here?
+2. What changes their available choices?
+3. What does the choice cost or reveal?
+4. What should the reader now hope for, fear, or anticipate?
+5. Which details create that effect, and which can disappear without loss?
