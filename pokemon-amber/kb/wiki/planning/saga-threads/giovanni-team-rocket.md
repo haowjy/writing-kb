@@ -2,7 +2,7 @@
 
 **Status:** drafting
 
-This saga thread follows Rocket from early surveillance of Amber to Giovanni's lawful Indigo ascent, institutional capture, and eventual overreach. It is a story-level direction, not a completed sequence of arc beats.
+This saga thread follows Rocket from early surveillance of Amber through Giovanni's failed constitutional route, forceful Kanto secession, and later overreach. It is a story-level direction, not a completed sequence of arc beats.
 
 ## Surveillance and Escalation
 
@@ -14,56 +14,48 @@ Possible escalation:
 2. **Testing:** staged encounters and attempts to assess Ditto, Amber's knowledge, and her vulnerabilities.
 3. **Pursuit:** direct theft, leverage, or pressure against her companions.
 4. **Containment:** discrediting, framing, or isolating Amber through bureaucratic and institutional channels.
-5. **Background infection:** regional anomalies that only later reveal Rocket's broader capture strategy.
+5. **Background infection:** regional anomalies that only later reveal Rocket's wider strategy.
 
-### Open Questions
+## Peaceful Secession Attempt and Failure
 
-- When and how Amber learns she is being tracked.
-- Which incidents are genuine, staged, or merely look suspicious from her perspective.
-- How Oak, allies, or regional institutions respond without taking Amber's agency from her.
+Giovanni's opening political aim is peaceful Kanto secession, not Kanto hegemony over unified Indigo. Years of Viridian modernization --- first-partner programs, schools, roads and underground routes, cheap Pokeballs, public safety, trade, and emergency capacity --- create real material support while building registration, patronage, logistics, surveillance, and strategic capacity.
 
-## The Ascent: Capture, Not Secession
+Rocket crime, fronts, donors, contractors, and corrupt procurement seed this work; legitimate taxes, trade, and manufacturing later sustain much of it. Support comes from separatists, peaceful independence supporters who do not know Rocket's full role, modernization allies, anti-clan or anti-corruption reformers, careerists, honest beneficiaries, and unaware bureaucrats. Some Indigo loyalists remain.
 
-Giovanni's formative lesson is that the old Kanto movement failed by trying to leave Indigo. His politics are Kanto restorationism, revanchism, and hegemony: take the unified League, make it Kanto-led, and later extend that order outward.
+Giovanni challenges Lance for unified Indigo Champion/Protector status because he expects the office to give peaceful secession constitutional and military legitimacy. He fields a legitimate conventional anti-Dragon team, with the roster open. He neither reveals nor uses Mewtwo #2.
 
-For years before challenging Lance, he makes Viridian the proof of concept. Beginner-partner access, trainer and vocational schools, roads and underground routes, cheaper Pokeballs, trade, safety systems, and Pokemon Center or emergency capacity create real material improvement. These programs also create registration, patronage, logistics, surveillance, and institutional loyalty.
+Lance's classified, government-sponsored Mega Evolution defeats him. The technology can be legal, while its secrecy allows Kanto propaganda to claim the peaceful path was rigged or closed. Existing Ch. 18 planning foreshadows Oak and Lance researching Mega Evolution and remains unchanged.
 
-Rocket money and hardline support can seed the work through crime, fronts, laundering, contractors, donors, and corrupted procurement. Successful programs need not remain Rocket-funded; legitimate revenue can sustain them. The people enabling the model range from criminals and nationalists to careerists, honest supporters, and unwitting bureaucrats.
+## Forceful Secession
 
-### Lawful Champion Challenge
+Giovanni had a forceful contingency. After losing, he seizes Indigo assets and facilities in Kanto, neutralizes loyalist officials, withholds taxes and resources, establishes separate administration and licensing, controls routes, borders, and communications, and mobilizes Gym allies with Rocket infrastructure. Lance remains unified Indigo Champion/Protector.
 
-Giovanni defeats Lance through the unified Indigo Elite Four and Champion gauntlet. He becomes **unified Indigo Champion**. Mewtwo #2 is the decisive partner, but the battles are real and League-valid. Corrupt officials can help create access, certification, secrecy, or regulatory clearance; they cannot fabricate the win or make Lance throw the match.
+The exact first-shot crisis --- garrison/property/resupply, preemptive action against mobilization, or local unauthorized escalation --- remains open. Kanto may later create its own Champion/Protector office; the arrangement is not settled.
 
-By then, much of Kanto sees Giovanni as already doing the Champion's job. His title therefore converts years of practical credibility into League-wide legitimacy.
+## The Clone Partner and Hidden Military Hand
 
-### Open Questions
+Mewtwo #2 is a genuine loyal partner and true believer raised in Giovanni's clone family, not a mind-controlled weapon. Giovanni expected the legal team to win, and keeps Mewtwo #2 out of the public challenge to avoid exposing Fuji, illegal research, and registration issues. The clone first appears in the forceful secession as a deterrent or war asset; deterrence versus immediate battlefield deployment remains open.
 
-- Exact timing of the challenge in Amber's journey.
-- The public timing and form of Mewtwo #2's unveiling.
-- Exact program design, first-partner species, and individual funding vehicles.
-- Whether Kanto hegemony was Giovanni's fixed intent from the start or escalates under Johto resistance.
-- Exact constitutional mechanisms he exploits after becoming Champion.
-
-## The Clone Partner
-
-Chapter 6's line -- **"Then it can understand reason"** -- is the seed for Mewtwo #2. Giovanni responds to Mewtwo #1's escape not by building a better chain but by raising a loyal partner. The relationship and the clone household's care are genuine; their political purpose remains Giovanni's. That makes Mewtwo #2 a dark mirror of Amber's voluntary bonds, not a mind-controlled superweapon.
-
-Keep the household's exact composition and its public exposure open. The durable contrast is autonomy against imposed purpose for Mewtwo #1, and an autonomous person whose worldview was formed inside Giovanni's family for Mewtwo #2.
+Other assets include forced evolution, accelerated training, rare powerful Pokemon for elite units, standardized command systems, and Rocket Pokeballs, healing, restraint, and communications. Forced evolution has serious limits and costs, but their mechanism remains open.
 
 ## Later Endgame Direction
 
-Giovanni's later conflict begins from legitimacy that survives exposure. His real reforms and lawful title make a revelation of Rocket leadership feel, to supporters, like hostile interference against the order that improved their lives. He can frame initial resistance as defense before overreach turns it into aggression.
+Giovanni's reforms and real supporters make later exposure of Rocket hard to resolve cleanly. His control logic grows from a belief that only he can secure Kanto; it can later expand beyond independence into centralized dominance. The endgame is a coalition resisting that force, coercion, institutional capture, and engineered loyalty. Amber is one critical bridge among Lance's League legitimacy, Silver's personal Rocket conflict, Looker's intelligence, and regional specialists.
 
-The endgame is not a lone hero's boss fight. It is a coalition resisting centralized force, coercion, institutional capture, and engineered loyalty. Amber is one critical bridge among other fronts such as Lance's League legitimacy, Silver's personal Rocket conflict, Looker's intelligence work, and regional specialists' mythic knowledge.
+## Open Questions
 
-A later global model can seek control of League offices, governments, ports, security chokepoints, and Mega-, Ultra Beast-, wormhole-, or legendary-class infrastructure. Do not reintroduce a puppet-Champion premise: Giovanni's defining first capture is his own real Indigo Championship. Exact escalation, alliances, exposure, and overreach remain open.
+- Timing of the challenge and second secession in Amber's journey.
+- Exact legal team roster.
+- Exact first-shot trigger and later Kanto Champion/Protector arrangement.
+- Exact Gym-Leader coalition and retained loyalists.
+- Mewtwo #2's first public use and forced-evolution limits/costs.
+- When and how Amber learns she is tracked, and which incidents are genuine, staged, or merely suspicious.
 
 ## Cross-References
 
 - [Giovanni](../../reference/characters/humans/giovanni.md)
+- [Lance](../../reference/characters/humans/lance.md)
 - [Team Rocket](../../reference/organizations/team-rocket.md)
-- [Champion and Elite Four System](../../reference/world/society/government/champion-system.md)
+- [Champion/Protector and Indigo Council](../../reference/world/society/government/champion-system.md)
 - [Kanto Secession War and Indigo Reunification](../../reference/world/history/kanto-johto-unification-war.md)
-- [Mewtwo](../../reference/characters/pokemon/mewtwo.md)
 - [The Mewtwo Thread](mewtwo-ambertwo.md)
-- [Saga Overview](../saga-overview.md)

@@ -6,7 +6,7 @@
 
 - **Pokemon affinity:** Meowth / Persian
 - **Region Base:** Celadon & Saffron markets (Kanto strong); Johto cousins handle textile trade
-- **Type:** Merchant house (commerce, not warrior tradition)
+- **Type:** Merchant house (commerce, not warrior tradition or hereditary noble Council family)
 
 ## Culture & Rites
 
@@ -48,15 +48,16 @@ The Silvertail clan has one infamous black sheep: the woman who would become Mad
 - Received Meowth as starter, tried to care for it but was distant/functional
 - **Meowth left her** --- found happier trainer who actually played with it, showed affection
 - Saw her Meowth happy elsewhere; concluded bonds are fake/transactional (defense mechanism)
-- **Founded Team Rocket** using stolen clan knowledge: logistics, breeding, merchant networks
+- Her merchant, logistics, breeding, and courier network supplied Kanto during the first secession war
+- After Oak's peace, she organized surviving separatist infrastructure into the criminal/profit faction that became Team Rocket; the exact naming moment remains open
 - Clan tried to help her; she rejected them
 - Now the clan publicly distances themselves: "She doesn't represent us. We wish she'd stop using our name."
 
 ### Why It Matters
 
-- TR's organizational competence comes from stolen Silvertail merchant infrastructure (logistics, networks, breeding programs)
-- Madame Boss married into the [Viridian House](viridian-house.md) family for political legitimacy after founding TR
-- That marriage produced [Giovanni](../../characters/humans/giovanni.md) --- the dual inheritance (Viridian Gym from father's side + TR from mother's side)
+- TR's organizational competence comes from Silvertail commercial and wartime logistics, networks, breeding programs, and courier knowledge
+- Madame Boss is [Giovanni's](../../characters/humans/giovanni.md) mother; his father was the prior Viridian Gym Leader, not a member of an invented Viridian House
+- Madame Boss retains an autonomous profit/finance faction rather than holding unquestioned authority over Giovanni
 - The clan position is "she doesn't represent us, we wish she'd stop using our name" --- creates ongoing reputational tension
 
 ## Story Hooks
@@ -70,7 +71,6 @@ The Silvertail clan has one infamous black sheep: the woman who would become Mad
 ## Cross-Refs
 
 - [Team Rocket](../team-rocket.md) --- the criminal organization founded by Silvertail's black sheep
-- [Viridian House](viridian-house.md) --- the family Madame Boss married into
 - [Giovanni](../../characters/humans/giovanni.md) --- the product of that marriage
 - [Clan System](../../world/society/clan-system.md) --- broader clan framework
 - Nightveil --- transactional ally

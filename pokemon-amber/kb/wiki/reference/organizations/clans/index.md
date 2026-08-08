@@ -7,7 +7,6 @@ For the Johto-vs-Kanto framework that explains clan structure, see [Clan System]
 ## Substantial pages (have own page)
 
 - [Silvertail Lineage](silvertail.md) --- *Meowth / Persian* merchant house. Houses critical Madame Boss / Team Rocket origin canon.
-- [Viridian House](viridian-house.md) --- *Ground-types* (Nidoking, Rhydon, etc.). Kanto-only, no Johto ties. Houses Giovanni parentage canon.
 
 ## Index entries (no individual page yet)
 

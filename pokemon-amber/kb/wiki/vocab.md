@@ -13,13 +13,21 @@ The worldwide family of League institutions. Use this for the general trainer, G
 
 ### Indigo League *(Kanto--Johto institution)*
 
-The joint Kanto--Johto top-level League institution: Champion and Elite Four authority, defense, Gym and trainer regulation, and major interregional and international functions. Kanto and Johto belonged to it before, during, and after the Kanto secession war.
+The joint Kanto--Johto League institution for Champion/Protector and Elite Four authority, defense, Gym and trainer regulation, and major interregional or international functions. Kanto and Johto belonged to it before, during, and after the Kanto secession war.
 
-### Kanto regional administration *(civil layer)*
+### Indigo Council *(elected policy-making government)*
 
-Kanto's regional civil administration for roads, education, commerce, health, and local funding under the Indigo framework. Viridian city government is the municipal layer below it.
+The elected government created by pre-Oak civic reforms. It handles taxation, infrastructure, education, commerce, and civil law, including citizen and noncombatant representation absent from the hereditary Council of Houses. Exact franchise and constitutional checks remain open.
 
-Avoid **Indigo government** as a default. Use *Indigo League administration*, *League officials*, or the relevant Kanto, Johto, or municipal administration.
+### Champion/Protector *(battle-selected defense office)*
+
+The strongest trainer, emergency defender, military symbol, and commander. The office has limited ordinary policy power; do not use it as a synonym for the Indigo Council.
+
+### Kanto regional government / Viridian city government *(lower civil layers)*
+
+Kanto's regional government and Viridian's municipal government sit below the Indigo-level institutions.
+
+Avoid **Indigo government** as a default. Use *Indigo Council* or *Indigo League administration* when precise.
 
 ## Places and Boundaries
 

@@ -64,7 +64,7 @@ Mewtwo #1 and #2 are the same question answered two ways:
 
 The endgame question isn't "can Amber beat Mewtwo #2 in a fight." It's "can Mewtwo #2 be shown what its family actually is — and would seeing it change anything?" Some people never see it. Some people defend their parents forever.
 
-See [Giovanni — The Clone Family](../humans/giovanni.md#the-clone-family) for the full household structure.
+See [Giovanni](../humans/giovanni.md) and [The Mewtwo Thread](../../../planning/saga-threads/mewtwo-ambertwo.md) for the current household and political direction.
 
 ## Open Questions
 

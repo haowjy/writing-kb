@@ -2,67 +2,55 @@
 
 **Status:** drafting
 
-Giovanni is Viridian Gym Leader, Team Rocket's most powerful faction leader, and a coming challenger for the **unified Indigo Championship**. He is a Kanto restorationist: he learns from the failed secession movement that Kanto should not leave the Indigo League, but capture it and make it a Kanto-led order.
+Giovanni is Viridian Gym Leader and the political leader of Team Rocket's largest separatist faction. He seeks an independent Kanto, initially through a peaceful constitutional path; his growing conviction that only his control can secure Kanto turns that goal into a second, forceful secession.
 
 ## Political Model
 
-Giovanni is primarily **Napoleon-modeled**: a modernizing organizer with personal battle prestige, institutional competence, centralizing instincts, expansionist ambition, and eventual overreach. Some ascent mechanics may resemble authoritarian capture after collective grievance -- legal maneuvering, propaganda, elite underestimation, and crisis politics -- but he is not a Hitler analogue. His politics carry no racial or extermination ideology.
+Giovanni is Napoleon-like: a battle-proven modernizer who opposes inherited privilege, centralizes institutions, trusts merit and results, and increasingly mistakes his own rule for Kanto's survival. His mother is merchant elite and his father was a Gym Leader, so he can credibly condemn hereditary noble privilege while claiming earned authority. He uses corruption to attack structural corruption, calling his own use of it temporary necessity.
 
-That does not make him harmless. His culpability includes organized crime, coercion, surveillance, trafficking and research abuse, political intimidation, and later aggression. His danger is that he makes real improvements while steadily converting their infrastructure and loyalty into power.
+He has no racial or extermination ideology. His culpability includes organized crime, coercion, surveillance, trafficking and research abuse, political intimidation, and later aggression. The danger is that his reforms are real while he converts their infrastructure and loyalty into personal power.
 
-## Inheritance and Public Position
+## Family and Viridian
 
-Giovanni's mother, Madame Boss, brought Team Rocket's criminal networks and Silvertail logistics knowledge; his father's Viridian House connection brought the Gym and a Ground-type breeding lineage. The marriage made the overlap between legitimate authority and Rocket power structural rather than accidental.
+Madame Boss is Giovanni's mother. His father, whose name and detailed politics remain open, was the previous Viridian Gym Leader and died in the first Kanto secession war. Giovanni does not inherit a Viridian House or a Gym seat.
 
-Publicly, Giovanni is a demanding but credible Gym Leader. People know he has Rocket associations without understanding the depth of his command. Privately, he directs the largest Rocket faction and pushes it beyond profit toward Kanto restoration and eventual hegemony.
+Viridian is a Kanto-separatist stronghold near the Indigo corridor and Plateau. The old Gym's staff, veterans, and civic networks backed the first secession; parts later kept its codes, routes, supply bases, and veteran ties alive. Public Kanto nationalism is wider than that covert infrastructure.
+
+Giovanni leaves on a conventional trainer journey, proves exceptionally intelligent, earns battle credibility, and returns to take the Gym through a publicly defensible sanctioned challenge against an interim or caretaker leader with local support. Private separatist or Rocket pressure is possible, but he does not simply inherit the office.
 
 ## The Viridian Model
 
-For years before challenging Lance, Giovanni builds goodwill through genuine modernization projects beginning in Viridian and potentially spreading as a **Viridian model**:
+For years, Giovanni builds genuine modernization projects in Viridian:
 
 - scalable first-partner programs for beginning trainers;
 - trainer and vocational schools;
 - roads, underground routes, trade links, and emergency infrastructure;
-- cheaper Pokeballs that challenge Silph's market power;
-- Pokemon Center and public-safety capacity; and
-- practical links among municipal government, trainers, commerce, and League officials.
+- cheaper Pokeballs that challenge Silph's market power; and
+- Pokemon Center and public-safety capacity.
 
-"Starters" means scalable first-partner access, not an assumed mass issue of rare Bulbasaur, Charmander, or Squirtle. Exact species and program design remain open.
+The benefits are real. They also create registration, patronage, logistics, surveillance reach, self-sufficiency, institutional loyalty, and war capacity. Rocket crime supplies seed capital; expanding taxes, trade, and manufacturing can later sustain the programs.
 
-The benefits are real. They also produce registration, patronage, logistics, surveillance reach, institutional loyalty, and strategic capacity. Secret Rocket funds supply seed capital through criminal proceeds, laundering, fronts, construction and logistics firms, hardliner donors, and corrupt procurement. As projects grow, legitimate taxes, trade, and manufacturing revenue can support them; Rocket does not indefinitely pay every public expense.
+His coalition includes corrupt officials, nationalists, careerists, honest supporters, and unaware bureaucrats. Many Kanto Gym Leaders eventually support him for different reasons: committed separatism or Rocket ties, peaceful independence, modernization, anti-clan or anti-corruption reform, and wartime conversion. Indigo loyalists remain; exact membership is open.
 
-Giovanni's coalition is mixed: bribed and blackmailed officials, Kanto nationalists, careerists, hardline donors, honest supporters of projects that work, and bureaucrats who do not know Rocket's full role. By the time he challenges Lance, much of Kanto believes he has already been doing the Champion's job.
+## Challenge, Defeat, and Secession
 
-## The Indigo Ascent
+Giovanni challenges Lance for unified Indigo Champion/Protector because the office could give peaceful Kanto secession constitutional and military legitimacy. He fields a legitimate conventional anti-Dragon team; the exact roster remains open. Mewtwo #2 is neither revealed nor used.
 
-Giovanni replaces Lance through the lawful Indigo Elite Four and Champion gauntlet. He becomes **unified Indigo Champion**, not a Kanto-only Champion and not a puppet-master. Mewtwo #2 gives him a decisive advantage, but the qualification and battles are real. Corrupt officials may enable certification, access, secrecy, or regulatory clearance; they do not falsify the contest or force Lance to lose.
+Lance uses classified, government-sponsored Mega Evolution and defeats him. Mega Evolution may be legal, while the fairness of keeping it secret remains contestable. Giovanni's propaganda presents the secret Johto/Indigo technology as proof that the constitutional path was rigged or closed.
 
-His lesson from the old Kanto movement is institutional: secession gave away the framework that could have legitimized Kanto leadership. He captures the existing League and gradually turns it into a Kanto-led order. Whether that hegemony was always his fixed plan or escalates under Johto resistance remains open, as do the pace of the change and the exact constitutional routes he exploits.
+Peace was Giovanni's preferred route, not unconditional pacifism. After losing, he forcefully secedes Kanto: seizing Indigo assets in Kanto, neutralizing loyalist officials, withholding taxes and resources, creating separate administration and licensing, controlling routes, borders, and communications, and mobilizing Gym allies with Rocket infrastructure. Lance remains unified Indigo Champion/Protector. Kanto's later Champion/Protector arrangement and the exact first-shot crisis remain open.
 
 ## Mewtwo #2
 
-Chapter 6 supplies the central seed. After Mewtwo #1 escapes, Giovanni hears that a Mewtwo can reason, desire, and hold grudges, and answers: **"Then it can understand reason."** He does not seek a disposable controlled weapon. He seeks a partner who can be raised into genuine loyalty.
+After Mewtwo #1 escapes, Giovanni answers Fuji's report that it can reason, desire, and hold grudges: **"Then it can understand reason."** He does not seek a controlled weapon. Mewtwo #2 is a genuine loyal partner and true believer raised in the clone family with care, identity, purpose, respect, and agency; its worldview is formed inside Giovanni's political project.
 
-Mewtwo #2 is therefore a true member of Giovanni's clone household: raised with care, purpose, respect, and family rather than chains. The attachment is real, which makes it more durable and morally more troubling than simple control. Giovanni uses belonging to direct an autonomous partner toward his political project.
-
-The household's exact composition, the public unveiling of Mewtwo #2, and the details of its development remain open. The settled contrast is clear: Mewtwo #1 represents autonomy against imposed purpose; Mewtwo #2 is a loyal partner whose agency has been formed inside Giovanni's worldview.
-
-## Relationship to the War
-
-Giovanni inherits the Kanto-nationalist memory of the secession war: Oak proved Kanto could lead and then surrendered its freedom to Johto clan power. He treats that memory as a grievance to be redeemed. It is not the neutral history: Oak participated in an illegal secession, then recognized the catastrophe and helped prevent a worse one.
-
-Giovanni's program is restorationist, revanchist, and hegemonic rather than merely separatist. He does not want an independent Kanto outside Indigo; he wants Kanto to command Indigo and, eventually, to project that order farther.
-
-## Later Direction
-
-After his ascent, Giovanni's legitimate victories and practical reforms let support survive revelations about Rocket. His later aggression can present itself as defense against external interference before expanding into overreach. The exact exposure, timing, and breaking point remain planning questions.
+Giovanni keeps Mewtwo #2 out of the Championship match because he expects his legal team to win and exposing it would reveal Fuji, illegal research, and registration problems. It first appears during the forceful secession as a strategic deterrent or war asset; whether that means deterrence alone or immediate deployment remains open. Forced-evolution technology, accelerated training, rare elite-unit Pokemon, standardized command, and Rocket equipment form the other military hand, but forced evolution must carry serious costs that remain unspecified.
 
 ## Cross-References
 
 - [Team Rocket](../../organizations/team-rocket.md)
 - [Viridian Gym](../../places/kanto/viridian-gym.md)
-- [Viridian House](../../organizations/clans/viridian-house.md)
-- [Champion and Elite Four System](../../world/society/government/champion-system.md)
+- [Champion/Protector and Indigo Council](../../world/society/government/champion-system.md)
 - [Kanto Secession War and Indigo Reunification](../../world/history/kanto-johto-unification-war.md)
 - [Mewtwo](../pokemon/mewtwo.md)
 - [Giovanni and Team Rocket](../../../planning/saga-threads/giovanni-team-rocket.md)

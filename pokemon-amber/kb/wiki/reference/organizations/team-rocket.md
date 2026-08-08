@@ -2,61 +2,47 @@
 
 **Status:** drafting
 
-Team Rocket is Kanto's embedded nationalist-criminal institution: a federation of criminal businesses, political networks, former separatist support, and covert research programs. It is neither a secret conspiracy nor a uniform bloc of knowing villains. Its public-facing services, fronts, donors, and civic ties make it difficult to separate from the institutions it exploits.
+Team Rocket is Kanto's embedded nationalist-criminal institution: a federation of wartime remnants, criminal businesses, political networks, and covert research programs. It is neither a secret conspiracy nor a uniform bloc of knowing villains.
 
 ## Origins
 
-Rocket emerged from the aftermath of the **Kanto secession war**, not from a Kanto--Johto war between foreign states. Demobilized separatist veterans, Kanto nationalists, and people alienated by reunification supplied grievance and manpower. Their central political memory is that Oak proved Kanto could lead, then abandoned Kanto freedom and restored Johto clan influence.
+Rocket grew from Kanto separatist infrastructure during the first secession war: moving and secret bases, depots and labs, codes and communications, false identities, covert procurement and breeding, smuggling routes, and intelligence. Oak's peace left some participants unwilling to demobilize; they kept that machinery underground.
 
-Madame Boss, a Silvertail black sheep, gave that anger a business structure: stolen logistics knowledge, merchant and breeding networks, black-market experience, and a strategic marriage into [Viridian House](clans/viridian-house.md). Rocket thus combines nationalist grievance with organized crime and legitimate-family access.
+Madame Boss, a financier from the Silvertail merchant clan rather than a noble clan, organized and professionalized the survivors. Her commercial, logistics, breeding, and courier networks had supplied Kanto during the war. She shifted the infrastructure toward criminal and profit activity to preserve it. The exact moment it became named Team Rocket remains open.
 
-This is not neutral history. Johto's counterview is that Oak used unified authority for an illegal secession and then helped stop it. Rocket's nationalist account turns a contested memory into a recruitment tool.
+Rocket's nationalist story --- Oak proved Kanto could lead and then betrayed independence --- is contested. Johto's counterview is that Oak joined an illegal secession and helped end it.
+
+## Factions
+
+Rocket is a fractured federation, not a pyramid.
+
+- **Madame Boss's faction** prioritizes profit, finance, and criminal autonomy.
+- **The separatist old guard** preserves the independence cause.
+- **Pragmatists** accept crime as financing for the cause.
+- **Giovanni's faction** joins his father's separatist legacy to his mother's machinery and argues crime is necessary to finance renewed independence and weaken Johto/Indigo.
+
+Madame Boss retains family leverage and can act independently; she is not Giovanni's unquestioned superior in one unified hierarchy. Rocket crime also harms Kanto, a contradiction its political factions rationalize as necessary financing and fight over.
 
 ## Public and Hidden Faces
 
-Publicly, Rocket is visible in gambling, loans, protection, smuggling, and the under-resourced gaps where it also supplies money, order, or work. Some Kanto residents see it as a necessary institution; many know it has political connections and nationalist rhetoric. That partial respectability is part of its protection.
-
-Its concealed layer includes rare-Pokemon trafficking, large-scale poaching, human experimentation and cloning, coercive control research, political intimidation, industrial espionage, and targeted violence. Knowledge is compartmentalized. Public supporters, frontline workers, and even some officials connected to Rocket need not know these operations exist.
-
-## Organization and Funding
-
-Rocket is a federation, not a perfectly centralized pyramid.
-
-- **Giovanni** commands the largest faction and its political direction.
-- **Madame Boss** retains a profit-centered criminal faction.
-- **Other factions** include regional operators, hardline networks, fronts, and criminal specialists whose number and leadership remain open.
-
-Its seed capital comes from crime proceeds, laundering, fronts, construction and logistics firms, hardliner donors, and corrupt procurement. That capital can launch public projects, but growing programs also generate legitimate tax, trade, and manufacturing revenue. Do not treat every hospital, road, school, or public employee as indefinitely paid by Rocket.
-
-Its political coalition includes bribed or blackmailed officials, Kanto nationalists, careerists, hardline donors, honest supporters of successful programs, and unaware bureaucrats. Corruption matters, but not every official is knowingly corrupt.
+Publicly, Rocket appears in gambling, loans, protection, smuggling, and the under-resourced gaps where it also supplies money, order, or work. Its concealed layer includes rare-Pokemon trafficking, poaching, cloning and research abuse, political intimidation, industrial espionage, and targeted violence. Knowledge is compartmentalized.
 
 ## Giovanni's Direction
 
-Giovanni moves Rocket from simple profit and separatist nostalgia toward **Kanto restorationist hegemony**. He learns from the old movement's failure: do not leave the Indigo League; capture it.
+Rocket-linked crime, fronts, contractors, donors, and corrupt procurement seed Giovanni's real Viridian modernization. The projects later draw legitimate taxes, trade, and manufacturing revenue; do not treat every road, school, or public employee as indefinitely Rocket-funded.
 
-Before he challenges Lance, Rocket-linked money and networks help seed years of genuine Viridian modernization. The resulting schools, first-partner access, infrastructure, cheaper Pokeballs, safety systems, and trade relationships build real public support as well as registration, patronage, logistics, surveillance, and strategic capacity. By his Champion challenge, many Kanto residents see Giovanni as already performing the job.
+Giovanni first seeks peaceful Kanto secession, using a lawful challenge for the unified Champion/Protector office to legitimize it. After Lance defeats him with classified Mega Evolution, he uses Rocket as covert general staff: logistics, intelligence, secret assets, communications, Pokeballs, healing, restraint, and standardized command. Gym allies supply local trainer forces, civic legitimacy, and infrastructure.
 
-Giovanni takes the unified Indigo Championship through the lawful Elite Four plus Champion gauntlet. His decisive partner is Mewtwo #2, raised into loyal partnership rather than held as a disposable controlled weapon. Administrative corruption may ease access, secrecy, certification, or regulatory clearance; it does not falsify the battles or compel Lance to lose.
+Mewtwo #2 is held out of the public Championship match and first revealed during the forceful secession as a strategic deterrent or war asset. It is a genuine loyal partner, not a mind-controlled tool. Forced evolution, accelerated training, and elite rare-Pokemon units are additional assets; their limits and costs remain open.
 
-## Operational Patterns
+## Limits and Open Questions
 
-- **Local fronts:** the Viridian Gym, Game Corner businesses, transport firms, construction, procurement, and other legitimate-facing operations can create cover, access, or revenue.
-- **Recruitment:** Rocket targets the indebted, vulnerable, disillusioned, nationalist, and opportunistic. It offers pay, protection, purpose, advancement, and Pokemon access.
-- **Capture and trafficking:** it steals rare Pokemon, uses false authority and staged incidents, and develops illegal restraint, telemetry, and control tools. These methods remain unreliable and dangerous.
-- **Institutional pressure:** it mixes bribery, blackmail, patronage, intimidation, and apparent competence. It also benefits from people who support a program without knowing who ultimately controls it.
-
-## Limits
-
-Rocket still has finite funds, internal factions, public-legitimacy constraints, and opponents across Ranger, League, regional, and international institutions. Its success comes from exploiting a mixed system, not from omniscience or total control.
-
-## Later Direction
-
-Once Giovanni holds the Indigo Championship, Rocket's long-term danger is institutional capture: a Kanto-led order inside the League, followed by attempts to extend control through governments, League offices, ports, security chokepoints, and strategic-force infrastructure. Exact pace, exposure, and global escalation remain open.
+Rocket has finite funds, public-legitimacy constraints, factional conflict, and opponents across Ranger, League, regional, and international institutions. The exact naming moment, the father and Madame Boss's relationship, and the detail of Mewtwo #2's first deployment remain open.
 
 ## Cross-References
 
 - [Giovanni](../characters/humans/giovanni.md)
 - [Viridian Gym](../places/kanto/viridian-gym.md)
-- [Viridian House](clans/viridian-house.md)
+- [Silvertail Lineage](clans/silvertail.md)
 - [Kanto Secession War and Indigo Reunification](../world/history/kanto-johto-unification-war.md)
 - [Giovanni and Team Rocket](../../planning/saga-threads/giovanni-team-rocket.md)

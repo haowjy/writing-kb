@@ -8,10 +8,10 @@
 ## Giovanni & Team Rocket Context
 
 ### Giovanni's Background
-- **Family Legacy:** Viridian Gym has been controlled by Giovanni's family for generations (Ground-type specialization)
+- **Viridian legacy:** Giovanni's father was the previous Viridian Gym Leader and died in the first secession war; Giovanni later takes the Gym by sanctioned challenge and local support, not inheritance.
 - **Kanto restorationist:** Inherits the nationalist memory that Oak proved Kanto could lead, then surrendered Kanto freedom to Johto clan power. This is a political interpretation, not neutral history.
-- **Institutional strategist:** Learns from the failed secession effort that Kanto should capture the unified Indigo League, not leave it.
-- **True believer:** Not just a criminal opportunist; he genuinely wants a Kanto-led order.
+- **Separatist strategist:** Initially seeks peaceful Kanto independence through legitimate institutions; force becomes his contingency after that path fails.
+- **True believer:** Not just a criminal opportunist; he genuinely believes Kanto needs independence and increasingly mistakes his own control for its survival.
 
 ### Team Rocket: Madame Boss's Criminal Empire
 
@@ -42,33 +42,32 @@
 - Others have cut ties completely
 - Clan is legitimate business, not complicit in TR
 
-**Madame Boss's Marriage & Giovanni:**
-- Married into Viridian Gym family for political legitimacy/cover
-- **Giovanni's father unknown** (Madame Boss won't say - strategic connection)
-- Raised Giovanni with her twisted philosophy: "Bonds are fake, Pokemon are tools"
-- But Giovanni also exposed to father's side (Viridian family had normal Pokemon relationships)
-- Result: Giovanni begins with a cold, instrumental inheritance but learns to use genuine belonging and loyalty for political ends
-- Inherited Viridian Gym (father) AND Team Rocket criminal empire (mother)
+**Madame Boss, Giovanni, and Viridian:**
+- Madame Boss is a Silvertail merchant-clan financier, not nobility; she retains an autonomous profit/finance faction.
+- Giovanni's father was the previous Viridian Gym Leader and died in the first secession war; his name and detailed ideology remain open.
+- Giovanni later wins Viridian through a sanctioned challenge and local support, not inheritance.
+- Giovanni takes Rocket by siding with separatist old guard against Madame Boss's profit faction; she remains a rival with family leverage.
+- His clone-family model uses genuine belonging and loyalty for political ends.
 
 **Giovanni (New Guard):**
 - Transformed Team Rocket into **nationalist movement** post-war
 - Uses his mother's criminal infrastructure to seed a political agenda
 - Draws support from hardline donors, nationalist networks, careerists, and some people who simply see working public programs
-- **Vision:** build a Kanto-led order by capturing the unified League rather than destabilizing it from outside
+- **Vision:** secure Kanto independence, first through peaceful constitutional means; his total-control logic develops later.
 - Unlike his mother, he understands that genuine loyalty can be cultivated and politically directed
 
 **Internal Tension:**
-- Old guard (loyal to Madame Boss): Profit-focused, apolitical, auction rare Pokemon for money
-- New guard (loyal to Giovanni): ideological, centralizing, and committed to Kanto restoration
-- Mother treats Mewtwo as a profit or control asset; Giovanni intends to raise a decisive political partner
-- Giovanni consolidating power but hasn't fully sidelined his mother
+- Madame Boss faction: profit and finance, autonomous from Giovanni
+- Separatist old guard: independence cause
+- Pragmatists: crime as war financing
+- Giovanni faction: joins separatism to Rocket machinery; Mewtwo #2 is a genuine political partner, not a controlled asset
 
 ### Mewtwo Project Motivations
 
 **Giovanni's True Goal:**
-- **Kanto restoration through decisive force** rather than a repeat of failed secession
+- **Kanto independence through peaceful constitutional legitimacy if possible, with force as contingency**
 - Mewtwo #2 must be able to choose, reason, and fight as a partner; Chapter 6's "Then it can understand reason" is the seed
-- Its later role is decisive in Giovanni's lawful unified Indigo Champion challenge
+- It stays out of Giovanni's lawful challenge; after Lance defeats him, its first appearance is as deterrent or war asset during forceful secession
 - Not merely a profit asset: a political partnership shaped by family, modernization, and conquest
 
 **Why This Scene Matters:**

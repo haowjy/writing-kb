@@ -2,33 +2,22 @@
 
 **Status:** drafting
 
-Viridian Gym is Kanto's Ground-type pillar Gym and the visible center of Giovanni's local authority. It is both a legitimate League institution and a structural cover for part of Team Rocket's network.
+Viridian Gym is Kanto's Ground-type pillar Gym and the visible center of Giovanni's local authority. It is a legitimate League institution with a partial structural overlap with Team Rocket's separatist infrastructure.
 
-## Public Role
+## History and Public Role
 
-The Gym issues legitimate Earth Badges and maintains real battle standards. Under Giovanni, it also anchors the first wave of the **Viridian model**: trainer and vocational pathways, beginner-partner access, public safety and emergency capacity, and links to roads, underground routes, trade, and Pokemon Center infrastructure.
+Viridian is a Kanto-separatist stronghold near the Indigo corridor and Plateau. The previous Gym Leader --- Giovanni's father, who died in the first secession war --- and the old Gym's staff, veterans, and civic networks backed the original secession. Afterward, parts kept codes, routes, supply bases, and veteran ties alive. That covert network is narrower than Viridian's public Kanto nationalism.
 
-These projects answer real local needs. They also make registration, patronage, logistics, surveillance, and institutional loyalty flow through Giovanni's civic network. A person benefiting from the Gym's programs need not know or approve of Rocket's criminal operations.
+Giovanni earns battle credibility on a conventional trainer journey, then takes the Gym through a publicly defensible sanctioned challenge against an interim or caretaker leader with local support. He does not inherit it.
+
+The Gym issues legitimate Earth Badges and maintains real battle standards. Under Giovanni it anchors first-partner access, schools, public safety, emergency capacity, roads, underground routes, trade, and Pokemon Center infrastructure. These projects meet real needs while making registration, patronage, logistics, surveillance, self-sufficiency, and war preparation flow through his civic network.
 
 ## Hidden Role
 
-Rocket uses Gym-linked authority, personnel, facilities, and family networks for cover and influence. The overlap is dangerous precisely because the public institution is useful and the badges it issues are real; it is not a wholly fake Gym or a wholly fraudulent credential system.
-
-Corrupt actors may protect particular access, procurement, or regulatory decisions. They do not make Gym battles false, and they do not by themselves account for Giovanni's later League victory.
-
-## House Connection
-
-Viridian House has controlled the Gym for generations through Ground-type breeding and local influence. Giovanni's mixed inheritance -- Viridian House authority from his father and Rocket power from Madame Boss -- makes the Gym/Rocket overlap structural rather than coincidental.
-
-## Story Relevance
-
-- Giovanni's Ground-type mastery and credible public work make him a compelling Kanto leader before he seeks the Indigo Championship.
-- The Gym can be Amber's first badge challenge and an early view of the gap between genuine civic value and captured institutions.
-- It is the local base from which Giovanni's modernization spreads, not proof that every Viridian resident or official is complicit.
+Rocket uses Gym-linked personnel, facilities, veteran ties, and local authority for cover and influence. Gym allies later provide local trainer forces, civic legitimacy, and infrastructure; Rocket supplies covert general staff, logistics, intelligence, and secret assets. The overlap does not make the Gym fake or every resident complicit.
 
 ## Cross-References
 
 - [Giovanni](../../characters/humans/giovanni.md)
 - [Team Rocket](../../organizations/team-rocket.md)
-- [Viridian House](../../organizations/clans/viridian-house.md)
-- [Champion and Elite Four System](../../world/society/government/champion-system.md)
+- [Champion/Protector and Indigo Council](../../world/society/government/champion-system.md)

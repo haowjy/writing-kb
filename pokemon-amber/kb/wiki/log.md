@@ -390,3 +390,13 @@ role.
 - Replaced the puppet-Champion model with Giovanni's lawful unified Indigo Championship over Lance, supported by years of real Viridian modernization and Mewtwo #2 as a loyal partner.
 - Removed the blunt Napoleon-plus-Hitler framing, distinguished real public benefits from Rocket capture mechanisms, and recorded the mixed coalition behind Giovanni's ascent.
 - Added Lance's reference page and normalized League terminology across the affected history, government, character, organization, planning, and timeline pages.
+
+## 2026-08-08 — Superseded Giovanni's unified-Champion ascent with failed constitutional secession
+
+This entry supersedes the active Giovanni/Rocket direction recorded immediately above wherever it conflicts. The older entries remain maintenance history, not current lore.
+
+- Replaced Giovanni lawfully defeating Lance and becoming unified Indigo Champion with a lawful challenge for the Champion/Protector office that Lance wins using classified, government-sponsored Mega Evolution. Giovanni keeps Mewtwo #2 out of that match, then forcefully secedes Kanto; Lance remains unified Champion/Protector.
+- Recorded the elected Indigo Council's ordinary policy role, the limited Champion/Protector office, ancient hereditary noble rule, and the continued practical influence of nobles and Kanto industrial elites; exact constitutional mechanics remain open.
+- Recast Rocket's origin as surviving Kanto-separatist wartime infrastructure. Madame Boss is a Silvertail merchant-clan financier who professionalizes an autonomous profit faction, not Giovanni's unquestioned superior or a noble by strategic marriage.
+- Removed the invented Viridian House and inherited-Gym model. Giovanni's father was the previous Viridian Gym Leader, killed in the first secession war; Giovanni wins the Gym through sanctioned challenge and local support.
+- Recorded Mewtwo #2 as a genuine loyal partner and hidden war asset, not a controlled weapon. Its first use, the second-war trigger, Council mechanics, exact teams, and forced-evolution limits remain open.

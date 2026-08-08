@@ -13,7 +13,7 @@ Chronological, reader-focused summary of events so far. Citations link to `story
 - **~50 years ago:** Silph Co. breakthrough in mass Pokeball production - democratization of Pokemon training begins
 
 ### Recent History
-- **~40-50 years ago:** Samuel Oak becomes unified Indigo Champion.
+- **~40-50 years ago:** Samuel Oak becomes unified Indigo Champion/Protector; civic reforms have already reduced noble-only rule and established the elected Indigo Council.
 - **~30-20 years ago:** Kanto secession war.
   - Kanto and Johto are already parts of the Indigo League.
   - Oak, under Kanto elite, institutional, and public pressure, authorizes and participates in a secession effort.
@@ -23,7 +23,7 @@ Chronological, reader-focused summary of events so far. Citations link to `story
 
 ### Current Day (Story Present)
 - **10-20 years after the war:** the Indigo League remains the joint Kanto--Johto top-level institution.
-- Lance is unified Indigo Champion; Oak is a respected researcher with influence but no present Champion office.
+- Lance is unified Indigo Champion/Protector; Oak is a respected researcher with influence but no present Champion office. Giovanni later challenges Lance, loses to classified Mega Evolution, and forcefully secedes Kanto; exact dating and trigger remain planning.
 - Kanto nationalist networks remember Oak as having surrendered Kanto freedom; Johto treats his secession role as illegal. Team Rocket uses the first narrative as a political resource.
 - Giovanni controls Viridian Gym and the strongest Team Rocket faction.
 

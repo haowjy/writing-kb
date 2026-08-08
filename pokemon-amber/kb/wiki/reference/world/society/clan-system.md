@@ -1,6 +1,6 @@
 # Clan & Lineage System
 
-Regional distinction in how families control Pokemon breeding and training. The fundamental split: **Johto retained traditional clan structures; Kanto modernized into corporate families**. Both descend from pre-Pokeball survival necessity.
+Regional distinction in how families control Pokemon breeding and training. Johto retained more traditional clan structures; Kanto often converted older influence into corporate families, merchant networks, Gyms, schools, and industrial patronage. Both descend from pre-Pokeball survival necessity.
 
 ## Core Concept
 
@@ -39,7 +39,7 @@ Regional distinction in how families control Pokemon breeding and training. The 
   - Breeding remains family art, not just business
 
 **After the Kanto secession war:**
-- Kanto and Johto remain within the unified Indigo League, but the failed secession deepens regional status conflict
+- Kanto and Johto remain within unified Indigo; civic reforms have already established an elected Indigo Council and reduced noble-only rule, while old nobles and Kanto industrial elites retain practical influence
 - Kanto nationalist rhetoric presents Johto clans as leeches on Kanto wealth and technology; Johto's ecological, breeding, and institutional contributions make that claim contested
 - Johto often sees Kanto corporate power as extractive or dismissive of inherited expertise
 - Some Johto clan members live or work in Kanto as wandering heirs, merchants, and specialists
@@ -79,15 +79,14 @@ This connects to [Aura and Bonds — Mechanics](../systems/aura.md) --- ancient 
 
 ## Specific Clans
 
-See [Celadon City](../../organizations/clans/index.md) for the catalog of named clans (14 entries: Houndstone, Silvertail, Sandbind, Emberfall, Thunderway, Hearthbloom, Stonehand, Driftroot, Stonewing, Mindglass, Bugwarden, Nightveil, Viridian House, Blackthorn).
+See [the clan and lineage index](../../organizations/clans/index.md) for the catalog of named clans and lineages.
 
 Substantial individual pages:
 - [Silvertail Lineage](../../organizations/clans/silvertail.md) --- merchant house with Madame Boss / Team Rocket origin canon
-- [Viridian House](../../organizations/clans/viridian-house.md) --- Giovanni's family lineage, abandoned traditional practices
 
 ## Cross-Refs
 
-- [Celadon City](../../organizations/clans/index.md) --- the catalog
+- [Clan and Lineage Index](../../organizations/clans/index.md) --- the catalog
 - [Team Rocket](../../organizations/team-rocket.md) --- TR origin in Silvertail rejection
 - [Aura and Bonds — Mechanics](../systems/aura.md) --- clan training as aura cultivation method
 - [Kanto Secession War and Indigo Reunification](../history/kanto-johto-unification-war.md) --- post-war tensions

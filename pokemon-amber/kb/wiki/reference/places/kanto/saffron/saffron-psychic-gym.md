@@ -34,4 +34,4 @@ See [Saffron Gym Rivalry](../../../../planning/arcs/01-kanto-year-1/saffron-gym-
 - [Saffron Fighting Dojo](saffron-fighting-dojo.md) --- the displaced rival
 - [Sabrina](../../../characters/humans/sabrina.md) --- the family's prodigy
 - [Saffron Gym Rivalry](../../../../planning/arcs/01-kanto-year-1/saffron-gym-rivalry.md) --- the proxy war
-- [Viridian House](../../../organizations/clans/viridian-house.md) --- (when created) parallel Kanto wealth structure
+- [Viridian Gym](../viridian-gym.md) --- a separate Kanto political and civic power center
