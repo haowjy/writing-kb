@@ -15,6 +15,8 @@ unwritten story).
 
 ## Planning
 
+[Planning index](planning/index.md)
+
 ### Saga Threads
 
 | Page | Scope |
@@ -45,23 +47,27 @@ Pikachu handoff under Arc 10; dimensional-displacement mechanics under Arc 14.
 
 - [Amber's roster](planning/rosters/amber-team.md)
 - [World opening](planning/world-opening.md)
-- [Themes](planning/themes/)
-- [Decisions](planning/decisions/)
+- [Themes](planning/themes/index.md)
+- [Decisions](planning/decisions/index.md)
 
 ## Reference
 
-- [Human characters](reference/characters/humans/)
-- [Pokemon characters](reference/characters/pokemon/)
-- [Places](reference/places/)
-- [Organizations](reference/organizations/)
+[Reference index](reference/index.md)
+
+- [Human characters](reference/characters/humans/index.md)
+- [Pokemon characters](reference/characters/pokemon/index.md)
+- [Places](reference/places/index.md)
+- [Organizations](reference/organizations/index.md)
 - [World history](https://github.com/haowjy/pokemon-amber/blob/main/story/)
-- [Society](reference/world/society/)
-- [Systems](reference/world/systems/)
-- [Technology](reference/world/technology/)
-- [Phenomena](reference/world/phenomena/)
+- [Society](reference/world/society/index.md)
+- [Systems](reference/world/systems/index.md)
+- [Technology](reference/world/technology/index.md)
+- [Phenomena](reference/world/phenomena/index.md)
 
 ## Continuity
 
+[Continuity index](continuity/index.md)
+
 - [Timeline](continuity/timeline.md)
-- [Established events](continuity/events/)
-- [Contradictions](continuity/contradictions/)
+- [Established events](continuity/events/index.md)
+- [Contradictions](continuity/contradictions/index.md)

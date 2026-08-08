@@ -12,6 +12,8 @@ intent, and unrevealed canon.
 - wiki/planning/ --- unwritten story architecture, arcs, saga threads, themes, and decisions
 - wiki/continuity/ --- timeline, established events, and contradictions
 - wiki/index.md --- curated navigation
+- Each major branch and reusable collection has a local `index.md`; numbered
+  arc folders use `overview.md` instead
 - wiki/vocab.md --- stable project vocabulary
 - wiki/log.md --- append-only maintenance history
 - research/ --- raw external sources cited by wiki pages

@@ -374,3 +374,11 @@ role.
 - Consolidated the two Aura pages into one system reference.
 - Reorganized characters, places, organizations, and worldbuilding by subject.
 - Rebuilt wiki/index.md and updated kb/AGENTS.md for the new taxonomy.
+
+
+## 2026-08-08 --- Added layered navigation indexes
+
+- Added branch indexes for reference, planning, and continuity.
+- Added collection indexes for characters, organizations, places, world domains,
+  arcs, saga threads, themes, decisions, rosters, events, and contradictions.
+- Updated the root index to route through local indexes.
