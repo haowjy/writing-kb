@@ -114,5 +114,5 @@ fixing every mechanic.
   a locked win condition.
 
 Cross-refs: [Argaea plot thread](../../plot-threads/argaea.md), [Hidden Kingdom
-arc](../../arcs/arc-hidden-kingdom.md), [Prince
+arc](../../arcs/10-argaea-kitakami.md), [Prince
 Alexander](../../characters/prince-alexander.md), [vocabulary](../../vocab.md)

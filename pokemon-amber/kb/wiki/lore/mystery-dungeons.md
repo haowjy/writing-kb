@@ -124,4 +124,4 @@ This mini-arc is also a strong place for the younger Charcadet bond: Amber's fir
 - [Quest System & Job Boards](trainer-systems/quest-system.md) — Pokemon Center job-board infrastructure
 - [Adventurer System](trainer-systems/adventurer-system.md) — informal adventurer identity and Paldean cultural myth
 - [World Opening Timeline](world-opening-timeline.md) — wider world becoming more accessible over the saga
-- [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](../arcs/arc-hidden-kingdom.md) — future impossible-place escalation
+- [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](../arcs/10-argaea-kitakami.md) — future impossible-place escalation

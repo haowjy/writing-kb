@@ -62,7 +62,7 @@ cause a breach are not settled.
 ## Cross-Refs
 
 - [Argaea plot thread](../plot-threads/argaea.md)
-- [Hidden Kingdom arc](../arcs/arc-hidden-kingdom.md)
+- [Hidden Kingdom arc](../arcs/10-argaea-kitakami.md)
 - [Saga overview](../arcs/saga-overview.md)
 - [Darkrai and Cresselia](../lore/legendaries/darkrai-cresselia.md)
 - [Alonso Quijano](alonso-quijano.md)

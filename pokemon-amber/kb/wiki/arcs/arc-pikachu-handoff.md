@@ -31,6 +31,6 @@ Not triumphant. Not sentimental. She hands it over and leaves. The weight is in 
 ## Cross-Refs
 
 - wiki/pokemon-teams/team-amber-mc.md — Pikachu listed under confirmed roster beats
-- arcs/arc-hidden-kingdom.md — Hidden Kingdom arc, same Year 2 window
+- arcs/10-argaea-kitakami.md — Hidden Kingdom arc, same Year 2 window
 - wiki/characters/professor-oak.md — Oak receives the handoff
 - future/current-direction.md — Ash age/timeline

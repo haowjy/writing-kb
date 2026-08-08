@@ -324,6 +324,7 @@ not treat their "locked" labels as current.
 
 Decided / current direction:
 
+- Renamed `arcs/arc-hidden-kingdom.md` to `arcs/10-argaea-kitakami.md` so the first Argaea visit sorts as Arc 10 and identifies its Kitakami focus.
 - Created `plot-threads/argaea.md` as the cross-arc causal spine for two visits.
 - Argaea is a smallish, physically and dimensionally sealed pocket region in
   the same Pokemon world, with multiple provinces or communities and about

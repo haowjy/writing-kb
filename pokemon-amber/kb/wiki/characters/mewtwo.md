@@ -82,4 +82,4 @@ See [Giovanni — The Clone Family](giovanni.md#the-clone-family) for the full h
 - `wiki/characters/amber-mc.md` — shared origin, Mew DNA
 - `wiki/characters/ditto.md` — the third product
 - `wiki/lore/aura-system.md` — Mew DNA capacity
-- `arcs/arc-hidden-kingdom.md` — Mew connection becomes plot-relevant
+- `arcs/10-argaea-kitakami.md` — Mew connection becomes plot-relevant

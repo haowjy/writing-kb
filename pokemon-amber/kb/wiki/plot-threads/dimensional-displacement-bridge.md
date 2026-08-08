@@ -77,5 +77,5 @@ This is support, not a total canon lock on the exact mechanism.
 - [Saga Overview — Full Arc Structure](../arcs/saga-overview.md) — macro arc order
 - [Future Arc: Alola / Aether / Ultra Space Reset](../arcs/arc-alola-ultra-space.md) — Alola reset arc direction after recovery
 - [Future Arc: Hoenn](../arcs/arc2-hoenn.md) — Delta Episode seed and later Hoenn return
-- [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](../arcs/arc-hidden-kingdom.md) — the kingdom promise and the later Mega Darkrai return
+- [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](../arcs/10-argaea-kitakami.md) — the kingdom promise and the later Mega Darkrai return
 - [Rainbow Rocket Endgame](rainbow-rocket-endgame.md) — late-saga power politics and escalation

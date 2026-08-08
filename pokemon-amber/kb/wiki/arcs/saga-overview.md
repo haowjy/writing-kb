@@ -155,7 +155,7 @@ structure and cannot supply the breach or seal mechanics by assumption.
 **Ends:** Amber and Alexander escape. Gardevoir and Cresselia hold opposite
 sides of a temporary seal, creating the obligation and deadline for Visit 2.
 
-See: [Hidden Kingdom arc](arc-hidden-kingdom.md), [Argaea plot
+See: [Hidden Kingdom arc](10-argaea-kitakami.md), [Argaea plot
 thread](../plot-threads/argaea.md), [Pikachu handoff](arc-pikachu-handoff.md)
 
 ---
@@ -233,7 +233,7 @@ Alola and the Delta Episode strengthen this return: Amber comes back with Ultra 
 King, and final win condition. Cresselia plus Shaymin is not a locked cure, and
 Alexander reclaiming the throne is not a locked ending.
 
-See: [Hidden Kingdom arc](arc-hidden-kingdom.md), [Argaea plot
+See: [Hidden Kingdom arc](10-argaea-kitakami.md), [Argaea plot
 thread](../plot-threads/argaea.md)
 
 ---
@@ -300,7 +300,7 @@ See: [The Mewtwo Thread](../plot-threads/mewtwo-thread.md)
 - [Kanto Year 1](arc1-kanto-year1.md) — Kanto Year 1 detail
 - [Celadon arc](arc-celadon.md) — Celadon/Erika/Vee arc
 - [Hoenn arc](arc2-hoenn.md) — Hoenn arc detail
-- [Hidden Kingdom arc](arc-hidden-kingdom.md) — Hidden Kingdom arc (Arcs 10 + 16)
+- [Hidden Kingdom arc](10-argaea-kitakami.md) — Hidden Kingdom arc (Arcs 10 + 16)
 - [Argaea plot thread](../plot-threads/argaea.md) — causal spine, clue lanes, and open mechanics across both visits
 - [Alola / Ultra Space arc](arc-alola-ultra-space.md) — Alola / Aether / Ultra Space reset arc
 - [Pikachu handoff](arc-pikachu-handoff.md) — Pikachu/Ash beat

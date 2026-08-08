@@ -83,7 +83,7 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 ### Primary
 
-- **Kirlia → Gardevoir** *(acquired early Hoenn; external seal anchor after Argaea Visit 1)* — Amber's psychic slot. Caught early in Hoenn, travels with her through the full Hoenn arc and conference win. During the Kitakami stage of Argaea Visit 1, Amber and Gardevoir discover or are forced to discover Mega Evolution together. After Cresselia expels Amber and Alexander, Amber and Gardevoir use Mega Evolution in a sealing action. Gardevoir must remain at or on the outside threshold as external support while Cresselia holds the inner side. The patch is temporary, and freeing Gardevoir is a fixed objective of Visit 2. Gardevoir's exact location, accessibility, and long-term Mega mechanics are open; do not assume she remains Mega-Evolved for years. See: [the Argaea plot thread](../plot-threads/argaea.md) and [the Hidden Kingdom arc](../arcs/arc-hidden-kingdom.md).
+- **Kirlia → Gardevoir** *(acquired early Hoenn; external seal anchor after Argaea Visit 1)* — Amber's psychic slot. Caught early in Hoenn, travels with her through the full Hoenn arc and conference win. During the Kitakami stage of Argaea Visit 1, Amber and Gardevoir discover or are forced to discover Mega Evolution together. After Cresselia expels Amber and Alexander, Amber and Gardevoir use Mega Evolution in a sealing action. Gardevoir must remain at or on the outside threshold as external support while Cresselia holds the inner side. The patch is temporary, and freeing Gardevoir is a fixed objective of Visit 2. Gardevoir's exact location, accessibility, and long-term Mega mechanics are open; do not assume she remains Mega-Evolved for years. See: [the Argaea plot thread](../plot-threads/argaea.md) and [the Hidden Kingdom arc](../arcs/10-argaea-kitakami.md).
 
 ### Secondary (approaching Primary)
 
@@ -228,7 +228,7 @@ Alternatives: medical retirement/sanctuary, permanent transfer to orgs, or ecolo
 - **Indigo Year 1** — Licensing, Oak-supported departure. Core: Ditto/Charcadet/Teddiursa. 4Ever at end of Year 1 (all 8 badges). Charcadet stolen; Teddy/Ursaring payoff TBD with the mother-Ursaring rescue debt. First conference entered without ace.
 - **Indigo Year 2** — Post-conference. Vee recruited in Celadon. The Argaea arc (skips conference). Pikachu handoff to Oak end of Year 2.
 
-> [!FLAG] **Timeline contradiction (unresolved --- author's call).** This page slots the Argaea arc + Pikachu handoff in **Indigo Year 2 (~age 14)**, but `arcs/arc-hidden-kingdom.md` and `arcs/saga-overview.md` place them at **Arc 10, age 16** --- *after* Hoenn. That ordering also conflicts with Gardevoir: she is acquired in the **Hoenn** arc yet "stays in Argaea," which cannot happen if Argaea precedes Hoenn. Reconcile where Argaea sits in the region order before locking team logistics.
+> [!FLAG] **Timeline contradiction (unresolved --- author's call).** This page slots the Argaea arc + Pikachu handoff in **Indigo Year 2 (~age 14)**, but `arcs/10-argaea-kitakami.md` and `arcs/saga-overview.md` place them at **Arc 10, age 16** --- *after* Hoenn. That ordering also conflicts with Gardevoir: she is acquired in the **Hoenn** arc yet "stays in Argaea," which cannot happen if Argaea precedes Hoenn. Reconcile where Argaea sits in the region order before locking team logistics.
 - **Transition trigger** — Two successful Rocket thefts within ~60 days, plus one secondary factor: denied gym rematch, sponsor offer contingent on relocation, Ranger advice, or Amber's own line *"I am not bait."*
 - **Hoenn** — Ecology shift; new additions. Trapinch arc. Tone hardens.
 - **Sinnoh** — History/identity themes deepen. Shinx, Rockruff arcs TBD.
@@ -250,7 +250,7 @@ Migration logistics: registration scan, health stamp, insurance proof, visa tier
 
 - [Current direction](../../workspace/current-direction.md) — source of truth for story direction
 - [Celadon arc](../arcs/arc-celadon.md) — Celadon/Erika/Vee arc
-- [Hidden Kingdom arc](../arcs/arc-hidden-kingdom.md) — Argaea (the hidden kingdom) discovery arc
+- [Hidden Kingdom arc](../arcs/10-argaea-kitakami.md) — Argaea (the hidden kingdom) discovery arc
 - [Pikachu handoff](../arcs/arc-pikachu-handoff.md) — Pikachu/Ash handoff beat
 - [Hoenn arc](../arcs/arc2-hoenn.md) — Hoenn arc, Trapinch
 - [Amber](amber-mc.md) — MC overview

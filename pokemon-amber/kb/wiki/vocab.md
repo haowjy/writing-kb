@@ -20,7 +20,7 @@ The name derives from the Argead dynasty, Macedon's royal house. The name does
 not commit Prince Alexander to an Alexander-the-Great conquest arc.
 
 See [the Argaea plot thread](plot-threads/argaea.md) and [the Hidden Kingdom
-arc](arcs/arc-hidden-kingdom.md).
+arc](arcs/10-argaea-kitakami.md).
 
 ### Hidden Kingdom *(descriptive / arc title)*
 

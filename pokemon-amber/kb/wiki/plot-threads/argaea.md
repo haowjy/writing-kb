@@ -118,7 +118,7 @@ prematurely solving the mechanics.
 
 ## Cross-Refs
 
-- [Hidden Kingdom arc plan](../arcs/arc-hidden-kingdom.md)
+- [Hidden Kingdom arc plan](../arcs/10-argaea-kitakami.md)
 - [Saga overview](../arcs/saga-overview.md)
 - [Prince Alexander](../characters/prince-alexander.md)
 - [Amber's team](../characters/amber-mc-team.md)

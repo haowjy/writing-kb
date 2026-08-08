@@ -88,7 +88,7 @@ Pages marked ✦ are **canon** (settled worldbuilding — don't contradict). Eve
 | [arc2-hoenn](arcs/arc2-hoenn.md) | Hoenn — conference year, Zinnia, Mega seed |
 | [arc-celadon](arcs/arc-celadon.md) | Celadon — Vee encounter, Erika subplot |
 | [arc-4ever](arcs/arc-4ever.md) | 4Ever — Ursaring/Charcadet payoff |
-| [arc-hidden-kingdom](arcs/arc-hidden-kingdom.md) | Hidden Kingdom (Arcs 10 + 16) — accidental loss, temporary seal, deliberate return |
+| [10-argaea-kitakami](arcs/10-argaea-kitakami.md) | Hidden Kingdom (Arcs 10 + 16) — accidental loss, temporary seal, deliberate return |
 | [arc-alola-ultra-space](arcs/arc-alola-ultra-space.md) | Alola / Ultra Space Reset |
 | [arc-pikachu-handoff](arcs/arc-pikachu-handoff.md) | The Pikachu Handoff — seed only |
 

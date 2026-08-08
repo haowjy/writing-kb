@@ -18,7 +18,7 @@ Hoenn should feel broad, sun-bright, and adventurous on the surface while carryi
 
 ## Current Direction
 
-- **Placement:** Hoenn remains Amber's age-15 conference year and still sits before [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](arc-hidden-kingdom.md).
+- **Placement:** Hoenn remains Amber's age-15 conference year and still sits before [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](10-argaea-kitakami.md).
 - **Trainer arc:** Amber establishes herself in a new region, builds a Hoenn roster, and wins the Hoenn junior conference as the youngest ever winner.
 - **Emotional spine:** Trapinch/Flygon is still a major internal Hoenn throughline.
 - **Power seed:** Amber acquires Mega Stones here but cannot fully use them yet.
@@ -71,7 +71,7 @@ Amber should matter a great deal in Hoenn without becoming the sole rightful sol
 - She can win the conference year without resolving every deeper system behind it.
 - Hoenn should teach the useful late-saga lesson that sometimes the right move is to **support the specialist**, not to claim the center of every impossible event.
 
-That lesson pays off twice later: first in Delta Episode with Zinnia, then again in how Amber approaches [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](arc-hidden-kingdom.md)'s return.
+That lesson pays off twice later: first in Delta Episode with Zinnia, then again in how Amber approaches [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](10-argaea-kitakami.md)'s return.
 
 ## Open Questions
 
@@ -84,7 +84,7 @@ That lesson pays off twice later: first in Delta Episode with Zinnia, then again
 ## Cross-Refs
 
 - [Saga Overview — Full Arc Structure](saga-overview.md) — macro placement and later Hoenn return
-- [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](arc-hidden-kingdom.md) — the discovery/promise arc that still follows Hoenn
+- [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](10-argaea-kitakami.md) — the discovery/promise arc that still follows Hoenn
 - [Future Arc: Alola / Aether / Ultra Space Reset](arc-alola-ultra-space.md) — the Alola reset that now precedes Delta Episode
 - [Late-Saga Dimensional Displacement Bridge](../plot-threads/dimensional-displacement-bridge.md) — late-saga displacement handoff into Alola
 - [Rainbow Rocket Endgame](../plot-threads/rainbow-rocket-endgame.md) — Giovanni's broader proxy-capture strategy
