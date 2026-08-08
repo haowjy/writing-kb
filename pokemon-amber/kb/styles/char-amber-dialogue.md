@@ -6,7 +6,7 @@ Load this file when Amber speaks aloud. For her narration and internal voice, lo
 
 ## Core Behavior
 
-Amber speaks plainly. Her register changes with her audience, her immediate goal, and how much control she has. Adult knowledge shapes what she asks or explains more often than it changes the sophistication of her wording.
+Amber speaks plainly. Her register changes with her audience, her immediate goal, and how much control she has. What she knows shapes what she asks or explains more often than it changes the sophistication of her wording.
 
 ## Register by Audience
 
@@ -14,17 +14,17 @@ Amber speaks plainly. Her register changes with her audience, her immediate goal
 
 Amber gives the relevant context, then asks for permission or help. Respect comes through the structure of the request rather than a pile of filler words.
 
-> "Um... I might be able to help with identifying her. Since you've already seen what my Ditto can do... Would it be okay if I used it?" (Ch. 8)
+> "Um," [...] "I might be able to help with identifying her. Since you've already seen what my Ditto can do..." [...] "Would it be okay if I used it?" (Ch. 8)
 
-The line first establishes why her suggestion is credible, then makes the request. The pauses show that she is testing whether the adult will allow her to act.
+The sequence first establishes why her suggestion is credible, then makes the request. The pauses show that she is testing whether the adult will allow her to act.
 
 ### Peers
 
 With Ash or Mary, Amber is quicker and less guarded. She can blurt, tease, or move directly to the practical point.
 
-> "I'm fine! Totally fine. Super fine. Never been better. Did you know your hair looks like spaghetti when it moves?" (Ch. 9)
+> "I'm fine!" [...] "Totally fine. Super fine. Never been better. Did you know your hair looks like spaghetti when it moves? Wait, no, focus. Oddish. We're looking for Oddish." (Ch. 9)
 
-The escalating assurances fail to sound reassuring. The abrupt hair observation redirects attention while preserving her agitation.
+The escalating assurances fail to sound reassuring. The hair observation exposes her distraction; "Wait, no, focus" pulls her back to the immediate objective.
 
 ### Fuji
 
@@ -42,6 +42,6 @@ The first sentence names Fuji's behavior in concrete terms. The second forces hi
 
 Amber breaks a task into usable steps and checks what the listener needs next.
 
-> "Okay, let's try this step by step," ... "First rule-always start with the ones..." (Ch. 14)
+> "Start with the ones you know. Then we can come back to the hard part." (synthetic, noncanonical)
 
-"Step by step" sets the pace; "first rule" gives Ash one instruction to hold before Amber adds more.
+The first sentence gives the listener an action they can take immediately. The second postpones difficulty without pretending it has disappeared.

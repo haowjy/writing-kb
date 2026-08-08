@@ -16,13 +16,15 @@ An approaching threat can stretch time because waiting is the action. A breach o
 
 ## Detail Selection
 
-Foreground one or two details whose implications matter. A clean suit can reveal preparation; petals can reveal the reunion Fuji believes he is staging. Omit neutral inventory that does not change what the character or reader expects.
+Foreground one or two details whose implications matter. A clean suit can reveal preparation; petals can reveal the reunion Fuji believes he is staging. Each additional detail must change what the character or reader expects.
 
 Use sound before sight only when the scene's geography makes the character hear the threat first. The order of perception should build the character's model of what is approaching.
 
 ## Annotated Example
 
-> "The doorbell chimed once. Nobody moved. It chimed again, followed by knocking. 'Delia?' Dr. Fuji's voice carried through the door, oddly calm. 'My love? I brought your favorites. Dahlias... just like our first date.'" (Ch. 14)
+> The doorbell chimed once. Nobody moved.
+>
+> It chimed again, followed by knocking. "Delia?" Dr. Fuji's voice carried through the door, oddly calm. "My love? I brought your favorites. Dahlias... just like our first date." (Ch. 14)
 
 **Purpose in the beat:** Fuji has reached the house and is presenting a reunion while the people inside understand that his arrival is dangerous.
 

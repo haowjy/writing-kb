@@ -16,7 +16,7 @@ The opening pause marks the social cost of contradicting someone. The unfinished
 
 Mary pursues operational facts. Suspicion sharpens her questions; visible vulnerability can redirect her toward a practical offer.
 
-> "There was a theft... That's quite a coincidence, don't you think?" (Ch. 8)
+> "There was a theft," [...] "That's quite a coincidence, don't you think?" (Ch. 8)
 
 She places the known event beside Amber's story and asks Amber to account for the connection.
 

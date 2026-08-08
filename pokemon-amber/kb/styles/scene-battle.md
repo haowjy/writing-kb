@@ -29,14 +29,15 @@ Commands reveal the trainer's priorities and relationship with the Pokemon:
 
 ## Annotated Example
 
-> "Dragon Rage."
+> "Quick Attack."
 >
-> The pink-purple flames roared through the evening air. (Ch. 13)
+> Rattata crossed the dirt before Sandshrew could finish turning. Its shoulder struck under the raised foreleg. (synthetic, noncanonical)
 
-**Purpose in the beat:** Fuji has already decided to kill Stephen; the exchange delivers that decision and its immediate execution.
+**Purpose in the beat:** The trainer recognizes a brief opening and Rattata exploits it before Sandshrew can recover.
 
-- **The isolated command** gives the irreversible choice its own beat.
+- **The isolated command** gives the decision its own beat.
 - **The paragraph break** creates a brief interval between order and consequence.
-- **"pink-purple flames"** identifies the attack's unnatural visual character.
-- **"roared"** supplies force and sound without inventorying the whole yard.
-- **"through the evening air"** carries the attack across the established space toward its target.
+- **Crossing the dirt** converts Quick Attack's speed into closed distance.
+- **Sandshrew still turning** identifies the opening the trainer noticed.
+- **Rattata's shoulder** specifies what makes contact.
+- **The raised foreleg** locates the vulnerable angle and updates both Pokemon's positions after impact.

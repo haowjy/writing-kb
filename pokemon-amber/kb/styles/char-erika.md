@@ -12,7 +12,7 @@ Erika controls the pace and disclosure of a conversation. She can be warm, clini
 
 ### Subordinates
 
-> "Mary... You know you're still suspended until further notice." (Ch. 9)
+> "Mary," [...] "You know you're still suspended until further notice." (Ch. 9)
 
 Erika uses Mary's name and a quiet reminder instead of raising her voice. "Still" closes the attempted loophole; "until further notice" keeps the decision in Erika's hands.
 
@@ -36,7 +36,7 @@ Erika presents an exchange without promising an outcome she does not control. "M
 
 ### Medical work
 
-> "Sludge Fever... It's been spreading through the Factory Ward again." (Ch. 10)
+> "Sludge Fever," [...] "It's been spreading through the Factory Ward again." (Ch. 10)
 
 She names the condition before giving the fact that changes the situation. "Again" implies prior cases and turns one sick Pokemon into a wider problem.
 

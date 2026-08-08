@@ -32,7 +32,7 @@ Interiority should reveal information the reader cannot obtain from action alone
 
 ## Tonal Movement
 
-Let tone change when the event changes. A ridiculous practical problem can produce deadpan humor; the discovery of harm ends that humor without a sentence announcing the shift. No emotion needs a prescribed share of the chapter.
+Let tone change when the event changes. A ridiculous practical problem can produce deadpan humor; the discovery of harm ends that humor without a sentence announcing the shift. The scene's events determine how long each emotion lasts.
 
 Warmth comes from specific care: food prepared, space made, a Pokemon handled gently, a promise kept. Darkness comes from specific harm, coercion, loss, or consequence. The prose should give the consequential action more weight than a general statement about the mood.
 

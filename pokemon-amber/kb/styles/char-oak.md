@@ -1,6 +1,6 @@
 # Professor Oak: Dialogue and Scene Presence
 
-Load this file when Oak appears. Ch. 16 is near-omniscient rather than an Oak POV chapter; do not give him private thoughts unless the scene's POV explicitly changes.
+Load this file when Oak appears. Ch. 16 is near-omniscient rather than an Oak POV chapter, so its access to Oak remains external unless the scene's POV explicitly changes.
 
 ---
 
@@ -20,7 +20,7 @@ The next action must prove the sentence. In Ch. 16, Oak removes the children fro
 
 > "Oak glanced at the crowd that had formed across the street, and the additional policemen that had pulled up." (Ch. 16)
 
-The glance matters because it changes his tactical constraints. Bystanders and police are part of the battlefield, not background inventory.
+The glance matters because it changes his tactical constraints. Bystanders and police become part of the battlefield decision.
 
 ### Pokemon as partners
 

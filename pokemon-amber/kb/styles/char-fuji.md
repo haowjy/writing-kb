@@ -14,7 +14,7 @@ Fuji tries to correct reality until it matches the family, status, or scientific
 
 Fuji arranges meals, clothes, flowers, and drinks as parts of a reunion he expects other people to perform with him. Include an object only when handling it advances that plan or exposes a mismatch he intends to correct.
 
-> "Three plates, three sets of chopsticks, three glasses of juice... The third setting sat like a promise..." (Ch. 6)
+> Three plates, three sets of chopsticks, three glasses of juice, all arranged on a table meant for one. The third setting sat like a promise at the empty end of the tiny table, waiting. (Ch. 6)
 
 The repeated count shows that Fuji has built the absent person into the meal. "Promise" gives the empty setting his expectation rather than explaining his grief.
 
@@ -30,7 +30,7 @@ Fuji notices differences as defects in his reconstruction.
 
 His conclusions can enter the narration as if they are reasonable facts.
 
-> "Just a reasonable discussion... Man to man." (Ch. 13)
+> "Just a reasonable discussion," he muttered, taking out his pen. ... "Man to man. You must understand that Delia and I..." (Ch. 13)
 
 The formal phrase gives Fuji's preferred account of the encounter. The surrounding plan and violence allow the reader to judge it.
 
@@ -60,9 +60,9 @@ The comparison replaces the present dispute with a status contest Fuji believes 
 
 His commands frame Pokemon as products required to obey.
 
-> "I created you! Obey me!" (Ch. 16)
+> "I created you! *Obey me!*" (Ch. 16)
 
-The first claim supplies his reason; the second strips the relationship down to ownership and command.
+The first claim supplies his reason; the second strips the relationship down to ownership and command. Italics place the force on obedience.
 
 ### Violence
 

@@ -8,7 +8,7 @@ For synthetic samples with choice-by-choice annotations, load `char-amber-voice-
 
 ## The Voice in One Paragraph
 
-Amber's narration is direct, observant, and emotionally immediate. Her attention stays with the people, Pokemon, and problems in front of her. Adult judgment, selective game knowledge, and curiosity shape what she notices and how she acts.
+Amber's narration is direct, observant, and emotionally immediate. Her attention stays with the people, Pokemon, and problems in front of her. She notices behavior and practical consequences, then uses what she knows when it changes her next choice.
 
 ---
 
