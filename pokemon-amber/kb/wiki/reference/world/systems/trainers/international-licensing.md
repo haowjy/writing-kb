@@ -4,7 +4,7 @@ This page defines how trainers legally move with their Pokemon between the "Big 
 
 ## Kanto–Johto Exemption
 
-Kanto and Johto operate under a **shared government** with sufficiently overlapping ecosystems that interregional carry restrictions do not apply between them. Trainers moving between Kanto and Johto may bring their full roster with no foreign Pokemon limits. Standard registration and health checks still apply at major crossings, but no visa tier or carry restriction is imposed.
+Kanto and Johto operate under the **shared Indigo League framework** with sufficiently overlapping ecosystems that interregional carry restrictions do not apply between them. Trainers moving between Kanto and Johto may bring their full roster with no foreign Pokemon limits. Standard registration and health checks still apply at major crossings, but no visa tier or carry restriction is imposed.
 
 All other Big 4 interregional travel (Kanto/Johto ↔ Hoenn, Hoenn ↔ Sinnoh, etc.) is subject to the full visa tier system.
 

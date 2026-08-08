@@ -20,28 +20,19 @@ Created by Fuji for Project Chimera. The product Fuji was paid to deliver.
 - Reunites with Amber in Unova during the Genesect crisis (future arc timing TBD).
 - **This is the Mewtwo with the deep connection to Amber.** The spine.
 
-### Mewtwo #2 (Movie 1 Mewtwo)
+### Mewtwo #2 (Giovanni's Raised Partner)
 
-Fuji, extracted from prison by Giovanni after the "disappear quietly" order, works in secret on New Island.
+After Mewtwo #1's escape, Giovanni keeps Fuji alive off-books and begins a second Mewtwo program. Chapter 6 supplies the governing premise: when Fuji says that Mewtwo thinks like a human, with desires and grudges, Giovanni answers, *"Then it can understand reason."*
 
-- This is the Pokemon: The First Movie Mewtwo --- New Island, Nurse Joy disguise, the clone army, Mew vs. Mewtwo, that whole event plays out largely as in canon
-- Current preferred direction is that this can remain **Giovanni's controlled weapon** longer than canon or the anime would
-- Qualitatively different from #1 --- safer, more controlled, deliberately engineered without the consciousness risk. Duller.
-- The point of Mewtwo #2 existing: it highlights why #1 is what it is. True autonomy wasn't a flaw. It's what Fuji accidentally made by actually caring about Amber. Controlled conditions produce a controlled result.
-- Fuji's constrained contribution to Mewtwo #2's designs (per `plot/giovanni-fuji-jail.md`) subtly refuses to recreate the consciousness-risk that birthed the first one. He's mellowing. He makes it safer and less. He knows what he's doing.
+Mewtwo #2 is not a corrected, duller, controlled weapon or a strategic reserve waiting on a command. Giovanni's answer to the first Mewtwo's rebellion is to raise a genuine partner: care, identity, purpose, respect, and a clone household rather than chains. The loyalty is real, and it is formed inside the Kanto-restorationist worldview Giovanni directs.
+
+The program takes years and Mewtwo #2 becomes the decisive partner in Giovanni's lawful challenge for the unified Indigo Championship. The exact clone-household composition, public unveiling, and degree of Fuji's later participation remain open.
 
 ### Mewtwo #2 Late-Saga Use
 
-Mewtwo #2 should be treated as a **strategic reserve**, not a recurring rival battle.
+Mewtwo #2 should be used sparingly before the ascent and endgame: rumors, aftermaths, one impossible defeat, psychic pressure, or evidence that something enormous is being kept off the public board. Its ideological role matters more than repeat appearances.
 
-- rumors of impossible defeats
-- psychic pressure without full visual payoff
-- aftermaths suggesting a weapon too dangerous to publicize
-- one or two decisive appearances at the edge of endgame, not a serialized monster-of-the-week pattern
-
-Its ideological role matters more than its screentime. Giovanni keeps it as proof that autonomy can be engineered out and legendary-class force can be centralized under command.
-
----
+It is a dark mirror rather than a captive to free. The endgame question is whether an autonomous person raised into Giovanni's family can recognize the political use of that family -- and whether recognition would change anything.
 
 ## The Ore Thread: Day 2 to Unova / Mewtwonite Y
 

@@ -1,3 +1,3 @@
 # Decision Index
 
-- [Oak: No Time Loop](oak-no-time-loop.md) — selected role and archived alternatives
+No live decision record currently requires its own page. Superseded decision material belongs in Git history unless it is needed to explain a current decision.

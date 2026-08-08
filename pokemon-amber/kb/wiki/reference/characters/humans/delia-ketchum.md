@@ -31,7 +31,7 @@ This version of Delia is Dr. Fuji's ex-wife. That's what the story adds, and it 
 
 Delia grew up dreaming of becoming a model and Pokemon trainer, but life took her down a different path. In her early twenties, she married the brilliant geneticist Dr. Tenma Fuji, who was making waves at Celadon University with his groundbreaking research into cloning and genetics.
 
-They had a daughter together named Amber. However, their marriage was strained by Fuji's increasingly obsessive work, especially during his involvement in the classified Project Chimera during the Great Unification War. The long hours, secrecy, and his growing emotional detachment created distance between them even as they raised their daughter.
+They had a daughter together named Amber. However, their marriage was strained by Fuji's increasingly obsessive work, especially during his involvement in the classified Project Chimera during the Kanto secession war. The long hours, secrecy, and his growing emotional detachment created distance between them even as they raised their daughter.
 
 ### Tragedy & Divorce (~12 years before story)
 
@@ -49,7 +49,7 @@ During this period, her mother passed away, leaving Delia the Pallet House resta
 
 ### New Beginning with Stephen (~10-8 years before story)
 
-In Pallet Town, Delia met Stephen Ketchum, a war veteran who had served in the Great Unification War and now worked as a research assistant at Professor Oak's lab ([Ch.11](https://github.com/haowjy/pokemon-amber/blob/main/story/ch11/chapter11.md)). Both carried scars from their pasts and both wanted to leave those pasts behind.
+In Pallet Town, Delia met Stephen Ketchum, a war veteran who had served in the Kanto secession war and now worked as a research assistant at Professor Oak's lab ([Ch.11](https://github.com/haowjy/pokemon-amber/blob/main/story/ch11/chapter11.md)). Both carried scars from their pasts and both wanted to leave those pasts behind.
 
 They bonded over their shared desire for a quieter, simpler life. Stephen had his own demons from the war, hinted at by his eight gym badges displayed above the fireplace and his reluctance to discuss his past as a trainer ([Ch.12](https://github.com/haowjy/pokemon-amber/blob/main/story/ch12/chapter12.md)). Together, they found comfort in building something new.
 

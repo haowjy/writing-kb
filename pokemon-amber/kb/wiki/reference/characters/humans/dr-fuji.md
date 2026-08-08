@@ -32,10 +32,10 @@ Unable to accept his daughter's death, Dr. Fuji began working with Team Rocket o
 **Early Life & Catalyst (~32 years before story):**
 At age 8, young Fuji encountered Mew in distant jungles. A creature capable of perfect biological transformation. That childhood encounter shaped his entire scientific career --- and eventually his destruction.
 
-**Academic Rise & The Great Unification War (~25 to 15 years before story):**
+**Academic Rise and the Kanto Secession War (~25 to 15 years before story):**
 In his early twenties, Fuji married Delia and became a rising star at Celadon University. His breakthrough creation of the first successful Ditto (from a failed Pikachu cloning attempt) earned him prestigious research grants, including one publicly awarded by then-Champion Samuel Oak.
 
-When the Great Unification War erupted, Fuji was recruited to head the top-secret "Project Chimera," weaponizing genetics for the Kanto military. The work made him increasingly clinical --- life as data, people as variables. The secrecy and detachment strained his marriage to Delia even as their daughter Amber was born.
+When the Kanto secession war erupted, Fuji was recruited to head the top-secret "Project Chimera," weaponizing genetics for Kanto secessionist forces. The work made him increasingly clinical --- life as data, people as variables. The secrecy and detachment strained his marriage to Delia even as their daughter Amber was born.
 
 **The Fall & Obsession (~12 years before story):**
 After the war ended and Project Chimera was defunded, Amber was diagnosed with aggressive, untreatable cancer. She was ten years old. Fuji watched his daughter's cells destroy her and could not stop it.

@@ -461,27 +461,19 @@ Rangers have limited capacity (only so many personnel) and can't handle everythi
 
 **Formation Timeline:**
 - Initial formalization: Post-Pokeball (~50 years ago) enabled professionalization of wilderness defense
-- **Major expansion: Post-Mt. Silver Incident** (~10-20 years ago) - direct response to ecosystem catastrophe
+- **Major expansion: Post-secession-war period** (~10-20 years ago) - ecological risk and wartime disruption made conservation politically urgent
 
-### Mt. Silver Incident & Ranger Mission Change
+### War-Era Ecological Pressure and Ranger Mission Change
 
-**What Happened:**
-During Kanto-Johto War, both sides mass-caught wild Pokemon for military use, disturbing ecosystems around Mt. Silver. This triggered coordinated counter-attack by wild Pokemon (legendary birds, Tyranitar, territorial Pokemon) that routed both armies and ended the war.
+**What is settled:** the secession war made the ecological cost of treating Pokemon as mass assets impossible to ignore. Ranger funding and authority expanded around habitat protection, protected zones, poaching enforcement, and early warning for ecosystem disruption.
 
-**Rangers' New Mandate:**
-After Mt. Silver, Ranger Union received expanded mission and funding:
-- **Ecosystem protection** became primary goal (prevent another mass-catch disaster)
-- **Monitor legendary sites** and breeding grounds
-- **Enforce new poaching laws** (catching in protected zones now illegal)
-- **Early warning system** for ecosystem disruption
-- Population management to prevent territorial conflicts
+**What remains open:** Mt. Silver's precise role, timing, participants, and public account. Do not treat a specific mass-catching rout or legendary intervention as established history.
 
-**Why This Matters:**
-- Pre-war: Rangers maintained routes, responded to emergencies
-- Post-war: Added ecosystem protection and poaching enforcement
-- **Rangers now prevent environmental catastrophes**, not just respond to them
-- Mt. Silver taught lesson: Disturbing Pokemon habitats = legendary retaliation
-- Conservation framed as **survival** (prevent legendary anger), not just environmentalism
+**Rangers' expanded mandate:**
+- ecosystem protection and habitat monitoring;
+- enforcement of protected-zone and poaching rules;
+- early warning for disruption of breeding grounds and dangerous territorial populations; and
+- continued route maintenance and emergency response.
 
 ### Pre-Pokeball Era
 
@@ -506,8 +498,8 @@ When [governments formed from gym councils](https://github.com/haowjy/pokemon-am
 **Expanded Mission:**
 - Everything above PLUS ecosystem protection
 - **Poaching enforcement** (illegal catching in protected zones)
-- **Legendary site monitoring** (Mt. Silver, legendary bird nesting areas, Tyranitar breeding grounds)
-- **Habitat protection** (prevent mass-catching operations)
+- **sensitive-site monitoring** (the exact protected locations remain open)
+- **Habitat protection** (prevent large-scale disruptive capture and extraction)
 - **Population surveys** (ensure balanced ecosystems)
 - Integration with [quest system](../world/systems/trainers/quest-system.md)
 

@@ -38,14 +38,13 @@ Regional distinction in how families control Pokemon breeding and training. The 
   - Shrines and rites maintained
   - Breeding remains family art, not just business
 
-**Post-War (Recent):**
-- Unification increased tensions
-- Kanto sees Johto clans as backwards
-- Johto sees Kanto corporations as soulless
-- Some Johto clan members in Kanto (wandering heirs, merchants, exiles)
-- Kanto corporate families gaining power
+**After the Kanto secession war:**
+- Kanto and Johto remain within the unified Indigo League, but the failed secession deepens regional status conflict
+- Kanto nationalist rhetoric presents Johto clans as leeches on Kanto wealth and technology; Johto's ecological, breeding, and institutional contributions make that claim contested
+- Johto often sees Kanto corporate power as extractive or dismissive of inherited expertise
+- Some Johto clan members live or work in Kanto as wandering heirs, merchants, and specialists
 
-See [Kanto–Johto Unification and the Indigo Corridor (Amber Continuity)](https://github.com/haowjy/pokemon-amber/blob/main/story/) for the broader political context.
+See [Kanto Secession War and Indigo Reunification](../history/kanto-johto-unification-war.md) for the political context.
 
 ## Knowledge & Power Tiers
 
@@ -91,5 +90,5 @@ Substantial individual pages:
 - [Celadon City](../../organizations/clans/index.md) --- the catalog
 - [Team Rocket](../../organizations/team-rocket.md) --- TR origin in Silvertail rejection
 - [Aura and Bonds — Mechanics](../systems/aura.md) --- clan training as aura cultivation method
-- [Kanto–Johto Unification and the Indigo Corridor (Amber Continuity)](https://github.com/haowjy/pokemon-amber/blob/main/story/) --- post-war tensions
-- [Evolution of Pokemon Gyms](https://github.com/haowjy/pokemon-amber/blob/main/story/) --- gyms possibly influenced by clan specializations
+- [Kanto Secession War and Indigo Reunification](../history/kanto-johto-unification-war.md) --- post-war tensions
+- [Evolution of Pokemon Gyms](../history/gym-evolution.md) --- gyms possibly influenced by clan specializations

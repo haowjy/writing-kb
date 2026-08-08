@@ -1,5 +1,7 @@
 # Professor Samuel Oak
 
+**Status:** drafting
+
 Amber's primary mentor and benefactor. Provides resources, Oak's Letter, and continued support throughout her journey. Publicly a renowned Pokemon researcher; privately a man who has been carrying a forty-year-old memory he has never told anyone.
 
 ## Role in Story
@@ -8,6 +10,14 @@ Amber's primary mentor and benefactor. Provides resources, Oak's Letter, and con
 - Provides licensing, equipment, and starter funds before her departure (ch18)
 - Active mentor in the background throughout Arc 1 — not helicopter parenting, but present
 - The Sam/4Ever connection runs quietly beneath every scene between them
+
+## The Secession War
+
+Oak briefly held the **unified Indigo Championship** before the Kanto secession war. A Kanto native whose victory restored regional pride, he was pressed by Kanto elites, institutions, and public opinion into supporting a secession effort he believed could end quickly in negotiation. He authorized and participated in that effort; pressure explains the decision but does not erase his culpability.
+
+The bloodshed changed him. Oak turned toward negotiation, abandoned the secession effort, relinquished the Championship, and supported Lance and Blackthorn-associated Johto authority as the reunification successor. Kanto nationalists remember this as a surrender of freedom; Johto remembers it as participation in an illegal secession; a moderate account treats it as a grave choice he recognized in time to prevent worse harm. The precise duration of the war, legal succession process, and role of Mt. Silver remain open.
+
+This history informs, but does not wholly define, his bond research: Oak learned that power without reciprocal trust can be catastrophic, and he now seeks a way to cultivate strength without exploitation. See [Kanto Secession War and Indigo Reunification](../../world/history/kanto-johto-unification-war.md).
 
 ## Team
 
@@ -69,11 +79,11 @@ Amber doesn't need him to. She develops it through the work itself.
 
 Oak and Agatha were together during their competitive years --- rivals, partners, lovers. Both were top-tier trainers; Agatha made it to Championship finals against Oak. They were part of the same research group.
 
-The Unification War splits them. Oak chooses surrender and research. Agatha sees that as cowardice and personal betrayal. Their breakup mirrors the Kanto hardliner split that creates TR's ideological core --- Agatha represents the path Oak didn't take: pure battle, refusing to let the fire cool, interpreting his restraint as weakness.
+The secession war splits them. Oak abandons the Kanto secession effort and turns toward research. Agatha reads that choice as cowardice and personal betrayal. Their breakup mirrors the Kanto nationalist hardening that helps create Team Rocket's ideological core --- Agatha represents the path Oak did not take: refusing to relinquish the struggle and interpreting his restraint as weakness.
 
 **Canon hooks used:** Agatha calls Oak "tough and handsome" and "a shadow of his former self" in the games. Semi-canonical crush. In Masters EX, she describes their youth together. The bitterness reads as ex-partner resentment, not just professional rivalry.
 
-**In AmberTwo:** Their split is personal AND political. Oak chose peace; Agatha stayed loyal to Kanto's strength. She didn't join TR, but she shares the hardliner worldview that produced it. She's Elite Four --- still inside the system, still powerful, still bitter that Oak walked away from everything they built together.
+**In AmberTwo:** Their split is personal AND political. Oak chose peace; Agatha stayed loyal to Kanto's strength. She did not join Team Rocket, but she shares the Kanto-nationalist interpretation that produced part of its support. She remains inside the Indigo system as an Elite Four member, powerful and bitter that Oak walked away from the cause they once backed.
 
 **Open:** Does Agatha interact with Amber? Does she test Amber as a proxy for her grudge against Oak? Does she respect Amber's strength while resenting whose protégé she is?
 

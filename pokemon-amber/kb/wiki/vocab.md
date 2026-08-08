@@ -5,6 +5,22 @@
 One name per concept, one concept per name. Argaea's setting direction is
 decided; several barrier mechanics remain open.
 
+## Government and Political Terms
+
+### Pokemon League *(generic system)*
+
+The worldwide family of League institutions. Use this for the general trainer, Gym, Elite Four, and Champion model rather than as a synonym for a particular region's administration.
+
+### Indigo League *(Kanto--Johto institution)*
+
+The joint Kanto--Johto top-level League institution: Champion and Elite Four authority, defense, Gym and trainer regulation, and major interregional and international functions. Kanto and Johto belonged to it before, during, and after the Kanto secession war.
+
+### Kanto regional administration *(civil layer)*
+
+Kanto's regional civil administration for roads, education, commerce, health, and local funding under the Indigo framework. Viridian city government is the municipal layer below it.
+
+Avoid **Indigo government** as a default. Use *Indigo League administration*, *League officials*, or the relevant Kanto, Johto, or municipal administration.
+
 ## Places and Boundaries
 
 ### Argaea *(canonical name)*

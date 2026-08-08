@@ -365,8 +365,8 @@ She performs normal first-year trainer anyway.
 
 ## Related Files
 
-- `current-direction.md` - SOURCE OF TRUTH
-- `_open-questions.md` - Decision tracker
+- [Current direction](../../../../workspace/current-direction.md) — source of truth
+- [Open questions](../../../../workspace/open-questions.md) — decision tracker
 - [The Mewtwo Thread](../../saga-threads/mewtwo-ambertwo.md) - The Viridian cave ore is the Mewtwonite Y origin; exact custody chain remains open
-- `plot/giovanni-fuji-jail.md` - Giovanni context; why the Viridian gym battle carries weight
-- `wiki/reference/characters/pokemon/mewtwo.md` - Mewtwo connection to Amber
+- [Giovanni/Fuji jail scene](../00-perfect-family/giovanni-fuji-jail.md) — Giovanni context; why the Viridian Gym battle carries weight
+- [Mewtwo](../../../reference/characters/pokemon/mewtwo.md) — Mewtwo connection to Amber
