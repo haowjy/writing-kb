@@ -1,6 +1,6 @@
 # Supporting Characters: Dialogue Voices
 
-Load this file when Kayla, Mary, Stephen, Delia, or Ash speaks. Give each character different priorities and sentence choices; do not rely on repeated gestures or verbal tics to identify them.
+Load this file when Kayla, Mary, Stephen, Delia, or Ash speaks.
 
 ---
 
@@ -20,7 +20,7 @@ Mary pursues operational facts. Suspicion sharpens her questions; visible vulner
 
 She places the known event beside Amber's story and asks Amber to account for the connection.
 
-> "Take us to Oddish, and your brother. Maybe we can help." (Ch. 10)
+> "Take us to your Oddish, and your brother. Maybe we can help." (Ch. 10)
 
 The first sentence requests the next actionable step. "Maybe" reflects a real limit on what Mary can promise.
 

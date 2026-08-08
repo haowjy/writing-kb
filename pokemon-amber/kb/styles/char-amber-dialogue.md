@@ -42,6 +42,6 @@ The first sentence names Fuji's behavior in concrete terms. The second forces hi
 
 Amber breaks a task into usable steps and checks what the listener needs next.
 
-> "Okay, let's try this step by step. First rule---always start with the ones..." (Ch. 14)
+> "Okay, let's try this step by step," ... "First rule-always start with the ones..." (Ch. 14)
 
 "Step by step" sets the pace; "first rule" gives Ash one instruction to hold before Amber adds more.
