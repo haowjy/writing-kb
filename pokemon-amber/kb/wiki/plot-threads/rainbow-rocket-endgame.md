@@ -180,8 +180,6 @@ The hardest question: can Mewtwo #2 be reached? Not freed — it isn't captive. 
 See: [Giovanni — The Clone Family](../characters/giovanni.md#the-clone-family), [Mewtwo — Mewtwo #2](../characters/mewtwo.md#mewtwo-2-the-corrected-version)
 
 ### The World Opening: Exploration as Ambition
-The drive to explore, to map the unknown, to push beyond safe borders — the kingdom, the dragon gauntlet — is also a form of obsession. Amber's discovery of the hidden kingdom is ambition directed outward: not conquest, but discovery. The same force that makes Giovanni a conqueror makes Amber an explorer.
-
 ## Core Theme
 
 **Obsession, drive, and ambition — wanting to become great — is central to the story.** It is NOT moralized as simply good or bad. Different characters pursue greatness in different ways with different outcomes. The story examines the shape of ambition rather than passing judgment on ambition itself.

@@ -1,104 +1,100 @@
 # Vocabulary --- Canonical Terms
 
-One name per concept, one concept per name. When prose drifts to a synonym, fix
-it back to the canonical term. New shared terms get recorded here.
+**Planning status:** drafting
 
----
+One name per concept, one concept per name. Argaea's setting direction is
+decided; several barrier mechanics remain open.
 
-## Cosmology / The Mega Dimension
+## Places and Boundaries
 
-### Mega Dimension *(canonical)*
+### Argaea *(canonical name)*
 
-The distortion realm Darkrai governs and the place **Argaea** (the hidden
-kingdom) is sealed inside. Use this as the proper noun for the location.
+The physically and dimensionally sealed pocket region at the center of Arcs 10
+and 16. Argaea is part of the same Pokemon world, not an alternate world. It is
+smallish on a regional scale but contains distinct provinces and communities.
+Its inhabitants experienced about 3,000 years of continuous history after the
+seal, so its culture and politics developed separately rather than remaining in
+stasis.
 
-- **Canon basis (Legends: Z-A):** Darkrai, amplified by Mega Power, forms a
-  hyperspace distortion **out of the subconscious thoughts and memories** of
-  nearby people and Pokemon (in canon: "Hyperspace Lumiose"). It twists time,
-  space, and evolution, and pushes Pokemon beyond Lv. 100. This is the engine
-  behind Argaea's origin, transposed 3,000 years earlier with **AZ's ultimate
-  weapon** as the accelerant instead of present-day Mega Power.
-- **Retire as place-names:** "dream realm," "the fold," "dream world,"
-  "hyperspace realm." These were in-conversation drift. Collapse to *Mega
-  Dimension*.
+The name derives from the Argead dynasty, Macedon's royal house. The name does
+not commit Prince Alexander to an Alexander-the-Great conquest arc.
 
-### hyperspace *(canonical, descriptive)*
+See [the Argaea plot thread](plot-threads/argaea.md) and [the Hidden Kingdom
+arc](arcs/arc-hidden-kingdom.md).
 
-The *kind* of space the Mega Dimension is --- a distortion space, in canon
-accessed via Hoopa's rifts and (Z-A) woven from subconscious thought. Use
-lowercase and adjectivally: "a hyperspace fold," "hyperspace distortion."
+### Hidden Kingdom *(descriptive / arc title)*
 
-### dreams / nightmares *(description, NOT a location)*
+An outsider-facing description and the arc title for Argaea. Use **Argaea**
+when the proper place-name is known.
 
-Darkrai's domain and the *substance* the Mega Dimension's hyperspace is woven
-from. Always a description of the realm's nature --- never a proper noun for the
-place. Correct: "the Mega Dimension, a hyperspace woven out of dreams."
-Incorrect: "they were pulled into the dream realm."
+### Kitakami *(Argaean province or community)*
 
-> [!FLAG] **Open --- instance proper-name.** Canon names specific instances
-> "Hyperspace [Place]" (e.g. *Hyperspace Lumiose*). Decide whether Argaea's
-> fold needs its own proper name on that pattern (e.g. "Hyperspace Kitakami")
-> or whether "the Mega Dimension" suffices. Author's call.
+A distinct province or community inside Argaea, not a separate external
+region. "Outside Kitakami" can mean elsewhere within Argaea. Ogerpon and her
+human companion therefore need not have crossed Argaea's outer dimensional
+barrier.
 
-> [!NOTE] **Sweep done (2026-06-06).** Canonical terms propagated to
-> `arcs/arc-hidden-kingdom.md`, `arcs/saga-overview.md`, `index.md`,
-> `characters/amber-mc-team.md`; `lore/legendaries/darkrai-cresselia.md` is
-> authoritative. `plot-threads/dimensional-displacement-bridge.md` and
-> `characters/professor-oak.md` keep "the (hidden) kingdom" as natural
-> back-reference --- Oak doesn't know Argaea's name, which is correct in-world.
+### ordinary Pokemon world *(canonical contrast term)*
 
----
+The Pokemon world outside Argaea's seal. Prefer this over **real world**, which
+belongs to the separate late-saga mundane-world displacement thread.
 
-## Argaea --- Bonds & Culture
+### outer barrier / threshold *(functional terms; topology open)*
 
-### 1:1 bond culture *(rule)*
+The dimensional boundary separating Argaea from the ordinary Pokemon world.
+After Visit 1, Cresselia holds the internal side and Gardevoir supports the
+external side. These terms describe function, not a settled physical map:
+Gardevoir's exact location, accessibility, and communication across the
+threshold remain open.
 
-Argaea predates the modern trainer institution by 3,000 years. Its people bond
-**one person to one Pokemon, for life** --- ancient coexistence, not teams of six
-(cf. AZ & Floette, same era). Shapes the royal line and the Arc 10 boss fight.
+### Mt. Silver anomaly *(provisional access site)*
 
-### Lunar duo, severed *(canonical event)*
+A possible outside-world access point within the Mt. Silver massif, beyond a
+dragon gauntlet. This remains useful for Oak's mystery and adjacent beats, but
+must be reconciled with Visit 1's accidental entry and the still-open breach
+mechanism before it becomes fixed topology.
 
-The Cresselia/Darkrai pair, split by the fold: **Darkrai locked in**, **Cresselia
-carried out** (with Alexander). The severance --- not a dreamcatcher's vigil --- is
-*why* Darkrai's dreamscape rots into nightmare.
+## Cosmology
 
-### Royal bonds
+### Mega Dimension *(official cosmology term; saga application provisional)*
 
-- **King --- Cresselia** --- gives her away to save Alexander; hollows into the
-  **Mad King** (Alexander's father).
-- **Queen --- Shaymin** --- Gratitude / purification legendary (Seed Flare cleanses
-  corrupted land).
-- Both legendaries **escape with Alexander**; both parents **stay trapped**.
-- **Darkrai has no royal/trainer bond** --- it is the wild Rogue Mega at the
-  prison's heart.
+In *Pokemon Legends: Z-A*, overwhelming Mega Power lets Darkrai form a
+hyperspace distortion from nearby subconscious thoughts and memories. The AZ /
+Mega Darkrai catastrophe is the current cause of Argaea's sealing about 3,000
+years ago. Exact agency, breach mechanics, and the geometric relation between
+Argaea's pocket region and the Mega Dimension remain open.
 
----
+### hyperspace *(descriptive)*
 
-## Places
+The kind of distorted space associated with Mega Dimension phenomena. Use it
+descriptively, not as a replacement proper name for Argaea.
 
-### Argaea *(canonical)*
+### dream / nightmare *(description, not a place-name)*
 
-The hidden kingdom (Arcs 10 + 16). From the **Argead** dynasty (Macedon's royal
-house) --- a concealed play on Prince Alexander / Alexander the Great that does
-not telegraph his later conquest turn. See `characters/prince-alexander.md`,
-`arcs/arc-hidden-kingdom.md`.
+Darkrai imagery and possible properties of the distortion. Do not use **dream
+realm** or **nightmare world** as Argaea's proper name.
 
-### The Mt. Silver anomaly *(the "weird region"; no proper name yet)*
+## Visit Names
 
-The present-day physical site where Argaea stood before being pulled into the
-Mega Dimension --- an **anomalous region within the Mt. Silver massif**, reached
-through the dragon gauntlet. This is the **Oak mystery** (the unsolved thing he
-was driven back from at 17) and the threshold Amber crosses to enter Argaea in
-Arc 10.
+- **Argaea Visit 1 --- accidental entry:** Amber and Alexander enter without
+  planning to; Kitakami comes first, followed by the larger loss and temporary
+  seal.
+- **Argaea Visit 2 --- deliberate return:** Amber and Alexander return with a
+  capable group to replace the stopgap, free Gardevoir, and resolve the larger
+  crisis.
 
-- **Decided:** "Kitakami" is **dropped** (it was retired to trash with Ogerpon /
-  the Loyal Three; reusing it would drag that baggage back). The site stays
-  **inside Mt. Silver**, which preserves the Oak payoff and the dragon gauntlet.
-- **Note:** keep distinct --- **Argaea** = the kingdom (now in the Mega
-  Dimension); the **Mt. Silver anomaly** = its empty physical site / the
-  threshold back in.
+Do not use **Kitakami I / II** as the names of the two visits. Kitakami is the
+local first-stage setting within Visit 1, not the whole Argaea thread.
 
-> [!FLAG] **Minor --- optional name.** The anomaly currently has no proper noun
-> (just "the weird region in Mt. Silver"). Author may name it later or leave it
-> deliberately unnamed to serve the mystery.
+## Excluded Mechanisms
+
+### Mew and Argaea
+
+Mew is not Argaea's guardian, barrier source, access key, or seal key. Amber's
+trace Mew DNA remains relevant elsewhere in the saga but does not explain her
+entry into Argaea or her part in the sealing action.
+
+### Hoopa and Argaea
+
+Hoopa is not the cause of Argaea and does not replace Darkrai. It is only an
+optional later tool that might enlarge or navigate an existing distortion.

@@ -31,7 +31,7 @@ Licensed departure from Pallet. Oak-supported. Amber is equipped but untested �
 
 **Ends:** Amber has ~3-4 badges, real trainer experience, and a growing reputation for weird incident magnetism. Mother Ursaring remains in Rocket hands; Amber's promise to Teddy is unfulfilled. Amber is not a chosen one; she keeps getting dragged into larger obligations because of what she notices and what she refuses to walk past. The Mew-adjacent ore thread is associated with Charcadet, not yet Amber.
 
-See: `arc1-kanto-year1.md`
+See: [Kanto Year 1](arc1-kanto-year1.md)
 
 ---
 
@@ -44,7 +44,7 @@ Erika subplot: Amber peripherally drawn into Celadon gym politics — Erika work
 
 **Ends:** Amber leaves Celadon with more badges, unresolved Vee thread, Celadon politics seeded.
 
-See: `arc-celadon.md`
+See: [Celadon arc](arc-celadon.md)
 
 ---
 
@@ -130,23 +130,33 @@ The original trainer who abandoned Trapinch may be in the conference. That confr
 ---
 
 ### Arc 10 --- Hidden Kingdom (Argaea): Visit 1
-**Amber age:** 16 | **Region:** Argaea --- the hidden kingdom folded into the Mega Dimension (gateway via the Mt. Silver anomaly)
+**Amber age:** 16 | **Region:** Argaea, a pocket region sealed from the ordinary Pokemon world
 
-Amber and companions fight through the Mt. Silver dragon gauntlet --- Gible/Garchomp dens, Jangmo-o/Kommo-o packs, the same passes Oak failed to cross at 17 --- and enter **Argaea**, the hidden kingdom folded into the Mega Dimension.
+Amber and Prince Alexander enter Argaea completely by accident. They first
+spend several days in Kitakami, an Argaean province or community, resolving the
+immediate Ogerpon / Loyal Three crisis. During this stage Amber and Gardevoir
+discover or are forced to discover Mega Evolution together.
 
-Mission: defeat the Mad King --- Alexander's father. Tragic reveal: he wasn't evil --- a dream-warding king bonded to Cresselia who gave her away to save his son, then held the unleashed nightmare alone until it hollowed him (the stasis vigil, not a long reign). Beating him breaks the dam and reveals Mega Darkrai. Gardevoir stays to take up suppression despite the bond. A quiet goodbye. Amber walks home alone.
+After the local resolution, the Mad King and a partial manifestation or
+incursion of Mega Darkrai reach them. Amber's group loses despite the Mega
+breakthrough. Cresselia catastrophically injures and exhausts herself to expel
+Amber and Alexander, then remains trapped inside as the seal's internal
+counterweight.
 
-**Mega Evolution unlocked here.** It cracks open at the moment of losing Gardevoir. Being inside the Mega Dimension explains why she learns it so fast.
+Amber and Gardevoir use Mega Evolution in a sealing action. Gardevoir must
+remain at or on the outside threshold as the external anchor, leaving Amber to
+return without her. The patch buys only limited time, broadly a few years.
+Cresselia's sacrifice is injury and entrapment, not established death.
 
-**Roster expansion:** Gible acquired from the dragon gauntlet (most narratively earned pickup). Ursaring evolves into Ursaluna inside the kingdom (time-locked Mega-Dimension environment resolves the Peat Block condition naturally).
+Existing Mt. Silver, Oak, Gible, Ursaluna, and Pikachu plans are adjacent
+provisional material; they require reconciliation with the accidental-entry
+structure and cannot supply the breach or seal mechanics by assumption.
 
-**The Oak payoff:** Oak pushed into the Mt. Silver outskirts at 17, was driven back by a Kommo-o before reaching the gateway, and has been telling a story with no ending for forty years. After Amber discovers the kingdom, she finally tells him what was on the other side.
+**Ends:** Amber and Alexander escape. Gardevoir and Cresselia hold opposite
+sides of a temporary seal, creating the obligation and deadline for Visit 2.
 
-**Pikachu:** On the road home, Amber finds a Pikachu that won't go in a ball. Recognizes it. Brings it to Oak. Says: *"Give it to Ash if he wakes up late."* Ash is 14 --- just starting his journey.
-
-**Ends:** Amber returns significantly more powerful, carrying Gardevoir's absence and a promise she cannot yet fulfill. Pikachu handed off. Ash's story begins.
-
-See: `arc-hidden-kingdom.md`, `arc-pikachu-handoff.md`
+See: [Hidden Kingdom arc](arc-hidden-kingdom.md), [Argaea plot
+thread](../plot-threads/argaea.md), [Pikachu handoff](arc-pikachu-handoff.md)
 
 ---
 
@@ -210,15 +220,21 @@ See: [Future Arc: Hoenn](arc2-hoenn.md)
 ### Arc 16 --- Hidden Kingdom (Argaea): Visit 2
 **Amber age:** 18 | **Region:** Argaea
 
-Amber returns deliberately with a small team of 4-6 people she trusts --- Alonso likely among them. This is her first deliberate legendary-class raid: a chosen return to a debt she has owed since Arc 10.
+Alexander has gained the resolve to re-enter Argaea. He and Amber recruit a
+capable group and return deliberately to a debt created in Visit 1.
 
-The goal is not exploration. The goal is to purify/reseal Mega Darkrai (Cresselia / Lunar Wing + Shaymin / purification, not a damage race), free Gardevoir, and fulfill the promise Arc 10 created. Alexander returns with both legendaries and reclaims the throne.
+Their fixed objectives are to repair or replace the failing stopgap, free
+Gardevoir from the external-anchor burden, and resolve the greater Argaea /
+Mega Darkrai crisis.
 
 Alola and the Delta Episode strengthen this return: Amber comes back with Ultra Wormhole experience, other-world ethics, Aether/Lusamine lessons, and proof that sometimes supporting the right specialist is the right move.
 
-**Ends:** Mega Darkrai purified/resealed. Gardevoir freed. Alexander reclaims the throne. The last major personal promise resolved before the full global war reveals itself.
+**Open:** exact party, purification or resealing mechanism, fate of the Mad
+King, and final win condition. Cresselia plus Shaymin is not a locked cure, and
+Alexander reclaiming the throne is not a locked ending.
 
-See: `arc-hidden-kingdom.md`
+See: [Hidden Kingdom arc](arc-hidden-kingdom.md), [Argaea plot
+thread](../plot-threads/argaea.md)
 
 ---
 
@@ -268,28 +284,29 @@ See: [The Mewtwo Thread](../plot-threads/mewtwo-thread.md)
 | 7 | 15 | Hoenn | Arrival, Trapinch arc begins |
 | 8 | 15 | Hoenn | Magma/Aqua/Rocket, Ceruledge sighting, Mega Stones |
 | 9 | 15 | Hoenn | Conference — youngest ever winner |
-| 10 | 16 | Hidden Kingdom | Dragon gauntlet, Mad King tragic reveal, Gardevoir stays, Mega Evolution unlocked, Pikachu handoff |
+| 10 | 16 | Argaea / Kitakami | Accidental entry with Alexander; first Mega Evolution; loss; Cresselia and Gardevoir patch the seal |
 | 11 | 17 | Sinnoh | Team Galactic dismantled, Ceruledge reunion, Mega unlocked |
 | 12 | 17 | Paldea | Adventurer-culture widening, Alonso-region reconnection |
 | 13 | 17-18 | Kalos | Mega mastery and dimensional lore deepening |
 | 14 | 18 | Alola reset | Brief real-world displacement -> Aether extraction -> Alola / Ultra Space fugitive reset |
 | 15 | 18 | Hoenn return | Delta Episode — Zinnia owns the Rayquaza payoff; Amber supports |
-| 16 | 18 | Hidden Kingdom | Mega Darkrai purification/reseal; Gardevoir freed; Alexander reclaims throne |
+| 16 | 18 | Argaea | Deliberate return to replace the stopgap, free Gardevoir, and resolve the greater crisis; mechanism open |
 | 17+ | 18-20+ | Beyond | Peak politics, Mewtwo payoff, Rainbow Rocket endgame |
 
 ---
 
 ## Cross-Refs
 
-- `arc1-kanto-year1.md` — Kanto Year 1 detail
-- `arc-celadon.md` — Celadon/Erika/Vee arc
-- `arc2-hoenn.md` — Hoenn arc detail
-- `arc-hidden-kingdom.md` — Hidden Kingdom arc (Arcs 10 + 16)
-- `arc-alola-ultra-space.md` — Alola / Aether / Ultra Space reset arc
-- `arc-pikachu-handoff.md` — Pikachu/Ash beat
-- `wiki/pokemon-teams/team-amber-mc.md` — full roster by region
-- `future/current-direction.md` — source of truth for ages and direction
+- [Kanto Year 1](arc1-kanto-year1.md) — Kanto Year 1 detail
+- [Celadon arc](arc-celadon.md) — Celadon/Erika/Vee arc
+- [Hoenn arc](arc2-hoenn.md) — Hoenn arc detail
+- [Hidden Kingdom arc](arc-hidden-kingdom.md) — Hidden Kingdom arc (Arcs 10 + 16)
+- [Argaea plot thread](../plot-threads/argaea.md) — causal spine, clue lanes, and open mechanics across both visits
+- [Alola / Ultra Space arc](arc-alola-ultra-space.md) — Alola / Aether / Ultra Space reset arc
+- [Pikachu handoff](arc-pikachu-handoff.md) — Pikachu/Ash beat
+- [Amber's team](../characters/amber-mc-team.md) — full roster by region
+- [Current direction](../../workspace/current-direction.md) — source of truth for ages and direction
 - [The Mewtwo Thread](../plot-threads/mewtwo-thread.md) — the two-Mewtwo structure and ore-to-Mewtwonite Y thread
 - [Late-Saga Dimensional Displacement Bridge](../plot-threads/dimensional-displacement-bridge.md) — late-saga real-world displacement / Alola-Ultra Space bridge
-- `wiki/characters/alonso-quijano.md` — Alonso character
-- `wiki/plot-threads/rainbow-rocket-endgame.md` — Endgame direction
+- [Alonso Quijano](../characters/alonso-quijano.md) — character page
+- [Rainbow Rocket endgame](../plot-threads/rainbow-rocket-endgame.md) — endgame direction

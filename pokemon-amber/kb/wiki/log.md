@@ -315,3 +315,47 @@ Consistency sweep (this entry):
 - Note: lore-keeper spawn (p23) for this sweep failed on a billing error; sweep was completed inline instead
 
 Open story flags (author deciding --- not invented): reseal agent (self vs deliberate); Mad King's combat presence (corruption-channel vs partner); mother dies-vs-corrupted + parents' Arc 16 fate; third Arc-10 party member; Alexander's Phase-2 tone; endgame placement (mid vs co-final); Mega-unlock reconciliation; optional proper name for the Mt. Silver anomaly / Argaea's fold instance.
+
+## 2026-08-08 --- Argaea restored to a continuous-history, two-visit thread
+
+This entry supersedes the live planning direction recorded on 2026-06-05 and
+2026-06-06 where the two conflict. The older log entries remain as history; do
+not treat their "locked" labels as current.
+
+Decided / current direction:
+
+- Created `plot-threads/argaea.md` as the cross-arc causal spine for two visits.
+- Argaea is a smallish, physically and dimensionally sealed pocket region in
+  the same Pokemon world, with multiple provinces or communities and about
+  3,000 years of continuous internal history. Stasis is superseded.
+- Kitakami is restored as a province or community inside Argaea. "Kitakami
+  dropped" is superseded.
+- Visit 1 is an accidental entry by Amber and Prince Alexander. They resolve
+  the immediate Kitakami crisis over several days; Amber and Gardevoir first
+  discover Mega Evolution there; the Mad King and a partial Mega Darkrai
+  incursion then arrive; Amber's group loses despite the breakthrough.
+- Cresselia injures and exhausts herself to expel Amber and Alexander. She
+  remains alive as far as current planning establishes, trapped inside as the
+  seal's internal counterweight. Gardevoir remains at or on the outside
+  threshold as the external anchor after a Mega-enabled sealing action.
+- The patched seal buys only limited time, broadly a few years. Visit 2 is a
+  deliberate return by Amber, Alexander, and a capable recruited group to
+  replace the stopgap, free Gardevoir, and resolve the larger crisis.
+- Mew is cut from Argaea's access, barrier, and seal logic. Amber's trace Mew
+  DNA is not a key.
+- Alexander's later-conqueror / evil-prince direction is rejected. His
+  post-Argaea role has not been replanned.
+
+Removed as current locks: near-zero-time stasis; 1:1 bond culture; Cresselia
+and Shaymin escaping with Alexander; Shaymin plus Cresselia as the fixed Visit
+2 cure; Amber's Visit 1 expedition without Alexander; the Mad King as the Visit
+1 mission; Mega Evolution unlocking only when Gardevoir stays; Mt. Silver or
+Mewtwo as the settled primary breach cause; and Alexander reclaiming the throne
+as a fixed ending.
+
+Open: breach cause and culpability; Mad King's corruption and agency; causal
+trigger for the post-Kitakami incursion; escape/seal topology and
+communication; whether Mega Evolution forms the seal once or is somehow
+sustained; exact patch duration; Visit 2 party, mechanism, King fate, and win
+condition; Loyal Three / Pecharunt / Toxic Chain history; optional Hoopa access
+role.

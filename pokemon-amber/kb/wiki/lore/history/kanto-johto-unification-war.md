@@ -83,7 +83,9 @@ Kanto and Johto developed as distinct regions separated by the Indigo mountain r
 - Living reminder of the war's true end
 - Political symbol: Johto sees legendary protection; Kanto hardliners see territory they should have conquered
 
-> [!FLAG] **Needs human review** --- The Mt. Silver Incident is now also the primary crack in the hidden kingdom's seal (see `wiki/arcs/arc-hidden-kingdom.md`). Oak stood at the kingdom's threshold the day the seal cracked. This connection may warrant a cross-ref or brief note in this page once the arc is further locked.
+> [!FLAG] **Argaea connection open** --- The cause and culpability of Argaea's
+> breach are unresolved. Do not treat the Mt. Silver Incident as the primary
+> crack without a later author decision.
 
 ## Relevance to Story
 - Explains Oak's authority (personal respect from war leadership, not institutional) and his enemies (Kanto hardliners who resent his surrender)
@@ -96,8 +98,9 @@ Kanto and Johto developed as distinct regions separated by the Indigo mountain r
 - Post‑war prosperity mixed with ongoing tensions; tourism booms at coastal hubs like Cinnabar
 - Sets stakes for League authority and regional conflict in later arcs
 - **The cover-up means most people don't know the real story** - creates mystery and political tension
-- See `wiki/arcs/arc-hidden-kingdom.md` --- Mt. Silver Incident as the primary trigger for the hidden kingdom seal's decay
+- See [the Argaea plot thread](../../plot-threads/argaea.md) --- the breach cause
+  remains open
 
 ## Citations / Sources
 - Story arc context: [Arc - The Perfect Family](../../arcs/1-the-perfect-family.md)
-- World systems cross‑ref: [Air Travel](../tech/air-travel.md), [Technology Overview](../tech/index.md)
+- World systems cross‑ref: [Transportation](../tech/transportation.md), [Technology Overview](../tech/index.md)

@@ -11,7 +11,7 @@ Amber's primary mentor and benefactor. Provides resources, Oak's Letter, and con
 
 ## Team
 
-- **Charizard** — starter Pokemon (Charmander). Stubborn for the first three weeks. Still a Charmeleon by age 15 (4Ever events). Evolved into Charizard at 17 during the push through the Mt. Silver dragon gauntlet --- fighting toward the hidden kingdom's threshold is where it earned its wings.
+- **Charizard** — starter Pokemon (Charmander). Stubborn for the first three weeks. Still a Charmeleon by age 15 (4Ever events). Evolved into Charizard at 17 during the push through Mt. Silver's dragon country. Whether that route becomes Argaea's access site is open.
 - **Dragonite** — ace. From Dragonite Island. Been with Oak since he was fourteen.
 - **Arcanine** — field research companion; well-traveled.
 - **Gyarados** — sea travel history.
@@ -26,9 +26,12 @@ He made it to the outer edge of the dragon territory --- Jangmo-o packs, Gible d
 
 This is the story Gary has heard a hundred times. It has no ending. Gramps keeps telling a story that doesn't resolve.
 
-**What Oak doesn't know:** beyond the dragon gauntlet, via Mt. Silver's gateway, there is a hidden kingdom folded into the Mega Dimension --- sealed for 3,000 years. Nobody in the outside world knows it exists.
+**Possible Argaea payoff:** the Mt. Silver route may connect to Argaea's
+outside-world access point. The current direction does not fix the gateway's
+location or make Oak's route the cause of the breach.
 
-**Future plot point:** Amber is the one who gets through. She discovers the kingdom for the world.
+If retained, Amber and Alexander's accidental entry can give Oak's unfinished
+story an ending. It must not become a planned Amber expedition.
 
 ## Dragonite Island
 

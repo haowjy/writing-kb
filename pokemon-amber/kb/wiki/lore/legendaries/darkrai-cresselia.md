@@ -71,14 +71,48 @@ Thematic and structural precedent this provides:
 
 ## Saga Application
 
-How this canon material is used in Pokemon: Ambertwo (origin reworked 2026-06-05 --- see `wiki/arcs/arc-hidden-kingdom.md`):
+The official material above informs the current Argaea direction without
+fixing every mechanic.
 
-- **Cosmology = Z-A's Mega Dimension, transposed.** Darkrai, amplified by overwhelming energy, forms a hyperspace distortion woven from subconscious thought (canon: "Hyperspace Lumiose"; twists time, beyond Lv. 100). In the saga, **AZ's ultimate weapon** is the accelerant 3,000 years earlier: it overloads Darkrai into its **Mega form**, which folds **Argaea** into the Mega Dimension. Darkrai then loses all reasoning. **Darkrai has no royal/trainer bond** --- it is the wild Rogue Mega at the prison's heart.
-- **The lunar duo is severed.** Darkrai is locked *inside* the fold; **Cresselia is carried *out*** with Prince Alexander. With its counterweight gone, the dreamscape rots into nightmare --- this is *why* Darkrai goes mad and the realm corrupts. (Cresselia is **not** an in-kingdom dreamcatcher in this version; her *absence* is the wound.)
-- **Royal bonds (1:1 culture):** **King --- Cresselia**, **Queen --- Shaymin.** Both legendaries break Alexander out and escape *with* him; the parents stay trapped. The King, having given Cresselia away, holds the nightmare alone and hollows into the **Mad King.**
-- **Shaymin** (new to the saga): the Queen's partner; Gratitude/purification legendary (Seed Flare cleanses corrupted land). Escapes with Alexander alongside Cresselia.
-- **Arc 16 win condition = purification, not force:** Alexander returns with **Cresselia (Lunar Wing) + Shaymin (purification)** to purify and reseal Mega Darkrai. PMD's "redeem through purification, not destruction" is the thematic precedent; the **B/W2 Lunar Wing distinction** still applies (the kingdom's corruption is beyond standard nightmare-infliction, so Shaymin's purification complements Cresselia).
+### Decided / Current Direction
 
-> [!FLAG] Shaymin likely warrants its own `wiki/lore/legendaries/` page once its role firms up.
+- The AZ / Mega Darkrai catastrophe sealed Argaea as a pocket region about
+  3,000 years ago. Argaea remained part of the same Pokemon world and
+  experienced continuous internal history rather than stasis.
+- Darkrai, not Hoopa or Mew, remains the cause associated with Argaea's
+  dimensional sealing. Amber's trace Mew DNA is not an access or seal key.
+- Visit 1 reaches only a partial manifestation, avatar, or incursion of Mega
+  Darkrai. Amber's group loses despite Amber and Gardevoir having discovered
+  Mega Evolution during the preceding Kitakami crisis.
+- Cresselia remains inside Argaea. She catastrophically exhausts and injures
+  herself to expel Amber and Alexander, then continues as the internal
+  counterweight of a patched seal. This is not an established death.
+- Gardevoir supports the outer side of the patched seal. Cresselia and
+  Gardevoir hold complementary roles until Visit 2 can replace the stopgap.
 
-Cross-ref: `wiki/arcs/arc-hidden-kingdom.md`, `wiki/characters/prince-alexander.md`, `wiki/vocab.md`
+### Provisional
+
+- Mega Dimension and hyperspace logic are the working cosmological language
+  for the AZ / Mega Darkrai catastrophe, but Argaea's exact topology is open.
+- Hoopa could later enlarge or navigate an existing distortion. It is optional
+  and cannot replace Darkrai as the cause.
+- The Loyal Three may have been genuine Kitakami guardians corrupted through
+  Mega Darkrai, possibly via Pecharunt or Toxic Chains. This has not been
+  chosen as canon.
+
+### Open
+
+- What caused the original breach, and whether the Mad King or Alexander was
+  responsible in whole or part.
+- The origin and nature of the Mad King's corruption, including whether he
+  deliberately released part of Mega Darkrai.
+- Why the Mad King and Darkrai incursion arrive after the Kitakami resolution.
+- The precise geometry and communication of the Cresselia / Gardevoir seal.
+- Whether Mega Evolution forms the seal once or operates under special Argaea
+  rules. Do not assume Gardevoir remains Mega-Evolved for years.
+- Visit 2's purification or resealing mechanism. Cresselia plus Shaymin is not
+  a locked win condition.
+
+Cross-refs: [Argaea plot thread](../../plot-threads/argaea.md), [Hidden Kingdom
+arc](../../arcs/arc-hidden-kingdom.md), [Prince
+Alexander](../../characters/prince-alexander.md), [vocabulary](../../vocab.md)

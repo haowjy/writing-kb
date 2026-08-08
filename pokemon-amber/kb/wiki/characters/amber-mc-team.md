@@ -49,7 +49,7 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 - **Squirtle** *(Kanto)* — One of the oddball members of the Squirtle Squad, not the leader. Steps away from the group identity when Amber crosses paths with them. The story is in why this one leaves — not defection, something more personal. Details TBD.
 
-- **Pikachu** *(road home from Argaea; temporarily travels with Amber, returned to Oak)* — Found on the road home from Argaea. Refuses to go in a ball. Amber travels with it briefly and recognizes it immediately — she knows exactly whose Pokemon this is supposed to be. Returns it to Oak's lab at Pallet Town. Tells Oak: *"Give it to Ash if he wakes up late."* She knows Ash will oversleep on his journey start day. She's not just dropping off a difficult Pokemon — she's quietly making sure the right story happens. Oak doesn't understand why she said it that way. See: `future/arcs/arc-pikachu-handoff.md`.
+- **Pikachu** *(road home from Argaea; temporarily travels with Amber, returned to Oak)* — Found on the road home from Argaea. Refuses to go in a ball. Amber travels with it briefly and recognizes it immediately — she knows exactly whose Pokemon this is supposed to be. Returns it to Oak's lab at Pallet Town. Tells Oak: *"Give it to Ash if he wakes up late."* She knows Ash will oversleep on his journey start day. She's not just dropping off a difficult Pokemon — she's quietly making sure the right story happens. Oak doesn't understand why she said it that way. See: [Pikachu handoff](../arcs/arc-pikachu-handoff.md).
 
 ### Tertiary
 
@@ -83,11 +83,11 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 ### Primary
 
-- **Kirlia → Gardevoir** *(acquired early Hoenn; willingly stays in Argaea)* — Amber's psychic slot. Caught early in Hoenn, travels with her through the full Hoenn arc and conference win. Over a year of bond before the goodbye. **In Argaea, Gardevoir chooses to stay** — the seal against Mega Darkrai (weakening after 3,000 years) needs something with psychic power resonant enough to hold. Gardevoir understands what's at stake. Amber can't argue against it. Not a death, not a theft — a goodbye they both know is necessary. Amber leaves Argaea knowing exactly what she left behind and why. She tells no one. See: `arcs/arc-hidden-kingdom.md`.
+- **Kirlia → Gardevoir** *(acquired early Hoenn; external seal anchor after Argaea Visit 1)* — Amber's psychic slot. Caught early in Hoenn, travels with her through the full Hoenn arc and conference win. During the Kitakami stage of Argaea Visit 1, Amber and Gardevoir discover or are forced to discover Mega Evolution together. After Cresselia expels Amber and Alexander, Amber and Gardevoir use Mega Evolution in a sealing action. Gardevoir must remain at or on the outside threshold as external support while Cresselia holds the inner side. The patch is temporary, and freeing Gardevoir is a fixed objective of Visit 2. Gardevoir's exact location, accessibility, and long-term Mega mechanics are open; do not assume she remains Mega-Evolved for years. See: [the Argaea plot thread](../plot-threads/argaea.md) and [the Hidden Kingdom arc](../arcs/arc-hidden-kingdom.md).
 
 ### Secondary (approaching Primary)
 
-- **Trapinch → Vibrava → Flygon** — Rare starter belonging to a Hoenn trainer gunning for a conference win. Got lost during training; trainer didn't file a rescue request, just moved on. His entire team is already evolved; Trapinch hadn't been used in tournaments for a while. The indifference is the wound. Trapinch won't evolve — emotional block from abandonment. Amber finds and saves it. The arc is Trapinch becoming strong enough to face the original trainer again. The trainer isn't a villain, just someone whose indifference becomes a target. Slow burn across the Hoenn arc. See: `future/arcs/arc2-hoenn.md`.
+- **Trapinch → Vibrava → Flygon** — Rare starter belonging to a Hoenn trainer gunning for a conference win. Got lost during training; trainer didn't file a rescue request, just moved on. His entire team is already evolved; Trapinch hadn't been used in tournaments for a while. The indifference is the wound. Trapinch won't evolve — emotional block from abandonment. Amber finds and saves it. The arc is Trapinch becoming strong enough to face the original trainer again. The trainer isn't a villain, just someone whose indifference becomes a target. Slow burn across the Hoenn arc. See: [Hoenn arc](../arcs/arc2-hoenn.md).
 
 ### Tertiary
 
@@ -248,10 +248,10 @@ Migration logistics: registration scan, health stamp, insurance proof, visa tier
 
 ## Cross‑Refs
 
-- future/current-direction.md — source of truth for story direction
-- future/arcs/arc-celadon.md — Celadon/Erika/Vee arc
-- arcs/arc-hidden-kingdom.md — Argaea (the hidden kingdom) discovery arc
-- future/arcs/arc-pikachu-handoff.md — Pikachu/Ash handoff beat
-- future/arcs/arc2-hoenn.md — Hoenn arc, Trapinch
-- wiki/characters/amber-mc.md — MC overview
-- wiki/lore/trainer-systems/international-licensing.md — visa tiers and carry limits
+- [Current direction](../../workspace/current-direction.md) — source of truth for story direction
+- [Celadon arc](../arcs/arc-celadon.md) — Celadon/Erika/Vee arc
+- [Hidden Kingdom arc](../arcs/arc-hidden-kingdom.md) — Argaea (the hidden kingdom) discovery arc
+- [Pikachu handoff](../arcs/arc-pikachu-handoff.md) — Pikachu/Ash handoff beat
+- [Hoenn arc](../arcs/arc2-hoenn.md) — Hoenn arc, Trapinch
+- [Amber](amber-mc.md) — MC overview
+- [International licensing](../lore/trainer-systems/international-licensing.md) — visa tiers and carry limits

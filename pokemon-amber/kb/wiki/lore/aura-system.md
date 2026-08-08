@@ -50,11 +50,15 @@ His academic work is publicly framed as Pokemon bond studies. Privately, it's an
 
 He cannot teach it. He can only point toward it.
 
-See: [Professor Samuel Oak](professor-oak.md)
+See: [Professor Samuel Oak](../characters/professor-oak.md)
 
 ## Amber
 
 Amber has an unusual baseline capacity due to her trace Mew DNA. Her manifestation is the Pokemon bond/empathy type.
+
+This capacity does **not** grant access to Argaea and is not part of Argaea's
+barrier or sealing mechanism. The Argaea thread has cut Mew from its causal
+logic.
 
 Current expressions (Age 13+):
 - Low-grade emotional sense of nearby Pokemon
@@ -81,7 +85,7 @@ Peak expressions are TBD --- details to be developed in later arc planning.
 ## Cross-Refs
 
 - [Aura and Bonds — Mechanics](aura-mechanics.md) --- detailed mechanics, cultivation, knowledge tiers
-- [Professor Samuel Oak](professor-oak.md) --- Oak's research and the post-4Ever conversation
-- [Amber (MC)](amber-mc.md) --- Amber's Mew DNA origin
-- [Future Arc: 4Ever (Arc 4)](arcs/arc-4ever.md) --- first time Amber learns this system exists
-- [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](arcs/arc-hidden-kingdom.md) --- Gardevoir stays to sustain the seal against Mega Darkrai
+- [Professor Samuel Oak](../characters/professor-oak.md) --- Oak's research and the post-4Ever conversation
+- [Amber (MC)](../characters/amber-mc.md) --- Amber's Mew DNA origin
+- [Future Arc: 4Ever (Arc 4)](../arcs/arc-4ever.md) --- first time Amber learns this system exists
+- [Argaea plot thread](../plot-threads/argaea.md) --- Mega Evolution and the temporary Cresselia / Gardevoir seal; Mew DNA explicitly excluded

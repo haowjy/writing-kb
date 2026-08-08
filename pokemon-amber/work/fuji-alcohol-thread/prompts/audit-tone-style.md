@@ -1,0 +1,5 @@
+Audit the attached Pokemon Amber tone.md under /llm-writing. Report only; do not edit files.
+
+Determine whether each rule/example will actually change an LLM's output toward the author's style. Flag bloat, repetition, generic craft misplaced in the KB, arbitrary ratios or measurements, historical analysis presented as prescription, unsupported claims, stale examples, contradictory advice, and instructions likely to cause formulaic prose. Identify the minimal useful core, with exact proposed rewrites or deletion recommendations. Explain the behavioral effect of every retained rule and whether each example teaches a reproducible choice.
+
+Author preferences: current target only; selective detail; every phrase/action/paragraph must serve narrative, tone, character, chapter, or beat; rhythm mirrors emotion/impact; deadpan states ridiculous things seriously without explaining the joke; habitual hedging should be removed; trust reader; avoid describing unwanted writing when positive instructions suffice.

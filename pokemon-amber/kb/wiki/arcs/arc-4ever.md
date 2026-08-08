@@ -75,4 +75,3 @@ This is also the moment she stops treating the world like a game she already kno
 - `wiki/characters/professor-oak.md` — Sam connection, post-4Ever call, the gap
 - `wiki/lore/aura-system.md` — what Oak tells her
 - `wiki/pokemon-teams/team-amber-mc.md` — Ursaring rejoined, Charcadet gone
-- `arcs/arc-hidden-kingdom.md` — Gardevoir staying; the Mew DNA becomes plot-relevant again

@@ -37,7 +37,7 @@ Pages marked ✦ are **canon** (settled worldbuilding — don't contradict). Eve
 | [ciro-salvatierra](characters/ciro-salvatierra.md) | Alonso crew hustler |
 | [mewtwo](characters/mewtwo.md) | Fuji's weaponized Mew clone; the saga's spine |
 | [professor-oak](characters/professor-oak.md) | Mentor and benefactor; carrying a 40-year secret |
-| [prince-alexander](characters/prince-alexander.md) | Escaped prince of Argaea; reclaims throne in Arc 16 |
+| [prince-alexander](characters/prince-alexander.md) | Argaean prince; accidental Visit 1 companion and deliberate-return partner |
 | [sabrina](characters/sabrina.md) | Saffron Psychic Gym prodigy; Kyle's nemesis |
 
 ## Places
@@ -88,7 +88,7 @@ Pages marked ✦ are **canon** (settled worldbuilding — don't contradict). Eve
 | [arc2-hoenn](arcs/arc2-hoenn.md) | Hoenn — conference year, Zinnia, Mega seed |
 | [arc-celadon](arcs/arc-celadon.md) | Celadon — Vee encounter, Erika subplot |
 | [arc-4ever](arcs/arc-4ever.md) | 4Ever — Ursaring/Charcadet payoff |
-| [arc-hidden-kingdom](arcs/arc-hidden-kingdom.md) | Hidden Kingdom (Arcs 10 + 16) — Argaea, Mega Darkrai |
+| [arc-hidden-kingdom](arcs/arc-hidden-kingdom.md) | Hidden Kingdom (Arcs 10 + 16) — accidental loss, temporary seal, deliberate return |
 | [arc-alola-ultra-space](arcs/arc-alola-ultra-space.md) | Alola / Ultra Space Reset |
 | [arc-pikachu-handoff](arcs/arc-pikachu-handoff.md) | The Pikachu Handoff — seed only |
 
@@ -96,6 +96,7 @@ Pages marked ✦ are **canon** (settled worldbuilding — don't contradict). Eve
 
 | Page | Summary |
 |---|---|
+| [argaea](plot-threads/argaea.md) | Two-visit Argaea spine — Kitakami, first Mega Evolution, dual-anchor stopgap, return |
 | [mewtwo-thread](plot-threads/mewtwo-thread.md) | Saga spine — two Mewtwos, same lab as Amber |
 | [charcadet-to-ceruledge](plot-threads/charcadet-to-ceruledge-throughline.md) | Alonso origin → earned choice → 4Ever theft → Rocket weapon → reunion |
 | [ursaring-rescue](plot-threads/ursaring-rescue-thread.md) | Route 1 promise, Rocket removal, future reunion |

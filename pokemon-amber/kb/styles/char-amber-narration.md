@@ -27,19 +27,3 @@ Use references sparingly when they arise naturally from Amber's immediate though
 Amber's reference pool is "college-age internet-literate gamer" — Pokemon games, anime, internet culture. No literary allusions, no high-culture references.
 
 Game knowledge belongs when it changes Amber's decision or reveals a meaningful mismatch between what she expects and what she encounters.
-
----
-
-## Tonal Range
-
-**Darkest register** (see Ch. 15): sentences shorten, sensory detail becomes concrete, humor drops, and similes become rare. Profanity appears only at high stakes.
-
-**Brightest register**: sentences can lengthen, emphasis becomes more playful, and sensory details carry more enthusiasm.
-
-**Register shift markers**: sentence length contracts toward gravity; simile and metaphor recede in the darkest passages; humor stops without announcing the transition; profanity signals high stakes.
-
----
-
-## Distinctive Patterns
-
-- **Italics**: move names (*Overheat*), emphasis (*there*), emotionally charged thought (*I touched a Ditto.*)
