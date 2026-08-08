@@ -35,9 +35,4 @@ Commands reveal the trainer's priorities and relationship with the Pokemon:
 
 **Purpose in the beat:** The trainer recognizes a brief opening and Rattata exploits it before Sandshrew can recover.
 
-- **The isolated command** gives the decision its own beat.
-- **The paragraph break** creates a brief interval between order and consequence.
-- **Crossing the dirt** converts Quick Attack's speed into closed distance.
-- **Sandshrew still turning** identifies the opening the trainer noticed.
-- **Rattata's shoulder** specifies what makes contact.
-- **The raised foreleg** locates the vulnerable angle and updates both Pokemon's positions after impact.
+The isolated command and paragraph break separate decision from consequence. Crossing the dirt turns speed into closed distance; Sandshrew's unfinished turn identifies the opening. The shoulder and raised foreleg specify the contact point and update both Pokemon's positions after impact.

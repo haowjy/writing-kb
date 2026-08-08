@@ -28,11 +28,4 @@ Use sound before sight only when the scene's geography makes the character hear 
 
 **Purpose in the beat:** Fuji has reached the house and is presenting a reunion while the people inside understand that his arrival is dangerous.
 
-- **The first chime** announces his arrival through the closed door.
-- **Nobody moving** shows that the people inside share the danger without naming their fear.
-- **The repeated chime and knocking** turn waiting into persistence and reduce the chance that he will leave.
-- **Using Delia's name** identifies whom he expects to answer.
-- **His calm voice** conflicts with the danger already established by the surrounding chapters.
-- **"My love"** asserts an intimacy Delia no longer accepts.
-- **"your favorites"** frames the visit as considerate according to Fuji's reunion plan.
-- **The dahlias and first-date memory** show that the threat has prepared for a romantic reconstruction rather than an ordinary confrontation.
+The first chime announces Fuji through the closed door; nobody moving shows shared danger, and the repeated chime turns waiting into persistence. His calm delivery conflicts with the established threat. Delia's name identifies whom he expects to answer, while "my love," the favorites, and the first-date dahlias reveal the romantic reunion he believes he is staging.

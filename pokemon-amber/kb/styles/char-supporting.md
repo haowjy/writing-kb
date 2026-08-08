@@ -55,9 +55,3 @@ The question reduces the situation to the fairness issue Ash cares about.
 > "I quit! This is stupid!" (Ch. 17)
 
 The first declaration tries to end an upsetting activity. The second attacks the activity because he cannot explain the actual source of his distress.
-
-## Useful Contrasts
-
-- Erika manages permissions and interests; Mary identifies the next fact or action.
-- Stephen offers care and seeks cooperation; Delia establishes boundaries and consequences.
-- Amber considers what an explanation will accomplish; Ash says what the immediate feeling demands.

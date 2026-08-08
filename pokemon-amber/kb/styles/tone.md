@@ -36,16 +36,20 @@ Let tone change when the event changes. A ridiculous practical problem can produ
 
 Warmth comes from specific care: food prepared, space made, a Pokemon handled gently, a promise kept. Darkness comes from specific harm, coercion, loss, or consequence. The prose should give the consequential action more weight than a general statement about the mood.
 
+### Annotated Example: Humor Becoming Consequence
+
+> The Charmander sneezed. The map disappeared in one clean orange flash.
+>
+> The boy beside me stared at the ash on his fingers. "Was that our only copy?"
+>
+> "It was." I looked at Charmander. "Face away from the supplies when you sneeze."
+>
+> The grass beside his boot caught. We stopped talking. By the time we stamped it out, one water bottle was empty. The trail split fifty feet ahead. (synthetic, noncanonical)
+
+**Use when:** A ridiculous Pokemon accident becomes a practical wilderness problem.
+
+The sneeze makes the loss accidental and briefly absurd; the ash and the boy's question establish that the only map is gone. Amber answers plainly and treats fire-breathing sneezes as a campsite habit to correct, allowing the incongruity to carry the joke. The grass catching ends the exchange through action. The empty bottle and split trail convert the accident into costs that change the next decision.
+
 ## Relationship Development
 
 Relationships accumulate through repeated choices under changing circumstances. Trust grows when one character takes a risk, keeps a confidence, accepts help, repairs harm, or changes behavior because of what another person needs. Use dialogue to negotiate the immediate issue; let the pattern across scenes carry the larger relationship.
-
-## Chapter Check
-
-Before keeping a beat, identify:
-
-1. What does the character want here?
-2. What changes their available choices?
-3. What does the choice cost or reveal?
-4. What should the reader now hope for, fear, or anticipate?
-5. Which details create that effect, and which can disappear without loss?

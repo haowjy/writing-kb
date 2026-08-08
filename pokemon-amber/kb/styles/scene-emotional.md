@@ -22,13 +22,7 @@ Fragments and silence can represent interrupted thought, but their shape must fo
 
 **Purpose in the beat:** Amber receives care without yet knowing whether the person providing it will stay.
 
-- **"A hand"** withholds identity because Amber's physical crisis limits what she can register.
-- **Touching her back** gives immediate support.
-- **"slow circles"** makes the care sustained rather than accidental.
-- **"while I retched"** keeps the comfort inside an unpleasant physical reality.
-- **The heaving stopping** marks the point when the practical need ends.
-- **The hand lifting** removes contact before Amber interprets it.
-- **Footsteps moving away** answers the scene's relational question through action.
+"A hand" limits perception to what Amber can register while retching; the slow circles make the care sustained. Once the physical need ends, contact lifts and the footsteps answer the relational question through departure rather than interpretation.
 
 ## Annotated Example: Absence
 
@@ -36,9 +30,4 @@ Fragments and silence can represent interrupted thought, but their shape must fo
 
 **Purpose in the beat:** The room shows Amber that both Fuji and Ditto are gone before she can act on either loss.
 
-- **Cold tea** shows that ordinary activity was interrupted long enough for time to pass.
-- **The forgotten mug** implies the person left without completing that activity.
-- **The empty chair** locates Fuji's absence in his habitual place.
-- **The space by the kettle** directs Amber to the second missing presence.
-- **Where the Pokeball used to sit** relies on her memory of the room rather than exposition.
-- **"glaring absence"** gives the final missing object priority because Ditto's disappearance changes Amber's next concern.
+Cold tea and the forgotten mug show interrupted activity and elapsed time. The empty chair locates Fuji's absence in his habitual place; the remembered space by the kettle reveals Ditto's disappearance. "Glaring absence" gives the Pokeball priority because it changes Amber's next concern.
