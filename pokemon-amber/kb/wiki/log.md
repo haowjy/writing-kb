@@ -360,3 +360,17 @@ communication; whether Mega Evolution forms the seal once or is somehow
 sustained; exact patch duration; Visit 2 party, mechanism, King fate, and win
 condition; Loyal Three / Pecharunt / Toxic Chain history; optional Hoopa access
 role.
+
+
+## 2026-08-08 --- Reorganized KB by knowledge function
+
+- Split the wiki into reference/, planning/, and continuity/.
+- Renamed story-level plot threads to planning/saga-threads/ and tightened
+  their admission test.
+- Moved minor threads and scene plans into their numbered arc folders.
+- Numbered arc folders and split Argaea Visit 2 into 16-argaea-return/.
+- Consolidated Team Rocket surveillance and Rainbow Rocket into the
+  Giovanni/Team Rocket saga thread.
+- Consolidated the two Aura pages into one system reference.
+- Reorganized characters, places, organizations, and worldbuilding by subject.
+- Rebuilt wiki/index.md and updated kb/AGENTS.md for the new taxonomy.

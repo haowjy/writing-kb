@@ -1,0 +1,182 @@
+# Drive Spectrum
+
+The drive spectrum is a central thematic engine for AmberTwo, especially for Amber and the main protagonist cast. It is the story's way of asking:
+
+> What force organizes this person's life right now, and what does that force make them capable of becoming?
+
+This should shape arcs and decisions, not become prose sermon. The theme works best when the reader feels it through what characters pursue, sacrifice, ignore, and refuse to abandon.
+
+## Core Principle
+
+Not every important character is "obsessed" in the same way. Some burn. Some survive. Some serve. Some avoid. Some attach. Some are empty despite tremendous power. Some have not yet found the object that will organize their life.
+
+That contrast is the point.
+
+Obsession, ambition, duty, survival, attachment, curiosity, resentment, avoidance, and love are all different answers to the same structural question: what is strong enough to pull a character forward?
+
+## Do Not Over-Moralize Drive
+
+Do not reduce drive into healthy obsession vs. corrupt obsession. That is too neat.
+
+Drive is a force. It can:
+
+- clarify
+- focus
+- distort
+- discipline
+- isolate
+- reveal what someone will sacrifice
+- reveal what someone cannot see
+- reveal what someone cannot live without pursuing
+
+The important question is not whether ambition is good or bad. The important question is what the character wants greatness for, and what they become while pursuing it.
+
+## Useful Fields
+
+For any major character, track:
+
+- **Object:** What are they driven toward?
+- **Origin:** Where did the drive come from?
+- **Practice:** What habits, training, or systems does it create?
+- **Blindness:** What does it make them unable to see?
+- **Sacrifice:** What will they give up for it?
+- **Collision:** Who or what does it put them against?
+- **Evolution:** Does it deepen, break, transfer, fade, mature, or curdle?
+
+## Main Protagonist Pattern
+
+### Amber
+
+Amber does not begin with a greatness bug. She begins with survival, secrecy, competence, and a need to control risk.
+
+Her drive is circumstance-forged:
+
+1. **Survival:** escape Fuji's collapse, hide what she is, stay alive.
+2. **Competence/control:** use game knowledge, plans, systems, and preparation to avoid being helpless.
+3. **Attachment:** Ditto, Teddiursa, Charcadet, and later found family make the journey personal.
+4. **Protection:** after she finally has people/Pokemon to lose, the drive becomes: no one gets to take my family again.
+5. **Worthiness:** the mature version is not just revenge or control, but becoming worthy of the trust Pokemon place in her.
+
+Amber is thrown into the orbit of greatness before she chooses greatness for herself. The story should show the gradual birth of drive: examples, promises, losses, failures, and responsibilities accumulating until she cannot remain merely cautious.
+
+### Alonso Quijano
+
+Alonso represents chosen-ideal drive in open flame. He wants to become the Greatest Adventurer — brave enough, noble enough, strong enough, and worthy enough to go where someone has to go.
+
+His drive is generous before it is dangerous. He is not roleplaying a knight through archaic speech; he lives toward an adventuring ideal through action, loyalty, courage, and sincerity.
+
+Function for Amber: he shows that a person can organize a life around a dream without apologizing for it.
+
+### Kyle Kong
+
+Kyle begins with inherited drive: Koichi's mission, the Fighting Dojo's pride, and the need to prove the Dojo still matters against Sabrina and the Psychic Gym.
+
+His arc is about converting inherited ambition into chosen ambition. Beating Sabrina fulfills the mission, but afterward the mission becomes too small. He leaves toward adventure because he finally wants something beyond proving someone else's point.
+
+### Mary
+
+Mary's drive sits between ambition and service. She wants to prove she belongs in the gym system, but her deeper question is what authority is for. Her best version is not status-seeking; it is becoming someone who can hold responsibility without losing compassion.
+
+### Erika
+
+Erika moves from ambition toward duty. Becoming Gym Leader matters, but the deeper object is making Celadon Gym worthy of Celadon. Once she has authority, the question becomes whether the role expands her or cages her.
+
+### Beatriz Romero
+
+Beatriz is curiosity disciplined into vocation. Her dream is to discover and catalog every Pokemon, not as trophy collection but as an answer to ignorance. She believes misunderstanding Pokemon causes harm; observation and record-keeping become her way of protecting the world.
+
+### Ciro Salvatierra
+
+Ciro's drive is money-as-freedom. "Get rich" is not merely greed; it comes from growing up dirt poor, scrounging for scraps, and living under debt/dysfunctional-family scarcity. It is a demand that no one owns him. He clashes with Alonso's nobility, but his code matters: he will not abandon the vulnerable or sell out companions/Pokemon.
+
+## Major Mirrors
+
+### Oak
+
+Oak is not a man whose obsession died. Young Oak burned with exploration and the desire to understand Pokemon in the field. Old Oak's fire has banked into research.
+
+His current obsession is the human-Pokemon bond: why connection makes both sides stronger, and how that strength can be deliberately cultivated without exploitation.
+
+Oak shows what drive looks like after achievement, war, regret, restraint, and decades of responsibility.
+
+### Sabrina
+
+Sabrina is raw power without drive. She is not a companion and not a conventional ambitious rival. Her psychic power makes ordinary emotion and social contact overwhelming; she becomes a boss for Kyle because she embodies asymmetry: tremendous natural gift without the same forward hunger.
+
+### Fuji
+
+Fuji is grief curdled into possession. His drive seeks restoration of a perfect family and refuses to recognize the living people in front of him as separate from his need.
+
+### Giovanni
+
+Giovanni is conquest-drive: nationalism, humiliation, legitimacy, criminal infrastructure, and Mewtwo as the answer to powerlessness. He is a dark answer to greatness: not becoming worthy, but becoming impossible to oppose.
+
+### Mewtwo
+
+Mewtwo is the product of others' obsession seeking autonomy. Its drive begins as grievance and self-definition against creators who made it instrumental.
+
+### Charcadet / Ceruledge
+
+Charcadet is becoming: what shape will this fire take, and who gets to shape it? Alonso and the older/starter Charcadet offer one possible path; its eventual Armarouge form remains the mature version of that path. Amber offers a beginning. Rocket/Ceruledge forces a corrupted path through theft and weaponization.
+
+### Ditto
+
+Ditto doesn't have a driving obsession. It was a blob, and in many ways still is — shaped by whoever holds it, defined by what it copies. Its emerging drive is attachment and protection: choosing Amber, choosing forms for her sake, becoming something more than Fuji's tool. But this is nascent, not consuming. Ditto's arc is about agency slowly forming where none existed.
+
+### Teddiursa → Ursaring
+
+Pre-4Ever: playful, determined, scrappy — wants to find his mother and get stronger, but still has a childlike quality. The drive to get stronger is a means to the rescue, not yet an end in itself.
+
+4Ever: Teddiursa finds his mother among Rocket's corrupted Pokemon. She has been driven to madness — beyond saving. She dies. Teddiursa evolves into Ursaring through grief. The physical transformation is the emotional breaking point.
+
+Post-4Ever: Ursaring becomes destructively obsessed with strength and vengeance. Diminishing returns — rage without growth, training without improvement. Mirrors Amber's own radicalization after losing Charcadet. Both lost something in 4Ever; both harden into versions of themselves that can't sustain.
+
+Later: some event mellows both Ursaring and Amber. They come down from the destructive obsession together. The arc resolves into a sustainable version of their drive — not the fire going out, but the fire finding a shape it can hold.
+
+### Vee
+
+Endurance → trust → peace. Mirrors manga Vee's arc (Pokemon Adventures). TR experimented on Vee, forcing it to cycle between Vaporeon, Jolteon, and Flareon --- each transformation causes physical pain. Deep mistrust of humans as a result. Vee attacks anyone who approaches.
+
+Vee's drive is not a burning obsession --- it's the absence of one. What it wants is to stop hurting. What it gets instead is the ability to endure pain for someone who earned trust. The willingness to keep shifting, keep suffering, for Amber's sake --- that IS the drive, even though it looks passive from outside.
+
+Permanent evolution into Espeon is the resolution: loses the multi-form ability, gains stability. No longer burdened by the forced transformations. The Espeon form represents emotional recovery --- choosing one shape, one life, one bond. Not power-up. Peace.
+
+Resonates with Amber's identity themes (forced to be multiple things, in pain from it) and the broader Rocket-experimentation throughline.
+
+### Kaede
+
+Survival → resentment. Hiro lives --- that's the first object. Kaede steals an Oddish, gets caught, and a stranger (Erika) saves her brother for free. Gratitude is real but complicated.
+
+Then Erika becomes Gym Leader. Nothing changes for the Factory Ward. The system Erika runs still refuses unregistered patients, still lets Sludge Fever spread, still ignores the Ward. Kaede's gratitude curdles: Erika saved one family, got the title, and the Ward rots. Individual compassion, zero structural change.
+
+Kaede joins TR because it's the natural economic path for Factory Ward residents --- the only institution that treats them as worth investing in. Her drive shifts from pure survival to something harder: prove the legitimate system is a lie. Erika is the face of that lie, even if Erika is genuinely trying and blocked by the board. Kaede can't see that from outside. She sees outcomes.
+
+**Note:** Kaede and Erika are NOT childhood friends (manga-only). They meet for the first time through the heist (ch5-10). The resentment is structural, not personal betrayal.
+
+## Design Rule
+
+The drive spectrum should be visible in plot pressure:
+
+- who walks toward danger
+- who retreats
+- who keeps promises
+- who breaks rules
+- who trains past reason
+- who accepts authority
+- who rejects it
+- who treats Pokemon as partners
+- who treats them as instruments
+- who wants greatness, and what they want greatness for
+
+Do not pause the story to explain the theme. Let the theme choose the collisions.
+
+## Cross-Refs
+
+- [Core Story Elements](core-story-elements.md)
+- [Amber (MC)](../../reference/characters/humans/amber-mc.md)
+- [Alonso Quijano](../../reference/characters/humans/alonso-quijano.md)
+- [Kyle Kong](../../reference/characters/humans/kyle-kong.md)
+- [Professor Samuel Oak](../../reference/characters/humans/professor-oak.md)
+- [Sabrina](../../reference/characters/humans/sabrina.md)
+- [Charcadet → Ceruledge Throughline](../saga-threads/charcadet-ceruledge.md)
+- [Rainbow Rocket Endgame](../saga-threads/giovanni-team-rocket.md)

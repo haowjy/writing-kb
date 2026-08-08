@@ -8,31 +8,40 @@ intent, and unrevealed canon.
 
 ## Layout
 
-- `wiki/`           Entity, concept, and summary pages. The wiki proper.
-- `research/`       Raw external sources (Pokemon canon notes, real-world
-                    refs) cited by wiki pages. Inputs, not knowledge.
-- `styles/`         Voice/tone reference loaded by writer agents.
-                    About *how to write*, not *what is true*.
-- `issues/`         Craft backlog --- recurring prose patterns,
-                    mechanical tics. Workflow queue, not knowledge.
+- wiki/reference/ --- established entity and world reference
+- wiki/planning/ --- unwritten story architecture, arcs, saga threads, themes, and decisions
+- wiki/continuity/ --- timeline, established events, and contradictions
+- wiki/index.md --- curated navigation
+- wiki/vocab.md --- stable project vocabulary
+- wiki/log.md --- append-only maintenance history
+- research/ --- raw external sources cited by wiki pages
+- styles/ --- voice and tone references
+- issues/ --- craft backlog
 
-## What lives in `wiki/`
+## Knowledge Boundaries
 
-| Folder              | Page type | What it holds                                  |
-|---------------------|-----------|------------------------------------------------|
-| `characters/`       | Entity    | One page per named character                   |
-| `places/`           | Entity    | Cities, routes, buildings, regions             |
-| `organizations/`    | Entity    | Team Rocket, Ranger Union, Ace Trainers, etc.  |
-| `events/`           | Entity    | Specific story moments (Pallet attack, etc.)   |
-| `arcs/`             | Concept   | Arc-level pages, both canon and planned        |
-| `plot-threads/`     | Concept   | Storylines spanning multiple **arcs** --- see `wiki/plot-threads/AGENTS.md` |
-| `lore/`             | Concept   | Mechanics, systems, worldbuilding              |
-| `themes/`           | Concept   | Abstract author concerns                       |
-| `summaries/`        | Summary   | Per-chapter and per-research-source summaries  |
-| `contradictions/`   | Backlog   | Canon facts that conflict, awaiting resolution |
-| `index.md`          | Catalog   | Every page with a one-line summary             |
-| `log.md`            | Log       | Append-only operations record                  |
-| `timeline.md`       | Synthesis | Cross-cutting chronology                       |
+### Reference
+
+Reference pages answer **who, where, and how the world works**. They may contain
+spoilers and unrevealed settled facts, but speculative alternatives belong in
+planning rather than being mixed into reference prose as equal possibilities.
+
+### Planning
+
+- planning/saga-overview.md owns the full structural map.
+- planning/saga-threads/ contains only story-level throughlines whose removal
+  would restructure several major arcs.
+- planning/arcs/<number-name>/overview.md owns one arc or adjacent arc range.
+  Smaller plot threads and scene plans live beside that overview.
+- planning/themes/ holds thematic architecture.
+- planning/decisions/ records settled choices when the reasoning remains
+  useful; rejected plans should not remain on live entity pages.
+- planning/rosters/ holds future team construction.
+
+### Continuity
+
+Continuity pages answer **what has happened and when**. They do not hold future
+brainstorming. Chapter summaries remain in the story repository.
 
 ## Page conventions
 
@@ -62,10 +71,11 @@ agent in the creative-writing-skills package.
 When a new chapter publishes or a research source is added, integrate it:
 
 1. Read the source
-2. Write a summary page in `wiki/summaries/`
-3. Identify entities/concepts the source touches; update their pages
-4. Update `wiki/index.md` for any new pages
-5. Append a line to `wiki/log.md`
+2. Read the chapter's `story/chX/summary.md` when applicable
+3. Update the relevant reference and continuity pages
+4. Update planning only when the new material changes future direction
+5. Update `wiki/index.md` for new navigation entry points
+6. Append a line to `wiki/log.md`
 
 Entry point: `chronicler` agent. For chapter ingest, pass the chapter
 file. For research ingest, pass the research file.
@@ -90,7 +100,7 @@ Periodic health check:
 - Stale claims (entity page contradicts latest chapter summary)
 - Missing cross-references (entity mentioned in summary but no page exists)
 - Broken `[[wiki-link]]` references
-- Canon contradictions --- file to `wiki/contradictions/`
+- Canon contradictions --- file to `wiki/continuity/contradictions/`
 - Craft issues --- file to `kb/issues/`
 
 Entry point: `chronicler` or `continuity-checker`.
@@ -108,5 +118,5 @@ This kb is synced to a separate repo via meridian's autosync feature. Tool
 state (sessions, work-items, locks) stays in the main repo's `.meridian/`
 and is NOT part of the kb sync.
 
-Chapters live in the main repo at `story/chapterX/`. Wiki pages reference
+Chapters live in the main repo at `story/chX/`. Wiki pages reference
 them by canonical `[chN]` notation without filesystem paths.

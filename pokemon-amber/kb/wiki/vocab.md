@@ -19,8 +19,8 @@ stasis.
 The name derives from the Argead dynasty, Macedon's royal house. The name does
 not commit Prince Alexander to an Alexander-the-Great conquest arc.
 
-See [the Argaea plot thread](plot-threads/argaea.md) and [the Hidden Kingdom
-arc](arcs/10-argaea-kitakami.md).
+See [the Argaea saga thread](planning/saga-threads/argaea.md) and [the Hidden Kingdom
+arc](planning/arcs/10-argaea-kitakami/overview.md).
 
 ### Hidden Kingdom *(descriptive / arc title)*
 
