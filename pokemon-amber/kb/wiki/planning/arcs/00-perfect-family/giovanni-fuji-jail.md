@@ -25,9 +25,9 @@
 - **Defense mechanism:** "Bonds are fake. Pokemon are disloyal opportunists. I won't be stupid enough to care again."
 
 **Founding Team Rocket:**
-- **She founded TR** after Meowth abandonment, using stolen Silvertail knowledge
-- Took clan's merchant logistics, breeding expertise, business networks
-- Corrupted legitimate practices into criminal enterprise
+- After Oak's peace, she organized surviving separatist infrastructure with her Silvertail commercial, logistics, breeding, and courier networks into a criminal/profit faction
+- Preserved wartime codes, routes, supply bases, and finance through that faction
+- Shifted legitimate and wartime practices toward criminal enterprise; the exact Rocket naming moment remains open
 - Philosophy: Pure profit, Pokemon as commodities to auction, stay out of politics
 - **Hates Pokemon** - won't touch them, finds them disgusting (per Bulbapedia canon)
 - Only wants Mew/Mewtwo for money/power, not because she likes them

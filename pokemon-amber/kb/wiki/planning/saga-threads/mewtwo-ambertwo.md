@@ -24,7 +24,7 @@ Created by Fuji for Project Chimera. The product Fuji was paid to deliver.
 
 After Mewtwo #1's escape, Giovanni keeps Fuji alive off-books and begins a second Mewtwo program. Chapter 6 supplies the governing premise: when Fuji says that Mewtwo thinks like a human, with desires and grudges, Giovanni answers, *"Then it can understand reason."*
 
-Mewtwo #2 is not a corrected, duller, controlled weapon or a strategic reserve waiting on a command. Giovanni's answer to the first Mewtwo's rebellion is to raise a genuine partner: care, identity, purpose, respect, and a clone household rather than chains. The loyalty is real, and it is formed inside the Kanto-restorationist worldview Giovanni directs.
+Mewtwo #2 is not a corrected, duller, controlled weapon or a strategic reserve waiting on a command. Giovanni's answer to the first Mewtwo's rebellion is to raise a genuine partner: care, identity, purpose, respect, and a clone household rather than chains. The loyalty is real, and it is formed inside the Kanto-separatist worldview Giovanni directs.
 
 The program takes years. Giovanni keeps Mewtwo #2 out of his lawful challenge for unified Indigo Champion/Protector status: he expects his conventional legal team to win and will not expose Fuji, illegal research, or registration problems. After Lance defeats him with classified Mega Evolution, Mewtwo #2 first appears during the forceful Kanto secession as a strategic deterrent or war asset. The exact clone-household composition, first deployment, public unveiling, and degree of Fuji's later participation remain open.
 
