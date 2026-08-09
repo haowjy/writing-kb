@@ -245,7 +245,7 @@ Mega Evolution fully harnessed. Peak roster assembling. The story shifts from "t
 
 - Political dimension: institutions, League, government — does she work within them or outside?
 - Mega-era power politics: trainers and their partners are now strategic actors, not just competitors
-- Team Rocket / Rainbow Rocket — Giovanni's Kanto-independence project, institutional challenge, later overreach, and coalition resistance
+- Team Rocket / Rainbow Rocket — Giovanni's Kanto self-government project, eventual Kanto hegemony, and coalition resistance
 - Other evil teams and regional crises
 - Lance as peer — fight alongside him, not under him
 - Age 18–20+: peak physical and Pokemon bond capacity
@@ -256,8 +256,8 @@ Late-saga capture pattern:
 - Amber may help identify the pattern, but not alone. Silver, Looker, Lance, Zinnia, and others bring different pieces.
 
 Late-saga Giovanni direction:
-- Years of real Viridian-centered modernization give him public support, institutional networks, and the capacity to pursue Kanto independence.
-- He first prefers an institutional route, but his control logic can expand from independence into centralized dominance through compromised governments, League infrastructure, ports, and strategic-force systems. The exact challenge outcome, later conflict, and pace remain open in [Giovanni and Team Rocket](saga-threads/giovanni-team-rocket.md).
+- Years of real Viridian-centered modernization give him public support, institutional networks, and the capacity to pursue Kanto self-government.
+- His settled endpoint is Kanto-centered global hegemony: dependent governments, League and institutional dominance, economic or technical dependence, and strategic-system control. Whether that ambition begins early or develops from the independence project remains open, as do the challenge outcome, later conflict, and pace in [Giovanni and Team Rocket](saga-threads/giovanni-team-rocket.md).
 - Amber's counter-model is coalition through earned trust rather than centralized control, but she is one major actor among several rather than the sole rightful leader of every front.
 
 **Mewtwo #1 reunion / Genesect crisis:** Still future and not yet pinned to a specific slot in the macro order. The durable part is the thread, not the exact arc placement. Material from the early Viridian Mew-adjacent ore thread resurfaces as Mewtwonite Y and helps Amber support Mewtwo #1 during the crisis.
@@ -266,7 +266,7 @@ See: [The Mewtwo Thread](saga-threads/mewtwo-ambertwo.md)
 
 **The question is no longer how strong she is. It's what she's fighting for.**
 
-**Endgame — Rainbow Rocket Giovanni:** The final antagonist is a Giovanni who comes close enough to winning that stopping him requires a coalition Amber helps hold together. This confrontation culminates the saga's obsession variants — Fuji's grief, Giovanni's conquest, Alonso's chosen ideal, Amber's protection, Charcadet/Ceruledge's loyalty, Mewtwo's autonomy. The question is no longer who is strongest but what each character's drive was for, and whether force will be centralized through capture or distributed through trust.
+**Endgame — Rainbow Rocket Giovanni:** The final antagonist is a Giovanni whose Kanto-centered hegemony comes close enough to winning that stopping him requires a coalition Amber helps hold together. The confrontation makes the colonial irony explicit: Kanto's legitimate demand for self-government has been appropriated into domination over others. It culminates the saga's obsession variants — Fuji's grief, Giovanni's conquest, Alonso's chosen ideal, Amber's protection, Charcadet/Ceruledge's loyalty, Mewtwo's autonomy. The question is no longer who is strongest but whether force will be centralized through capture or distributed through trust.
 
 ---
 

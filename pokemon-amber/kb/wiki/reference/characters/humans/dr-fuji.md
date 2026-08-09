@@ -1,7 +1,7 @@
 # Dr. Fuji
 
 ## Overview
-Dr. Fuji is a brilliant geneticist whose grief over his daughter Amber's death led him to clone her and, under Team Rocket's revived Project Chimera, create Mewtwo. He fulfills Team Rocket's mandate, but Mewtwo is just the means to his real end: mastering cloning so he can resurrect Amber and rebuild the family he lost. That obsession turns him into a murderer.
+Dr. Fuji is a brilliant geneticist whose grief over his daughter Amber's death led him to clone her and, under Team Rocket's revived Project Chimera, create Mewtwo. Giovanni gives him broad scientific autonomy, funding, facilities, and latitude to make Rocket and Kanto more powerful when needed; Fuji's personal resurrection work is knowingly permitted within that arrangement. That obsession turns him into a murderer.
 
 ## Pokemon Ambertwo's Interpretation
 
@@ -15,7 +15,7 @@ The story filters his actions through Amber's perspective, which means readers s
 
 The most significant addition: Fuji is Delia Ketchum's former husband. He is Ash's stepfather. This tangles Amber directly into core Pokemon world lore in a way she has no idea about.
 
-Mewtwo was never the goal. Team Rocket wanted a weapon; Fuji wanted the technique. Mewtwo is the proof of concept that was supposed to unlock the resurrection of Amber. He uses Giovanni's resources and delivers the product. The personal objective runs underneath the whole time.
+Mewtwo was never Fuji's personal goal. Rocket expects powerful Pokemon, inventions, and useful research; Fuji sees Mewtwo as proof that can advance his personal resurrection work. Giovanni knowingly permits that work within Fuji's broad autonomy rather than commissioning Amber's resurrection as Rocket's central objective.
 
 The successful synthesis was, by Fuji's own admission, "more luck than science." He doesn't know what triggered the awakening. He can't reproduce it. That non-determinism haunts everything that follows --- he will keep trying to make another Amber and will never succeed.
 
@@ -32,7 +32,7 @@ Unable to accept his daughter's death, Dr. Fuji began working with Team Rocket o
 **Early Life & Catalyst (~32 years before story):**
 At age 8, young Fuji encountered Mew in distant jungles. A creature capable of perfect biological transformation. That childhood encounter shaped his entire scientific career --- and eventually his destruction.
 
-**Academic Rise and the Kanto Secession War (~25 to 15 years before story):**
+**Academic Rise and the Kanto Secession War (before ~20 years ago):**
 In his early twenties, Fuji married Delia and became a rising star at Celadon University. His breakthrough creation of the first successful Ditto (from a failed Pikachu cloning attempt) earned him prestigious research grants, including one publicly awarded by then-Champion Samuel Oak.
 
 When the Kanto secession war erupted, Fuji was recruited to head the top-secret "Project Chimera," weaponizing genetics for Kanto secessionist forces. The work made him increasingly clinical --- life as data, people as variables. The secrecy and detachment strained his marriage to Delia even as their daughter Amber was born.
@@ -44,10 +44,10 @@ Her death broke him. He retreated to his basement lab --- obsessive research by 
 
 Delia tried to reach him. She was grieving too, and she told herself the drinking and the obsession were temporary --- that the man she married was still in there. But alcohol and grief eroded his impulse control in stages: withdrawal first, then verbal cruelty, then the kind of anger that made her flinch when he moved too fast. The violence didn't arrive all at once. It escalated from drunkenness --- he wasn't a violent man who drank, he was a drunk who became violent. She endured it longer than she should have because she could see the grief underneath and kept believing it would pass. It didn't. She finally left and filed for divorce --- easy case, well-documented history. Open and shut.
 
-With Delia gone, the drinking continued but there was no one left to take it out on. Just the bottles and the research notes and the empty house. He was at rock bottom when Giovanni found him --- not a grieving scientist with a controversial proposal, but a drunk in a basement surrounded by failed experiments and empty bottles. Giovanni offered the one thing that could pull him back: funding, facilities, and the promise of bringing Amber back. Fuji didn't hesitate.
+With Delia gone, the drinking continued but there was no one left to take it out on. Just the bottles and the research notes and the empty house. He was at rock bottom when Giovanni found him --- not a grieving scientist with a controversial proposal, but a drunk in a basement surrounded by failed experiments and empty bottles. Giovanni offered the one thing that could pull him back: funding, facilities, and broad scientific latitude that knowingly included Fuji's resurrection work. Fuji didn't hesitate.
 
 **The Team Rocket Years (~12 years ago to present):**
-Giovanni gave him a lab, funding, and a stated goal of resurrecting Amber, and Fuji quit drinking. He stayed sober about twelve years. That sobriety is what let him rebuild into someone composed and competent enough to run Project Chimera. See [The Alcohol Timeline](#the-alcohol-timeline) below.
+Giovanni gave him a lab, funding, and broad scientific autonomy that knowingly allowed Fuji's resurrection work, and Fuji quit drinking. He stayed sober about twelve years. That sobriety is what let him rebuild into someone composed and competent enough to run Project Chimera. See [The Alcohol Timeline](#the-alcohol-timeline) below.
 
 Team Rocket restarts Project Chimera under Fuji's leadership: clone Mew, produce a controllable weapon. In exchange, Fuji gets unlimited resources and latitude for the side experiments he actually cares about. He spends this period producing "two" prototypes (Charmandertwo, Bulbatwo, etc.) by spiking source genomes with trace Mew cells. The Mew admixture destabilizes morphogenesis. Most fail.
 
@@ -87,7 +87,7 @@ Fuji's drinking tracks one variable: whether he has a purpose. When he has one, 
 | Phase | State | Trigger |
 |---|---|---|
 | Basement years (~12y before story) | Rock bottom. Escalating violence toward Delia | Amber's death |
-| Team Rocket years (~12y) | **Sober.** Composed, competent | Giovanni: lab, funding, "I'll bring her back" |
+| Team Rocket years (~12y) | **Sober.** Composed, competent | Giovanni: lab, funding, and autonomy that permits his resurrection work |
 | Ch 6 --- Ch 17 | Relapse, escalating | Surveillance photos of Delia with Stephen |
 | After Ch 17 | Raging. Openly the drunk scientist | Losing Amber --- she escapes him |
 | Clone-family era (+5-10y) | **Sober again.** Present, capable, a good father | Giovanni: new Ambertwo |
@@ -104,7 +104,7 @@ Fuji's drinking tracks one variable: whether he has a purpose. When he has one, 
 
 ### What This Means
 
-Purpose is Fuji's real dependency, and alcohol floods in whenever the supply gets cut. Giovanni controls that supply. He's run the same trade twice now --- the promise of a daughter, in exchange for total compliance --- which means he manufactures the need he then relieves. See [Giovanni --- The Clone Family][clone-family].
+Purpose is Fuji's real dependency, and alcohol floods in whenever the supply gets cut. Giovanni controls access to the resources and latitude that make Fuji's work possible. That structural enabling makes Giovanni culpable, without turning Fuji's later Pallet violence or personal collapse into Giovanni's direct act. See [Giovanni --- The Clone Family][clone-family].
 
 [clone-family]: https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/wiki/reference/characters/humans/giovanni.md#the-clone-family
 

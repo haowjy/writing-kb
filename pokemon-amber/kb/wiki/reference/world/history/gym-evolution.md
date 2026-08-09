@@ -329,15 +329,15 @@ The Fighting Dojo represents gyms that failed to adapt - lost official status, o
 ## Regional Variations
 
 **Why Regions Differ:**
-Each region faced different Pokemon threats and formed different gym council structures pre-Pokeball. When governments emerged post-Pokeball, these historical differences shaped modern systems.
+Each region developed trainer institutions under different ecological and political conditions. Kanto's modern Gym system formed through Johto-led colonial integration and later Kanto autonomy and industrialization; do not assume a pre-integration pan-Kanto Gym council. Exact early lineages remain open.
 
 ### Kanto-Johto Characteristics
 
 **Historical Foundation:**
-- 8-gym council tradition (Kanto) + 8-gym council tradition (Johto)
-- Kanto and Johto remain in the **unified Indigo League** through the secession war and reunification
-- Lance succeeds Oak as unified Champion after Oak abandons the secession effort; exact procedure remains open
-- Strong Ranger tradition follows war-era ecological urgency; Mt. Silver's role remains open
+- Johto has older trainer-clan and Gym traditions; Kanto's modern eight-Gym prestige develops under integration and later regional autonomy. Exact early institutional lineage remains open.
+- Kanto and Johto remain in the **Indigo League** through the secession war and reunification.
+- Lance succeeds Oak as unified Champion after Oak abandons the secession effort; exact procedure remains open.
+- Strong Ranger tradition follows war-era ecological urgency; Mt. Silver's role remains open.
 
 **Modern Systems:**
 - Dual badge system (standard + Ace)

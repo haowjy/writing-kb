@@ -13,11 +13,11 @@ Amber's primary mentor and benefactor. Provides resources, Oak's Letter, and con
 
 ## The Secession War
 
-Oak briefly held the **unified Indigo Championship** before the Kanto secession war. A Kanto native whose victory restored regional pride, he was pressed by Kanto elites, institutions, and public opinion into supporting a secession effort he believed could end quickly in negotiation. He authorized and participated in that effort; pressure explains the decision but does not erase his culpability.
+Oak briefly held the **unified Indigo Championship** before the first Kanto secession war ended roughly twenty years before story present. A Kanto native whose victory restored regional pride, he was pressed by Kanto elites, institutions, and public opinion into supporting a secession effort he believed could end quickly in negotiation. He authorized and participated in that effort; pressure explains the decision but does not erase his culpability.
 
-The bloodshed changed him. Oak turned toward negotiation, abandoned the secession effort, relinquished the Championship, and supported Lance and Blackthorn-associated Johto authority as the reunification successor. Kanto nationalists remember this as a surrender of freedom; Johto remembers it as participation in an illegal secession; a moderate account treats it as a grave choice he recognized in time to prevent worse harm. The precise duration of the war, legal succession process, and role of Mt. Silver remain open.
+The bloodshed changed him. Oak turned toward negotiation, abandoned the secession effort, relinquished the Championship, and supported Lance's reunification succession. Kanto nationalists remember this as a surrender of freedom; Johto remembers it as participation in an illegal secession; a moderate account treats it as a grave choice he recognized in time to prevent worse harm. The precise duration of the war, legal succession process, and role of Mt. Silver remain open.
 
-This history informs, but does not wholly define, his bond research: Oak learned that power without reciprocal trust can be catastrophic, and he now seeks a way to cultivate strength without exploitation. See [Kanto Secession War and Indigo Reunification](../../world/history/kanto-johto-unification-war.md).
+The secession arose from a substantially legitimate Kanto grievance against a Johto-led colonial order, without making Oak's use of force uncomplicated. This history informs, but does not wholly define, his bond research: Oak learned that power without reciprocal trust can be catastrophic, and he now seeks a way to cultivate strength without exploitation. See [Kanto–Johto Colonial Integration and First Kanto Secession](../../world/history/kanto-johto-unification-war.md).
 
 ## Team
 

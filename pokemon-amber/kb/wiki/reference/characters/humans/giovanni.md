@@ -2,11 +2,13 @@
 
 **Status:** drafting
 
-Giovanni is Viridian Gym Leader and the political leader of Team Rocket's largest separatist faction. He seeks an independent Kanto through institutions if he can, but prepares coercive alternatives because he increasingly equates Kanto's safety with his own control.
+Giovanni is Viridian Gym Leader and the political leader of Team Rocket's largest separatist faction. He begins from Kanto's legitimate colonial grievance and eventually turns it toward Kanto-centered hegemony: control, dependence, and security without genuine autonomy for others.
 
 ## Background and Viridian
 
-Madame Boss, Giovanni's mother, is a financier from the Silvertail merchant clan. His father was the previous Viridian Gym Leader and died in the first Kanto secession war; his name and detailed politics remain open. Giovanni inherits neither a Viridian House nor the Gym seat.
+Giovanni is about thirty-four or thirty-five in the story present. He was about fourteen when the first Kanto secession war ended; he remembers its aftermath but was not a child soldier and held no meaningful command.
+
+Madame Boss, his mother, is a Silvertail merchant-clan financier. His father was the previous Viridian Gym Leader and died in the final or last major battle of the secession war. His name, ideology, and the battle's location remain open. Giovanni inherits neither a Viridian House nor the Gym seat.
 
 Viridian is a Kanto-separatist stronghold near the Indigo corridor and Plateau. The old Gym's staff, veterans, and civic networks backed the first secession; parts later preserved its codes, routes, supply bases, and veteran ties. Public Kanto nationalism is wider than that covert infrastructure.
 
@@ -14,9 +16,9 @@ Giovanni leaves on a conventional trainer journey, proves himself in battle, and
 
 ## Political Model
 
-Giovanni is a battle-proven modernizer who opposes inherited privilege, centralizes institutions, and trusts merit and results. His merchant-clan mother and Gym-Leader father let him condemn hereditary noble privilege while claiming earned authority. He uses corruption to attack structural corruption, calling his own use of it temporary necessity.
+Madame Boss taught Giovanni that finance and logistics make political action possible. He later concludes that money alone cannot hold a movement: it needs broad popular support and the commitment, alignment, co-option, or neutralization of decisive institutions and powerful stakeholders. He treats the old separatists' pressure on an unconvinced Oak as a foundational mistake; Oak should have been fully persuaded before he was made to lead. He does not demand literal unanimity, and his precise private blame of Oak versus the old leadership remains open.
 
-He has no racial or extermination ideology. His culpability includes organized crime, coercion, surveillance, trafficking and research abuse, and political intimidation. The danger is that his reforms are real while he converts their infrastructure and loyalty into personal power.
+Giovanni is a battle-proven modernizer who opposes inherited privilege, centralizes institutions, and trusts merit and results. He uses corruption to attack structural corruption, calling his own use of it temporary necessity. He has no racial or extermination ideology. His culpability includes organized crime, coercion, surveillance, trafficking and research abuse, and political intimidation. The danger is that his reforms are real while he converts their infrastructure and loyalty into personal power.
 
 ## The Viridian Model
 
@@ -32,19 +34,25 @@ The benefits are real. They also create registration, patronage, logistics, surv
 
 His coalition includes corrupt officials, nationalists, careerists, honest supporters, and unaware bureaucrats. Many Kanto Gym Leaders may support him for different reasons: separatism or Rocket ties, peaceful independence, modernization, anti-clan or anti-corruption reform, and wartime conversion. Indigo loyalists remain; exact membership is open.
 
-## Mewtwo #2
+## Fuji and Mewtwo
+
+Giovanni gives Fuji broad scientific autonomy, funding, facilities, and latitude in exchange for research and capabilities that strengthen Rocket and Kanto when needed. Fuji's resurrection work is knowingly permitted within that autonomy, not a narrowly commissioned Rocket objective. Useful work is expected to benefit Rocket/Kanto, and secrecy is an implicit constraint. Giovanni is structurally culpable for enabling Fuji, while Fuji's later Pallet violence and personal collapse remain Fuji's own acts.
 
 After Mewtwo #1 escapes, Giovanni answers Fuji's report that it can reason, desire, and hold grudges: **"Then it can understand reason."** Mewtwo #2 is a genuine loyal partner and true believer raised with care, identity, purpose, respect, and agency; its worldview is formed inside Giovanni's political project, not imposed by mind control.
 
-## Open Championship Outcome
+## Settled End Direction; Open Route
 
-Giovanni believes the Champion/Protector title carries martial and popular legitimacy useful to Kanto independence. The challenge result, the title's legal leverage, any later Kanto office, the secession or war trigger, Mewtwo #2's participation and first public deployment, and Lance's use of Mega Evolution remain open. The alternatives belong only in [Giovanni and Team Rocket](../../../planning/saga-threads/giovanni-team-rocket.md).
+Giovanni eventually seeks everything important to fall under Kanto rule or Kanto influence: a Kanto-centered sphere of influence, dependent governments, League and institutional dominance, economic or technical dependence, and direct control of strategic systems as needed. It need not mean direct administration of every place.
+
+The irony is deliberate: a movement grounded in Kanto's colonial grievance becomes an imperial order with Kanto at its center. Giovanni's villainy is not Kanto's desire for self-government; it is his appropriation of that grievance for domination, equation of Kanto with his regime and personal control, denial of others' autonomy, and expansion of "security" until independent power itself is a threat.
+
+Whether he imagines this global order from the beginning or reaches it gradually remains open, as do public support or fracture after independence, the Championship outcome and leverage, Lance's Mega use, the war trigger, Mewtwo #2's participation or deployment, and a later Kanto Champion office. Those alternatives belong only in [Giovanni and Team Rocket](../../../planning/saga-threads/giovanni-team-rocket.md).
 
 ## Cross-References
 
 - [Team Rocket](../../organizations/team-rocket.md)
 - [Viridian Gym](../../places/kanto/viridian-gym.md)
 - [Champion/Protector and Indigo Council](../../world/society/government/champion-system.md)
-- [Kanto Secession War and Indigo Reunification](../../world/history/kanto-johto-unification-war.md)
+- [Kanto–Johto Colonial Integration and First Kanto Secession](../../world/history/kanto-johto-unification-war.md)
 - [Mewtwo](../pokemon/mewtwo.md)
 - [Giovanni and Team Rocket](../../../planning/saga-threads/giovanni-team-rocket.md)

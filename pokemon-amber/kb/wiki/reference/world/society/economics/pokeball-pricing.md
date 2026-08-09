@@ -198,13 +198,13 @@ Standard pricing as listed above. Silph Co. headquarters in Saffron ensures stea
 - Population of trainers exploded
 - Gyms overwhelmed by new trainers (led to area certification system)
 
-**Secession-War Era (~30-20 years ago):**
+**Secession-War Era (ending ~20 years ago):**
 - Cheap mass-produced Pokeballs made large-scale mobilization and extraction possible
 - The Kanto secession war exposed the ecological and political danger of treating Pokemon as mass assets
 - Conservation and capture regulation gained urgency after the war
 - Exact events, including Mt. Silver's role, remain open
 
-### Post-War Pokeball Shortage (~20-10 years ago)
+### Post-War Pokeball Shortage (after the war)
 
 - Production facilities damaged during the War
 - Pokeball prices spiked to ₽500-1,000 for basic balls

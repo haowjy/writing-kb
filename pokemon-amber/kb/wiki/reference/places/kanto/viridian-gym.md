@@ -6,7 +6,7 @@ Viridian Gym is Kanto's Ground-type pillar Gym and the visible center of Giovann
 
 ## History and Public Role
 
-Viridian is a Kanto-separatist stronghold near the Indigo corridor and Plateau. The previous Gym Leader --- Giovanni's father, who died in the first secession war --- and the old Gym's staff, veterans, and civic networks backed the original secession. Afterward, parts kept codes, routes, supply bases, and veteran ties alive. That covert network is narrower than Viridian's public Kanto nationalism.
+Viridian is a Kanto-separatist stronghold near the Indigo corridor and Plateau. Its nationalism grows from Kanto's substantially legitimate grievance against Johto-led colonial structures. The previous Gym Leader — Giovanni's father, who died in the final or last major battle of the first secession war — and the old Gym's staff, veterans, and civic networks backed the original secession. Afterward, parts kept codes, routes, supply bases, and veteran ties alive. That covert network is narrower than Viridian's public Kanto nationalism; the father's ideology and the battle details remain open.
 
 Giovanni earns battle credibility on a conventional trainer journey, then takes the Gym through a publicly defensible sanctioned challenge against an interim or caretaker leader with local support. He does not inherit it.
 

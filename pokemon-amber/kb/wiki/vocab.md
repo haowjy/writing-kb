@@ -13,7 +13,11 @@ The worldwide family of League institutions. Use this for the general trainer, G
 
 ### Indigo League *(Kanto--Johto institution)*
 
-The joint Kanto--Johto League institution for Champion/Protector and Elite Four authority, defense, Gym and trainer regulation, and major interregional or international functions. Kanto and Johto belonged to it before, during, and after the Kanto secession war.
+The Kanto--Johto League institution for Champion/Protector and Elite Four authority, defense, Gym and trainer regulation, and major interregional or international functions. Kanto and Johto belonged to it before, during, and after the Kanto secession war.
+
+### Kanto–Johto colonial integration *(historical process)*
+
+The Johto-led, generations-long incorporation of scattered Kanto communities into an administered Kanto roughly 100–120 years before story present. It mixed infrastructure and political integration with unequal power and coercion. Do not call it an equal founding compact, a wholly voluntary union, or a single settled conquest war. See [Kanto–Johto Colonial Integration and First Kanto Secession](reference/world/history/kanto-johto-unification-war.md).
 
 ### Indigo Council *(elected policy-making government)*
 

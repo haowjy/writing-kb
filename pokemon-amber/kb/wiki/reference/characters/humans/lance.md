@@ -16,7 +16,7 @@ Giovanni's future challenge for Lance's office is open planning. Whether Lance u
 
 ## Cross-References
 
-- [Kanto Secession War and Indigo Reunification](../../world/history/kanto-johto-unification-war.md)
+- [Kanto–Johto Colonial Integration and First Kanto Secession](../../world/history/kanto-johto-unification-war.md)
 - [Champion/Protector and Indigo Council](../../world/society/government/champion-system.md)
 - [Giovanni](giovanni.md)
 - [Giovanni and Team Rocket](../../../planning/saga-threads/giovanni-team-rocket.md)

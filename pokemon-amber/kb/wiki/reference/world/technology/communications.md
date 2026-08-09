@@ -14,5 +14,5 @@
 - 1990s analogue: Satellite relays and standardized infrastructure improve coverage and latency.
 
 ## Citations / Sources
-- World context: [Kanto–Johto Unification](../history/kanto-johto-unification-war.md)
+- World context: [Kanto–Johto Colonial Integration and First Kanto Secession](../history/kanto-johto-unification-war.md)
 - Tech context: [Technology Overview](index.md)

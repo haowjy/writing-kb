@@ -49,7 +49,8 @@ The Silvertail clan has one infamous black sheep: the woman who would become Mad
 - **Meowth left her** --- found happier trainer who actually played with it, showed affection
 - Saw her Meowth happy elsewhere; concluded bonds are fake/transactional (defense mechanism)
 - Her merchant, logistics, breeding, and courier network supplied Kanto during the first secession war
-- After Oak's peace, she organized surviving separatist infrastructure into the criminal/profit faction that became Team Rocket; the exact naming moment remains open
+- Her conclusion was that Kanto lost because it lacked money: money buys supplies, silence, officials, scientists, and loyalty
+- After Oak's peace, she converted surviving separatist infrastructure into the criminal-financial organization that became Team Rocket; the exact naming moment remains open
 - Clan tried to help her; she rejected them
 - Now the clan publicly distances themselves: "She doesn't represent us. We wish she'd stop using our name."
 

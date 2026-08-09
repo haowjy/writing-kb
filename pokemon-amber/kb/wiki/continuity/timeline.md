@@ -9,23 +9,23 @@ Chronological, reader-focused summary of events so far. Citations link to `story
 **Major events shaping the world before Amber's journey:**
 
 ### Ancient History
-- **~200 years ago:** Pokeball invention (primitive, hand-crafted, expensive)
-- **~50 years ago:** Silph Co. breakthrough in mass Pokeball production - democratization of Pokemon training begins
+- **~200 years ago:** Pokeball invention (primitive, hand-crafted, expensive).
+- **~100-120 years ago:** Johto-led colonial integration consolidates scattered Kanto communities into an administered territory. Kanto was neither empty nor culturally blank before this process; its local cultures and the specific mechanisms of incorporation remain open.
+- **~50 years ago:** Silph Co. breakthrough in mass Pokeball production; Pokemon training democratizes.
 
 ### Recent History
-- **~40-50 years ago:** Samuel Oak becomes unified Indigo Champion/Protector; civic reforms have already reduced noble-only rule and established the elected Indigo Council.
-- **~30-20 years ago:** Kanto secession war.
-  - Kanto and Johto are already parts of the Indigo League.
-  - Oak, under Kanto elite, institutional, and public pressure, authorizes and participates in a secession effort.
-  - He recognizes the bloodshed, seeks negotiation, abandons the effort, relinquishes the Championship, and supports Lance's reunification succession.
-  - The war's duration, exact legal succession, and Mt. Silver's precise role remain open.
+- **Before Oak's Championship:** civic reforms reduce hereditary noble-only rule, establish the elected Indigo Council, and reduce ordinary Champion policy power.
+- **~20 years ago:** the first Kanto secession war ends.
+  - Kanto and Johto are already regions of Indigo.
+  - Oak, under Kanto elite, institutional, and public pressure, authorizes and participates in a secession effort, then seeks negotiation, abandons it, relinquishes the Championship, and supports Lance's reunification succession.
+  - Giovanni is about fourteen at the war's end; he is not a child soldier or wartime commander. His father, the prior Viridian Gym Leader, dies in the final or last major battle.
+  - The war's start, duration, legal succession, and Mt. Silver's role remain open.
 - **Post-war recovery:** conservation, poaching enforcement, trainer regulation, and interregional administration gain political urgency. Exact causal reforms remain open.
 
 ### Current Day (Story Present)
-- **10-20 years after the war:** the Indigo League remains the joint Kanto--Johto top-level institution.
-- Lance is unified Indigo Champion/Protector; Oak is a respected researcher with influence but no present Champion office. Giovanni's future challenge to Lance and any later Kanto conflict remain open planning, not continuity.
+- The Indigo League remains the Kanto--Johto top-level institution. Lance is unified Indigo Champion/Protector; Oak is a respected researcher with influence but no present Champion office.
 - Kanto nationalist networks remember Oak as having surrendered Kanto freedom; Johto treats his secession role as illegal. Team Rocket uses the first narrative as a political resource.
-- Giovanni controls Viridian Gym and the strongest Team Rocket faction.
+- Giovanni, about thirty-four or thirty-five, controls Viridian Gym and the strongest Team Rocket faction. His future challenge, later conflict, and eventual Kanto-hegemony project remain planning, not continuity.
 
 ## Story Timeline (Chapter Summaries)
 

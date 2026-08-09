@@ -20,4 +20,4 @@
 
 ## Citations / Sources
 - Story: [Chapter 2](https://github.com/haowjy/pokemon-amber/blob/main/story/ch2/chapter2.md), [Ch.6](https://github.com/haowjy/pokemon-amber/blob/main/story/ch6/chapter6.md)
-- World context: [Kanto–Johto Unification](../history/kanto-johto-unification-war.md)
+- World context: [Kanto–Johto Colonial Integration and First Kanto Secession](../history/kanto-johto-unification-war.md)

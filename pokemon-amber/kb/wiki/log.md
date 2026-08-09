@@ -404,3 +404,13 @@ This entry supersedes the active Giovanni/Rocket direction recorded immediately 
 ## 2026-08-08 — Reopened Giovanni's Championship outcome
 
 This entry supersedes the active Giovanni/Rocket outcome recorded immediately above. Giovanni's wartime family history, Rocket's surviving-separatist-infrastructure origin, Viridian modernization, and independence motive remain settled. The future challenge now has no definite outcome; its alternatives are consolidated in `planning/saga-threads/giovanni-team-rocket.md`. Exact constitutional mechanics, roster, Mega Evolution use, Mewtwo #2's role and first public deployment, and any secession or war trigger are intentionally undecided.
+
+## 2026-08-08 — Settled Kanto–Johto colonial history, Giovanni chronology, and Fuji bargain
+
+This entry supersedes active claims that conflict with it; earlier maintenance entries remain historical records.
+
+- Established Johto-led colonial integration of Kanto roughly 100–120 years before story present: Kanto had diverse local communities but no unified pan-Kanto state, and integration mixed infrastructure and political development with unequal power and coercion. Exact local cultures, colonial methods, demography, and incorporation-government details remain open.
+- Set the first Kanto secession war to end roughly twenty years before story present. Giovanni was about fourteen at the end and is about thirty-four or thirty-five now; he was not a child soldier or commander. His father, the prior Viridian Gym Leader, died in the final or last major battle; ideology and battle details remain open.
+- Clarified Madame Boss's finance-and-logistics lesson and Giovanni's later stakeholder-and-popular-support model, including his judgment that pressuring an unconvinced Oak was a separatist error. Giovanni does not require literal unanimity.
+- Replaced the narrow Amber-resurrection commission with Fuji's broad autonomy bargain: Giovanni funds and enables useful Rocket/Kanto research while knowingly permitting Fuji's resurrection work. Giovanni is structurally culpable for enabling Fuji, not the direct author of Fuji's later Pallet violence.
+- Locked Giovanni's eventual Kanto-centered global hegemony and the anticolonial-to-imperial irony. The onset, Championship outcome, title leverage, Lance's Mega use, war trigger, Mewtwo deployment, Kanto public response, and later office remain open.
