@@ -1,58 +1,88 @@
 # Clan & Lineage System
 
-Regional distinction in how families preserve Pokemon training, breeding, and social power. Johto retained more traditional clan structures; Kanto developed local traditions under colonial integration and later converted much influence into corporate families, merchant networks, Gyms, schools, and industrial patronage.
+Regional distinction in how families preserve Pokemon training, breeding, and social power. Johto retained more traditional clan structures; Kanto had diverse local lineages before colonial incorporation and later converted much inherited influence into corporate families, merchant networks, Gyms, schools, and industrial patronage.
 
 ## Core Concept
 
 **Johto = Traditional Clans**
-- Families tied to specific Pokemon species or types
-- Shrines, rites, lineage books, and spiritual or cultural practices
+- Families tied to specific Pokemon species/types
+- Shrines, rites, lineage books, spiritual/cultural practices
 - Political power through councils and alliances
-- Generational knowledge of breeding, training techniques, and type mastery
+- Generational knowledge (breeding, training techniques, type mastery)
+- Ujigami/ie vibes: guardian spirit Pokemon, favor ledgers, ritual obligations
 
 **Kanto = Corporate Families and Local Lineages**
-- Local communities had their own traditions before Johto incorporation; their exact forms remain open
+- Pre-incorporation communities had their own traditions; their exact forms remain open
 - Later wealth, companies, merchant networks, Gyms, and schools often replaced or absorbed older authority
-- Breeding programs can be businesses as well as inherited practice
-- Kanto is not culturally empty or simply a Johto copy
+- Breeding programs may operate as businesses (Silph Co. affiliates, merchant houses)
+- Well-groomed starters and rare Pokemon remain major class advantages
+- Kanto is not culturally empty and was not simply a Johto copy
 
 ## Historical Context
 
-Before colonial integration, Kanto's scattered communities had local cultures and survival practices but no pan-Kanto institutional system. Johto arrived with established trainer clans, records, roads, commerce, medicine, and organized force. Johto-led integration then consolidated Kanto through a mix of co-option, settlement, law and economics, and coercion. Cultural loss and unequal power are settled; individual communities, rites, and colonial policies remain open.
+**Before Colonial Integration:**
+- Kanto consisted of scattered tribes, villages, and local communities rather than a unified state or pan-Kanto nation
+- Dangerous wilderness and powerful wild Pokemon shaped local survival traditions
+- Johto had the stronger institutional base: government, records, trainer clans, roads, commerce, medicine, organized force, and Pokeball traditions
 
-Kanto later industrialized and converted much family influence into corporations, merchant houses, Gyms, schools, and industrial patronage. Johto retained more visible clan structures and older institutional prestige. Neither pattern makes one region culturally static or politically innocent.
+**Colonial Integration and Modernization:**
+- Johto-led institutions consolidated the eastern communities through a mix of settlement, treaties, co-option, law, economics, and coercion
+- Kanto gradually demanded and gained municipal powers, regional representation, and a shared political identity
+- Later industrialization shifted much Kanto authority toward corporations, merchant houses, Gyms, and schools
+- Johto retained more hereditary, shrine-based, and clan-political structures
+- The exact history of land seizure, cultural suppression, schooling, language policy, and resistance remains open
 
-After the first Kanto secession war, nationalist rhetoric presents Johto clans as leeches on Kanto wealth and technology; Johto's institutional, ecological, and breeding contributions make that claim incomplete. Johto often sees Kanto corporate power as extractive or dismissive of inherited expertise. Some Johto clan members live or work in Kanto as wandering heirs, merchants, and specialists.
+**After the first Kanto secession war:**
+- The war ended roughly twenty years before story present; Kanto and Johto remain within unified Indigo
+- Civic reforms reduced noble-only rule, while old nobles and Kanto industrial elites retained practical influence
+- Kanto nationalist rhetoric presents Johto clans as leeches on Kanto wealth and technology; colonial grievance gives this rhetoric real force, while Johto's ecological, breeding, and institutional contributions complicate it
+- Johto often sees Kanto corporate power as extractive or dismissive of inherited expertise
+- Some Johto clan members live or work in Kanto as wandering heirs, merchants, and specialists
 
-See [Kanto–Johto Colonial Integration and First Kanto Secession](../history/kanto-johto-unification-war.md) for the political history.
+See [Kanto–Johto Colonial Integration and First Kanto Secession](../history/kanto-johto-unification-war.md) for the political context.
 
-## Knowledge and Power Tiers
+## Knowledge & Power Tiers
 
-**Johto (full clan power):** councils, alliances, shrine networks, lineage documentation, rites of passage, and training techniques passed down across generations.
+**Johto (Full Clan Power):**
+- Clans form councils, alliances, treaties
+- Shrine networks and lineage documentation
+- Rites of passage, training techniques passed down
+- Pokemon as guardian spirits, not just tools
+- Inter-clan politics and conflicts
 
-**Kanto (modernized power):** corporate ties, merchant networks, Gym and school patronage, and breeding as business investment. The surviving local cultural forms and their relation to Johto settlement remain open.
+**Kanto (Modernized):**
+- Older rites and local practices survive unevenly; modern institutions often marginalize or commercialize them
+- Pokemon breeding = business investment
+- Children get well-bred starters (Silph Co. connections, merchant house deals)
+- Status comes from wealth and corporate ties
+- Pokemon seen as assets and status symbols
 
-**Kanto presence of Johto clans:** wandering members, small branch families, merchant houses with Johto roots, and specialist service providers. Do not assume that this presence represents all Kanto people or politics.
+**Kanto Presence of Johto Clans:**
+- Wandering clan members (scouts, merchants, exiles)
+- Small branch families (reduced political power)
+- Merchant houses with Johto roots
+- Service providers (escorts, couriers)
 
 ## Design Principles
 
-- Rites are **methods**, not magic — body-pressure calming, heat cycles, crowd redirection.
-- Do not invent a uniform Kanto tribal culture or detailed colonial practices.
-- Johto clan knowledge can be practical: breeding protocols, drills, and logistics, not mystic hand-waving.
+- Rites are **methods**, not magic — body-pressure calming, heat cycles, crowd redirection
+- Kanto presence: prefer **small branches, wandering heirs, or merchant houses** (low political power)
+- Johto: full shrines, councils, inter-clan politics, old treaties
+- No mystic hand-waving --- clan "secrets" are methods (breeding protocols, drills, logistics), not magic
 
-This connects to [Aura and Bonds — Mechanics](../systems/aura.md) — systematic training is one path to aura cultivation.
+This connects to [Aura and Bonds — Mechanics](../systems/aura.md) --- ancient clans' systematic training is one of the most efficient paths to aura cultivation.
 
 ## Specific Clans
 
 See [the clan and lineage index](../../organizations/clans/index.md) for the catalog of named clans and lineages.
 
 Substantial individual pages:
-- [Silvertail Lineage](../../organizations/clans/silvertail.md) — merchant house with Madame Boss / Team Rocket origin canon
+- [Silvertail Lineage](../../organizations/clans/silvertail.md) --- merchant house with Madame Boss / Team Rocket origin canon
 
 ## Cross-Refs
 
-- [Clan and Lineage Index](../../organizations/clans/index.md)
-- [Team Rocket](../../organizations/team-rocket.md)
-- [Aura and Bonds — Mechanics](../systems/aura.md)
-- [Kanto–Johto Colonial Integration and First Kanto Secession](../history/kanto-johto-unification-war.md)
-- [Evolution of Pokemon Gyms](../history/gym-evolution.md)
+- [Clan and Lineage Index](../../organizations/clans/index.md) --- the catalog
+- [Team Rocket](../../organizations/team-rocket.md) --- TR origin in Silvertail rejection
+- [Aura and Bonds — Mechanics](../systems/aura.md) --- clan training as aura cultivation method
+- [Kanto–Johto Colonial Integration and First Kanto Secession](../history/kanto-johto-unification-war.md) --- post-war tensions
+- [Evolution of Pokemon Gyms](../history/gym-evolution.md) --- gyms possibly influenced by clan specializations

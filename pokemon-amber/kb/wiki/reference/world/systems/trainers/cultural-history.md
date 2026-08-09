@@ -1,65 +1,142 @@
 ---
-status: drafting
+status: canon
 ---
 
-# Trainer Culture — Historical Evolution & Social Norms
+# Trainer Culture --- Historical Evolution & Social Norms
 
-How Pokemon training, licensing, and cultural expectations evolved from older regional institutions into a modern educational system. For specific systems, see the other pages in this folder.
+How Pokemon training, licensing, and cultural expectations evolved from noble privilege to modern educational system. For specific systems, see the other pages in this folder.
 
 ## Historical Evolution
 
-### Before Mass Pokeballs
+### Pre-Pokeball Era: Regional Traditions and Noble Control
 
-Before Kanto's colonial integration, scattered local communities practiced their own survival and Pokemon traditions; their exact forms remain open. Johto already had established trainer clans, Pokeball traditions, records, roads, commerce, medicine, and organized force. Johto-led institutions later made elite trainer culture and regional Gym authority part of a broader Kanto administration.
+**Before Pokeball Invention (~100+ years ago):**
+- Kanto's scattered communities had local survival and Pokemon traditions; exact forms varied and remain open
+- Johto's organized system concentrated advanced training among nobility and established clans
+- Colonial integration later spread Johto-led trainer and Gym institutions across Kanto
+- Noble children sent on harsh coming-of-age ritual at age 15
+- Journey to regional gyms to earn trust/badges
+- Badge count determined status: 8 badges = heir, <5 badges = lesser standing
+- High mortality rate (no Pokeballs, no Pokemon Centers, unmaintained routes)
+- Gym councils governed pre-Pokeball society as regional authorities
 
-Under the hereditary order, advanced training remained concentrated among nobles and established clans. Journeys and badges functioned as dangerous proofs of survival, regional trust, and status. This was not a claim that Kanto had been empty or without local culture.
+**Why It Mattered:**
+- Proved ability to survive wilderness and negotiate with regional powers
+- All 8 badges = trusted by entire region, qualified for Champion position
+- Created sharp class divide (common folk couldn't afford Pokemon/training)
 
 ### Pokeball Revolution: Democratization
 
-Mass production made Pokemon safer to carry and training more accessible to common people. Pokemon Centers and maintained routes reduced the danger of travel; common people adapted older journey traditions into a route for education, work, and social mobility. Gyms expanded from elite regional institutions into accessible certification systems.
+**Pokeball Invention Changed Everything:**
+- Pokemon easier to catch and carry safely
+- Training became accessible to common people
+- Pokemon Centers enabled affordable healing
+- Routes maintained as safety improved
+- Common folk began copying noble journey tradition (social mobility aspiration)
 
-### Post-War Needs
+**Cultural Spread:**
+- Journey became cultural expectation for entire society (not just nobles)
+- Age 15 tradition initially preserved from noble era
+- Gyms adapted to test common trainers (area certification function)
+- Badge collection = respect and status across all classes
 
-The first Kanto secession war ended roughly twenty years before story present. Its disruption increased the political urgency of conservation, trainer regulation, interregional administration, and support for displaced people. Exact causal reforms remain open.
+### Post-War Boom (~20 years ago)
+
+**Kanto Secession War Impact:**
+- War strained orphanage systems beyond capacity
+- Decentralized government = limited social services
+- **Journey culture encouraged** to fill gaps for displaced youth
+- Provides purpose for war orphans and economic mobility
+- Ranger Union, Pokemon Centers, quest system create safety net
+- Journey culture STRONG (not declining) - serves vital social function
 
 ### Current Era: Schools Emerging
 
-Trainer schools are a structured alternative to independent journeys. Roughly half of prospective trainers take a school route; both school and journey remain expensive, and the poorest often enter the workforce instead. Schools require a Trainer License and prepare students for under-18 regional conference admission.
+**Recent Cultural Shift (last ~10-15 years):**
+- **Trainer schools** emerging as structured alternative to journey
+- ~50/50 split between school path and traditional journey
+- Both expensive - poorest go straight to workforce
+- Schools require Trainer License to enter
+- Schools prepare students for Under-18 regional conference admission exam
+- Cultural tension between tradition (journey) and modernization (schools)
+
+**Why Schools Are Growing:**
+- Safer than independent journey
+- Structured curriculum vs. self-taught trial-and-error
+- Social networking with peers
+- Becoming "the norm" like college attendance in modern society
 
 ## Social Norms & Expectations
 
 ### Age Norms
 
-**14–18: standard training years ("college equivalent")**
-- Most children are expected to obtain a Trainer ID and attempt training.
-- It is not legally required, but never attempting carries stigma and can limit job prospects.
+**14-18: Standard Training Years ("College Equivalent"):**
+- Most children expected to obtain Trainer ID and attempt training
+- Cultural pressure similar to college attendance expectations
+- Not legally required, but socially expected
+- Never attempting carries stigma and limits job prospects
+- Trying and failing better than never trying
 
-**Younger (10–13):** rare but legal; seen as prodigy, family pressure, or unusual circumstance.
+**Younger (10-13):**
+- Rare but legal
+- Prodigy status, family pressure, or unusual circumstances
+- Public views as "too young" but accepts it
+- Physical and emotional challenges
 
-**Older (18+):** an acceptable late start, with maturity and resources as advantages but a head start for peers.
+**Older (18+):**
+- Late start acceptable
+- Reasons: worked first (saved money), career change, late bloomer interest
+- Advantages: maturity, better resources, clearer goals
+- Disadvantages: older competitors have head start, mild social stigma
 
 ### Evolution Perceptions
 
-Evolution is widely understood to make Pokemon stronger, but late bloomers and mixed teams are normal. Fully evolved teams signal dedication and strong bonds; they are not a universal requirement.
+**Common Knowledge:**
+- Evolution makes Pokemon stronger
+- Not all Pokemon evolve easily
+- "Bad luck" or "not enough bond" (vague understanding)
+- Late bloomers are normal and accepted
+- Fully evolved teams impressive but not required
+
+**Social Views:**
+- Unevolved teams: "Still learning," "unlucky," or "not bonding well"
+- Fully evolved teams: "Dedicated trainer," "strong bonds," expected for elite
+- Mixed teams (most common): Normal progression, no shame
 
 ### Cultural Tensions
 
-**Schools versus journeys:** traditionalists value journeys as coming-of-age; modernizers value schools as safer, structured education. The choice is constrained by class as much as taste.
+**Schools vs. Journey Debate:**
+- Traditionalists: Journey is authentic coming-of-age ritual
+- Modernizers: Schools are safer, more efficient education
+- Both expensive: class determines access, not cultural preference
+- ~50/50 split reflects transitional period (may shift further toward schools)
 
-**Class and privilege:** wealthy families dominate elite positions through equipment, bred Pokemon, and networks. Quest work offers some opportunity, but the "anyone can succeed" story obscures real advantage.
+**Class and Privilege:**
+- Wealthy families dominate elite positions
+- Poor trainers face barriers (costs, equipment, bred Pokemon)
+- Quest system provides some economic opportunity
+- But "anyone can succeed" narrative obscures real advantages
 
 ## Canon Divergence
 
-- Journey age is 14–18, not 10.
-- Trainer schools are a major path.
-- Licensing is tied to Gym authority rather than a single centralized exam.
-- One Pokemon is a constitutional right and a cultural foundation.
-- The modern system retains historical class and regional power disparities.
+**From Official Pokemon:**
+- Journey age 14-18 (not 10) - more realistic for dangerous world
+- Trainer schools as major path (~50%) - not just minor alternative
+- Licensing tied to badges (gym authority) - not centralized exam
+- One Pokemon as constitutional right - cultural foundation
+- Historical noble origins explained - not just default practice
+- Economic and class implications shown - not just "everyone can be trainer"
+
+**Retained from Canon:**
+- Badge collection central to progression
+- Pokemon League as ultimate goal
+- Regional variations in culture
+- Gym challenges test competency
 
 ## Cross-Refs
 
-- [Training Systems Index](index.md)
-- [Licensing System & Trainer Tiers](licensing.md)
-- [Trainer Paths & Socioeconomic Class](trainer-paths.md)
-- [Evolution of Pokemon Gyms](../../history/gym-evolution.md)
-- [Kanto–Johto Colonial Integration and First Kanto Secession](../../history/kanto-johto-unification-war.md)
+- [Celadon City](index.md) --- catalog of training systems
+- [Licensing System & Trainer Tiers](licensing.md) --- licensing and tier mechanics
+- [Trainer Paths & Socioeconomic Class](trainer-paths.md) --- the four modern training paths
+- [Evolution of Pokemon Gyms](../../history/gym-evolution.md) --- gym institution history
+- [Kanto–Johto Colonial Integration and First Kanto Secession](../../history/kanto-johto-unification-war.md) --- post-war context

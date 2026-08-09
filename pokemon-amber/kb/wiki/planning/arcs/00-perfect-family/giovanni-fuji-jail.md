@@ -7,19 +7,85 @@
 
 ## Giovanni & Team Rocket Context
 
-- Giovanni was about fourteen when the first Kanto secession war ended. He remembers it and its aftermath, but was not a child soldier or wartime commander. His father, the prior Viridian Gym Leader, dies in the final or last major battle; the father's ideology and the battle details remain open.
-- Madame Boss taught Giovanni that finance and logistics are indispensable because money buys supplies, silence, officials, scientists, and loyalty. She converted surviving wartime infrastructure into Rocket's criminal-financial organization.
-- Giovanni's later conclusion is broader: money cannot secure a movement without popular support and the commitment, alignment, co-option, or neutralization of decisive institutions and stakeholders. He sees pressure on an unconvinced Oak as the old separatists' error.
-- His opening aim is Kanto self-government, but his settled late direction is Kanto-centered hegemony. The onset, Championship outcome, war trigger, and Mewtwo #2's deployment remain open; see [Giovanni and Team Rocket](../../saga-threads/giovanni-team-rocket.md).
-- Giovanni later takes Viridian through sanctioned challenge and local support, not inheritance. Madame Boss retains an autonomous finance/profit faction.
+### Giovanni's Background
+- **War memory:** Giovanni was about fourteen when the first secession war ended. He remembers the war and aftermath, but was not a child soldier or wartime commander.
+- **Viridian legacy:** Giovanni's father was the previous Viridian Gym Leader and died in the final or last major battle; Giovanni later takes the Gym by sanctioned challenge and local support, not inheritance. The father's ideology and exact death remain open.
+- **Kanto restorationist:** Inherits the nationalist memory that Oak proved Kanto could lead, then surrendered Kanto freedom to Johto clan power. This is a political interpretation, not neutral history.
+- **Separatist strategist:** Prefers peaceful Kanto independence through legitimate institutions, but prepares coercive alternatives because he trusts his own control more than other institutions.
+- **True believer:** Not just a criminal opportunist; he genuinely believes Kanto needs independence and increasingly mistakes his own control for its survival. His settled late direction is to bring everything important under Kanto rule or influence, whether by direct rule or a Kanto-centered international system; when that ambition emerges remains open.
+
+### Team Rocket: Madame Boss's Criminal Empire
+
+**Madame Boss's Lesson from Defeat:**
+- Believes Kanto lost because it lacked money: money buys supplies, officials, scientists, silence, and loyalty
+- Teaches Giovanni finance and logistics through Rocket's converted wartime infrastructure
+- Giovanni later concludes that money is necessary but insufficient; a movement also needs popular support and the commitment, co-option, alignment, or neutralization of decisive institutions
+- He treats the old separatists' pressure on an unconvinced Oak as a central strategic error
+
+**Madame Boss's Background:**
+- **Silvertail clan black sheep** - emotionally cold, struggled with attachment her whole life
+- Born into normal merchant family who care for their Meowth/Persian partners
+- Unlike rest of family, couldn't bond properly with Pokemon
+- Received Meowth as starter, tried to care for it but was distant/functional
+- **Meowth left her** - ran away, found happier trainer who actually played with it
+- Saw her Meowth happy with someone else; crushed her
+- **Defense mechanism:** "Bonds are fake. Pokemon are disloyal opportunists. I won't be stupid enough to care again."
+
+**Founding Team Rocket:**
+- After Oak's peace, she organized surviving separatist infrastructure with her Silvertail commercial, logistics, breeding, and courier networks into a criminal/profit faction
+- Preserved wartime codes, routes, supply bases, and finance through that faction
+- Shifted legitimate and wartime practices toward criminal enterprise; the exact Rocket naming moment remains open
+- Philosophy: Pure profit, Pokemon as commodities to auction, stay out of politics
+- **Hates Pokemon** - won't touch them, finds them disgusting (per Bulbapedia canon)
+- Only wants Mew/Mewtwo for money/power, not because she likes them
+- Elite squadrons handle all Pokemon work (she just gives orders)
+- **Vision:** Team Rocket as warlord organization, eternal profit engine
+
+**Silvertail Clan's Response:**
+- Tried to help her, she rejected them
+- Publicly distance themselves: "She doesn't represent us. We wish she'd stop using our name."
+- Embarrassed that she uses Silvertail reputation as cover for crimes
+- Some family members still care about her (she's family, even if wrong)
+- Others have cut ties completely
+- Clan is legitimate business, not complicit in TR
+
+**Madame Boss, Giovanni, and Viridian:**
+- Madame Boss is a Silvertail merchant-clan financier, not nobility; she retains an autonomous profit/finance faction.
+- Giovanni's father was the previous Viridian Gym Leader and died in the first secession war; his name and detailed ideology remain open.
+- Giovanni later wins Viridian through a sanctioned challenge and local support, not inheritance.
+- Giovanni takes Rocket by siding with separatist old guard against Madame Boss's profit faction; she remains a rival with family leverage.
+- His clone-family model uses genuine belonging and loyalty for political ends.
+
+**Giovanni (New Guard):**
+- Transformed Team Rocket into **nationalist movement** post-war
+- Uses his mother's criminal infrastructure to seed a political agenda
+- Draws support from hardline donors, nationalist networks, careerists, and some people who simply see working public programs
+- **Vision:** secure Kanto independence, first through peaceful constitutional means; his total-control logic develops later.
+- Unlike his mother, he understands that genuine loyalty can be cultivated and politically directed
+
+**Internal Tension:**
+- Madame Boss faction: profit and finance, autonomous from Giovanni
+- Separatist old guard: independence cause
+- Pragmatists: crime as war financing
+- Giovanni faction: joins separatism to Rocket machinery; Mewtwo #2 is a genuine political partner, not a controlled asset
 
 ### Fuji's Original Bargain
 
-Giovanni gives Fuji broad scientific autonomy, funding, facilities, and latitude to make Rocket and Kanto more powerful when needed. Fuji's resurrection work is knowingly permitted within that autonomy, not a commission to resurrect Amber or a narrow Rocket assignment. Useful work is expected to benefit Rocket/Kanto; secrecy is implicit. Giovanni is structurally culpable for enabling Fuji, while Fuji's Pallet violence and collapse remain Fuji's own acts.
+Giovanni gives Fuji broad scientific autonomy, funding, facilities, and latitude: Fuji may pursue his own work, including the resurrection project, so long as useful research can strengthen Rocket and Kanto when needed. The resurrection work is knowingly permitted rather than specifically commissioned as Fuji's sole assignment. Secrecy is implicit. Giovanni is structurally culpable for enabling Fuji; Fuji remains responsible for his own violence and collapse.
 
-### Mewtwo Project Motivation
+### Mewtwo Project Motivations
 
-Mewtwo #2 must be able to choose, reason, and fight as a partner; Chapter 6's "Then it can understand reason" is the seed. Its participation in a lawful challenge and first public deployment remain open. Keeping Fuji alive is strategically useful to the second Mewtwo program, but it does not make Fuji's personal resurrection work Giovanni's central purpose.
+**Giovanni's True Goal:**
+- **Kanto independence through peaceful constitutional legitimacy if possible, with force as contingency**
+- Mewtwo #2 must be able to choose, reason, and fight as a partner; Chapter 6's "Then it can understand reason" is the seed
+- Its participation in Giovanni's lawful challenge and first public deployment remain open; see [Giovanni and Team Rocket](../../saga-threads/giovanni-team-rocket.md) for the consolidated Championship boundary
+- Not merely a profit asset: a political partnership shaped by family, modernization, and conquest
+
+**Why This Scene Matters:**
+- Giovanni evaluating whether Fuji can help create the decisive partner Kanto restoration requires
+- Fuji's competence directly serves nationalist agenda, not just Team Rocket crime
+- Keeping Fuji alive is strategic: the second Mewtwo program supports Giovanni's future political ascent
+- Giovanni sees belonging, not chains, as the correction to the first project's failure
 
 ---
 
