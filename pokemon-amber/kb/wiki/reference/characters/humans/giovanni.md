@@ -54,6 +54,11 @@ Dungeon and ecological instability, Giovanni continues and suppresses or
 ignores the danger. He does not regard himself as the world's caretaker and
 does not intend to repair it after taking control.
 
+That knowledge is an internal character fact, not an early reader-facing
+revelation. The story should imply it until late Rocket scientific records
+provide harder confirmation; see the disclosure strategy in [Giovanni, Team
+Rocket, and Rainbow Rocket](../../../planning/saga-threads/giovanni-team-rocket.md).
+
 After losing the main-world war, he escapes through an Ultra Wormhole. Other
 universes become additional territory and replacement worlds rather than a
 reason to accept limits. He becomes or founds Rainbow Rocket as an

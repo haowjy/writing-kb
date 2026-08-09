@@ -43,11 +43,14 @@ revelation.
 | Field warnings | Adventurers, trainers, Rangers, and affected communities record unusual rescues, shifting terrain, spillover, and repeat incidents. |
 | Research pattern | Researchers and institutions combine ecological, spatial, and energy data into a disputed systemic explanation. |
 | Public conflict | Enough evidence reaches the public to support real political argument, denial, delay, and competing claims about responsibility. |
-| Rocket knowledge | Team Rocket eventually holds stronger internal evidence that its activities are worsening the instability. |
-| Deliberate continuation | Giovanni ignores or suppresses the danger and continues extraction, experimentation, production, and war. He does not intend to repair the world afterward. |
+| Rocket knowledge | Team Rocket eventually holds stronger internal evidence that its activities are worsening the instability, but readers initially see only indirect signs of that knowledge. |
+| Deliberate continuation | Giovanni ignores or suppresses the danger and continues extraction, experimentation, production, and war. This remains author-level truth rather than early exposition. |
+| Late confirmation | Recovered Rocket scientific files are the preferred source of hard evidence, after the reader has had time to infer the pattern. Exact finder, base, and timing remain open. |
 
 Rocket is an accelerator and knowing contributor, not the creator of Mystery
 Dungeons or necessarily the sole cause of their modern destabilization.
+The disclosure should reward inference: public research can establish the
+systemic crisis before anyone can prove what Giovanni privately knew.
 
 ## Exploration Spine
 

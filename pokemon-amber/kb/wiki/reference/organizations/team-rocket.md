@@ -42,6 +42,10 @@ Mystery Dungeon and ecological instability. Giovanni suppresses or ignores
 the danger and continues; the organization has no hidden stewardship or
 world-repair purpose.
 
+This is internal canon rather than early public knowledge. Reader-facing proof
+should remain indirect until late discovery of Rocket scientific files; exact
+finder, base, and timing remain open.
+
 After Rocket loses the main-world war, Giovanni escapes through an Ultra
 Wormhole. Rocket's appropriation of Aether research becomes a foundation for
 Rainbow Rocket, an interdimensional imperial organization that exploits and

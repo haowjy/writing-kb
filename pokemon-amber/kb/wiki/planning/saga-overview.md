@@ -262,11 +262,13 @@ main-world war.
 - Giovanni's network remains a slow background infection across Hoenn,
   Sinnoh, Kalos, and Aether before the pattern becomes publicly legible.
 - Mystery Dungeons are simultaneously becoming more frequent, volatile,
-  expansive, and dangerous. Field records, public research, and Rocket's
-  stronger internal evidence turn ecological destabilization into a contested
-  political fact.
-- Giovanni knows Rocket activity is worsening the crisis and continues. He
-  does not intend to repair the world after victory.
+  expansive, and dangerous. Field records and public research make the broad
+  ecological pattern increasingly difficult to dismiss, while Rocket's own
+  culpability remains hidden.
+- Giovanni's informed continuation is author-level truth, not an early public
+  revelation. The story should imply it through policy, timing, and recurring
+  evidence, leaving readers to connect the pattern until much later hard proof
+  is recovered from Rocket's scientific records.
 - Amber helps connect a coalition rather than becoming the sole leader of
   every front. Silver, Looker, Lance, Zinnia, and others contribute distinct
   evidence, legitimacy, expertise, and force.

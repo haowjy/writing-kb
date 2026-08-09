@@ -47,6 +47,22 @@ and does not accept ecological limits as a reason to stop. Rocket is a knowing
 accelerator of the crisis, not the original creator of ancient Mystery
 Dungeons or necessarily their only modern pressure.
 
+### Disclosure strategy
+
+This is author-level antagonist truth, not something Giovanni explains or the
+narrative confirms early. The environmental pattern should work like global
+warming: worsening incidents, researcher warnings, contested public evidence,
+and Rocket decisions allow readers to infer the relationship for themselves.
+Rocket's stronger knowledge and deliberate continuation remain implied or
+occasionally hinted at until a late discovery supplies harder evidence.
+
+The current preferred confirmation lane is Amber or another investigator
+recovering reports, models, warnings, or correspondence from Rocket scientists
+inside a secret base or archive. The finder, location, timing, completeness of
+the files, and whether confirmation comes during or after the war remain open.
+The files should confirm a pattern readers could already have reconstructed,
+not introduce the entire idea for the first time.
+
 ## Main-World War and Defeat
 
 Giovanni eventually seeks global Kanto hegemony: not necessarily direct rule everywhere, but a Kanto-centered sphere of influence through dependent governments, League and institutional dominance, economic and technical dependence, and control of strategic systems.

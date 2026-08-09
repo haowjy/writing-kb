@@ -92,7 +92,11 @@ They help explain:
 | Rangers | Entry restrictions, rescue protocols, monitoring, route closures, ecological risk. |
 | Adventurers | Field lore, rumors, survival habits, maps, expedition records, and dangerous curiosity. |
 | Researchers | Energy signatures, ecological anomalies, historical links, and contested theories. |
-| Team Rocket | Stronger internal evidence that its own activity worsens the crisis; this is suppressed or ignored. |
+| Team Rocket | Stronger internal evidence that its own activity worsens the crisis; this is suppressed or ignored and should not become reader-facing proof until late. |
+
+The reader should be able to infer Rocket's culpability before the characters
+can prove it. A later cache of Rocket scientific records may confirm what
+Giovanni knew, but the investigator, location, and timing remain open.
 
 ## Relationship to Quest Boards
 

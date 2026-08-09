@@ -422,7 +422,9 @@ This entry supersedes active claims that conflict with it; earlier maintenance e
   industrial, dimensional, legendary-class, and wartime pressures.
 - Established an evidence arc from field reports through contested public
   research to Rocket's stronger internal data. Giovanni knowingly continues
-  and has no caretaker or world-repair purpose.
+  and has no caretaker or world-repair purpose, but this remains implied for
+  readers until late recovery of Rocket scientific records provides harder
+  confirmation. Exact finder, base, files, and timing remain open.
 - Settled the endgame sequence: Giovanni loses the main-world war, escapes
   through an Ultra Wormhole, and becomes or founds an interdimensional Rainbow
   Rocket; Amber and a small group pursue him across varied Pokemon realities,
