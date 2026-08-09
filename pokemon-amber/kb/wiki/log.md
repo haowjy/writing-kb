@@ -431,3 +431,6 @@ This entry supersedes active claims that conflict with it; earlier maintenance e
   pursuit party, navigation, Rainbow Rocket formation, contacts, and final
   objective open. Preserved Argaea and Laqua as distinct from the source of
   Mystery Dungeons or a universal dimensional mechanism.
+- Removed duplicated future mini-arc planning from the Mystery Dungeons
+  reference page; the Charcadet saga thread and Arc 1 overview remain its
+  planning owners.

@@ -133,34 +133,6 @@ self-concept as an adventurer. Amber does not adopt that identity as her
 primary profession, but Dungeon exploration becomes a recurring saga thread
 rather than remaining a set of isolated collisions.
 
-> [!FLAG] **Needs human review**: The future-story material in "Later Introduction Strategy" (lines 136–146) and "Early Explicit Alonso Mini-Arc Direction" (lines 148–160) is arc planning embedded in this reference page. Choose a settled owning arc or planning page before moving it; its destination is not yet determined here. Flagged 2026-08-09.
-
-## Later Introduction Strategy
-
-Introduce Mystery Dungeons after the reader already understands ordinary routes, Pokemon Centers, and quests. The first explicit explanation should feel like a widening of an existing world, not a sudden new magic system.
-
-Good setup path:
-
-1. Ch. 7 quest board establishes rescue/item/investigation infrastructure.
-2. Ch. 20-21 Route 1 cave shows a dungeon-adjacent anomaly without naming the full system.
-3. Later chapters/arcs reveal that such places are a known phenomenon with Ranger warnings, quest postings, and adventurer lore.
-4. A later Alonso-led mini-arc explicitly onboards Amber and the reader: after several chance encounters, Amber asks what Mystery Dungeons are, and Alonso illegally or semi-illegally sneaks her past the route boundary to show her one.
-5. Major future locations, especially the hidden kingdom and similar impossible places, can use Mystery Dungeon logic more openly.
-
-## Early Explicit Alonso Mini-Arc Direction
-
-A later early-Kanto Alonso episode can be the first explicit Mystery Dungeon lesson. It should occur after the Route 1 / Team Rocket cave incident and after Amber has encountered Alonso enough that asking him about Mystery Dungeons feels natural.
-
-Working direction:
-
-- Alonso brings Amber because she asked and because he wants to show her the wonder of the thing, not because he is making a philosophical argument.
-- He sneaks her past or around the official route boundary. This is technically illegal / against safety rules, but not pure idiocy: he has some prior knowledge, supplies, and Pokemon suited for scouting and rescue.
-- The dungeon can contain treasure, salvage, or valuable materials, giving adventurers a reason to keep going. Keep this material ordinary enough that it does not hijack the arc into a major relic plot.
-- A rude Kanto adventurer crew can complicate the trip. They are not a formal evil team; they are claim-jumpers / treasure hunters / gray-zone quest takers who show why adventurers may have a bad reputation.
-- Alonso should not lecture about true adventure versus bad adventure. He may not even initially interpret them as symbolic corruption. Amber can notice the reputation/system problem; Alonso reacts when concrete cruelty or abandonment happens.
-
-This mini-arc is also a strong place for the younger Charcadet bond: Amber's fire trauma is triggered, she flinches from Charcadet's flames, but still protects Charcadet and later trusts it with a practical task.
-
 ## Related Pages
 
 - [Quest System & Job Boards](../systems/trainers/quest-system.md) — Pokemon Center job-board infrastructure
@@ -168,3 +140,4 @@ This mini-arc is also a strong place for the younger Charcadet bond: Amber's fir
 - [World Opening Timeline](../../../planning/world-opening.md) — wider world becoming more accessible over the saga
 - [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](../../../planning/arcs/10-argaea-kitakami/overview.md) — future impossible-place escalation
 - [Mystery Dungeon Instability and Exploration](../../../planning/saga-threads/mystery-dungeon-instability.md) — systemic crisis and cross-saga payoff
+- [Charcadet / Ceruledge](../../../planning/saga-threads/charcadet-ceruledge.md) — first explicit Dungeon mini-arc and bonding plan
