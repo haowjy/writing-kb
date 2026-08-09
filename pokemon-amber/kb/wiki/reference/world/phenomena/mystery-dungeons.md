@@ -129,9 +129,9 @@ Adventurers are drawn toward the unknown:
 This creates useful friction: Rangers are responsible for preventing deaths; adventurers often believe the point is going where others will not.
 
 For Alonso specifically, Mystery Dungeons sit near the center of his
-self-concept as an adventurer. Amber does not adopt that identity as her
-primary profession, but Dungeon exploration becomes a recurring saga thread
-rather than remaining a set of isolated collisions.
+self-concept as an adventurer. Dungeon exploration becomes a recurring thread
+in Amber's journey rather than remaining a set of isolated collisions, but
+whether Amber eventually claims the adventurer identity herself remains open.
 
 ## Related Pages
 

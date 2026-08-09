@@ -55,10 +55,11 @@ Dungeons or necessarily the sole cause of their modern destabilization.
   Mystery Dungeon exploration. Existing quests and Ranger procedures make the
   encounters part of the world rather than a separate profession or chosen
   calling.
-- Amber's involvement grows from isolated obligations into field experience,
-  navigation skill, research contribution, and recognition of the widening
-  pattern. Exploration becomes a recurring part of her journey even though
-  she does not adopt adventurer as her primary identity.
+- Amber's involvement grows from field experience into navigation skill,
+  research contribution, and recognition of the widening pattern.
+  Exploration becomes a recurring part of her journey. Whether she adopts
+  adventurer as a primary identity, or instead remains a trainer who repeatedly
+  works beside adventurers, is still open.
 - Argaea gives Amber experience with dangerous sealed space, but it is not an
   alternate universe or the universal source of dungeon behavior.
 - Aether and Alola provide direct Ultra Wormhole knowledge and proof of other
