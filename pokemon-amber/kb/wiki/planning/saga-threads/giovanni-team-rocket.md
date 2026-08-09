@@ -1,8 +1,11 @@
-# Giovanni and Team Rocket
+# Giovanni, Team Rocket, and Rainbow Rocket
 
 **Status:** drafting
 
-This saga thread follows Rocket from early surveillance of Amber through Giovanni's Kanto self-government project and its eventual mutation into Kanto-centered hegemony. It is a story-level direction, not a completed sequence of arc beats.
+This saga thread follows Rocket from early surveillance of Amber through
+Giovanni's Kanto self-government project, the main-world war, his escape into
+Ultra Space, and Rainbow Rocket's interdimensional empire. Giovanni remains
+the central antagonist across those changes in scale.
 
 ## Surveillance and Escalation
 
@@ -30,13 +33,63 @@ The challenge outcome, title leverage, a later Kanto Champion office, Lance's Me
 
 Mewtwo #2 is a genuine loyal partner and true believer raised in Giovanni's clone family, not a mind-controlled weapon. Its strategic role remains open. Fuji's original bargain was broad scientific autonomy in return for useful Rocket/Kanto capability, not a commission to resurrect Amber; see [Dr. Fuji](../../reference/characters/humans/dr-fuji.md).
 
-## Settled End Direction
+## Ecological Disregard
+
+Rocket's industrial, extraction, experimental, dimensional, legendary-class,
+and wartime activity contributes to growing [Mystery Dungeon
+instability](mystery-dungeon-instability.md). Team Rocket eventually possesses
+stronger internal evidence than the contested public record that its work is
+destabilizing the world.
+
+Giovanni knowingly continues and suppresses or ignores the danger. He does not
+see himself as the world's caretaker, does not plan to repair it after victory,
+and does not accept ecological limits as a reason to stop. Rocket is a knowing
+accelerator of the crisis, not the original creator of ancient Mystery
+Dungeons or necessarily their only modern pressure.
+
+## Main-World War and Defeat
 
 Giovanni eventually seeks global Kanto hegemony: not necessarily direct rule everywhere, but a Kanto-centered sphere of influence through dependent governments, League and institutional dominance, economic and technical dependence, and control of strategic systems.
 
 The core irony is a legitimate anticolonial grievance becoming a new imperial order. Kanto's desire for self-government is not the villainy. Giovanni becomes the antagonist by turning Kanto's interests into the interests of his regime and personal control, denying other peoples meaningful autonomy, and treating independent power as a security threat.
 
-Whether he envisions this from the beginning or develops it gradually is open. So is whether the Kanto public embraces the imperial project or fractures after supporting independence. The endgame is a coalition resisting force, coercion, institutional capture, and engineered loyalty. Amber is one critical bridge among Lance's League legitimacy, Silver's personal Rocket conflict, Looker's intelligence, and regional specialists.
+Whether he envisions this from the beginning or develops it gradually is open.
+So is whether the Kanto public embraces the imperial project or fractures after
+supporting independence. A coalition resists force, coercion, institutional
+capture, and engineered loyalty. Amber is one critical bridge among Lance's
+League legitimacy, Silver's personal Rocket conflict, Looker's intelligence,
+and regional specialists.
+
+The exact challenge, secession, and war sequence remains open, but its outcome
+does not: Giovanni loses the main-world war and escapes through an Ultra
+Wormhole.
+
+## Final Saga: Ultra Space and Rainbow Rocket
+
+Giovanni answers defeat and a damaged world's limits by treating other
+universes as additional territory and replacement worlds. Aether's Ultra
+Wormhole research and the infrastructure Rocket has appropriated become his
+route beyond one world and the basis for deliberate interdimensional conquest.
+
+Amber and a small group pursue him through Ultra Space. They encounter many
+different Pokemon realities, which may draw from anime, manga, games,
+alternate outcomes, post-apocalyptic settings, villain-victory timelines,
+Pokemon-only societies, and original speculative worlds. The variety is a
+source of late creative freedom, but each world must serve the pursuit,
+exploration, or imperial conflict rather than becoming an unintegrated cameo
+or boss rush.
+
+Giovanni becomes or founds **Rainbow Rocket**, an interdimensional imperial
+organization that exploits and conquers multiple Pokemon realities. Expansion
+exports consequences outward and can reproduce the same destabilization it
+refuses to confront at home. This adaptation need not follow *Ultra Sun* and
+*Ultra Moon*'s implication that its Giovanni comes from a world where he had
+already won: this Giovanni can lose the main-world war and then become the
+Rainbow Rocket Giovanni.
+
+The story's final battle is against Rainbow Rocket. Giovanni remains its
+central antagonist and the causal link between the main-world conflict and the
+multiverse saga.
 
 ## Open Questions
 
@@ -44,6 +97,16 @@ Whether he envisions this from the beginning or develops it gradually is open. S
 - Exact Gym-Leader coalition and retained loyalists.
 - Mewtwo #2's clone-household composition and Fuji's later participation.
 - When and how Amber learns she is tracked, and which incidents are genuine, staged, or merely suspicious.
+- Which worlds the pursuit enters, their order and number, and the exact
+  relationship to existing Pokemon continuities.
+- Membership of Amber's small pursuit group.
+- Ultra Wormhole navigation rules and how much prior Mystery Dungeon or Argaea
+  experience transfers.
+- How long Rainbow Rocket takes to form, whether Giovanni prepared contacts
+  before the main-world war, and whether he builds or encounters any part of
+  the organization after escaping.
+- Rainbow Rocket's exact final objective and the final battle's operational
+  stakes.
 
 ## Cross-References
 
@@ -53,3 +116,5 @@ Whether he envisions this from the beginning or develops it gradually is open. S
 - [Champion/Protector and Indigo Council](../../reference/world/society/government/champion-system.md)
 - [Kanto–Johto Colonial Integration and First Kanto Secession](../../reference/world/history/kanto-johto-unification-war.md)
 - [The Mewtwo Thread](mewtwo-ambertwo.md)
+- [Mystery Dungeon Instability and Exploration](mystery-dungeon-instability.md)
+- [Alola / Aether / Ultra Space](../arcs/14-dimensional-displacement-alola/overview.md)

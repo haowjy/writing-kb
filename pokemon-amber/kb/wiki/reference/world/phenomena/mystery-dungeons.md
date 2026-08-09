@@ -1,6 +1,11 @@
 # Mystery Dungeons
 
-**Mystery Dungeon-style phenomena are canonical**, but they should enter the story later than the Route 1 / Alonso introduction. Chapter 20-21 can foreshadow the idea through an unstable, dungeon-adjacent off-route cave, but it should not teach the reader the full system yet.
+**Mystery Dungeons are canonical, ancient natural phenomena**, but they should
+enter the story later than the Route 1 / Alonso introduction. Chapter 20-21 can
+foreshadow the idea through an unstable, dungeon-adjacent off-route cave, but
+it should not teach the reader the full system yet. Over the saga, ecological
+damage and intensive human activity make existing Dungeons increasingly
+frequent, volatile, expansive, and dangerous.
 
 ## Working Definition
 
@@ -16,14 +21,45 @@ Examples can include:
 
 They are not everyday locations, but they are known enough that Rangers, experienced trainers, Pokemon Centers, and adventurer circles have warning language and practical procedures for them.
 
-## Narrative Ownership
+Mystery Dungeons are not inherently portals to other universes. Ultra
+Wormholes are actual passages among worlds or dimensions; Mystery Dungeons are
+natural anomalies within the Pokemon world, even when spatial or dimensional
+stress affects them.
 
-Mystery Dungeon-scale adventure is primarily **Alonso's lane**, not Amber's default genre.
+## Systemic Destabilization
+
+Modern activity does not create Mystery Dungeons from nothing. It destabilizes
+a pre-existing natural system until known Dungeons intensify and dungeon-like
+conditions begin intruding into otherwise ordinary environments.
+
+The working causal family includes industrial and ecological damage, intensive
+energy extraction, dimensional or Ultra Wormhole research, forced-evolution
+and other high-energy experimentation, disruption involving legendary
+Pokemon, and especially wartime production. The list and relative weights stay
+flexible; this is a cumulative ecological crisis, not one mastermind's device
+or one evil Pokemon's attack.
+
+Laqua is not the source of dimensional essence or Mystery Dungeons. Argaea is
+a specific sealed pocket region with its own history and mechanism rather than
+proof that every impossible place shares one source.
+
+## Narrative Role
+
+Alonso is Amber's early guide into Mystery Dungeon exploration, but the
+exploration and destabilization thread grows across Amber's journey.
 
 - For **Alonso**, these places are maps, rumors, expeditions, rescue work, impossible terrain, and proof of the Greatest Adventurer ideal.
-- For **Amber**, they matter when they turn into obligations: a promise, a trapped community, a suffering Pokemon population, or a danger she cannot ethically leave alone.
+- For **Amber**, they first matter as obligations: a promise, a trapped
+  community, a suffering Pokemon population, or a danger she cannot ethically
+  leave alone. Repeated encounters then build field knowledge, navigation
+  experience, and participation in the wider research effort.
 - **Route 1 remains dungeon-adjacent only.** It foreshadows the idea without turning early Kanto into a Mystery Dungeon story.
-- **The kingdom is effectively a Mystery Dungeon-scale place,** but Amber approaches it as a sealed community and dangerous promise with a Gardevoir cost, not as a dungeon-crawler goal.
+- **Argaea is a related impossible-place experience, not a Dungeon source.**
+  Amber approaches it as a sealed community and dangerous promise with a
+  Gardevoir cost, not as a dungeon-crawler goal.
+- **Ultra Space is the final expansion of exploration, not another Mystery
+  Dungeon category.** Amber's late pursuit of Giovanni through other Pokemon
+  worlds pays off skills and habits built through the Dungeon throughline.
 
 ## Canon Constraints
 
@@ -56,6 +92,7 @@ They help explain:
 | Rangers | Entry restrictions, rescue protocols, monitoring, route closures, ecological risk. |
 | Adventurers | Field lore, rumors, survival habits, maps, expedition records, and dangerous curiosity. |
 | Researchers | Energy signatures, ecological anomalies, historical links, and contested theories. |
+| Team Rocket | Stronger internal evidence that its own activity worsens the crisis; this is suppressed or ignored. |
 
 ## Relationship to Quest Boards
 
@@ -91,7 +128,10 @@ Adventurers are drawn toward the unknown:
 
 This creates useful friction: Rangers are responsible for preventing deaths; adventurers often believe the point is going where others will not.
 
-For Alonso specifically, Mystery Dungeons sit near the center of his self-concept as an adventurer. For Amber, they remain conditional intersections rather than a life-path.
+For Alonso specifically, Mystery Dungeons sit near the center of his
+self-concept as an adventurer. Amber does not adopt that identity as her
+primary profession, but Dungeon exploration becomes a recurring saga thread
+rather than remaining a set of isolated collisions.
 
 ## Later Introduction Strategy
 
@@ -125,3 +165,4 @@ This mini-arc is also a strong place for the younger Charcadet bond: Amber's fir
 - [Adventurer System](../systems/trainers/adventurer-system.md) — informal adventurer identity and Paldean cultural myth
 - [World Opening Timeline](../../../planning/world-opening.md) — wider world becoming more accessible over the saga
 - [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](../../../planning/arcs/10-argaea-kitakami/overview.md) — future impossible-place escalation
+- [Mystery Dungeon Instability and Exploration](../../../planning/saga-threads/mystery-dungeon-instability.md) — systemic crisis and cross-saga payoff

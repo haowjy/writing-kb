@@ -38,6 +38,11 @@ flowchart TD
   DNA is not a key.
 - The story uses two Argaea visits, not three.
 
+Argaea later contributes sealed-space experience to Amber's wider exploration
+and navigation throughline. That structural convergence does not make Argaea a
+Mystery Dungeon, alternate universe, Ultra Wormhole, or universal source of
+dimensional anomalies.
+
 ## Visit Structure --- Decided / Current Direction
 
 ### Visit 1 --- Accidental Entry
@@ -124,3 +129,4 @@ prematurely solving the mechanics.
 - [Amber's team](../rosters/amber-team.md)
 - [Darkrai and Cresselia](../../reference/world/phenomena/legendaries/darkrai-cresselia.md)
 - [Vocabulary](../../vocab.md)
+- [Mystery Dungeon Instability and Exploration](mystery-dungeon-instability.md)

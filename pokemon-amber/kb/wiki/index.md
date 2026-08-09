@@ -24,7 +24,8 @@ unwritten story).
 | [Argaea](planning/saga-threads/argaea.md) | Failed Visit 1, dual-anchor seal, promised return |
 | [Charcadet / Ceruledge](planning/saga-threads/charcadet-ceruledge.md) | Bond, theft, Rocket weaponization, reunion |
 | [Mewtwo / Ambertwo](planning/saga-threads/mewtwo-ambertwo.md) | Amber, Fuji, Giovanni, and the two Mewtwo |
-| [Giovanni / Team Rocket](planning/saga-threads/giovanni-team-rocket.md) | Surveillance, political ascent, war, and endgame |
+| [Giovanni / Team Rocket / Rainbow Rocket](planning/saga-threads/giovanni-team-rocket.md) | Surveillance, political ascent, main-world war, and interdimensional endgame |
+| [Mystery Dungeon instability](planning/saga-threads/mystery-dungeon-instability.md) | Exploration, ecological destabilization, research, and final-saga convergence |
 
 ### Arcs
 

@@ -84,6 +84,31 @@ mechanism before it becomes fixed topology.
 
 ## Cosmology
 
+### Mystery Dungeon *(natural Pokemon-world phenomenon)*
+
+An ancient unstable zone where geography, Pokemon behavior, energy, and
+spatial logic do not behave normally. Modern ecological and high-energy
+activity destabilizes existing Mystery Dungeons; it does not create the
+phenomenon from nothing. Do not use **Mystery Dungeon-style** as a hedge when
+the canonical phenomenon itself is meant. See [Mystery
+Dungeons](reference/world/phenomena/mystery-dungeons.md).
+
+### Ultra Wormhole *(passage)*
+
+An opening that permits travel among worlds or dimensions. It is not a synonym
+for a Mystery Dungeon or for any locally distorted space.
+
+### Ultra Space *(interworld traversal domain)*
+
+The late-saga travel frame through which Amber's group pursues Giovanni among
+different Pokemon realities. Exact navigation rules and topology remain open.
+
+### Laqua *(distinct place; saga role open)*
+
+Laqua may become an exploration destination, but it is not the source of
+dimensional essence, Mystery Dungeons, Ultra Wormholes, or a universal anomaly
+system. Its placement and story function remain undecided.
+
 ### Mega Dimension *(official cosmology term; saga application provisional)*
 
 In *Pokemon Legends: Z-A*, overwhelming Mega Power lets Darkrai form a
@@ -113,6 +138,17 @@ realm** or **nightmare world** as Argaea's proper name.
 
 Do not use **Kitakami I / II** as the names of the two visits. Kitakami is the
 local first-stage setting within Visit 1, not the whole Argaea thread.
+
+## Organizations and Endgame
+
+### Rainbow Rocket *(interdimensional imperial organization)*
+
+Giovanni's post-main-world-war organization for exploiting and conquering
+multiple Pokemon realities. This story's Giovanni loses his original war and
+then becomes or founds Rainbow Rocket; he need not originate in a reality where
+he already won. Formation timing, contacts, exact worlds, and final objective
+remain open. See [Giovanni, Team Rocket, and Rainbow
+Rocket](planning/saga-threads/giovanni-team-rocket.md).
 
 ## Excluded Mechanisms
 

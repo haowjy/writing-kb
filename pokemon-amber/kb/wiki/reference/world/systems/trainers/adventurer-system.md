@@ -91,7 +91,11 @@ Adventurers often use the [Quest System & Job Boards](quest-system.md) for incom
 
 **The line is cultural, not bureaucratic.**
 
-For someone like **Alonso**, Mystery Dungeon-scale work can sit near the center of the identity. For Amber, similar places remain exceptional collisions driven by promises and obligations rather than a general chosen profession.
+For someone like **Alonso**, Mystery Dungeon-scale work can sit near the center
+of the identity. Amber first enters similar places through promises and
+obligations rather than a chosen profession, but her repeated exploration and
+field knowledge become part of the saga-wide response to increasing Dungeon
+instability.
 
 ## Explorer Terminology
 
@@ -133,5 +137,6 @@ Alonso himself should not become an anti-corruption spokesman. He loves adventur
 - [Amber (MC)](../../../characters/humans/amber-mc.md) — Amber's relationship to adventuring as distinct from badge circuit
 - [World Opening Timeline](../../../../planning/world-opening.md) — how interregional travel opens over saga timespan
 - [Mystery Dungeons](../../phenomena/mystery-dungeons.md) — later world phenomenon that intersects with quests, Rangers, and adventurer culture
+- [Mystery Dungeon Instability and Exploration](../../../../planning/saga-threads/mystery-dungeon-instability.md) — cross-saga escalation and final exploration payoff
 - [Ace Trainers (Recognition & Roles)](../../../organizations/ace-trainers.md) — government-contracted elite trainers who may perform exploration/route-clearing work; distinct from cultural adventuring
 - [Amber MC — Team Planning (Spoilers)](../../../../planning/rosters/amber-team.md) — Charcadet's origin context (Paldean adventurer → Kanto)

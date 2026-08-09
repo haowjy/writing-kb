@@ -10,5 +10,6 @@
 | 10 | [Argaea: Kitakami](10-argaea-kitakami/overview.md) | [Pikachu handoff](10-argaea-kitakami/pikachu-handoff.md) |
 | 14 | [Dimensional Displacement / Alola](14-dimensional-displacement-alola/overview.md) | [Displacement mechanics](14-dimensional-displacement-alola/dimensional-displacement.md) |
 | 16 | [Argaea: Deliberate Return](16-argaea-return/overview.md) | Final mechanism open |
+| 17+ and final saga | [Main-world war / Ultra Space pursuit](../saga-overview.md) | [Giovanni and Rainbow Rocket](../saga-threads/giovanni-team-rocket.md); [Mystery Dungeon instability](../saga-threads/mystery-dungeon-instability.md) |
 
 Arc numbers without dedicated pages remain summarized in the [saga overview](../saga-overview.md).

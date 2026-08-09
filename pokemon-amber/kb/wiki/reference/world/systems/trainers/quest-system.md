@@ -77,7 +77,14 @@ Information gathering, tracking, and detective work.
 
 ## Mystery Dungeon-Related Quests
 
-[Mystery Dungeons](../../phenomena/mystery-dungeons.md) are canonical but introduced later in the story. They do not require a separate quest bureaucracy: Pokemon Centers use the same category labels for dungeon-adjacent work — `[Rescue]`, `[Item]`, `[Investigation]`, `[Defeat]`, and `[Escort]`. The board describes the job, not the trainer's identity.
+[Mystery Dungeons](../../phenomena/mystery-dungeons.md) are canonical but
+introduced later in the story. They do not require a separate quest
+bureaucracy: Pokemon Centers use the same category labels for dungeon-adjacent
+work — `[Rescue]`, `[Item]`, `[Investigation]`, `[Defeat]`, and `[Escort]`. The
+board describes the job, not the trainer's identity. As Dungeon instability
+increases, the volume and severity of these ordinary postings provide field
+evidence for the wider crisis; quest records can support research without
+turning the board into the institution that solves it.
 
 ## Quest Requirements
 

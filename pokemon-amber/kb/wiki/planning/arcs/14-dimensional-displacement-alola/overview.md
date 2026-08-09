@@ -78,14 +78,18 @@ Alola should not read as a sealed fantasy island cut off from the rest of the se
 
 This asymmetry is what the arc needs. Amber can be broadly famous enough that some institutions would know her name, while still being unable to clear herself quickly because Aether controls the local narrative, the practical choke points, and much of the immediate security response.
 
-## Ultra Beast Appropriation
+## Ultra Beast and Wormhole Appropriation
 
-The Alola crisis should double as Giovanni's reconnaissance / appropriation phase for the later Rainbow Rocket war.
+The Alola crisis is Giovanni's reconnaissance / appropriation phase for the
+main-world war and later Rainbow Rocket empire.
 
 - He exploits Aether's wormhole research, containment systems, logistics, and scandal fallout.
 - He uses compromised staff and captured infrastructure to identify what can be stolen, redirected, or quietly inherited after the crisis.
 - Later Rocket / Rainbow Rocket operations use that infrastructure to **bring over or capture Ultra Beasts and other Pokemon from other dimensions**.
 - Those imports become strategic assets under Rocket control rather than a sudden postgame cameo reveal.
+- After Giovanni loses the main-world war, the same research and infrastructure
+  make his Ultra Wormhole escape and deliberate conquest of other realities
+  possible.
 
 Exact ratios remain open: how much is direct Giovanni engineering, how much is stolen Aether work, and how much is opportunistic capture during institutional collapse.
 
@@ -167,3 +171,4 @@ This beat should stay **symbolic rather than causal**. Aether locks onto Amber b
 - [World Opening Timeline](../../world-opening.md) — wider-world connectivity context
 - [Team Rocket](../../../reference/organizations/team-rocket.md) — Rocket's institutional capture model
 - [Rainbow Rocket Endgame](../../saga-threads/giovanni-team-rocket.md) — later war this arc helps set up
+- [Mystery Dungeon Instability and Exploration](../../saga-threads/mystery-dungeon-instability.md) — wider dimensional/ecological crisis and final exploration payoff

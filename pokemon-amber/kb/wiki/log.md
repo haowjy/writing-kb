@@ -414,3 +414,20 @@ This entry supersedes active claims that conflict with it; earlier maintenance e
 - Clarified Madame Boss's finance-and-logistics lesson and Giovanni's later stakeholder-and-popular-support model, including his judgment that pressuring an unconvinced Oak was a separatist error. Giovanni does not require literal unanimity.
 - Replaced the narrow Amber-resurrection commission with Fuji's broad autonomy bargain: Giovanni funds and enables useful Rocket/Kanto research while knowingly permitting Fuji's resurrection work. Giovanni is structurally culpable for enabling Fuji, not the direct author of Fuji's later Pallet violence.
 - Locked Giovanni's eventual Kanto-centered global hegemony and the anticolonial-to-imperial irony. The onset, Championship outcome, title leverage, Lance's Mega use, war trigger, Mewtwo deployment, Kanto public response, and later office remain open.
+
+## 2026-08-09 --- Settled Mystery Dungeon destabilization and Rainbow Rocket final saga
+
+- Added Mystery Dungeon instability and exploration as the fifth saga-level
+  throughline: ancient natural Dungeons worsen under cumulative ecological,
+  industrial, dimensional, legendary-class, and wartime pressures.
+- Established an evidence arc from field reports through contested public
+  research to Rocket's stronger internal data. Giovanni knowingly continues
+  and has no caretaker or world-repair purpose.
+- Settled the endgame sequence: Giovanni loses the main-world war, escapes
+  through an Ultra Wormhole, and becomes or founds an interdimensional Rainbow
+  Rocket; Amber and a small group pursue him across varied Pokemon realities,
+  and the story's final battle is against Rainbow Rocket.
+- Kept Dungeon causes and resolution, catastrophe language, exact worlds,
+  pursuit party, navigation, Rainbow Rocket formation, contacts, and final
+  objective open. Preserved Argaea and Laqua as distinct from the source of
+  Mystery Dungeons or a universal dimensional mechanism.

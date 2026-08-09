@@ -2,7 +2,10 @@
 
 **Status:** drafting
 
-Giovanni is Viridian Gym Leader and the political leader of Team Rocket's largest separatist faction. He begins from Kanto's legitimate colonial grievance and eventually turns it toward Kanto-centered hegemony: control, dependence, and security without genuine autonomy for others.
+Giovanni is Viridian Gym Leader and the political leader of Team Rocket's
+largest separatist faction. He begins from Kanto's legitimate colonial
+grievance, turns it toward Kanto-centered hegemony, and after defeat expands
+that imperial project through Ultra Space as Rainbow Rocket.
 
 ## Background and Viridian
 
@@ -46,7 +49,24 @@ Giovanni eventually seeks everything important to fall under Kanto rule or Kanto
 
 The irony is deliberate: a movement grounded in Kanto's colonial grievance becomes an imperial order with Kanto at its center. Giovanni's villainy is not Kanto's desire for self-government; it is his appropriation of that grievance for domination, equation of Kanto with his regime and personal control, denial of others' autonomy, and expansion of "security" until independent power itself is a threat.
 
-Whether he imagines this global order from the beginning or reaches it gradually remains open, as do public support or fracture after independence, the Championship outcome and leverage, Lance's Mega use, the war trigger, Mewtwo #2's participation or deployment, and a later Kanto Champion office. Those alternatives belong only in [Giovanni and Team Rocket](../../../planning/saga-threads/giovanni-team-rocket.md).
+When Rocket's internal evidence shows that its activity is worsening Mystery
+Dungeon and ecological instability, Giovanni continues and suppresses or
+ignores the danger. He does not regard himself as the world's caretaker and
+does not intend to repair it after taking control.
+
+After losing the main-world war, he escapes through an Ultra Wormhole. Other
+universes become additional territory and replacement worlds rather than a
+reason to accept limits. He becomes or founds Rainbow Rocket as an
+interdimensional imperial organization, and remains the central antagonist of
+the final saga.
+
+Whether he imagines this global order from the beginning or reaches it
+gradually remains open, as do public support or fracture after independence,
+the Championship outcome and leverage, Lance's Mega use, the war trigger,
+Mewtwo #2's participation or deployment, and a later Kanto Champion office.
+The main-world war's defeat and Ultra Wormhole escape are settled; formation
+timing, contacts, worlds, and final objective are open in [Giovanni, Team
+Rocket, and Rainbow Rocket](../../../planning/saga-threads/giovanni-team-rocket.md).
 
 ## Cross-References
 
@@ -56,3 +76,4 @@ Whether he imagines this global order from the beginning or reaches it gradually
 - [Kanto–Johto Colonial Integration and First Kanto Secession](../../world/history/kanto-johto-unification-war.md)
 - [Mewtwo](../pokemon/mewtwo.md)
 - [Giovanni and Team Rocket](../../../planning/saga-threads/giovanni-team-rocket.md)
+- [Mystery Dungeon Instability and Exploration](../../../planning/saga-threads/mystery-dungeon-instability.md)
