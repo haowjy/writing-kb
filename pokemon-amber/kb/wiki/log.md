@@ -84,7 +84,7 @@ plot-threads/saffron-gym-rivalry.md and not migrated separately.
 - Phase F: delete wiki/ and future/ from main repo (destructive --- needs
   user OK)
 - Phase G: cross-reference rewriting (wiki/ and future/ relative paths
-  inside migrated files need normalization to kb [Wiki Link](wiki-link.md) style)
+  inside migrated files need normalization to kb `[Wiki Link](wiki-link.md)` style)
 - Phase H: populate wiki/index.md catalog
 - Phase I: creative-writing-skills package update (separate repo)
 

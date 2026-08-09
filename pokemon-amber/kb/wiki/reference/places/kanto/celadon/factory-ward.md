@@ -66,4 +66,4 @@ Erika's decision to treat Hiro for free, in secret, shows she sees the problem. 
 - Factory Ward conditions, Hiro's illness, Erika's treatment: [Ch10][ch10]
 - Sludge Fever recurring: [Ch10][ch10]
 
-[ch10]: ../../../../story/ch10/chapter10.md
+[ch10]: https://github.com/haowjy/pokemon-amber/blob/main/story/ch10/chapter10.md

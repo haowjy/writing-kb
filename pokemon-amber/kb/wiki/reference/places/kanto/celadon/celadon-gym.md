@@ -175,7 +175,7 @@ The previous Gym Leader — the old man now seen sitting on a bench outside the 
 
 **What happened:** He didn't fall in a scandal. He just got old. His mind went — slowly, visibly, embarrassingly. The filters came off. The dignified leader became the old man muttering about the girls in the gym. Not predatory — senile. The gym's prestige eroded under him as he became less capable and more erratic.
 
-**Why removal took so long:** Stripping a sitting GL's title is politically and institutionally difficult. The League is decentralized (gym councils ARE the government — see [Evolution of Pokemon Gyms](https://github.com/haowjy/pokemon-amber/blob/main/story/)). There's no clean mechanism for forced removal when the problem is decline rather than misconduct. The board had to build consensus across multiple noble families, each with their own candidate preferences. By the time he formally stepped down, the succession had already become a political contest.
+**Why removal took so long:** Stripping a sitting GL's title is politically and institutionally difficult. The League is decentralized (gym councils ARE the government — see [Evolution of Pokemon Gyms](../../../world/history/gym-evolution.md)). There's no clean mechanism for forced removal when the problem is decline rather than misconduct. The board had to build consensus across multiple noble families, each with their own candidate preferences. By the time he formally stepped down, the succession had already become a political contest.
 
 **The corruption underneath:** The old man presided over decades of the [Factory Ward](factory-ward.md)'s neglect. Whether he actively enabled Giovanni's presence in Celadon or simply didn't care is unclear — but Team Rocket's Game Corner and deeper institutional reach in the city were established on his watch. The corruption isn't his personal scandal; it's the system the noble families built and maintained while he looked the other way.
 
@@ -314,10 +314,10 @@ The "RESTRICTED" sign on the greenhouse isn't just about Pokemon safety — it's
 - Security office, investigation, HP UP secret: [Ch8][ch8]
 - Erika's medical treatment, HP UP explanation: [Ch10][ch10]
 
-[ch5]: ../../../../story/ch5/chapter5.md
-[ch7]: ../../../../story/ch7/chapter7.md
-[ch8]: ../../../../story/ch8/chapter8.md
-[ch10]: ../../../../story/ch10/chapter10.md
+[ch5]: https://github.com/haowjy/pokemon-amber/blob/main/story/ch5/chapter5.md
+[ch7]: https://github.com/haowjy/pokemon-amber/blob/main/story/ch7/chapter7.md
+[ch8]: https://github.com/haowjy/pokemon-amber/blob/main/story/ch8/chapter8.md
+[ch10]: https://github.com/haowjy/pokemon-amber/blob/main/story/ch10/chapter10.md
 [bulbapedia-celadon-gym]: https://bulbapedia.bulbagarden.net/wiki/Celadon_Gym
 [bulbapedia-ep026]: https://bulbapedia.bulbagarden.net/wiki/EP026
 [bulbapedia-ep044]: https://bulbapedia.bulbagarden.net/wiki/EP044

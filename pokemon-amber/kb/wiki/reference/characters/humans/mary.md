@@ -92,4 +92,4 @@ Her eventual departure from the gym isn't failure — it's recognition that she 
 Cooltrainers (Ace Trainers in later gens) are skilled battlers who serve as tough pre-Leader challenges.
 
 [bulbapedia-celadon-gym]: https://bulbapedia.bulbagarden.net/wiki/Celadon_Gym
-[ch9]: ../../../story/ch9/chapter9.md
+[ch9]: https://github.com/haowjy/pokemon-amber/blob/main/story/ch9/chapter9.md

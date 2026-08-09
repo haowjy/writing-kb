@@ -95,4 +95,4 @@ Vee is somehow connected to the Erika plotline — possibly:
 - [arc1-kanto-year1.md](../01-kanto-year-1/overview.md) — Kanto Year 1 structure
 - [saga-overview.md](../../saga-overview.md) — Arc 2 and Arc 6 summaries
 
-[ch10]: ../../../story/ch10/chapter10.md
+[ch10]: https://github.com/haowjy/pokemon-amber/blob/main/story/ch10/chapter10.md

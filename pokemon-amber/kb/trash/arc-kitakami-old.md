@@ -178,5 +178,5 @@ This beat was seeded in Chapter 17. See: `story/chapter17/_17notes.md`
 - `wiki/pokemon-teams/team-amber-mc.md` — Gible, Ursaluna, roster expansion
 - `arc-pikachu-handoff.md` — Pikachu/Ash beat
 - `saga-overview.md` — full arc structure
-- [[arc-alola-ultra-space]] — Alola reset arc that now precedes the return
-- [[../plot-threads/dimensional-displacement-bridge]] — late-saga displacement / Alola handoff that now comes before Kitakami II
+- [Alola / Aether / Ultra Space reset](../wiki/planning/arcs/14-dimensional-displacement-alola/overview.md) — Alola reset arc that now precedes the return
+- [Dimensional displacement](../wiki/planning/arcs/14-dimensional-displacement-alola/dimensional-displacement.md) — late-saga displacement / Alola handoff that now comes before Kitakami II

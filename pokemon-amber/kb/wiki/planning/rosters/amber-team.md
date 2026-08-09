@@ -226,11 +226,10 @@ Alternatives: medical retirement/sanctuary, permanent transfer to orgs, or ecolo
 ## Region Plan & Transitions
 
 - **Indigo Year 1** — Licensing, Oak-supported departure. Core: Ditto/Charcadet/Teddiursa. 4Ever at end of Year 1 (all 8 badges). Charcadet stolen; Teddy/Ursaring payoff TBD with the mother-Ursaring rescue debt. First conference entered without ace.
-- **Indigo Year 2** — Post-conference. Vee recruited in Celadon. The Argaea arc (skips conference). Pikachu handoff to Oak end of Year 2.
-
-> [!FLAG] **Timeline contradiction (unresolved --- author's call).** This page slots the Argaea arc + Pikachu handoff in **Indigo Year 2 (~age 14)**, but `planning/arcs/10-argaea-kitakami/overview.md` and `planning/saga-overview.md` place them at **Arc 10, age 16** --- *after* Hoenn. That ordering also conflicts with Gardevoir: she is acquired in the **Hoenn** arc yet "stays in Argaea," which cannot happen if Argaea precedes Hoenn. Reconcile where Argaea sits in the region order before locking team logistics.
+- **Indigo Year 2** — Post-conference. Vee recruited in Celadon.
 - **Transition trigger** — Two successful Rocket thefts within ~60 days, plus one secondary factor: denied gym rematch, sponsor offer contingent on relocation, Ranger advice, or Amber's own line *"I am not bait."*
-- **Hoenn** — Ecology shift; new additions. Trapinch arc. Tone hardens.
+- **Hoenn** — Ecology shift; new additions. Trapinch arc. Tone hardens. Gardevoir joins before Argaea.
+- **Argaea Visit 1 (Arc 10, age 16)** — After Hoenn. Gardevoir becomes the temporary external seal anchor; the Pikachu handoff occurs on the later road home.
 - **Sinnoh** — History/identity themes deepen. Shinx, Rockruff arcs TBD.
 
 Migration logistics: registration scan, health stamp, insurance proof, visa tier confirmation. Small friction grounds the travel.
