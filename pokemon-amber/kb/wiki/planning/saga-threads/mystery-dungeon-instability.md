@@ -96,3 +96,4 @@ without being reduced to one cosmological mechanism.
 - [Giovanni, Team Rocket, and Rainbow Rocket](giovanni-team-rocket.md)
 - [Alola / Aether / Ultra Space](../arcs/14-dimensional-displacement-alola/overview.md)
 - [Saga Overview](../saga-overview.md)
+- [Vocabulary](../../vocab.md) — canonical distinctions among Dungeons, Wormholes, Ultra Space, Argaea, and Laqua

@@ -133,6 +133,8 @@ self-concept as an adventurer. Amber does not adopt that identity as her
 primary profession, but Dungeon exploration becomes a recurring saga thread
 rather than remaining a set of isolated collisions.
 
+> [!FLAG] **Needs human review**: The future-story material in "Later Introduction Strategy" (lines 136–146) and "Early Explicit Alonso Mini-Arc Direction" (lines 148–160) is arc planning embedded in this reference page. Choose a settled owning arc or planning page before moving it; its destination is not yet determined here. Flagged 2026-08-09.
+
 ## Later Introduction Strategy
 
 Introduce Mystery Dungeons after the reader already understands ordinary routes, Pokemon Centers, and quests. The first explicit explanation should feel like a widening of an existing world, not a sudden new magic system.
