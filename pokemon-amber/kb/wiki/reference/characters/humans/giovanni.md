@@ -49,15 +49,11 @@ Giovanni eventually seeks everything important to fall under Kanto rule or Kanto
 
 The irony is deliberate: a movement grounded in Kanto's colonial grievance becomes an imperial order with Kanto at its center. Giovanni's villainy is not Kanto's desire for self-government; it is his appropriation of that grievance for domination, equation of Kanto with his regime and personal control, denial of others' autonomy, and expansion of "security" until independent power itself is a threat.
 
-When Rocket's internal evidence shows that its activity is worsening Mystery
-Dungeon and ecological instability, Giovanni continues and suppresses or
-ignores the danger. He does not regard himself as the world's caretaker and
-does not intend to repair it after taking control.
-
-That knowledge is an internal character fact, not an early reader-facing
-revelation. The story should imply it until late Rocket scientific records
-provide harder confirmation; see the disclosure strategy in [Giovanni, Team
-Rocket, and Rainbow Rocket](../../../planning/saga-threads/giovanni-team-rocket.md).
+Rocket research eventually shows that its activity is worsening Mystery
+Dungeon instability. Giovanni continues anyway. Readers infer that knowledge
+before recovered scientific records confirm it late in the story; see
+[Giovanni, Team Rocket, and Rainbow
+Rocket](../../../planning/saga-threads/giovanni-team-rocket.md).
 
 After losing the main-world war, he escapes through an Ultra Wormhole. Other
 universes become additional territory and replacement worlds rather than a

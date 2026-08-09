@@ -36,15 +36,10 @@ preserving coercive alternatives. His settled later direction is Kanto
 hegemony: influence or control over other governments, League institutions,
 economies, technologies, and strategic systems.
 
-Rocket eventually holds internal evidence that its extraction,
-experimentation, dimensional research, and wartime production are worsening
-Mystery Dungeon and ecological instability. Giovanni suppresses or ignores
-the danger and continues; the organization has no hidden stewardship or
-world-repair purpose.
-
-This is internal canon rather than early public knowledge. Reader-facing proof
-should remain indirect until late discovery of Rocket scientific files; exact
-finder, base, and timing remain open.
+Rocket eventually learns that its extraction, experiments, dimensional
+research, and wartime production are worsening Mystery Dungeon instability.
+Giovanni continues. That knowledge remains hidden until late discovery of
+Rocket scientific records; the finder, base, and timing remain open.
 
 After Rocket loses the main-world war, Giovanni escapes through an Ultra
 Wormhole. Rocket's appropriation of Aether research becomes a foundation for

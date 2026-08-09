@@ -261,14 +261,10 @@ main-world war.
 
 - Giovanni's network remains a slow background infection across Hoenn,
   Sinnoh, Kalos, and Aether before the pattern becomes publicly legible.
-- Mystery Dungeons are simultaneously becoming more frequent, volatile,
-  expansive, and dangerous. Field records and public research make the broad
-  ecological pattern increasingly difficult to dismiss, while Rocket's own
-  culpability remains hidden.
-- Giovanni's informed continuation is author-level truth, not an early public
-  revelation. The story should imply it through policy, timing, and recurring
-  evidence, leaving readers to connect the pattern until much later hard proof
-  is recovered from Rocket's scientific records.
+- Mystery Dungeons grow more frequent and dangerous. Field reports establish
+  the ecological pattern while Rocket's contribution remains unproven.
+- Rocket's scientific records eventually show that Giovanni knew. Until then,
+  policy, timing, and recurring evidence should let readers infer it.
 - Amber helps connect a coalition rather than becoming the sole leader of
   every front. Silver, Looker, Lance, Zinnia, and others contribute distinct
   evidence, legitimacy, expertise, and force.
@@ -285,22 +281,16 @@ See: [The Mewtwo Thread](saga-threads/mewtwo-ambertwo.md)
 ### Final Saga — Ultra Space Pursuit / Rainbow Rocket
 **Amber age:** 18-20+ | **Region:** Ultra Space / multiple Pokemon realities
 
-Amber and a small group pursue Giovanni through Ultra Space after his escape.
-They encounter many different Pokemon worlds, with freedom to draw from anime,
-manga, games, alternate outcomes, post-apocalyptic settings, villain-victory
-timelines, Pokemon-only societies, and original speculative worlds.
+Amber and a small group pursue Giovanni through Ultra Space, crossing Pokemon
+worlds drawn from the anime, manga, games, alternate outcomes,
+post-apocalyptic settings, Pokemon-only societies, and original concepts.
 
-Giovanni treats those worlds as territory, replacements, and resources rather
-than accepting ecological or political limits. He becomes or founds Rainbow
-Rocket, an interdimensional imperial organization that conquers and exploits
-multiple realities and can export the same destabilization outward. This
-Giovanni can therefore differ from the *Ultra Sun* and *Ultra Moon* version:
-he loses his original war before becoming the Rainbow Rocket Giovanni.
+Giovanni treats those worlds as territory, replacements, and resources. He
+becomes or founds Rainbow Rocket after losing his original war.
 
-Ultra Space opens late so local places, institutions, and the main-world war
-retain their weight. The varied worlds complete the saga's exploration
-throughline, but Giovanni remains the causal and thematic center rather than a
-host for an unrelated cameo or villain boss rush.
+Ultra Space opens late so the main world's conflicts retain their weight. The
+new worlds complete the exploration throughline without displacing Giovanni
+as the central antagonist.
 
 The final battle of the story is against Rainbow Rocket. The exact worlds,
 pursuit party, world count, navigation rules, formation timeline, prior

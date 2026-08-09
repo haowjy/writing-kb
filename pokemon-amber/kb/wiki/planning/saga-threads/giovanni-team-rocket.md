@@ -35,33 +35,20 @@ Mewtwo #2 is a genuine loyal partner and true believer raised in Giovanni's clon
 
 ## Ecological Disregard
 
-Rocket's industrial, extraction, experimental, dimensional, legendary-class,
-and wartime activity contributes to growing [Mystery Dungeon
-instability](mystery-dungeon-instability.md). Team Rocket eventually possesses
-stronger internal evidence than the contested public record that its work is
-destabilizing the world.
+Rocket's extraction, experiments, dimensional research, and wartime production
+worsen [Mystery Dungeon instability](mystery-dungeon-instability.md). Its
+scientists eventually produce stronger evidence than the contested public
+record. Giovanni continues anyway; he neither accepts ecological limits nor
+intends to repair the world after victory.
 
-Giovanni knowingly continues and suppresses or ignores the danger. He does not
-see himself as the world's caretaker, does not plan to repair it after victory,
-and does not accept ecological limits as a reason to stop. Rocket is a knowing
-accelerator of the crisis, not the original creator of ancient Mystery
-Dungeons or necessarily their only modern pressure.
+This remains author-level truth until late in the story. Worsening incidents,
+researcher warnings, and Rocket's choices should let readers infer the pattern.
+Recovered scientific records from a secret base or archive may later confirm
+what Giovanni knew. The finder, location, timing, and completeness of that
+evidence remain open.
 
-### Disclosure strategy
-
-This is author-level antagonist truth, not something Giovanni explains or the
-narrative confirms early. The environmental pattern should work like global
-warming: worsening incidents, researcher warnings, contested public evidence,
-and Rocket decisions allow readers to infer the relationship for themselves.
-Rocket's stronger knowledge and deliberate continuation remain implied or
-occasionally hinted at until a late discovery supplies harder evidence.
-
-The current preferred confirmation lane is Amber or another investigator
-recovering reports, models, warnings, or correspondence from Rocket scientists
-inside a secret base or archive. The finder, location, timing, completeness of
-the files, and whether confirmation comes during or after the war remain open.
-The files should confirm a pattern readers could already have reconstructed,
-not introduce the entire idea for the first time.
+Rocket accelerates the crisis. It did not create Mystery Dungeons and need not
+be their only modern cause.
 
 ## Main-World War and Defeat
 
@@ -69,12 +56,9 @@ Giovanni eventually seeks global Kanto hegemony: not necessarily direct rule eve
 
 The core irony is a legitimate anticolonial grievance becoming a new imperial order. Kanto's desire for self-government is not the villainy. Giovanni becomes the antagonist by turning Kanto's interests into the interests of his regime and personal control, denying other peoples meaningful autonomy, and treating independent power as a security threat.
 
-Whether he envisions this from the beginning or develops it gradually is open.
-So is whether the Kanto public embraces the imperial project or fractures after
-supporting independence. A coalition resists force, coercion, institutional
-capture, and engineered loyalty. Amber is one critical bridge among Lance's
-League legitimacy, Silver's personal Rocket conflict, Looker's intelligence,
-and regional specialists.
+Whether he envisions this from the beginning or develops it gradually remains
+open, as does Kanto's eventual response. Amber helps connect the opposition;
+she does not command every front.
 
 The exact challenge, secession, and war sequence remains open, but its outcome
 does not: Giovanni loses the main-world war and escapes through an Ultra
@@ -82,30 +66,22 @@ Wormhole.
 
 ## Final Saga: Ultra Space and Rainbow Rocket
 
-Giovanni answers defeat and a damaged world's limits by treating other
-universes as additional territory and replacement worlds. Aether's Ultra
-Wormhole research and the infrastructure Rocket has appropriated become his
-route beyond one world and the basis for deliberate interdimensional conquest.
+Giovanni answers defeat by treating other universes as territory, resources,
+and replacement worlds. Appropriated Aether research gives him the means to
+escape and expand.
 
-Amber and a small group pursue him through Ultra Space. They encounter many
-different Pokemon realities, which may draw from anime, manga, games,
-alternate outcomes, post-apocalyptic settings, villain-victory timelines,
-Pokemon-only societies, and original speculative worlds. The variety is a
-source of late creative freedom, but each world must serve the pursuit,
-exploration, or imperial conflict rather than becoming an unintegrated cameo
-or boss rush.
+Amber and a small group pursue him through Ultra Space, crossing Pokemon
+realities drawn from the anime, manga, games, alternate outcomes,
+post-apocalyptic settings, Pokemon-only societies, and original concepts.
+Each world must matter to the pursuit rather than functioning as a cameo.
 
-Giovanni becomes or founds **Rainbow Rocket**, an interdimensional imperial
-organization that exploits and conquers multiple Pokemon realities. Expansion
-exports consequences outward and can reproduce the same destabilization it
-refuses to confront at home. This adaptation need not follow *Ultra Sun* and
-*Ultra Moon*'s implication that its Giovanni comes from a world where he had
-already won: this Giovanni can lose the main-world war and then become the
-Rainbow Rocket Giovanni.
+Giovanni becomes or founds **Rainbow Rocket**, an interdimensional empire that
+conquers and exploits other realities. This adaptation departs from *Ultra Sun*
+and *Ultra Moon*: losing his original war can be what turns this Giovanni into
+the Rainbow Rocket Giovanni.
 
-The story's final battle is against Rainbow Rocket. Giovanni remains its
-central antagonist and the causal link between the main-world conflict and the
-multiverse saga.
+The story's final battle is against Rainbow Rocket. Giovanni remains the
+central antagonist rather than becoming the host of a villain boss rush.
 
 ## Open Questions
 
