@@ -75,7 +75,7 @@ The arc works best if some of the evidence is messy enough to be plausible on pa
 
 Alola should not read as a sealed fantasy island cut off from the rest of the setting. By this stage:
 
-- **Aether**, the **International Police**, League elites, and wormhole researchers can all be globally connected, but International Police action still depends on treaties and host-region cooperation.
+- **Aether**, the **International Police**, League elites, and wormhole researchers can all be globally connected.
 - Ports, shipping, security, and research networks can be modern enough to matter.
 - But local island culture, kahuna authority, informal routes, and Pokemon Center expectations remain less standardized than mainland systems.
 

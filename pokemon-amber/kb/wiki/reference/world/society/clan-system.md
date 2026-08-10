@@ -22,21 +22,10 @@ Regional distinction in how families preserve Pokemon training, breeding, and so
 
 ## Transregional Noble Bloc
 
-Old, prideful noble clans and houses across the world's regions form another
-major political power bloc. This is a transregional social and political class,
-or at most a loose bloc of ancient houses, not a settled unified organization,
-formal party, or world council.
-
-The houses have their own regional interests and do not need a shared platform
-or leadership to matter collectively. They are distinct from Giovanni's
-Kanto-centered coalition, modern [international
-institutions](international-institutions.md), and the sealed kingdom of
-Argaea.
-
-[Project X](../../organizations/project-x.md) overlaps with this class by
-selecting some powerful clans and noble or royal families. The noble bloc is
-broader than Project X, is not represented by it as a whole, and retains
-interests beyond the compact's military research.
+Old noble clans and houses across several regions form a loose political class,
+not a unified organization or world council. The class is broader than [Project
+X](../../organizations/project-x.md), which selects some elites for its military
+compact.
 
 ## Historical Context
 

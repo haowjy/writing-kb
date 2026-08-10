@@ -10,18 +10,14 @@ Giovanni's future challenge for Lance's office is open planning. Whether Lance u
 
 ## Project X
 
-Lance is involved in [Project X](../../organizations/project-x.md), representing
-Indigo or Blackthorn interests in the secret international combat compact. He
-has previously invited Oak to participate. This establishes involvement, not
-ownership: whether Lance founded the project, when he joined, whom he formally
-represents, and what authority he holds remain open.
+Lance participates in [Project X](../../organizations/project-x.md) and has
+invited Oak. His representation and authority remain open.
 
 ## Open Questions
 
 - Lance's exact relationship to Blackthorn institutions and clans.
 - His personal view of Oak, Kanto nationalism, Mega Evolution secrecy, and Giovanni's modernization.
 - His role in the later Kanto conflict.
-- Project X's founding date and Lance's exact role within it.
 
 ## Cross-References
 

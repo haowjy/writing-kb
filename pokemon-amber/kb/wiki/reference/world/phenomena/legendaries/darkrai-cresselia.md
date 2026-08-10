@@ -71,56 +71,16 @@ Thematic and structural precedent this provides:
 
 ## Saga Application
 
-The official material above informs the current Argaea direction without
-fixing every mechanic.
+Darkrai, not Hoopa or Mew, caused Argaea's dimensional sealing; Amber's Mew DNA
+is not a key. Mega Dimension and hyperspace language remain provisional until
+the topology is designed.
 
-### Decided / Current Direction
+[Arc 10](../../../../planning/arcs/10-argaea-kitakami/overview.md) owns Visit 1:
+Alexander kills the Mad King, Mega Darkrai escapes his body, Amber cannot
+identify the Mega form, and Cresselia holds it back during the retreat. The
+[Argaea saga thread](../../../../planning/saga-threads/argaea.md) owns the
+cross-arc seal and return.
 
-- The AZ / Mega Darkrai catastrophe sealed Argaea as a pocket region about
-  3,000 years ago. Argaea remained part of the same Pokemon world and
-  experienced continuous internal history rather than stasis.
-- Darkrai, not Hoopa or Mew, remains the cause associated with Argaea's
-  dimensional sealing. Amber's trace Mew DNA is not an access or seal key.
-- After Kitakami, Alexander kills the mad or corrupted King because his father
-  must be stopped. At the moment of death, Mega Darkrai visibly tears free from
-  the King's body and remains loose inside Argaea.
-- **Mega Darkrai is author truth, not Amber's immediate identification.** Amber
-  has never seen the form and does not know it exists. The scene therefore
-  cannot name it as Mega Darkrai through her POV; its exact appearance and her
-  description or assumption remain open.
-- Cresselia remains inside Argaea. She catastrophically exhausts and injures
-  herself holding Mega Darkrai back long enough for Amber and Alexander to
-  retreat and escape, then continues as the internal counterweight of a patched
-  seal. This is not an established death, and the exact interception and escape
-  mechanics remain open.
-- Gardevoir supports the outer side of the patched seal. Cresselia and
-  Gardevoir hold complementary roles until Visit 2 can replace the stopgap.
-
-### Provisional
-
-- Mega Dimension and hyperspace logic are the working cosmological language
-  for the AZ / Mega Darkrai catastrophe, but Argaea's exact topology is open.
-- Hoopa could later enlarge or navigate an existing distortion. It is optional
-  and cannot replace Darkrai as the cause.
-- The Loyal Three may have been genuine Kitakami guardians corrupted through
-  Mega Darkrai, possibly via Pecharunt or Toxic Chains. This has not been
-  chosen as canon.
-
-### Open
-
-- What caused the original breach, and whether the Mad King or Alexander was
-  responsible in whole or part.
-- The origin and nature of the Mad King's madness or corruption, including how
-  Mega Darkrai came to be within his body.
-- Exact battle and killing choreography.
-- Mega Darkrai's exact visual design and what Amber calls or assumes it is.
-- Exact form of Cresselia's interception and the retreat or escape mechanics.
-- The precise geometry and communication of the Cresselia / Gardevoir seal.
-- Whether Mega Evolution forms the seal once or operates under special Argaea
-  rules. Do not assume Gardevoir remains Mega-Evolved for years.
-- Visit 2's purification or resealing mechanism. Cresselia plus Shaymin is not
-  a locked win condition.
-
-Cross-refs: [Argaea saga thread](../../../../planning/saga-threads/argaea.md), [Hidden Kingdom
-arc](../../../../planning/arcs/10-argaea-kitakami/overview.md), [Prince
-Alexander](../../../characters/humans/prince-alexander.md), [vocabulary](../../../../vocab.md)
+Hoopa may later navigate an existing distortion but cannot replace Darkrai as
+the cause. A Loyal Three / Pecharunt / Toxic Chains connection remains
+provisional.

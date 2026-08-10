@@ -151,13 +151,10 @@ spend several days in Kitakami, an Argaean province or community, resolving the
 immediate Ogerpon / Loyal Three crisis. During this stage Amber and Gardevoir
 discover or are forced to discover Mega Evolution together.
 
-After the local resolution, Alexander kills his mad or corrupted father because
-the King must be stopped. Mega Darkrai visibly tears free from the King's body
-at death. Amber has never seen that form and does not know it exists, so she
-cannot identify it as Mega Darkrai in the immediate scene. Cresselia
-catastrophically injures and exhausts herself holding it back long enough for
-Amber and Alexander to retreat and escape, then remains trapped inside as the
-seal's internal counterweight.
+After the local resolution, Alexander kills the Mad King; Mega Darkrai escapes
+his body, and Cresselia holds it back while Amber and Alexander retreat. Amber
+cannot identify the Mega form. [Arc 10](arcs/10-argaea-kitakami/overview.md) owns
+the exact Visit 1 facts and open choreography.
 
 Amber and Gardevoir use Mega Evolution in a sealing action. Gardevoir must
 remain at or on the outside threshold as the external anchor, leaving Amber to
@@ -245,14 +242,9 @@ Mega Darkrai crisis.
 
 Alola and the Delta Episode strengthen this return: Amber comes back with Ultra Wormhole experience, other-world ethics, Aether/Lusamine lessons, and proof that sometimes supporting the right specialist is the right move.
 
-The Mad King's death leaves a power vacuum, and Mega Darkrai remains loose
-inside the sealed kingdom. Its influence contributes to the hatred and
-instability that may become a civil war before the return.
-
-**Open:** exact party, purification or resealing mechanism, final win
-condition, and political outcome. Cresselia plus Shaymin is not a locked cure,
-and Alexander reclaiming the throne is not a locked ending. The roughly
-seven-warlord civil-war model remains provisional.
+The return must replace the seal, free Gardevoir, and resolve Mega Darkrai. The
+party, solution, political outcome, and possible civil war remain open; see
+[Arc 16](arcs/16-argaea-return/overview.md).
 
 See: [Argaea return](arcs/16-argaea-return/overview.md), [Argaea saga
 thread](saga-threads/argaea.md)

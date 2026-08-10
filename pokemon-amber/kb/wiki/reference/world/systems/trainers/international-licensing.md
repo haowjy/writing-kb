@@ -18,15 +18,8 @@ All other Big 4 interregional travel (Kanto/Johto ↔ Hoenn, Hoenn ↔ Sinnoh, e
   - Shared registries for Poké Ball serials and active party rosters
   - Incident data sharing (bans, suspensions, stolen Pokémon lists)
 
-The ILC is an interoperability framework, not the government of the
-international order. It does not control the [International
-Police](../../../organizations/international-police.md), the [adventurer
-federation](../../../organizations/adventurer-federation.md), Joy or Jenny
-networks, or [Project X](../../../organizations/project-x.md).
-
-Mutual recognition of a trainer license answers whether a person may lawfully
-handle Pokemon and enter local contracts. It does not confer adventurer
-identity, federation membership, or a universal Adventurer rank.
+Mutual recognition permits lawful Pokemon handling and local contracts; it does
+not confer adventurer identity or federation membership.
 
 ## Interregional Pokemon Carry — Visa Tiers
 

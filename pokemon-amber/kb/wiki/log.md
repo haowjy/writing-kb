@@ -437,50 +437,15 @@ This entry supersedes active claims that conflict with it; earlier maintenance e
   reference page; the Charcadet saga thread and Arc 1 overview remain its
   planning owners.
 
-## 2026-08-10 --- Established the layered international-institutions framework
+## 2026-08-10 --- Added international institutions and Project X
 
-- Added the Joy and Jenny networks, the newer international adventurer
-  federation, the treaty-based International Police, and Project X as distinct
-  institutional layers rather than one global authority.
-- Preserved adventurer as a cultural identity, trainer licensing as the legal
-  credential, independent guilds, and the existing Pokemon Center quest boards;
-  the newer federation now coordinates Dungeon operations through that older
-  infrastructure.
-- Reframed Mystery Dungeon escalation around outbreak containment while keeping
-  literal physical expansion versus destabilization and discovery unresolved.
-- Defined Project X as an elite military-strengthening umbrella whose leading
-  research is Mega Evolution, not as a public-benefit institution or a synonym
-  for Mega Evolution.
-- Kept Jenny ancestry, the federation's formal name and credential model,
-  Project X's founding and roster, Dungeon permanence and cosmology, and exact
-  institutional dates open.
-- Added the world's old noble clans and houses as a broader, loose political
-  bloc distinct from Project X and modern international bodies; no unified
-  organization or worldwide roster is established.
-- Preserved Argaea as the current name while recording Asura Kingdom and Ashura
-  Kingdom as uncommitted rename candidates; no files or pages were renamed.
-- Recorded the author's current lean toward Ashura Kingdom and a provisional
-  two-visit political bridge: possible Mad King death, power vacuum, civil war,
-  territorial warlords, and Alexander as an internal unifier. Every element
-  remains open rather than part of the settled causal spine.
+Recorded the layered international framework, old noble bloc, Mystery Dungeon
+field coordination, and Project X. Reference pages own settled facts; planning
+pages own unresolved names, roster, founding, credentials, and Dungeon
+mechanics.
 
-## 2026-08-10 --- Settled the Visit 1 Mad King and Mega Darkrai causal chain
+## 2026-08-10 --- Settled Visit 1 Mega Darkrai escape
 
-This entry supersedes the immediately preceding treatment of the Mad King's
-death as provisional.
-
-- After Kitakami, Alexander kills his mad or corrupted father because the King
-  must be stopped. Mega Darkrai visibly tears free from the King's body at the
-  moment of death.
-- Kept author truth separate from POV knowledge: the being is Mega Darkrai, but
-  Amber has never seen the form and does not know it exists, so she cannot name
-  it in the immediate scene.
-- Cresselia holds Mega Darkrai back long enough for Amber and Alexander to
-  retreat and escape, then remains part of the temporary seal.
-- The King's death creates the political power vacuum. Mega Darkrai remains
-  loose within Argaea and contributes to the hatred and instability that may
-  develop into a Visit 2 civil war.
-- Kept battle choreography, escape route and mechanics, Cresselia's exact
-  interception, Mega Darkrai's visual treatment, Amber's interpretation, and
-  all warlord details open. Argaea remains the active name; Ashura Kingdom is
-  still only the naming lean.
+Alexander kills the Mad King; Mega Darkrai escapes his body; Amber cannot
+identify the Mega form; Cresselia holds it back during the retreat. Arc 10 owns
+the exact facts and open choreography.

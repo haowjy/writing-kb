@@ -128,4 +128,4 @@ Public interpretation of trainer paths is class-coded.
 
 - Currency system and quest payout ranges: [Economy & Currency](../../society/economics/index.md)
 - Badge progression context and challenge structure: [Gym and Elite Badges](badge-system.md)
-- Quest classification: [Quest System](quest-system.md); income details: [Quest Economics and Journey Costs](quest-economics.md)
+- Quest categories, contracting, and income: [Quest System](quest-system.md)

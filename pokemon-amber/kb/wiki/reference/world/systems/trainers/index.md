@@ -49,7 +49,6 @@ Pre-Pokeball, Champions led gym councils against Pokemon. Post-Pokeball governme
 ## Supporting Systems
 
 - **[Quest System](quest-system.md)** — board categories, requirements, sponsors, and process
-- **[Quest Economics and Journey Costs](quest-economics.md)** — payment, trainer costs, and income limits
 - **[Adventurer System](adventurer-system.md)** — older cultural and professional identity layered with private guilds and a newer international federation; not an official license tier
 - **[Mystery Dungeons](../../phenomena/mystery-dungeons.md)** — known but delayed world phenomenon; Dungeon work uses existing quest categories while the federation coordinates field operations
 - **[Aura & Bonding](../aura.md)** - Advanced trainer-Pokemon connection mechanics (hidden reference)

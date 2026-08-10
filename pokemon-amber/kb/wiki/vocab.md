@@ -35,11 +35,8 @@ Avoid **Indigo government** as a default. Use *Indigo Council* or *Indigo League
 
 ### old noble houses / noble clan bloc *(transregional political class)*
 
-The old, prideful clans and houses distributed across multiple regions. Treat
-them as a major social and political power bloc with varied regional interests,
-not as a settled unified organization, formal party, or world council. Some
-overlap with Project X, but the class is broader than the compact. See the
-[Clan and Lineage System](reference/world/society/clan-system.md).
+Old clans and houses across several regions; a loose power bloc, not a unified
+organization. Broader than [Project X](reference/organizations/project-x.md).
 
 ## Places and Boundaries
 
@@ -55,10 +52,8 @@ stasis.
 The name derives from the Argead dynasty, Macedon's royal house. The name does
 not commit Prince Alexander to an Alexander-the-Great conquest arc.
 
-Argaea remains the active name in all live pages. The author currently leans
-toward **Ashura Kingdom**, while **Asura Kingdom** also remains an uncommitted
-candidate; **Aesgra** was a mistaken recollection, not an established spelling.
-Do not rename files or references until the author selects a replacement.
+Argaea remains active. **Ashura Kingdom** is the author's uncommitted rename
+lean; do not rename live pages until a replacement is selected.
 
 See [the Argaea saga thread](planning/saga-threads/argaea.md) and [the Hidden Kingdom
 arc](planning/arcs/10-argaea-kitakami/overview.md).
@@ -156,35 +151,24 @@ local first-stage setting within Visit 1, not the whole Argaea thread.
 
 ### adventurer *(cultural and professional identity)*
 
-A person identified with exploration, expedition, rescue, recovery, salvage,
-or other dangerous fieldwork. The identity predates modern international
-coordination and does not itself grant a license, rank, or legal authority. Do
-not use **adventurer** as a synonym for licensed trainer, quest-taker, or
-federation member. See the [Adventurer
+Exploration and expedition identity, not a trainer license, quest category, or
+federation membership. See [Adventurer
 System](reference/world/systems/trainers/adventurer-system.md).
 
-### adventurer federation / International Adventurers Guild *(formal name open)*
+### adventurer federation *(formal name open)*
 
-Working descriptions for the newer international body that coordinates
-Mystery Dungeon requests, maps, reports, expeditions, rescue support, warnings,
-equipment, and cross-border logistics. Until its proper name is selected, do
-not treat either phrase as a fixed legal title or infer a universal Adventurer
-license. See the [Adventurer Federation](reference/organizations/adventurer-federation.md).
+Working name for the newer international Mystery Dungeon field coordinator. It
+does not create an Adventurer license. See [Adventurer
+Federation](reference/organizations/adventurer-federation.md).
 
 ### International Police *(treaty body)*
 
-The recent organization for cross-border crimes and multi-jurisdictional
-incidents. Its authority depends on treaties and host-region cooperation; it
-is not the name for all Jenny or local police branches. See [International
-Police](reference/organizations/international-police.md).
+Cross-border investigations subject to treaties and host-region cooperation.
 
 ### Project X *(secret elite compact)*
 
-The international agreement through which selected rulers and established
-elites share hoarded combat, aura, artifact, Pokemon, and exceptional-evolution
-knowledge to strengthen their own forces. It is broader than Mega Evolution
-and is not a public-benefit institution. See [Project
-X](reference/organizations/project-x.md).
+Military-strengthening compact whose best current lead is Mega Evolution. See
+[Project X](reference/organizations/project-x.md).
 
 ### Rainbow Rocket *(interdimensional imperial organization)*
 
