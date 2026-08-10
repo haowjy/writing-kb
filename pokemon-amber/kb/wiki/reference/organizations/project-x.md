@@ -15,6 +15,12 @@ noble or royal families, senior League officials, sacred-site custodians, and
 a few trusted scholarly or technical families. This describes the kinds of
 power represented, not a settled membership roster.
 
+Project X overlaps with the world's [old noble clan
+bloc](../world/society/clan-system.md) but does not contain or represent it.
+Ancient houses outside the compact remain a broader political class with their
+own interests, and participating houses need not reduce all of their politics
+to Project X.
+
 Its members share knowledge that can strengthen their own forces:
 
 - combat techniques and clan training;

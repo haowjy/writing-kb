@@ -1,5 +1,7 @@
 # Clan & Lineage System
 
+**Status:** drafting
+
 Regional distinction in how families preserve Pokemon training, breeding, and social power. Johto retained more traditional clan structures; Kanto had diverse local lineages before colonial incorporation and later converted much inherited influence into corporate families, merchant networks, Gyms, schools, and industrial patronage.
 
 ## Core Concept
@@ -17,6 +19,24 @@ Regional distinction in how families preserve Pokemon training, breeding, and so
 - Breeding programs may operate as businesses (Silph Co. affiliates, merchant houses)
 - Well-groomed starters and rare Pokemon remain major class advantages
 - Kanto is not culturally empty and was not simply a Johto copy
+
+## Transregional Noble Bloc
+
+Old, prideful noble clans and houses across the world's regions form another
+major political power bloc. This is a transregional social and political class,
+or at most a loose bloc of ancient houses, not a settled unified organization,
+formal party, or world council.
+
+The houses have their own regional interests and do not need a shared platform
+or leadership to matter collectively. They are distinct from Giovanni's
+Kanto-centered coalition, modern [international
+institutions](international-institutions.md), and the sealed kingdom of
+Argaea.
+
+[Project X](../../organizations/project-x.md) overlaps with this class by
+selecting some powerful clans and noble or royal families. The noble bloc is
+broader than Project X, is not represented by it as a whole, and retains
+interests beyond the compact's military research.
 
 ## Historical Context
 
@@ -86,3 +106,5 @@ Substantial individual pages:
 - [Aura and Bonds — Mechanics](../systems/aura.md) --- clan training as aura cultivation method
 - [Kanto–Johto Colonial Integration and First Kanto Secession](../history/kanto-johto-unification-war.md) --- post-war tensions
 - [Evolution of Pokemon Gyms](../history/gym-evolution.md) --- gyms possibly influenced by clan specializations
+- [International institutions](international-institutions.md) --- newer bodies with different sources of authority
+- [Project X](../../organizations/project-x.md) --- selective elite compact that overlaps with, but does not encompass, old houses

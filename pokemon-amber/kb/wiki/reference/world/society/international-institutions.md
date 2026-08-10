@@ -23,6 +23,18 @@ can simultaneously be Joy service sites, local quest-board hosts, and logistics
 nodes for the adventurer federation without being controlled by that
 federation or the International Police.
 
+## Other Transregional Power
+
+The world's [old noble clans and houses](clan-system.md) are a separate major
+power bloc. They may constitute a shared social and political class or a loose
+alignment of ancient houses, but no unified worldwide organization is settled.
+Their interests are broader than [Project X](../../organizations/project-x.md):
+the compact selects some elites without representing the old houses as a
+whole.
+
+This bloc remains distinct from Giovanni's Kanto-centered politics, the modern
+institutions above, and sealed Argaea.
+
 ## Mandate Boundaries
 
 | Institution | Primary mandate |

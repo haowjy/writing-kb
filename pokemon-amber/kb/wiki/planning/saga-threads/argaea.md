@@ -103,6 +103,9 @@ prematurely solving the mechanics.
 
 ## Open Mechanics
 
+- Proper name: Argaea remains current. Asura Kingdom and Ashura Kingdom are
+  being considered as replacements; Aesgra was a mistaken recollection rather
+  than a selected spelling. No rename is committed.
 - What caused the original breach, and who bears responsibility: Alexander,
   the King, both, or another mechanism?
 - What corrupted the Mad King, and did he deliberately release part of Mega

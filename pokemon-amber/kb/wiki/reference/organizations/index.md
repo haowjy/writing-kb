@@ -10,7 +10,7 @@
 | [Ranger Union](ranger-union.md) | Wilderness safety, rescue, and route maintenance |
 | [Project X](project-x.md) | Secret elite military and exceptional-evolution knowledge compact |
 | [Team Rocket](team-rocket.md) | Nationalist criminal-political institution |
-| [Clans](clans/index.md) | Traditional and modern lineage organizations |
+| [Clans](clans/index.md) | Regional lineages and the broader loose political class of old noble houses |
 
 See [International institutions](../world/society/international-institutions.md)
 for how these layers developed and where their mandates differ.

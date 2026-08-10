@@ -454,3 +454,8 @@ This entry supersedes active claims that conflict with it; earlier maintenance e
 - Kept Jenny ancestry, the federation's formal name and credential model,
   Project X's founding and roster, Dungeon permanence and cosmology, and exact
   institutional dates open.
+- Added the world's old noble clans and houses as a broader, loose political
+  bloc distinct from Project X and modern international bodies; no unified
+  organization or worldwide roster is established.
+- Preserved Argaea as the current name while recording Asura Kingdom and Ashura
+  Kingdom as uncommitted rename candidates; no files or pages were renamed.

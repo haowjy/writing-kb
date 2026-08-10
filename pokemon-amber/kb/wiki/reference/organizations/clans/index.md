@@ -1,8 +1,12 @@
 # Clans --- Catalog
 
-The catalog of named clans across Kanto and Johto. Most entries here are short --- they have notable NPCs, signature techniques, and story hooks. Substantial clans with significant story canon get their own pages.
+The current catalog of named clans across Kanto and Johto. Most entries here are short --- they have notable NPCs, signature techniques, and story hooks. Substantial clans with significant story canon get their own pages.
 
 For the Johto-vs-Kanto framework that explains clan structure, see [Clan System](../../world/society/clan-system.md).
+
+Old noble clans also exist across other world regions and collectively form a
+loose transregional political class. They are not one unified organization,
+and this regional catalog is not a complete roster of that broader bloc.
 
 ## Substantial pages (have own page)
 
@@ -123,3 +127,4 @@ These aren't true clans --- modern wealthy families using Pokemon for status:
 - [Clan System](../../world/society/clan-system.md) --- the framework
 - [Team Rocket](../team-rocket.md) --- TR origin in Silvertail rejection
 - [Aura Mechanics](../../world/systems/aura.md) --- clan training as aura cultivation
+- [Project X](../project-x.md) --- selective compact overlapping with some powerful houses, not the whole noble bloc

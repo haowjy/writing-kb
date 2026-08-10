@@ -33,9 +33,17 @@ Kanto's regional government and Viridian's municipal government sit below the In
 
 Avoid **Indigo government** as a default. Use *Indigo Council* or *Indigo League administration* when precise.
 
+### old noble houses / noble clan bloc *(transregional political class)*
+
+The old, prideful clans and houses distributed across multiple regions. Treat
+them as a major social and political power bloc with varied regional interests,
+not as a settled unified organization, formal party, or world council. Some
+overlap with Project X, but the class is broader than the compact. See the
+[Clan and Lineage System](reference/world/society/clan-system.md).
+
 ## Places and Boundaries
 
-### Argaea *(canonical name)*
+### Argaea *(current name; rename open)*
 
 The physically and dimensionally sealed pocket region at the center of Arcs 10
 and 16. Argaea is part of the same Pokemon world, not an alternate world. It is
@@ -46,6 +54,11 @@ stasis.
 
 The name derives from the Argead dynasty, Macedon's royal house. The name does
 not commit Prince Alexander to an Alexander-the-Great conquest arc.
+
+Argaea remains the active name in all live pages. **Asura Kingdom** and
+**Ashura Kingdom** are uncommitted rename candidates; **Aesgra** was a mistaken
+recollection, not an established spelling. Do not rename files or references
+until the author selects a replacement.
 
 See [the Argaea saga thread](planning/saga-threads/argaea.md) and [the Hidden Kingdom
 arc](planning/arcs/10-argaea-kitakami/overview.md).
