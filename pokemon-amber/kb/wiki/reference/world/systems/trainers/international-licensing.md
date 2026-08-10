@@ -1,5 +1,7 @@
 # International Licensing & Travel
 
+**Status:** drafting
+
 This page defines how trainers legally move with their Pokemon between the "Big 4" regions in Amber continuity (Kanto–Johto, Hoenn, Sinnoh). It favors practical interoperability over hard bans: no blanket prohibition on cross‑region parties; compliance hinges on registration, quarantine, and insurance.
 
 ## Kanto–Johto Exemption
@@ -15,6 +17,16 @@ All other Big 4 interregional travel (Kanto/Johto ↔ Hoenn, Hoenn ↔ Sinnoh, e
   - Cross‑acceptance of gym badges for Junior League eligibility
   - Shared registries for Poké Ball serials and active party rosters
   - Incident data sharing (bans, suspensions, stolen Pokémon lists)
+
+The ILC is an interoperability framework, not the government of the
+international order. It does not control the [International
+Police](../../../organizations/international-police.md), the [adventurer
+federation](../../../organizations/adventurer-federation.md), Joy or Jenny
+networks, or [Project X](../../../organizations/project-x.md).
+
+Mutual recognition of a trainer license answers whether a person may lawfully
+handle Pokemon and enter local contracts. It does not confer adventurer
+identity, federation membership, or a universal Adventurer rank.
 
 ## Interregional Pokemon Carry — Visa Tiers
 
@@ -45,7 +57,7 @@ Levels exist within each tier. A **provisional trainer visa** (new applicant, fi
 
 - **Native species travelling with their trainer** do not count toward the foreign carry limit if they were caught in the destination region on a prior trip and registered there.
 - **Eggs** are subject to separate import rules — some species flagged as invasive risk require permits even as eggs.
-- **Rocket and poaching cases**: forged visas and smuggled Pokemon are a known problem; Rangers run spot checks at major ports.
+- **Rocket and poaching cases**: forged visas and smuggled Pokemon are a known problem; customs, local police, Rangers, and International Police may cooperate according to mandate and jurisdiction.
 
 ## Bringing Pokemon Across Borders
 
@@ -74,7 +86,7 @@ Levels exist within each tier. A **provisional trainer visa** (new applicant, fi
 ## Enforcement & Security
 
 - Ports of Entry: Indigo Plateau rail/air, Vermilion docks (to Hoenn), Olivine/Cianwood links, Slateport/Lilycove, Canalave/Snowpoint.
-- MOUs: Rangers exchange alerts; shared watchlists for poachers, Rocket offshoots, and ball cloners.
+- MOUs: Rangers exchange safety and poaching alerts; police networks exchange criminal watchlists, with the International Police coordinating cross-border investigations where treaties permit.
 - Trainer Obligations: obey local route closures, ball‑carry policies in cities, and spore/use‑of‑force rules. Violations can suspend ILC privileges.
 
 ## Narrative Notes (Amber)
@@ -84,9 +96,11 @@ Levels exist within each tier. A **provisional trainer visa** (new applicant, fi
 - Friction is bureaucratic (paperwork, inspections, visa upgrades), economic (tickets, insurance, storage fees), and safety (off-route risk) — not a hard legal wall, but a real constraint that shapes decisions.
 - Conflicts arise when: paperwork lapses, a team includes a flagged species, visa tier doesn’t cover a planned team composition, or the trainer is under investigation (e.g., Rocket theft incidents).
 
-## Cross‑Refs
+## Cross-References
 
-- wiki/reference/organizations/ranger-union.md — cross‑region MOUs and theft prevention
-- wiki/reference/world/systems/trainers/badge-system.md — badge rules
-- wiki/reference/world/technology/identity-security.md — ID, ball serialization
-
+- [International institutions](../../society/international-institutions.md)
+- [Ranger Union](../../../organizations/ranger-union.md) — cross-region safety and poaching coordination
+- [International Police](../../../organizations/international-police.md) — treaty-based criminal investigations
+- [Adventurer System](adventurer-system.md) — cultural identity distinct from licensing
+- [Badge System](badge-system.md) — badge rules
+- [Identity Security](../../technology/identity-security.md) — ID and ball serialization

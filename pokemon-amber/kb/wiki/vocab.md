@@ -141,6 +141,38 @@ local first-stage setting within Visit 1, not the whole Argaea thread.
 
 ## Organizations and Endgame
 
+### adventurer *(cultural and professional identity)*
+
+A person identified with exploration, expedition, rescue, recovery, salvage,
+or other dangerous fieldwork. The identity predates modern international
+coordination and does not itself grant a license, rank, or legal authority. Do
+not use **adventurer** as a synonym for licensed trainer, quest-taker, or
+federation member. See the [Adventurer
+System](reference/world/systems/trainers/adventurer-system.md).
+
+### adventurer federation / International Adventurers Guild *(formal name open)*
+
+Working descriptions for the newer international body that coordinates
+Mystery Dungeon requests, maps, reports, expeditions, rescue support, warnings,
+equipment, and cross-border logistics. Until its proper name is selected, do
+not treat either phrase as a fixed legal title or infer a universal Adventurer
+license. See the [Adventurer Federation](reference/organizations/adventurer-federation.md).
+
+### International Police *(treaty body)*
+
+The recent organization for cross-border crimes and multi-jurisdictional
+incidents. Its authority depends on treaties and host-region cooperation; it
+is not the name for all Jenny or local police branches. See [International
+Police](reference/organizations/international-police.md).
+
+### Project X *(secret elite compact)*
+
+The international agreement through which selected rulers and established
+elites share hoarded combat, aura, artifact, Pokemon, and exceptional-evolution
+knowledge to strengthen their own forces. It is broader than Mega Evolution
+and is not a public-benefit institution. See [Project
+X](reference/organizations/project-x.md).
+
 ### Rainbow Rocket *(interdimensional imperial organization)*
 
 Giovanni's post-main-world-war organization for exploiting and conquering

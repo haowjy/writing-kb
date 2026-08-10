@@ -59,6 +59,7 @@ Pikachu handoff under Arc 10; dimensional-displacement mechanics under Arc 14.
 - [Pokemon characters](reference/characters/pokemon/index.md)
 - [Places](reference/places/index.md)
 - [Organizations](reference/organizations/index.md)
+- [International institutions](reference/world/society/international-institutions.md)
 - [World history](reference/world/history/index.md)
 - [Society](reference/world/society/index.md)
 - [Systems](reference/world/systems/index.md)

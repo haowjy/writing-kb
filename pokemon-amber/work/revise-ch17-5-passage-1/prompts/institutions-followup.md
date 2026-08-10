@@ -1,0 +1,4 @@
+Additional author direction received while you are working:
+- The old, prideful noble clans distributed across the world's regions should be recorded as another major political party/power bloc, distinct from Giovanni/Kanto, modern international institutions, and the sealed kingdom. Project X overlaps with these clans but they are broader than Project X and have their own interests.
+- Do not overdefine a unified organization unless existing lore supports it; they may be a transregional social/political class or loose bloc of ancient houses.
+- The author is also considering renaming Argaea (they misremembered it as "Aesgra") to Asura or Ashura Kingdom. This rename is NOT committed yet. Preserve Argaea in existing pages and record the naming question only if there is a suitable open-decisions location; do not rename files/pages.

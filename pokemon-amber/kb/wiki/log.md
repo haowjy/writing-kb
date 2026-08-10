@@ -436,3 +436,21 @@ This entry supersedes active claims that conflict with it; earlier maintenance e
 - Removed duplicated future mini-arc planning from the Mystery Dungeons
   reference page; the Charcadet saga thread and Arc 1 overview remain its
   planning owners.
+
+## 2026-08-10 --- Established the layered international-institutions framework
+
+- Added the Joy and Jenny networks, the newer international adventurer
+  federation, the treaty-based International Police, and Project X as distinct
+  institutional layers rather than one global authority.
+- Preserved adventurer as a cultural identity, trainer licensing as the legal
+  credential, independent guilds, and the existing Pokemon Center quest boards;
+  the newer federation now coordinates Dungeon operations through that older
+  infrastructure.
+- Reframed Mystery Dungeon escalation around outbreak containment while keeping
+  literal physical expansion versus destabilization and discovery unresolved.
+- Defined Project X as an elite military-strengthening umbrella whose leading
+  research is Mega Evolution, not as a public-benefit institution or a synonym
+  for Mega Evolution.
+- Kept Jenny ancestry, the federation's formal name and credential model,
+  Project X's founding and roster, Dungeon permanence and cosmology, and exact
+  institutional dates open.

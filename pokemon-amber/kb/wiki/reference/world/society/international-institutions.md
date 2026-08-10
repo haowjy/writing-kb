@@ -11,7 +11,7 @@ international order.
 
 | Layer | Development | Function and limits |
 |---|---|---|
-| [Joy network](../../organizations/joy-network.md) | Grew from nomadic healers and neutral sanctuaries long before modern states or treaties | Distributes healing, disaster aid, care knowledge, and safe resting places. Its service mission is transregional but not sovereign. |
+| [Joy network](../../organizations/joy-network.md) | Grew from nomadic healers and neutral sanctuaries long before modern treaty institutions | Distributes healing, disaster aid, care knowledge, and safe resting places. Its service mission is transregional but not sovereign. |
 | [Jenny network](../../organizations/jenny-network.md) | Grew from protectors associated with Joy healers, caravans, and sanctuaries into regional peacekeeping and police branches | Provides much of the local policing backbone. Its branches cooperate across regions without necessarily forming one unified sovereign organization. |
 | Adventurer culture and local guilds | Grew from scattered requests, expeditions, rescues, salvage, mercenary work, and other dangerous fieldwork | Remains a voluntary cultural and professional lane. Independent adventurers, private guilds, and bad actors still exist. |
 | [International adventurer federation](../../organizations/adventurer-federation.md) | Developed about ten years before the story as Mystery Dungeon incidents worsened | Pools maps, reports, requests, expeditions, rescue support, warnings, equipment, and cross-border logistics. Its exact formal name and credential model remain open. |

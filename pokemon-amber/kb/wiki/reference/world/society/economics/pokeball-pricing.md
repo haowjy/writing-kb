@@ -235,5 +235,5 @@ Standard pricing as listed above. Silph Co. headquarters in Saffron ensures stea
 ## Citations
 
 - Junior permit fees: [Trainer Licensing](../../systems/trainers/index.md)
-- Quest reward ranges: [Quest System](../../systems/trainers/quest-system.md)
+- Quest reward ranges: [Quest Economics and Journey Costs](../../systems/trainers/quest-economics.md)
 - Economic context: [Economy Overview](index.md)

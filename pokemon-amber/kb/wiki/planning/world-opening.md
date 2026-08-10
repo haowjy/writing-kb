@@ -1,5 +1,7 @@
 # World Opening Timeline
 
+**Status:** drafting
+
 How the wider world becomes accessible over the saga's timespan. The "gradual world opening" model paces interregional travel by infrastructure and safety capacity, not political declaration.
 
 ## Currently Accessible (Year Amber Arrives)
@@ -55,6 +57,11 @@ This is normal --- world exploration takes generations.
 Alola should not be treated as either fully sealed or fully standardized once Amber reaches it later in the saga.
 
 - **Aether**, the **International Police**, League elites, and wormhole researchers can all operate on a global level.
+- International Police reach still depends on treaties and host-region
+  cooperation; "global" does not mean automatic jurisdiction.
+- Older Joy/Pokemon Center links and the newer international adventurer
+  federation can support care, warnings, expeditions, and field logistics even
+  where government systems are not standardized.
 - Ports, shipping, and security networks can be modern enough to matter.
 - But island-by-island culture, kahuna authority, informal routes, and Pokemon Center expectations remain less integrated with mainland systems.
 
@@ -72,5 +79,8 @@ This gives later arcs room for both modern institutional reach and local isolati
 - [Quarterly Conference System (Big 4 Rotation)](../reference/world/systems/trainers/conference-system.md) --- Big 4 quarterly system
 - [Ace Trainers (Recognition & Roles)](../reference/organizations/ace-trainers.md) --- the explorer/route-clearer role
 - [Ranger Union](../reference/organizations/ranger-union.md) --- route maintenance
+- [International institutions](../reference/world/society/international-institutions.md) --- layered service, field, police, and elite networks
+- [International Police](../reference/organizations/international-police.md) --- treaty-based cross-border investigations
+- [Adventurer Federation](../reference/organizations/adventurer-federation.md) --- international field coordination
 - [Saga Overview — Full Arc Structure](saga-overview.md) --- multi-arc structure
 - [Future Arc: Alola / Aether / Ultra Space Reset](arcs/14-dimensional-displacement-alola/overview.md) --- later-saga Alola reset arc

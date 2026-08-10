@@ -1,6 +1,14 @@
 # Quest System & Job Boards
 
-The **Quest System** is a coordinated network of freelance Pokemon training work, posted on job boards at Pokemon Centers throughout Kanto-Johto. It provides economic opportunities for licensed trainers while supplementing the work of professional [Rangers](../../../organizations/ranger-union.md).
+**Status:** drafting
+
+The **Quest System** is Pokemon Center-hosted infrastructure for freelance
+Pokemon training work. Local requests and rough guild networks predate the
+newer international [adventurer federation](../../../organizations/adventurer-federation.md),
+which now uses many of the same boards for Dungeon work and cross-border
+coordination. The federation extends this infrastructure rather than replacing
+it. The Celadon Pokemon Center board itself appears in [Chapter
+7](https://github.com/haowjy/pokemon-amber/blob/main/story/ch7/chapter7.md).
 
 ## Overview
 
@@ -78,13 +86,15 @@ Information gathering, tracking, and detective work.
 ## Mystery Dungeon-Related Quests
 
 [Mystery Dungeons](../../phenomena/mystery-dungeons.md) are canonical but
-introduced later in the story. They do not require a separate quest
-bureaucracy: Pokemon Centers use the same category labels for dungeon-adjacent
-work — `[Rescue]`, `[Item]`, `[Investigation]`, `[Defeat]`, and `[Escort]`. The
-board describes the job, not the trainer's identity. As Dungeon instability
-increases, the volume and severity of these ordinary postings provide field
-evidence for the wider crisis; quest records can support research without
-turning the board into the institution that solves it.
+introduced later in the story. Pokemon Centers keep the same public category
+labels for Dungeon work --- `[Rescue]`, `[Item]`, `[Investigation]`, `[Defeat]`,
+and `[Escort]` --- while the adventurer federation coordinates maps, warnings,
+expeditions, rescue support, equipment, and cross-border logistics behind or
+through those postings.
+
+The board describes the job, not the trainer's identity. Increasing volume and
+severity provide field evidence for the wider crisis without making the board
+itself the institution that contains Dungeons.
 
 ## Quest Requirements
 
@@ -136,44 +146,24 @@ Some quests specify:
 
 ### Elite Quests
 
-The highest difficulty quests (for regional threats, legendary encounters) are **not posted on public boards**. These are assigned directly through government, [Ranger](../../../organizations/ranger-union.md), or [Ace Trainer](../../../organizations/ace-trainers.md) channels for classified missions.
+The highest difficulty quests (for regional threats, legendary encounters) are **not posted on public boards**. These are assigned directly through government, [Ranger](../../../organizations/ranger-union.md), [adventurer federation](../../../organizations/adventurer-federation.md), or [Ace Trainer](../../../organizations/ace-trainers.md) channels for classified or controlled missions.
 
 ## Payment & Compensation
 
-### Payment Structure
-
-- **Fixed bounty:** Most quests offer set payment upon completion
-- **Proof required:** Photos, witness statements, Ranger verification
-- **Paid through Pokemon Center:** Quest completion verified, payment issued
-- **No completion, no pay:** Failed quests don't earn compensation (though partial credit sometimes given)
-
-### Payment Ranges by Class
-
-Standardized target ranges (actual postings vary by region, sponsor, urgency):
-
-- **E:** ₽50–200 (safe work, errands, basic collection)
-- **D:** ₽200–600 (moderate danger, routine investigations/pest control)
-- **C:** ₽600–1,500 (significant risk, complex rescues/operations)
-- **B:** ₽1,500–4,000 (high‑risk missions, specialist skills)
-- **A:** ₽4,000–20,000+ (major threats, critical emergencies)
-
-**Exceptional Bounties:** S‑Class incidents can vastly exceed normal ranges (e.g., Saffron Hypno ₽20,000 per [Chapter 7](https://github.com/haowjy/pokemon-amber/blob/main/story/ch7/chapter7.md)).
-
-### Additional Compensation
-
-- **Hazard pay:** Dangerous conditions add bonuses
-- **Urgency bonuses:** Time-critical quests pay premium
-- **Item rights:** Some quests let you keep found items (Fire Stones, etc.)
-- **Experience:** Build reputation for harder quests
-- **Repeat business:** Quest posters may prefer trainers they've worked with
-
-### Medical, Insurance, and Equipment
-- Pokemon Center network offers standardized treatment rates for licensed trainers; quest payouts assume Center‑rate medical billing
-- Many institutional quests include a small insurance add‑on (2–8%) covering basic trainer medical care and emergency transport
-- Government/Ranger quests typically include equipment stipends or reimbursement for mission‑critical gear
-- Private posters may offer hazard insurance riders for A/B‑class work; advisable for independent trainers
+See [Quest Economics and Journey Costs](quest-economics.md).
 
 ## Quest Sources
+
+### Adventurer Federation Requests
+
+The international adventurer federation coordinates Dungeon-related postings
+through participating Pokemon Centers. A local board can carry an ordinary
+`[Rescue]` or `[Investigation]` notice while federation channels supply the
+cross-border map history, warnings, equipment, expedition team, or rescue
+backup behind it.
+
+This does not make every board request an adventurer job or require the taker
+to adopt adventurer identity.
 
 ### Ranger Requests
 
@@ -246,28 +236,7 @@ Regional government posts emergency response and critical infrastructure quests.
 
 ## Quest Income vs. Journey Costs
 
-The quest board is **supplemental income**, not a survival mechanism. Understanding the economics:
-
-### What Quest Income Can Cover
-- A trainer with 1–2 Pokemon can realistically sustain themselves on Class D–C quest income — food, Pokeball costs, basic lodging, Pokemon upkeep for a small team is manageable.
-- Class C–B quests provide meaningful income for experienced trainers operating lean.
-
-### What Quest Income Cannot Cover (Full Roster)
-A trainer maintaining a full 6-Pokemon roster faces costs that quest income alone cannot meet:
-- **Pokemon food** — scales directly with team size. 6 Pokemon eating daily is a significant recurring expense.
-- **Pokeballs** — ₽200 each, and failed catches are pure loss.
-- **Medical costs** — healing 6 Pokemon after difficult battles adds up fast.
-- **Gear, transport, lodging** — baseline journey costs on top of everything else.
-
-At full roster, quest income covers expenses only in the best circumstances. Most trainers at this level have a sponsor, family money, tournament prize income, or institutional backing.
-
-### The Carry Limit as Economic Gate
-The graduated carry limit isn't just about competency — it's also an accidental economic gate. You can't legally carry 6 Pokemon until 6 badges, by which point a trainer has either secured sustainable income or dropped out. The system self-selects for trainers who can actually afford what they're carrying.
-
-### Amber's Situation
-Without Oak's sponsorship, Amber's journey isn't viable at a full roster. Quest income would cover a 1–2 Pokemon team. Oak's backing is what makes the rest possible. This isn't just gratitude — it's financial dependency with real weight. Amber knows the math.
-
-**Exception:** Amber's game knowledge lets her identify high-value quests, avoid bad risks, and optimize income better than most. She could probably make it work better than the average trainer — but it would still be marginal without Oak.
+See [Quest Economics and Journey Costs](quest-economics.md).
 
 ## Quest Acceptance Process
 
@@ -323,13 +292,13 @@ While the quest system is standardized, regional differences exist:
 - Collect badges for more work areas
 
 ### For Society
-- Extends Ranger capacity (freelance workforce)
+- Extends institutional capacity through a freelance workforce
 - Economic opportunity (jobs for badged trainers)
 - Rapid response (many trainers available)
 - Specialization (find trainers with specific skills)
 - Lower government costs (pay per task, not salaries)
 
-### For Rangers
+### For Rangers and Coordinating Institutions
 - Focus on critical work (route maintenance, emergencies)
 - Surge capacity (handle multiple issues via quests)
 - Community engagement (trainers help their regions)
@@ -346,14 +315,14 @@ While the quest system is standardized, regional differences exist:
 **Safeguards:**
 - Licensing (baseline competence)
 - Difficulty rating system (clear warnings)
-- Ranger oversight (verify completions, provide backup)
+- Sponsor or institutional oversight (verify completions, provide backup)
 - Legal liability (trainers responsible for own safety)
 - Natural selection (failure weeds out weak trainers)
 
 ### Fraud Prevention
 - Badge cards verified (linked to database)
 - Completion proof required (photos, witnesses, items)
-- Ranger review (check work quality)
+- Sponsor review (check work quality)
 - Reputation tracking (repeat offenders banned)
 
 ### Quest Board Maintenance
@@ -394,17 +363,19 @@ This story introduces a comprehensive quest system to explain how trainers who d
 
 ## Related Systems
 
+- **[Quest Economics and Journey Costs](quest-economics.md)** - Payment, costs, and income limits
 - **[Trainer Licensing](licensing.md)** - Legal contracting and safety regulations
 - **[Badge System](badge-system.md)** - Trust marks used as preferences by posters
 - **[Ranger Union](../../../organizations/ranger-union.md)** - Major quest posters, maintain main routes
+- **[Adventurer Federation](../../../organizations/adventurer-federation.md)** - Coordinates Dungeon requests and cross-border field logistics
+- **[Adventurer System](adventurer-system.md)** - Cultural identity remains distinct from board categories and trainer licensing
 - **[Gym System](gym-system.md)** - Issues badges, posts quests
 - **Pokemon Centers** - Host job boards, verify licenses, issue payments
+
 
 ## Citations
 
 - System introduction: [Chapter 7](https://github.com/haowjy/pokemon-amber/blob/main/story/ch7/chapter7.md) (Amber discovers job board)
 - Quest examples: [Chapter 7](https://github.com/haowjy/pokemon-amber/blob/main/story/ch7/chapter7.md) (various quests listed)
-- Payment structure: [Chapter 7](https://github.com/haowjy/pokemon-amber/blob/main/story/ch7/chapter7.md) (quest bounties)
-- Amber's observation: [Chapter 7](https://github.com/haowjy/pokemon-amber/blob/main/story/ch7/chapter7.md) ("A job board?" moment, fainted Pokemon rescues)
 - Canon comparison: [Bulbapedia - Trainer](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Trainer)
 - Mystery Dungeon inspiration: [Bulbapedia - Mission System](https://bulbapedia.bulbagarden.net/wiki/Mission)

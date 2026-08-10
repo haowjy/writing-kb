@@ -1,5 +1,7 @@
 # Mystery Dungeons
 
+**Status:** drafting
+
 Mystery Dungeons are ancient natural phenomena: unstable wilderness zones
 where geography, Pokemon behavior, energy, and spatial logic cease behaving
 normally.
@@ -22,9 +24,12 @@ Dungeons distort places within the Pokemon world.
 
 ## Systemic Destabilization
 
-Human activity does not create Mystery Dungeons. It destabilizes them until
-known sites intensify and dungeon conditions begin spreading into ordinary
-environments.
+Human activity does not create Mystery Dungeons. It destabilizes existing sites
+and contributes to worsening incidents. The current outbreak model allows an
+unstable site to overflow or "break": distorted terrain, weather or habitat
+effects, displaced or aggressive Pokemon, and looping geography may escape its
+known boundary and threaten ordinary routes or settlements. These exact
+dungeon-break effects remain working direction rather than fixed cosmology.
 
 Possible pressures include ecological destruction, intensive energy
 extraction, high-energy experiments, Ultra Wormhole research, disruption of
@@ -34,6 +39,23 @@ Pokemon.
 
 Argaea is a sealed pocket region with its own mechanism. Laqua is not the
 source of Mystery Dungeons or dimensional essence.
+
+Whether the apparent spread means literal physical expansion or new land is
+unresolved. It may instead reflect destabilization of known Dungeons plus the
+discovery of previously unknown sites. The committed operational direction is
+outbreak and containment, not either cosmological explanation.
+
+## Containment
+
+Expeditions may colloquially say they "defeated" a Dungeon. In practice, they
+contain outbreaks, rescue victims, remove aggravating factors, and force
+distortions or displaced Pokemon back from inhabited terrain. Whether any
+Dungeon can be permanently destroyed is unknown.
+
+The newer [adventurer federation](../../organizations/adventurer-federation.md)
+exists partly to coordinate this pushback across regions. Rangers still own
+route closures, ecosystem response, and public safety; federation expeditions
+own exploration and contracted field operations.
 
 ## Story Use
 
@@ -77,8 +99,9 @@ Boards](../systems/trainers/quest-system.md):
 - `[Defeat]` aggressive Pokemon leaving a Dungeon;
 - `[Escort]` protection for a research team.
 
-No separate Explorer license is needed. Rangers manage public safety;
-adventurers map and enter places institutions cannot justify exploring.
+No universal Explorer or Adventurer license is needed. Rangers manage public
+safety; adventurers map and enter dangerous sites; the federation connects
+requests, reports, logistics, and rescue capacity across borders.
 
 ## Constraints
 
@@ -92,6 +115,7 @@ adventurers map and enter places institutions cannot justify exploring.
 
 - [Quest System & Job Boards](../systems/trainers/quest-system.md)
 - [Adventurer System](../systems/trainers/adventurer-system.md)
+- [Adventurer Federation](../../organizations/adventurer-federation.md)
 - [World Opening Timeline](../../../planning/world-opening.md)
 - [Argaea](../../../planning/arcs/10-argaea-kitakami/overview.md)
 - [Mystery Dungeon Instability and Exploration](../../../planning/saga-threads/mystery-dungeon-instability.md)

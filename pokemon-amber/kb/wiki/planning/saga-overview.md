@@ -1,5 +1,7 @@
 # Saga Overview — Full Arc Structure
 
+**Status:** drafting
+
 High-level map of Amber's journey from start to peak. Individual arc files contain detail. This document is the structural skeleton.
 Late-saga ordering from Sinnoh onward is current planning direction, not locked scene-by-scene canon.
 
@@ -261,8 +263,10 @@ main-world war.
 
 - Giovanni's network remains a slow background infection across Hoenn,
   Sinnoh, Kalos, and Aether before the pattern becomes publicly legible.
-- Mystery Dungeons grow more frequent and dangerous. Field reports establish
-  the ecological pattern while Rocket's contribution remains unproven.
+- Mystery Dungeon incidents appear more frequent and grow more dangerous.
+  Field reports establish the ecological pattern while literal expansion
+  versus destabilization and discovery remains open, and Rocket's contribution
+  remains unproven.
 - Rocket's scientific records eventually show that Giovanni knew. Until then,
   policy, timing, and recurring evidence should let readers infer it.
 - Amber helps connect a coalition rather than becoming the sole leader of

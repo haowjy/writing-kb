@@ -1,6 +1,9 @@
 # Future Arc: Alola / Aether / Ultra Space Reset
 
-**Amber age:** 18 | **Status:** Arc function, pressure, and key relationship lanes are clear. Exact mechanics and final composition remain partly open.
+**Status:** drafting
+
+**Amber age:** 18. Arc function, pressure, and key relationship lanes are
+clear; exact mechanics and final composition remain partly open.
 
 ## What It Is
 
@@ -72,7 +75,7 @@ The arc works best if some of the evidence is messy enough to be plausible on pa
 
 Alola should not read as a sealed fantasy island cut off from the rest of the setting. By this stage:
 
-- **Aether**, the **International Police**, League elites, and wormhole researchers can all be globally connected.
+- **Aether**, the **International Police**, League elites, and wormhole researchers can all be globally connected, but International Police action still depends on treaties and host-region cooperation.
 - Ports, shipping, security, and research networks can be modern enough to matter.
 - But local island culture, kahuna authority, informal routes, and Pokemon Center expectations remain less standardized than mainland systems.
 
@@ -169,6 +172,7 @@ This beat should stay **symbolic rather than causal**. Aether locks onto Amber b
 - [Late-Saga Dimensional Displacement Bridge](dimensional-displacement.md) — real-world displacement and Aether extraction handoff
 - [Amber MC — Team Planning (Spoilers)](../../rosters/amber-team.md) — Alola team direction
 - [World Opening Timeline](../../world-opening.md) — wider-world connectivity context
+- [International Police](../../../reference/organizations/international-police.md) — global reach without automatic jurisdiction
 - [Team Rocket](../../../reference/organizations/team-rocket.md) — Rocket's institutional capture model
 - [Rainbow Rocket Endgame](../../saga-threads/giovanni-team-rocket.md) — later war this arc helps set up
 - [Mystery Dungeon Instability and Exploration](../../saga-threads/mystery-dungeon-instability.md) — wider dimensional/ecological crisis and final exploration payoff

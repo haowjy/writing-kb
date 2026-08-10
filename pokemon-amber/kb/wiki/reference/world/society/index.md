@@ -4,3 +4,4 @@
 - [Crime and poaching](crime/poaching.md)
 - [Economics](economics/index.md)
 - [Champion government system](government/champion-system.md)
+- [International institutions](international-institutions.md) — layered service, field, police, and elite cooperation

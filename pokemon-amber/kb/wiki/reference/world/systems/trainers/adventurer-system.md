@@ -1,25 +1,51 @@
 # Adventurer System
 
-The **Adventurer System** is an informal cultural identity and set of practices for trainers who pursue wilderness exploration, expedition work, and discovery — rather than (or in addition to) badge circuits and League competition. It is **not** an official Pokemon Center license tier, despite some cultural confusion.
+**Status:** drafting
+
+The **Adventurer System** is a cultural identity and professional ecosystem for
+people who pursue wilderness exploration, expedition work, rescue, recovery,
+and discovery. It predates the newer international [adventurer
+federation](../../../organizations/adventurer-federation.md) and remains broader
+than that body. Adventurer identity is **not** an official Pokemon Center
+license tier.
 
 ## What It Is
 
-An **adventurer** is a trainer who self-identifies (or is recognized by peers) as someone whose primary path is exploration, discovery, or expedition work. Key characteristics:
+An **adventurer** is someone who self-identifies, or is recognized by peers, as
+pursuing exploration, discovery, rescue, recovery, or expedition work as a
+primary path. Key characteristics:
 
 - **Wilderness-first:** Operates off established routes, mapping new terrain, studying wild ecosystems, or seeking undiscovered locations
 - **Expedition-oriented:** Undertakes multi-day or multi-week journeys into unmapped or dangerous territory
 - **Discovery-driven:** Motivated by finding new species, ancient ruins, rare phenomena, or geographic features
 - **Impossible-place pull:** Mystery Dungeons, rumor maps, unstable caves, and sealed territories are natural draws for this cultural lane
-- **Guild/fellowship culture:** Adventurers may form private crews, fellowships, or guilds — voluntary associations, not government institutions. These provide mutual aid, shared reputation, and expedition logistics
+- **Guild/fellowship culture:** Adventurers may form private crews, fellowships, or guilds. These provide mutual aid, shared reputation, and expedition logistics; some join the newer federation while others remain independent
 
-Adventurer identity exists alongside, not replacing, other trainer identities. An adventurer might still collect badges, take quests for income, or compete in tournaments. The distinction is self-image and primary pursuit.
+For trainers, adventurer identity exists alongside rather than replacing legal
+trainer status. An adventurer might still collect badges, take quests for
+income, or compete in tournaments. Work that requires lawful handling of
+Pokemon or a Pokemon Center contract still requires the applicable trainer
+license; the identity itself does not provide one.
+
+## Historical Development
+
+For generations, scattered local requests drew explorers, guides, mercenaries,
+salvagers, rescue crews, treasure hunters, and other field workers. Rough local
+groups were informally called adventurer guilds, but the label never guaranteed
+competence or ethics.
+
+About ten years before the story, worsening Mystery Dungeon incidents led
+reputable guilds, Joy/Pokemon Center networks, Rangers, and governments to form
+a more international coordinating body. That federation added shared maps,
+reports, expeditions, rescue support, warnings, equipment, and cross-border
+logistics without absorbing the whole culture.
 
 ## What It Is NOT
 
-- **Not an official license tier:** Pokemon Centers recognize trainer tiers (Novice through ACE) for legal and operational purposes. There is no "Adventurer License." A trainer is a Licensed Trainer, Trainer, Senior Trainer, Veteran Trainer, or ACE Trainer — regardless of whether they also identify as an adventurer.
+- **Not an official license tier:** Pokemon Centers recognize trainer tiers (Novice through ACE) for legal and operational purposes. The current framework creates no universal legal "Adventurer License." A trainer's legal status remains separate from whether they identify as an adventurer.
 - **Not a quest board category:** The [Quest System & Job Boards](quest-system.md) is organized by task type (Item, Defeat, Rescue, Wanted, Escort, Investigation) and class grade (E through A). There is no "Adventurer" quest category. A trainer who takes wilderness rescue quests is a trainer taking rescue quests — the quest board does not recognize or categorize adventurer identity.
-- **Not a government-recognized status:** Unlike [Ace Trainers (Recognition & Roles)](../../../organizations/ace-trainers.md), which carries government contracts and field authority, adventurer is purely cultural. No paperwork, no registry, no legal privileges.
-- **Not a separate formal Explorer profession:** "Explorer" is descriptive language and can be a synonym for adventurer, but there is no distinct Explorer license, rank, permit system, or Pokemon Center category. The only formal baseline identity is registered trainer.
+- **Not a universal government status:** Unlike [Ace Trainers (Recognition & Roles)](../../../organizations/ace-trainers.md), adventurer identity itself carries no automatic legal authority. A guild or expedition may have membership records, contracts, permits, or internal credentials without turning the identity into a universal public rank.
+- **Not a separate universal Explorer profession:** "Explorer" is descriptive language and can be a synonym for adventurer, but there is no distinct worldwide Explorer license, rank, or Pokemon Center category. The formal legal baseline remains registered trainer.
 
 ## Kanto vs Paldea: Competing Cultural Myths
 
@@ -86,7 +112,10 @@ Adventurers often use the [Quest System & Job Boards](quest-system.md) for incom
 - A trainer taking wilderness rescue quests is a trainer taking rescue quests — unless they self-identify or are recognized by peers as an adventurer
 - The quest board is infrastructure; adventurer is identity
 - Some adventurers never touch the quest board (privately funded expeditions, sponsor-backed exploration)
-- Some later adventurer work will overlap with [Mystery Dungeons](../../phenomena/mystery-dungeons.md), but the dungeon does not create a new official adventurer/explorer status
+- The newer federation coordinates Dungeon postings and logistics through many
+  Pokemon Centers, but it uses the existing board infrastructure rather than
+  replacing its task categories
+- Some later adventurer work will overlap with [Mystery Dungeons](../../phenomena/mystery-dungeons.md), but the Dungeon response does not create a universal official adventurer/explorer status
 - Some quest-only trainers take nothing but wilderness work and still don't consider themselves adventurers
 
 **The line is cultural, not bureaucratic.**
@@ -108,12 +137,18 @@ Use **explorer** carefully:
 
 ## Adventurer Guilds and Fellowships
 
-Private adventurer organizations exist outside government structures:
+Adventurer organizations range from independent local crews to members of the
+newer international federation:
 
-- **Voluntary membership:** No license or certification required to join; reputation and peer recognition govern entry
+- **Voluntary identity:** No license or certification is required to call
+  oneself an adventurer; individual guilds may set their own entry standards
 - **Mutual aid:** Equipment sharing, expedition coordination, rescue support, knowledge pooling
-- **Local vs international:** Some guilds are regional (operating in one mountain range or archipelago); others are interregional networks of expedition crews
+- **Local vs international:** Some guilds are regional, some operate across
+  borders, and reputable organizations may participate in the federation
 - **The Horizons Explorers** are one such fellowship — lightly adapted into this world as an example of organized adventurer culture. Alonso admires them as one expression of the adventurer ideal he grew up with in Paldea
+
+The federation does not make every private guild reputable and does not prevent
+independent or predatory crews from using the same cultural label.
 
 ## Reputation and Bad Actors
 
@@ -133,6 +168,7 @@ Alonso himself should not become an anti-corruption spokesman. He loves adventur
 
 - [Licensing System & Trainer Tiers](licensing.md) — official trainer tiers; no Adventurer tier exists here
 - [Quest System & Job Boards](quest-system.md) — quest board infrastructure adventurers often use
+- [Adventurer Federation](../../../organizations/adventurer-federation.md) — newer international coordination layered over older culture and guilds
 - [Alonso Quijano](../../../characters/humans/alonso-quijano.md) — the Paldean adventurer who bridges this culture into Kanto
 - [Amber (MC)](../../../characters/humans/amber-mc.md) — Amber's relationship to adventuring as distinct from badge circuit
 - [World Opening Timeline](../../../../planning/world-opening.md) — how interregional travel opens over saga timespan

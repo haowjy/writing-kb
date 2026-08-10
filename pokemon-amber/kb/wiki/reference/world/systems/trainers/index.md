@@ -37,20 +37,21 @@ These systems are distinct but often overlap in practice. A skilled trainer migh
   - Anyone can compete if they meet requirements
 
 - **Regional Champion** = government position (international representative)
-  - In Kanto-Johto: appointed through [Ace Trainer program](../../../organizations/ace-trainers.md)
+  - In Kanto-Johto: battle-selected through the lawful Elite Four plus Champion gauntlet; administration controls certification and access, not the match result
   - Represents region in international politics
   - Elite Four and Champion are government positions
   - NOT just "winner of League tournament"
-  - Selection method varies by region (tournament in Unova, appointment in Kanto, etc.)
+  - Selection method varies by region; do not generalize Indigo's gauntlet to every League
 
 **Historical Context:**
 Pre-Pokeball, Champions led gym councils against Pokemon. Post-Pokeball governments transformed the role into diplomatic representation.
 
 ## Supporting Systems
 
-- **[Quest System](quest-system.md)**
-- **[Adventurer System](adventurer-system.md)** — informal cultural identity for exploration/discovery trainers; not an official license tier - Freelance work via Pokemon Centers; license required; badges optional by poster
-- **[Mystery Dungeons](../../phenomena/mystery-dungeons.md)** — known but delayed world phenomenon; dungeon-related work uses existing quest categories
+- **[Quest System](quest-system.md)** — board categories, requirements, sponsors, and process
+- **[Quest Economics and Journey Costs](quest-economics.md)** — payment, trainer costs, and income limits
+- **[Adventurer System](adventurer-system.md)** — older cultural and professional identity layered with private guilds and a newer international federation; not an official license tier
+- **[Mystery Dungeons](../../phenomena/mystery-dungeons.md)** — known but delayed world phenomenon; Dungeon work uses existing quest categories while the federation coordinates field operations
 - **[Aura & Bonding](../aura.md)** - Advanced trainer-Pokemon connection mechanics (hidden reference)
 
 ## How the Systems Work Together
@@ -91,6 +92,7 @@ The modern certification structure emerged after the [invention of the Pokeball]
 ## Related Organizations
 
 - **[Ranger Union](../../../organizations/ranger-union.md)** - Government wilderness emergency service, maintains main routes between cities (requires 5-6+ badges for area familiarity)
+- **[Adventurer Federation](../../../organizations/adventurer-federation.md)** - Coordinates Dungeon expeditions, reports, rescue support, and cross-border logistics without replacing trainer licensing
 - **[Pokemon League](index.md)** - Competitive battling organization
 - **Pokemon Centers** - Coordinate quest system, verify badges, provide healing services
 

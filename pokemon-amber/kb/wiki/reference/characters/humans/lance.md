@@ -8,11 +8,20 @@ Kanto nationalists treat Lance as proof that Oak surrendered Kanto leadership to
 
 Giovanni's future challenge for Lance's office is open planning. Whether Lance uses Mega Evolution, wins or loses, and remains unified Champion/Protector afterward is not settled; see [Giovanni and Team Rocket](../../../planning/saga-threads/giovanni-team-rocket.md).
 
+## Project X
+
+Lance is involved in [Project X](../../organizations/project-x.md), representing
+Indigo or Blackthorn interests in the secret international combat compact. He
+has previously invited Oak to participate. This establishes involvement, not
+ownership: whether Lance founded the project, when he joined, whom he formally
+represents, and what authority he holds remain open.
+
 ## Open Questions
 
 - Lance's exact relationship to Blackthorn institutions and clans.
 - His personal view of Oak, Kanto nationalism, Mega Evolution secrecy, and Giovanni's modernization.
 - His role in the later Kanto conflict.
+- Project X's founding date and Lance's exact role within it.
 
 ## Cross-References
 
@@ -20,3 +29,4 @@ Giovanni's future challenge for Lance's office is open planning. Whether Lance u
 - [Champion/Protector and Indigo Council](../../world/society/government/champion-system.md)
 - [Giovanni](giovanni.md)
 - [Giovanni and Team Rocket](../../../planning/saga-threads/giovanni-team-rocket.md)
+- [Project X planning questions](../../../planning/project-x.md)
