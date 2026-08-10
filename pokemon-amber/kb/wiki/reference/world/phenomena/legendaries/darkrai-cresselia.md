@@ -81,12 +81,18 @@ fixing every mechanic.
   experienced continuous internal history rather than stasis.
 - Darkrai, not Hoopa or Mew, remains the cause associated with Argaea's
   dimensional sealing. Amber's trace Mew DNA is not an access or seal key.
-- Visit 1 reaches only a partial manifestation, avatar, or incursion of Mega
-  Darkrai. Amber's group loses despite Amber and Gardevoir having discovered
-  Mega Evolution during the preceding Kitakami crisis.
+- After Kitakami, Alexander kills the mad or corrupted King because his father
+  must be stopped. At the moment of death, Mega Darkrai visibly tears free from
+  the King's body and remains loose inside Argaea.
+- **Mega Darkrai is author truth, not Amber's immediate identification.** Amber
+  has never seen the form and does not know it exists. The scene therefore
+  cannot name it as Mega Darkrai through her POV; its exact appearance and her
+  description or assumption remain open.
 - Cresselia remains inside Argaea. She catastrophically exhausts and injures
-  herself to expel Amber and Alexander, then continues as the internal
-  counterweight of a patched seal. This is not an established death.
+  herself holding Mega Darkrai back long enough for Amber and Alexander to
+  retreat and escape, then continues as the internal counterweight of a patched
+  seal. This is not an established death, and the exact interception and escape
+  mechanics remain open.
 - Gardevoir supports the outer side of the patched seal. Cresselia and
   Gardevoir hold complementary roles until Visit 2 can replace the stopgap.
 
@@ -104,9 +110,11 @@ fixing every mechanic.
 
 - What caused the original breach, and whether the Mad King or Alexander was
   responsible in whole or part.
-- The origin and nature of the Mad King's corruption, including whether he
-  deliberately released part of Mega Darkrai.
-- Why the Mad King and Darkrai incursion arrive after the Kitakami resolution.
+- The origin and nature of the Mad King's madness or corruption, including how
+  Mega Darkrai came to be within his body.
+- Exact battle and killing choreography.
+- Mega Darkrai's exact visual design and what Amber calls or assumes it is.
+- Exact form of Cresselia's interception and the retreat or escape mechanics.
 - The precise geometry and communication of the Cresselia / Gardevoir seal.
 - Whether Mega Evolution forms the seal once or operates under special Argaea
   rules. Do not assume Gardevoir remains Mega-Evolved for years.

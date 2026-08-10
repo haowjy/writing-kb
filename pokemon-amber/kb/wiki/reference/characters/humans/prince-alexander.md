@@ -13,13 +13,16 @@ later Kanto conqueror or an "evil prince" mirror.
 - Argaea experienced continuous internal history. Alexander is therefore not
   a biological youth preserved in near-zero-time stasis.
 - Alexander and Amber enter Argaea together by accident during Visit 1.
-- He is present for the Kitakami crisis, the Mad King / partial Mega Darkrai
-  incursion, the loss, and Cresselia's effort to expel them.
+- After the Kitakami crisis, he kills his father because the Mad King has gone
+  mad or corrupt and must be stopped.
+- Mega Darkrai visibly tears free from the King's body at death. Cresselia
+  holds it back long enough for Alexander and Amber to retreat and escape.
 - In Visit 2, Alexander has gained the resolve to re-enter. He and Amber recruit
   a capable group and return deliberately to replace the failing seal, free
   Gardevoir, and resolve the larger crisis.
-- The Mad King remains Alexander's father in the current arc frame. The King's
-  corruption, culpability, fate, and possible recovery are open.
+- The Mad King is Alexander's father and dies by Alexander's hand during Visit
+  1. The exact cause of his madness or corruption and the killing choreography
+  remain open.
 
 ## Boundary on Later Direction
 
@@ -40,11 +43,13 @@ cause a breach are not settled.
 ## Relationships
 
 - **Amber:** accidental Visit 1 companion and deliberate Visit 2 partner.
-- **The Mad King:** Alexander's father; the origin and degree of the King's
-  corruption remain open.
-- **Cresselia:** remains inside Argaea through Visit 1, expels Alexander and
-  Amber, and continues as the seal's internal counterweight. She did not escape
-  with Alexander and Shaymin in the current direction.
+- **The Mad King:** Alexander's father, whom Alexander kills after Kitakami to
+  stop his madness or corruption. The death creates Argaea's political power
+  vacuum.
+- **Cresselia:** remains inside Argaea through Visit 1, holds Mega Darkrai back
+  long enough for Alexander and Amber to escape, and continues as the seal's
+  internal counterweight. She did not escape with Alexander and Shaymin in the
+  current direction.
 - **Gardevoir:** takes the external-anchor burden after the Visit 1 escape;
   freeing her is one of Visit 2's fixed objectives.
 
@@ -56,8 +61,9 @@ cause a breach are not settled.
   continuously developing history?
 - What does he know about the King, Cresselia, Mega Darkrai, and the barrier
   before Visit 1?
-- Who joins the deliberate return, what happens to the King, and what role does
-  Alexander have after the Argaea crisis?
+- What is the exact battle and killing choreography?
+- Who joins the deliberate return, and what role does Alexander have after the
+  Argaea crisis?
 - Personality, voice, and temperament remain unspecified. Do not invent
   dialogue or mannerisms until the author defines them.
 

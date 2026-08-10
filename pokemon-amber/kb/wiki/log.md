@@ -463,3 +463,24 @@ This entry supersedes active claims that conflict with it; earlier maintenance e
   two-visit political bridge: possible Mad King death, power vacuum, civil war,
   territorial warlords, and Alexander as an internal unifier. Every element
   remains open rather than part of the settled causal spine.
+
+## 2026-08-10 --- Settled the Visit 1 Mad King and Mega Darkrai causal chain
+
+This entry supersedes the immediately preceding treatment of the Mad King's
+death as provisional.
+
+- After Kitakami, Alexander kills his mad or corrupted father because the King
+  must be stopped. Mega Darkrai visibly tears free from the King's body at the
+  moment of death.
+- Kept author truth separate from POV knowledge: the being is Mega Darkrai, but
+  Amber has never seen the form and does not know it exists, so she cannot name
+  it in the immediate scene.
+- Cresselia holds Mega Darkrai back long enough for Amber and Alexander to
+  retreat and escape, then remains part of the temporary seal.
+- The King's death creates the political power vacuum. Mega Darkrai remains
+  loose within Argaea and contributes to the hatred and instability that may
+  develop into a Visit 2 civil war.
+- Kept battle choreography, escape route and mechanics, Cresselia's exact
+  interception, Mega Darkrai's visual treatment, Amber's interpretation, and
+  all warlord details open. Argaea remains the active name; Ashura Kingdom is
+  still only the naming lean.

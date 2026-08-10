@@ -42,19 +42,26 @@ During this local crisis, Amber and Gardevoir discover, or are forced to
 discover, Mega Evolution together. The breakthrough happens before the larger
 Argaea confrontation; it is not unlocked by Gardevoir's later separation.
 
-### Stage Two --- Loss Against the Larger Threat
+### Stage Two --- The Mad King's Death and Forced Retreat
 
-After the Kitakami resolution, the Mad King and only a partial manifestation,
-avatar, or incursion of Mega Darkrai reach the group. Amber's side fights and
-loses even after the Mega breakthrough. This is not the final Mega Darkrai
-confrontation.
+After the Kitakami resolution, Alexander kills his father because the Mad King
+has gone mad or corrupt and must be stopped. At the moment of the King's death,
+Mega Darkrai visibly tears free from his body. Amber and Alexander cannot
+resolve the larger threat and are forced to retreat.
+
+The escaping being is specifically **Mega Darkrai** in author truth. Amber has
+never seen Mega Darkrai and does not know the form exists, so the immediate
+scene cannot name it through her knowledge. Its exact appearance and Amber's
+description or assumption remain open.
 
 ### Escape and Temporary Seal
 
-Cresselia catastrophically exhausts and injures herself to expel Amber and
-Alexander into the ordinary Pokemon world. She does not have an established
-death: she is trapped on the inner side and continues serving as the seal's
-internal counterweight.
+Cresselia catastrophically exhausts and injures herself while blocking or
+holding back Mega Darkrai long enough for Amber and Alexander to retreat and
+escape the sealed realm. She does not have an established death: she remains
+trapped on the inner side and continues serving as the seal's internal
+counterweight. The exact interception, route, entrance, and escape mechanics
+remain open.
 
 Unable to maintain the barrier alone, Cresselia instructs Amber and Gardevoir
 to use Mega Evolution in a sealing action. Gardevoir must then remain at or on
@@ -63,9 +70,11 @@ Amber has to leave Gardevoir behind. The patched seal buys limited time,
 broadly on the order of a few years, rather than solving the crisis
 permanently.
 
-**Arc result:** Amber and Alexander escape; Gardevoir and Cresselia remain on
-opposite sides of the temporary seal; the greater Argaea / Mega Darkrai crisis
-is deferred, not defeated.
+**Arc result:** the Mad King is dead; Mega Darkrai remains loose inside Argaea;
+Amber and Alexander escape; Gardevoir and Cresselia remain on opposite sides of
+the temporary seal; the greater crisis is deferred, not defeated. The King's
+death creates a political power vacuum, and Mega Darkrai's influence
+contributes to the hatred and instability that may later produce civil war.
 
 ## Provisional Adjacent Material
 
@@ -94,16 +103,18 @@ distortion. It is optional and must not displace Darkrai as Argaea's cause.
 ## Open Mechanics
 
 - Cause and culpability for the original breach.
-- Origin and nature of the Mad King's corruption; whether he deliberately
-  released part of Mega Darkrai.
-- Causal trigger for the Mad King / Darkrai arrival after Kitakami. Pure
-  coincidence is disfavored, but no alternative is selected.
+- Origin and nature of the Mad King's madness or corruption, and how Mega
+  Darkrai came to be within his body.
+- Exact battle and killing choreography.
+- Mega Darkrai's exact visual design and what Amber calls or assumes it is.
 - Exact escape and sealing topology, Gardevoir's physical location and
-  accessibility, and the timing of Cresselia's instructions.
+  accessibility, retreat route, entrance location, and the timing of
+  Cresselia's instructions.
+- Exact form of Cresselia's interception or barrier mechanics.
 - Whether Mega Evolution is a one-time seal-forming act or operates under
   special Argaea rules. Do not assume a years-long Mega Gardevoir state.
 - Exact duration of the patch.
-- Visit 2's party, mechanism, win condition, and the King's fate.
+- Visit 2's party, mechanism, win condition, and political outcome.
 - Loyal Three and Pecharunt history, morality, and connection to Darkrai.
 
 ## Cross-Refs

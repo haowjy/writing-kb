@@ -19,15 +19,21 @@ The return has three fixed objectives:
 2. free Gardevoir from the external-anchor burden;
 3. resolve the greater Argaea / Mega Darkrai crisis.
 
-The exact party, purification or resealing mechanism, fate of the Mad King,
-and final win condition remain open. Cresselia plus Shaymin is not a locked
-solution, and Alexander reclaiming the throne is not a locked ending.
+The Mad King is already dead by Alexander's hand. His death created a political
+power vacuum, while Mega Darkrai remains loose inside the sealed kingdom and
+contributes to worsening hatred and instability. A civil-war state by Visit 2
+remains possible rather than settled; the roughly seven-warlord model, their
+identities, territories, Pokemon, and factions are all provisional.
+
+The exact party, purification or resealing mechanism, and final win condition
+remain open. Cresselia plus Shaymin is not a locked solution, and Alexander
+reclaiming the throne is not a locked ending.
 
 ## Open
 
 - The recruited party.
 - The purification, repair, or resealing mechanism.
-- The Mad King's fate.
+- Whether and how the power vacuum develops into civil war.
 - The final win condition and political outcome.
 
 ## Cross-Refs
