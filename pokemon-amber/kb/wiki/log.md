@@ -459,3 +459,7 @@ This entry supersedes active claims that conflict with it; earlier maintenance e
   organization or worldwide roster is established.
 - Preserved Argaea as the current name while recording Asura Kingdom and Ashura
   Kingdom as uncommitted rename candidates; no files or pages were renamed.
+- Recorded the author's current lean toward Ashura Kingdom and a provisional
+  two-visit political bridge: possible Mad King death, power vacuum, civil war,
+  territorial warlords, and Alexander as an internal unifier. Every element
+  remains open rather than part of the settled causal spine.

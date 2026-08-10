@@ -92,6 +92,16 @@ prematurely solving the mechanics.
 
 ## Provisional Directions
 
+- One possible bridge between visits has the Mad King die during the
+  post-Kitakami kingdom confrontation even though Amber and Alexander are still
+  forced to retreat. By Visit 2, the resulting power vacuum and accumulated
+  hatred or corruption may have produced a civil war, possibly with roughly
+  seven warlords controlling different territories and associated with
+  different primary Pokemon. Alexander could then subdue or reconcile the
+  fractured territories, recovering the story's conqueror/unifier function
+  without becoming evil. None of the King's death, civil war, warlord count,
+  territories, Pokemon associations, Alexander's method, or political outcome
+  is selected.
 - The Loyal Three may once have been genuine Kitakami guardians whose virtues
   were corrupted by Mega Darkrai, possibly through Pecharunt or Toxic Chains.
   Pecharunt's original moral nature and exact role are not chosen.
@@ -103,9 +113,15 @@ prematurely solving the mechanics.
 
 ## Open Mechanics
 
-- Proper name: Argaea remains current. Asura Kingdom and Ashura Kingdom are
-  being considered as replacements; Aesgra was a mistaken recollection rather
-  than a selected spelling. No rename is committed.
+- Proper name: Argaea remains current. The author currently leans toward Ashura
+  Kingdom, with Asura Kingdom also considered; Aesgra was a mistaken
+  recollection rather than a selected spelling. No rename is committed.
+- Does the Mad King die during the post-Kitakami confrontation despite Amber
+  and Alexander's retreat, and does that create the Visit 2 power vacuum?
+- Does Argaea fracture into civil war? Roughly seven Pokemon-associated
+  territorial warlords are one possibility, not a settled count or structure.
+- Does Alexander subdue, negotiate with, or reconcile the fractured
+  territories, and does that make him a unifier without fixing a throne claim?
 - What caused the original breach, and who bears responsibility: Alexander,
   the King, both, or another mechanism?
 - What corrupted the Mad King, and did he deliberately release part of Mega

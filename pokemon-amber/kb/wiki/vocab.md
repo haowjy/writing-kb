@@ -55,10 +55,10 @@ stasis.
 The name derives from the Argead dynasty, Macedon's royal house. The name does
 not commit Prince Alexander to an Alexander-the-Great conquest arc.
 
-Argaea remains the active name in all live pages. **Asura Kingdom** and
-**Ashura Kingdom** are uncommitted rename candidates; **Aesgra** was a mistaken
-recollection, not an established spelling. Do not rename files or references
-until the author selects a replacement.
+Argaea remains the active name in all live pages. The author currently leans
+toward **Ashura Kingdom**, while **Asura Kingdom** also remains an uncommitted
+candidate; **Aesgra** was a mistaken recollection, not an established spelling.
+Do not rename files or references until the author selects a replacement.
 
 See [the Argaea saga thread](planning/saga-threads/argaea.md) and [the Hidden Kingdom
 arc](planning/arcs/10-argaea-kitakami/overview.md).

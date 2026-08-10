@@ -4,7 +4,7 @@
 
 Prince Alexander is Argaea's prince and Amber's companion across both Argaea
 visits. His current direction turns toward returning to Argaea; he is not a
-later conqueror or an "evil prince" mirror.
+later Kanto conqueror or an "evil prince" mirror.
 
 ## Decided / Current Direction
 
@@ -25,8 +25,10 @@ later conqueror or an "evil prince" mirror.
 
 Do not develop Alexander into a later Kanto conqueror, liberation-that-curdles
 mirror, or endgame antagonist. That direction duplicated Giovanni's thematic
-job and has been rejected. Alexander's role after Argaea Visit 2 has not been
-replanned.
+job and has been rejected. An internal Argaean unifier role remains possible:
+if a provisional post-Visit-1 civil war survives planning, Alexander may subdue
+or reconcile fractured territories without becoming evil. The civil war, his
+method, and the political outcome are all open.
 
 ## Provisional Placement
 
