@@ -12,4 +12,5 @@
 ## Other Planning Pages
 
 - [Project X planning questions](project-x.md) — open founding, administration, and membership decisions
+- [Indigo Champion succession](indigo-champion-succession.md) — private Pryce intermediary direction and open accession details
 | [World opening](world-opening.md) | Pacing access to the wider world |

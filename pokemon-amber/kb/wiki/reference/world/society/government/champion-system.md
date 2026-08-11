@@ -28,7 +28,7 @@ Giovanni believes the title's martial and popular legitimacy could help Kanto se
 
 ## Historical Pressure
 
-Oak's brief title made him a Kanto-separatist symbol; his abandonment of secession and support for Lance's reunification succession shows why the office cannot be treated as unchecked sovereignty.
+Oak's brief title made him a Kanto-separatist symbol. He later abandoned secession, supported the postwar settlement and reunification, and relinquished office. At least one intervening Champion served before Lance's recent accession, showing that the office cannot be treated as unchecked sovereignty. Exact accession procedures remain open; see [Indigo Champion succession](../../../../planning/indigo-champion-succession.md) for the private current direction.
 
 ## Cross-References
 

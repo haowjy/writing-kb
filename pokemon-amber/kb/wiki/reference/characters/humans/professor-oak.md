@@ -2,7 +2,7 @@
 
 **Status:** drafting
 
-Amber's primary mentor and benefactor. Provides resources, Oak's Letter, and continued support throughout her journey. Publicly a renowned Pokemon researcher; privately a man who has been carrying a forty-year-old memory he has never told anyone.
+Approximately sixty-two in the story present, Oak is Amber's primary mentor and benefactor. He provides resources, Oak's Letter, and continued support throughout her journey. Publicly a renowned Pokemon researcher; privately a man carrying a nearly fifty-year-old memory he has never told anyone.
 
 ## Role in Story
 
@@ -13,11 +13,15 @@ Amber's primary mentor and benefactor. Provides resources, Oak's Letter, and con
 
 ## The Secession War
 
-Oak briefly held the **unified Indigo Championship** before the first Kanto secession war ended roughly twenty years before story present. A Kanto native whose victory restored regional pride, he was pressed by Kanto elites, institutions, and public opinion into supporting a secession effort he believed could end quickly in negotiation. He authorized and participated in that effort; pressure explains the decision but does not erase his culpability.
+Oak briefly held the **unified Indigo Championship** before the first Kanto secession war ended roughly twenty years before story present, when he was approximately forty-two. A Kanto native whose victory restored regional pride, he was pressed by Kanto elites, institutions, and public opinion into supporting a secession effort he believed could end quickly in negotiation. He authorized and participated in that effort; pressure explains the decision but does not erase his culpability.
 
-The bloodshed changed him. Oak turned toward negotiation, abandoned the secession effort, relinquished the Championship, and supported Lance's reunification succession. Kanto nationalists remember this as a surrender of freedom; Johto remembers it as participation in an illegal secession; a moderate account treats it as a grave choice he recognized in time to prevent worse harm. The precise duration of the war, legal succession process, and role of Mt. Silver remain open.
+The bloodshed changed him. Oak turned toward negotiation, abandoned the secession effort, supported the postwar settlement and reunification, and relinquished the Championship. At least one intervening Champion held the office before Lance's recent accession. Kanto nationalists remember Oak's decision as a surrender of freedom; Johto remembers his secession role as illegal; a moderate account treats it as a grave choice he recognized in time to prevent worse harm. The precise duration of the war, succession procedures, and role of Mt. Silver remain open. See [Indigo Champion succession](../../../planning/indigo-champion-succession.md) for the private current direction.
 
 The secession arose from a substantially legitimate Kanto grievance against a Johto-led colonial order, without making Oak's use of force uncomplicated. This history informs, but does not wholly define, his bond research: Oak learned that power without reciprocal trust can be catastrophic, and he now seeks a way to cultivate strength without exploitation. See [Kanto–Johto Colonial Integration and First Kanto Secession](../../world/history/kanto-johto-unification-war.md).
+
+## Lance
+
+Oak personally remembers Lance as a child of roughly eight to ten during Oak's Champion years. Their present relationship is formal, and Lance's political authority can put them in conflict, but Lance's longstanding respect for Oak remains part of the relationship.
 
 ## Team
 
@@ -51,13 +55,13 @@ He doesn't tell this story. This one stays private. It's what he's actually thin
 
 ## The Sam Connection (Seeded — Do Not Over-Explain)
 
-Oak was young Sam, time-displaced by Celebi during the events of what Amber knows as "Pokemon 4Ever." He met Amber during those events — *before* Amber has experienced them from her own timeline. He has carried that memory for forty years.
+Oak was approximately fifteen when Celebi displaced young Sam into the events Amber knows as "Pokemon 4Ever." He met Amber during those events — *before* Amber has experienced them from her own timeline. He has carried that memory for about forty-seven years.
 
 **In ch17:** He asks Amber her age — not out of suspicion, but to calculate how long she has until her journey begins, and therefore when the 4Ever events might happen for her. She doesn't answer. He still doesn't know exactly when.
 
-His gaze in ch17 — *"recognition? Certainty?"* — is not suspicion about her being unusual. It's an old man looking at someone he met forty years ago.
+His gaze in ch17 — *"recognition? Certainty?"* — is not suspicion about her being unusual. It's an old man looking at someone he met nearly fifty years ago.
 
-He lets her get away with things (the ramen deflection, deflecting questions) because he already knows her. He's had forty years to decide how he feels about her.
+He lets her get away with things (the ramen deflection, deflecting questions) because he already knows her. He's had nearly fifty years to decide how he feels about her.
 
 **The ending of ch17:** Oak starts to tell the Mt. Silver outskirts story when Amber asks about adventures. Gary complains he's told it a hundred times. Oak looks at Amber — warm, distant, like he's somewhere else — and says: *"I met people I wouldn't trade for anything."* He is not talking about the Mt. Silver outskirts.
 
@@ -112,4 +116,4 @@ See: `wiki/reference/world/systems/aura.md`
 - The gap between the girl he remembers and the Amber who showed up: Oak never mentions it. Not once. It lives entirely in behavior — small hesitations, moments where he looks at her slightly too long, indulgences he extends without explanation. The reader sees it. Amber doesn't.
 - The post-4Ever call is a low point in their relationship, not a breakthrough. Amber does not open up to Oak about being from another world — that secret stays kept for much longer, possibly the whole saga.
 - Oak never directly teaches Amber about aura or names the system to her. What he gives her is practical: bonding techniques, grounding before battles, how to listen to her Pokemon. She develops the rest herself.
-- The payoff: after Amber discovers the kingdom, she can finally tell Oak what was on the other side. He spent forty years wondering.
+- The payoff: after Amber discovers the kingdom, she can finally tell Oak what was on the other side. He spent nearly fifty years wondering.

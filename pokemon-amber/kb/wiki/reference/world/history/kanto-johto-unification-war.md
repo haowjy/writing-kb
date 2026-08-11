@@ -26,7 +26,9 @@ Early joint rule can develop into a hereditary **Council of Houses**, then civic
 
 The first Kanto secession war ended roughly **20 years before story present**. Its start date and duration remain open. Kanto and Johto were already regions of Indigo; this was a failed Kanto secession from that order, not the war that created the League.
 
-Samuel Oak, a Kanto-born unified Indigo Champion/Protector, was pressed by Kanto elites, institutions, and public opinion into supporting the secession effort. He bears real culpability. As the bloodshed grew, he sought negotiation, abandoned the effort, relinquished the title, and supported Lance's reunification succession.
+Samuel Oak, then approximately forty-two, was a Kanto-born unified Indigo Champion/Protector pressed by Kanto elites, institutions, and public opinion into supporting the secession effort. He bears real culpability. As the bloodshed grew, he sought negotiation, abandoned the effort, supported the postwar settlement and reunification, and relinquished the title.
+
+Lance was roughly eight to ten when the war ended and is approximately twenty-eight to thirty in the story present. He became unified Indigo Champion/Protector only recently, after at least one intervening Champion. His exact accession date and legal or battle procedure remain open.
 
 Giovanni was about fourteen when the war ended, and about thirty-four or thirty-five in the story present. He remembers the war and its aftermath but was not a child soldier and held no meaningful command. His father, the previous Viridian Gym Leader, died in the final or last major battle. The father's ideology, the battle's location and tactics, and whether Mt. Silver was involved remain open.
 
@@ -45,13 +47,14 @@ These are interpretations of shared history, not interchangeable facts.
 ## Open Questions
 
 - Exact incorporation government, local cultures, colonial methods, and demographic legacy.
-- Exact secession-war duration, Oak's title relinquishment, Lance's succession, and Mt. Silver's role.
+- Exact secession-war duration, title relinquishment and accession procedures, the full intermediary succession, and Mt. Silver's role.
 - The father's politics and the details of his death.
 - Indigo Council franchise, constitution, and emergency checks.
 
 ## Cross-References
 
 - [Champion/Protector and Indigo Council](../society/government/champion-system.md)
+- [Indigo Champion succession planning](../../../planning/indigo-champion-succession.md)
 - [Professor Oak](../../characters/humans/professor-oak.md)
 - [Giovanni](../../characters/humans/giovanni.md)
 - [Team Rocket](../../organizations/team-rocket.md)

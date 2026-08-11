@@ -449,3 +449,9 @@ mechanics.
 Alexander kills the Mad King; Mega Darkrai escapes his body; Amber cannot
 identify the Mega form; Cresselia holds it back during the retreat. Arc 10 owns
 the exact facts and open choreography.
+
+## 2026-08-11 --- Settled Oak and Lance age timeline
+
+- Set Oak at approximately sixty-two in the story present, approximately forty-two when the first Kanto secession war ended, and approximately fifteen during the Celebi/4Ever encounter about forty-seven years ago.
+- Set Lance at approximately twenty-eight to thirty in the present and roughly eight to ten at the war's end. Oak remembers him as a child; Lance grew up respecting Oak as a living legend and former Champion despite their present formal and potentially conflicting roles.
+- Removed direct Oak-to-Lance succession. At least one Champion intervened before Lance's recent accession. Pryce is the private current direction for that intermediary, but dates, procedure, Pryce's politics, and whether Lance defeated him remain open.

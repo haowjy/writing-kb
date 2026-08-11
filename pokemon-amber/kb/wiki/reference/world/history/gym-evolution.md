@@ -336,7 +336,7 @@ Each region developed trainer institutions under different ecological and politi
 **Historical Foundation:**
 - Johto has older trainer-clan and Gym traditions; Kanto's modern eight-Gym prestige develops under integration and later regional autonomy. Exact early institutional lineage remains open.
 - Kanto and Johto remain in the **Indigo League** through the secession war and reunification.
-- Lance succeeds Oak as unified Champion after Oak abandons the secession effort; exact procedure remains open.
+- Oak relinquishes the unified Championship after abandoning secession and supporting the postwar settlement; at least one intervening Champion serves before Lance's recent accession. Exact procedures remain open.
 - Strong Ranger tradition follows war-era ecological urgency; Mt. Silver's role remains open.
 
 **Modern Systems:**

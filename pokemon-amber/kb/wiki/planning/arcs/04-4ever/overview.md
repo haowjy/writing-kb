@@ -30,7 +30,7 @@ Charcadet evolves into Ceruledge under Rocket. It will not be recovered until Si
 
 ### Sam
 
-Young Oak — time-displaced by Celebi — is in the forest. Amber meets him. Oak has carried that memory for forty years. He doesn't warn present-day Amber about 4Ever because he's afraid of breaking the timeline — self-imposed restraint, not a rule she gave him.
+Young Oak, approximately fifteen and time-displaced by Celebi, is in the forest. Amber meets him. Oak has carried that memory for about forty-seven years. He doesn't warn present-day Amber about 4Ever because he's afraid of breaking the timeline — self-imposed restraint, not a rule she gave him.
 
 ---
 

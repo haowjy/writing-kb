@@ -47,6 +47,7 @@ Pikachu handoff under Arc 10; dimensional-displacement mechanics under Arc 14.
 ### Other Planning
 
 - [Amber's roster](planning/rosters/amber-team.md)
+- [Indigo Champion succession](planning/indigo-champion-succession.md)
 - [World opening](planning/world-opening.md)
 - [Themes](planning/themes/index.md)
 - [Decisions](planning/decisions/index.md)
