@@ -1,0 +1,3 @@
+Mine the inherited prior conversation specifically for the author's settled Rowan/Oak/Project X decisions. Focus on the exchange around Rowan, Oak learning Project X exists, whether Lance knows, why Oak is excluded, Mega Evolution and Pokemon bonds, compartmentalized consultation, and open versus settled details.
+
+Do not edit any file. Return: (1) authoritative author decisions with short exact quotes and transcript locations when possible, (2) rejected/superseded alternatives or questions, (3) rationale and constraints, (4) ambiguities still genuinely open, and (5) contradictions with the two current KB pages if visible. Distinguish author decisions from assistant inferences.

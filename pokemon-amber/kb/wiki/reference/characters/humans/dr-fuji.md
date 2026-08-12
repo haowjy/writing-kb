@@ -22,7 +22,7 @@ The successful synthesis was, by Fuji's own admission, "more luck than science."
 ## History / Backstory
 
 ### Revealed in Story
-Dr. (Tenma) Fuji was formerly a respected researcher at Celadon University who received major research grants from Champion Oak ([Ch.16](https://github.com/haowjy/pokemon-amber/blob/main/story/ch16/chapter16.md)). He was married to Delia (later Delia Ketchum) and had a daughter named Amber who died of cancer ([Ch.11](https://github.com/haowjy/pokemon-amber/blob/main/story/ch11/chapter11.md), [Ch.13](https://github.com/haowjy/pokemon-amber/blob/main/story/ch13/chapter13.md)).
+Dr. (Tenma) Fuji was formerly a respected researcher at Celadon University who received major research grants from Champion Oak ([Ch.16](https://github.com/haowjy/pokemon-amber/blob/main/story/ch16/chapter16.md)). He was married to Delia (later Delia Ketchum) and had a daughter named Amber who died in a collateral civilian disaster during the Kanto-Johto secession war while Fuji was away working on Project Chimera ([Ch.11](https://github.com/haowjy/pokemon-amber/blob/main/story/ch11/chapter11.md)).
 
 Unable to accept his daughter's death, Dr. Fuji began working with Team Rocket on genetic cloning experiments ([Ch.1](https://github.com/haowjy/pokemon-amber/blob/main/story/ch1/chapter1.md), [Ch.6](https://github.com/haowjy/pokemon-amber/blob/main/story/ch6/chapter6.md)). His research culminated in creating both Mewtwo and multiple clone tanks, including one containing Amber's genetic material ([Ch.1](https://github.com/haowjy/pokemon-amber/blob/main/story/ch1/chapter1.md)).
 
@@ -37,8 +37,8 @@ In his early twenties, Fuji married Delia and became a rising star at Celadon Un
 
 When the Kanto secession war erupted, Fuji was recruited to head the top-secret "Project Chimera," weaponizing genetics for Kanto secessionist forces. The work made him increasingly clinical --- life as data, people as variables. The secrecy and detachment strained his marriage to Delia even as their daughter Amber was born.
 
-**The Fall & Obsession (~12 years before story):**
-After the war ended and Project Chimera was defunded, Amber was diagnosed with aggressive, untreatable cancer. She was ten years old. Fuji watched his daughter's cells destroy her and could not stop it.
+**The Fall & Obsession:**
+While Fuji was away working on Project Chimera, Amber died in a collateral civilian disaster during the Kanto-Johto secession war. The exact event, location, and allocation of military responsibility remain unsettled. Fuji blames Johto personally; that grievance is his interpretation rather than neutral historical fact.
 
 Her death broke him. He retreated to his basement lab --- obsessive research by day, alcohol by night, the line between the two blurring until there wasn't one. He pursued increasingly unethical research proposals through legitimate institutions and was rejected by all of them. Each rejection pushed him further into the bottle and deeper into the work.
 
@@ -148,7 +148,7 @@ Purpose is Fuji's real dependency, and alcohol floods in whenever the supply get
 **Apprehended** - Captured by authorities after his final battle with Professor Oak ([Ch.17](https://github.com/haowjy/pokemon-amber/blob/main/story/ch17/chapter17.md)). His Ditto was taken into custody for questioning but remains unharmed, while his Magmar's fate is unknown.
 
 ## Psychological Analysis
-Fuji's grief over Amber was real. Watching your daughter die of cancer is not a character flaw. But he was already gone before the story starts --- the scale of the lab, the years of experiments, the Team Rocket alliance. What looks like corruption happening in front of us is a mask coming off, not a fall from grace. He stopped being who he was long before Amber woke up.
+Fuji's grief over Amber was real. Losing his daughter to a wartime disaster while he was absent is not a character flaw. But he was already gone before the story starts --- the scale of the lab, the years of experiments, the Team Rocket alliance. What looks like corruption happening in front of us is a mask coming off, not a fall from grace. He stopped being who he was long before Amber woke up.
 
 His intelligence doesn't redeem him. It makes him more functional, better at maintaining the surface appearance of a caring father while everything underneath is wrong. He doesn't lose control --- he's controlled. When he murders Stephen, he is calm. That's what makes him frightening.
 

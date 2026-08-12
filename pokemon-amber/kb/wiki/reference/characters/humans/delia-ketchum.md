@@ -33,9 +33,9 @@ Delia grew up dreaming of becoming a model and Pokemon trainer, but life took he
 
 They had a daughter together named Amber. However, their marriage was strained by Fuji's increasingly obsessive work, especially during his involvement in the classified Project Chimera during the Kanto secession war. The long hours, secrecy, and his growing emotional detachment created distance between them even as they raised their daughter.
 
-### Tragedy & Divorce (~12 years before story)
+### Tragedy & Divorce
 
-When Amber was ten years old, she was diagnosed with aggressive, untreatable cancer. Despite Fuji's mastery of genetics, modern medicine could do nothing. Delia watched helplessly as her daughter slowly died.
+While Fuji was away working on Project Chimera, Amber died in a collateral civilian disaster during the Kanto-Johto secession war. The exact event and objective responsibility remain unresolved. Fuji blames Johto; Delia's interpretation has not yet been settled.
 
 Amber's death destroyed their marriage. While Delia grieved and tried to process the loss, Fuji became obsessed with conquering death itself, fixating on bringing Amber back through cloning. His morbid fixation and inability to grieve normally horrified Delia. When he began pursuing increasingly unethical research proposals, she realized he was losing his grip on reality.
 

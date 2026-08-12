@@ -1,0 +1,3 @@
+Investigate the current Pokemon Amber KB around Project X, Rowan, Oak, Lance, Mega Evolution, bond research, and Fuji's forced-evolution serum. Read narrowly: the two target pages wiki/reference/organizations/project-x.md and wiki/planning/project-x.md, their direct links, and search KB references to those terms only as needed.
+
+Do not edit any file. Return a concise evidence report with: (1) current claims and exact paths, (2) contradictions/stale or misplaced content against the settled direction in the originating task, (3) any strictly necessary cross-reference outside the two target pages, and (4) adjacent areas worth exploring only if they could change a concrete target edit. Respect current-truth-over-history.

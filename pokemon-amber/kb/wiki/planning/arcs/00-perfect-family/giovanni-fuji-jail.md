@@ -126,7 +126,7 @@ Giovanni gives Fuji broad scientific autonomy, funding, facilities, and latitude
    - Giovanni watches micro-reaction; confirms the **Amber trigger**.
 
 4. **Controlled exposition (Fuji talks more)**
-   - War-era science → Rocket patronage → Amber's illness → obsession.
+   - War-era science → Amber's death in a collateral wartime disaster → Rocket patronage → obsession.
    - Giovanni gauges **spark vs. delusion** in the tempo of Fuji's answers.
 
 5. **Conclusion: decision reached, not stated.**
