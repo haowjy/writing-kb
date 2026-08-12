@@ -8,4 +8,4 @@ settled compact. Decisions that could change its story role remain open:
 - founding date and whether Lance founded it or joined it;
 - whether Lance represents Indigo, Blackthorn, or both, and his authority;
 - exact administration and membership roster;
-- timing and terms of Lance's invitation to Oak.
+- how Oak learned that the compact exists, and whether Project X knows its secrecy has been breached.
