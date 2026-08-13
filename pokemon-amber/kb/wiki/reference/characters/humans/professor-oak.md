@@ -23,14 +23,37 @@ The secession arose from a substantially legitimate Kanto grievance against a Jo
 
 Oak personally remembers Lance as a child of roughly eight to ten during Oak's Champion years. Their present relationship is formal, and Lance's political authority can put them in conflict, but Lance's longstanding respect for Oak remains part of the relationship.
 
-## Team
+## Current Permitted Team
 
-- **Charizard** — starter Pokemon (Charmander). Stubborn for the first three weeks. Still a Charmeleon by age 15 (4Ever events). Evolved into Charizard at 17 during the push through Mt. Silver's dragon country. Whether that route becomes Argaea's access site is open.
-- **Dragonite** — ace. From Dragonite Island. Been with Oak since he was fourteen.
-- **Arcanine** — field research companion; well-traveled.
-- **Gyarados** — sea travel history.
-- **Tauros** — endurance, range.
+Oak's permitted active team is **Dragonite, Arcanine, Gyarados, Tauros, and
+Exeggutor**. It supports field research, travel, and ordinary protection
+without restoring the politically symbolic wartime force. He also keeps
+assorted research Pokemon, but they are not part of his former Champion battle
+force.
+
+- **Dragonite** — ace. From Dragonite Island; with Oak since he was fourteen.
+- **Arcanine** — field-research companion; well-traveled.
+- **Gyarados** — a permitted active partner and part of Oak's seafaring history.
+- **Tauros** — endurance and range.
 - **Exeggutor** — research utility.
+
+## Restricted Wartime Starter Trio
+
+**Charizard, Venusaur, and Blastoise** fought together under Champion Oak in
+the Kanto secession war. The postwar terms of Oak's pardon prevent him from
+reclaiming or remobilizing this former wartime trio. They are therefore not
+available as part of his present active team.
+
+- **Charizard** — Oak's starter Pokemon (Charmander). Stubborn for the first
+  three weeks. Still a Charmeleon by age 15 during the 4Ever events; it evolves
+  at 17 during the push through Mt. Silver's dragon country. Whether that route
+  becomes Argaea's access site is open.
+- **Venusaur** — one of the restricted wartime trio.
+- **Blastoise** — one of the restricted wartime trio.
+
+The trio's later reunion, the exceptional starter eggs associated with it, and
+what remains open are recorded in [Oak team custody and the exceptional starter
+offer](../../../planning/decisions/oak-team-custody.md).
 
 ## The Story He Tells (The Mt. Silver Outskirts)
 

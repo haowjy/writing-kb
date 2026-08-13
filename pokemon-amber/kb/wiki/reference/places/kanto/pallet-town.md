@@ -15,7 +15,7 @@ In Pokemon canon, Pallet Town is extremely small, with a population of only 8 re
 - Route 1 connection north (to Viridian City)
 - Route 21 connection south (water route to Cinnabar Island)
 - Town slogan: "Shades of your journey await"
-- Starting point for new trainers receiving starter Pokemon
+- Canonical starting point for new trainers receiving starter Pokemon
 
 Fishing is the primary resource-gathering activity mentioned, with water routes adjacent to town where trainers can catch Pokemon like Magikarp, Tentacool, and Poliwag.
 
@@ -163,7 +163,7 @@ Connects Pallet Town to Viridian City to the north. Traditional route for beginn
 Nearest major city, accessible via Route 1. Location of Viridian Forest and Viridian Gym.
 
 **Regional Significance:**
-While small, Pallet Town holds regional importance due to Oak's lab and his role as former Champion. Beginning trainers often start their journey here after receiving starter Pokemon from Oak.
+While small, Pallet Town holds regional importance due to Oak's lab and his role as former Champion. Oak's lab supports trainers beginning journeys, but it does not run an annual Kanto-starter giveaway or routine rare-starter breeding pipeline. The later offer of three Kanto starters to Ash's cohort is a one-time consequence of Oak's partial rehabilitation; see [Oak team custody and the exceptional starter offer](../../../planning/decisions/oak-team-custody.md).
 
 ## Trivia & Notes
 

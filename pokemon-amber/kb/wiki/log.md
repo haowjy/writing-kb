@@ -462,3 +462,10 @@ the exact facts and open choreography.
 - Recorded that Ash and Gary are 13 with one school year left at Amber's departure, and that Oak's rigorous sponsorship is preparation rather than an exception.
 - Shifted all downstream Amber age labels by one year while preserving arc order; no discarded alternatives remain in live guidance.
 - Marked the Pikachu handoff's placement as an explicit open chronology decision rather than retaining conflicting placement claims.
+
+## 2026-08-13 --- Settled Oak team custody and exceptional starter offer
+
+- Recorded Oak's permitted active team as Dragonite, Arcanine, Gyarados, Tauros, and Exeggutor, plus separate research Pokemon; Gyarados now explicitly carries his seafaring history.
+- Marked Charizard, Venusaur, and Blastoise as the restricted wartime trio that fought under Champion Oak. The pardon bars their reclamation or remobilization because restoring the trio would carry the political symbolism of Oak's wartime force.
+- Set the later partial-rehabilitation direction: Oak materially helps expose Giovanni or cripple Team Rocket, after which authorities permit the trio's reunion. The operation, public disclosure, and legal mechanism remain open.
+- Set the resulting one-time League-managed eggs from the three starter lines for Ash's cohort. Removed the implication that Pallet runs an annual Kanto-starter giveaway, and kept Ash's late arrival and Pikachu outcome open.

@@ -18,12 +18,17 @@ responsible, although whether Oak personally killed him or commanded the action
 that did remains open. Lance can respect Oak's strength and historical stature
 while hating what Oak's leadership took from him.
 
-When Oak later asks to reassemble his former Champion team in response to
-increasing disasters, Lance rejects him immediately and cites the unchanged
-terms of Oak's pardon. To Lance, the request is not neutral preparedness: it is
-the attempted remobilization of the wartime force associated with his brother's
-death. Increasing instability makes Lance more afraid of restoring that power,
+The terms of Oak's pardon bar him from reclaiming or remobilizing Charizard,
+Venusaur, and Blastoise: the former Champion's politically charged wartime
+starter trio. Lance treats the restriction as a necessary guard against
+restoring the force associated with his brother's death, not as a neutral
+readiness question. Before Oak's later partial rehabilitation, Lance opposes
+lifting it; growing instability makes him more afraid of restoring that power,
 not more willing to do so.
+
+Oak's later material help against Giovanni or Team Rocket leads authorities to
+relax the restriction, but the public exposure and legal mechanism remain open.
+See [Oak team custody and the exceptional starter offer](../../../planning/decisions/oak-team-custody.md).
 
 ## Older Brother
 

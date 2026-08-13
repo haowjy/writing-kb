@@ -1,39 +1,50 @@
-# Future Beat: The Pikachu Handoff
+# Future Beat: Pikachu Return and Possible Ash Handoff
 
-**Status:** Far future. Seed only. The handoff's exact placement is unresolved.
+**Status:** Far future. Seed only. Its placement and outcome are unresolved.
 
 > [!FLAG] **Needs author decision**
-> The handoff must occur before Ash begins his age-14 journey, one school year after Amber's departure. Its placement among Amber's later arcs is not settled; do not infer it from the Argaea return road or the Hoenn conference.
+> Ash's late arrival and Pikachu outcome remain open. Do not treat the canonical
+> "oversleeps, misses three starters, receives Pikachu" sequence as this story's
+> settled result.
 
-## The Beat
+## Available Beat
 
-Before Ash begins his journey, Amber is traveling home to Pallet Town. On the road she finds a Pikachu --- unusually strong, refuses to go in a ball. She recognizes it immediately.
+Before Ash begins his age-14 journey, Amber may find an unusually strong Pikachu
+on the road to Pallet. It refuses a ball, and she recognizes the canonical
+association immediately. She can travel with it briefly and return it to Oak's
+lab, but whether Oak gives it to Ash, why he would, and the exact exchange all
+remain open.
 
-She knows exactly whose Pokemon this is supposed to be.
+The line **"Give it to Ash if he wakes up late"** is an available version of
+the beat, not a locked scene. Oak need not understand Amber's reasoning if that
+version is used.
 
-She travels with it briefly. It's difficult. It doesn't cooperate. She brings it back to Oak's lab anyway.
+## Starter Context
 
-At Oak's, she hands it over and says: **"Give it to Ash if he wakes up late."**
+Oak later offers a Charmander, Bulbasaur, and Squirtle to Ash's cohort only
+because League-managed breeding from the three restricted starter lines follows
+his partial political rehabilitation. This is an exceptional, one-time offer,
+not the ordinary annual distribution imagined by the game/anime opening.
 
-Oak doesn't understand why she said it that way. She doesn't explain.
+Which members of Ash's cohort receive those Pokemon, whether Ash takes one, and
+how the offer intersects with any Pikachu outcome remain open. The cohort's
+start age is settled; the later handoff is not.
 
 ## Why It Matters
 
-Ash starts his journey at 14 --- one year after Amber. In the canonical story, Ash oversleeps on his journey start day, arrives late to Oak's lab, and all three starter Pokemon are already gone. Oak gives him Pikachu instead.
+The canonical late-arrival setup gives Amber a tempting piece of outside-world
+knowledge. The story can use it to test whether she tries to preserve someone
+else's familiar outcome, but it has not chosen that outcome yet.
 
-Amber knows this. She's read it. She watched it happen in another world.
+## Tone if Used
 
-She doesn't intervene to change it. She just makes sure the right piece is in place.
-
-Her first trainer year just fell apart --- Charcadet stolen, first conference entered at a disadvantage. She had the knowledge and it didn't protect her. But here she is, using that same knowledge to make sure someone else's story goes right.
-
-## Tone
-
-Not triumphant. Not sentimental. She hands it over and leaves. The weight is in what she doesn't say.
+Not triumphant or sentimental. Amber's restraint and whatever she refuses to
+explain should carry the weight.
 
 ## Cross-Refs
 
-- wiki/pokemon-teams/team-amber-mc.md — Pikachu listed under confirmed roster beats
-- planning/arcs/10-argaea-kitakami/overview.md — Hidden Kingdom arc, same Year 2 window
-- wiki/reference/characters/humans/professor-oak.md — Oak receives the handoff
-- future/current-direction.md — Ash age/timeline
+- [Amber's roster](../../rosters/amber-team.md) — current Pikachu seed
+- [Arc 10 overview](overview.md) — shared planning window only; not placement proof
+- [Professor Oak](../../../reference/characters/humans/professor-oak.md)
+- [Trainer-start age and peer cohort](../../decisions/age-cohort.md)
+- [Oak team custody and the exceptional starter offer](../../decisions/oak-team-custody.md)

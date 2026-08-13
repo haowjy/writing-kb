@@ -26,7 +26,7 @@ Early joint rule can develop into a hereditary **Council of Houses**, then civic
 
 The first Kanto secession war ended roughly **20 years before story present**. Its start date and duration remain open. Kanto and Johto were already regions of Indigo; this was a failed Kanto secession from that order, not the war that created the League.
 
-Samuel Oak, then approximately forty-two, was a Kanto-born unified Indigo Champion/Protector pressed by Kanto elites, institutions, and public opinion into supporting the secession effort. He bears real culpability. As the bloodshed grew, he sought negotiation, abandoned the effort, supported the postwar settlement and reunification, and relinquished the title.
+Samuel Oak, then approximately forty-two, was a Kanto-born unified Indigo Champion/Protector pressed by Kanto elites, institutions, and public opinion into supporting the secession effort. He bears real culpability. As the bloodshed grew, he sought negotiation, abandoned the effort, supported the postwar settlement and reunification, and relinquished the title. The pardon terms that followed bar him from reclaiming or remobilizing Charizard, Venusaur, and Blastoise, the politically sensitive wartime trio that fought under him; the exact legal mechanism remains open.
 
 Lance was roughly eight to ten when the war ended and is approximately twenty-eight to thirty in the story present. He became unified Indigo Champion/Protector only recently, after at least one intervening Champion. His exact accession date and legal or battle procedure remain open.
 
