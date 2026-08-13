@@ -13,7 +13,7 @@ updated: 2026-08-13
 
 **Last updated: 2026-08-13**
 
-This is the single source of truth for the story's current intended direction. All other planning docs in `future/` should be consistent with this file. If they contradict it, this file wins.
+This is the single source of truth for the story's current intended direction. All other planning documents should be consistent with this file. If they contradict it, this file wins.
 
 ---
 
