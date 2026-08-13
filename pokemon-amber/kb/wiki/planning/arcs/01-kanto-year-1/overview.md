@@ -46,9 +46,9 @@ Licensed, calm, Oak-supported. See `current-direction.md` for full six-scene bre
 Key points:
 - Amber passes competency exam (unusually prepared, not flashy)
 - Oak provides resources, equipment, starter funds
-- Awkward Delia interaction (tension in what's NOT said)
-- Ash jealousy comedy beat ("two more years!")
-- Morning departure --- legitimate, forward-looking
+- Ranch goodbyes and Ash/Gary jealousy comedy
+- A lively going-away party with Delia participating naturally
+- Sunrise farewell --- legitimate, joyful, forward-looking
 
 **NOT:** trauma-driven flight, pre-dawn escape, forged documents catalyst.
 

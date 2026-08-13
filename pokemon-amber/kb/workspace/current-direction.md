@@ -43,12 +43,10 @@ Amber's departure is **licensed, calm, and Oak-supported.** Not a trauma-driven 
 Six scenes:
 1. **License exam** --- real competency gate, Amber unusually prepared, competent not flashy
 2. **Oak conversation** --- responsibility speech, Amber bored-nodding but listening, Oak provides resources
-3. **Return home** --- awkward Delia greeting, tension in what's NOT said
-4. **Ash jealousy** --- Ash jealous ("two more years!"), Amber says she doesn't want to be Pokemon Master, comedy beat
+3. **Ranch** --- Pokemon goodbyes; Ash and Gary bring jealousy, argument, and comedy
+4. **Going-away party** --- Delia, Oak, Ash, Gary, and Ditto participate in a lively send-off
 5. **Packing / quiet close** --- evening, calm anticipation, forward-looking
-6. **Departure** --- morning, legitimate, steps onto Route 1, something finally beginning
-
-Delia's inner workings explored in **later interludes**, not here.
+6. **Sunrise farewell** --- Pallet sees Amber and Ditto off as the adventure finally begins
 
 ---
 
@@ -147,7 +145,7 @@ Amber is **NOT a chosen protagonist.** She keeps getting pulled into unusual Pok
 - **Quarterly conference system** --- staggered Big 4 regional tournaments
 - **All worldbuilding** --- gym system, economics, badge system, clan system, trainer licensing
 - **Amber's core wound** --- she doesn't belong. Feels like she has never fully belonged in either world. Feels most at home with Pokemon.
-- **Forged documents** --- still exist in canon, now background legal tension / future interlude material
+- **Forged documents** --- still exist in canon as an identity-security vulnerability
 - **Ilex Forest / Pokemon 4Ever** --- remains a live possibility for later arcs, not over-scaffolded
 
 ---

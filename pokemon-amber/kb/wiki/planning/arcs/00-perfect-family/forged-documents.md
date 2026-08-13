@@ -1,6 +1,6 @@
 # The Forged Documents
 
-**Background legal tension and future interlude material**
+**Identity-security vulnerability**
 
 ## What Fuji Did
 
@@ -14,24 +14,19 @@
 The forged documents are **NOT the departure catalyst.** Amber leaves because she earned her license and Oak supports her journey. The documents exist as:
 
 - **Background legal tension:** Amber's identity is built on forgeries that could unravel
-- **Future interlude material:** Delia's inner workings, Oak's legal maneuvering
 - **Identity-security subplot:** The forgery creates ongoing vulnerability
 - **Possible Team Rocket angle:** If TR investigates Amber's identity, the forged documents are a thread they could pull (note as option, not committed)
 
 ## Why This Still Matters
 
-- Delia is legally responsible for Amber (documents say so)
 - To contest = investigation, scrutiny, questions about who Amber really is
-- The legal situation is unresolved even though Amber has left on good terms
-- Creates quiet tension underneath the adventure
-- Both Delia and Amber are Fuji's victims (explored later, not at departure)
+- The legal status remains unresolved even though Amber leaves on good terms
 
 ## Resolution Path (Eventual)
 
 - Oak works to prove forgery (still valid)
 - Takes guardianship himself
-- Delia released from legal obligation
-- Emotional complexity explored in interludes, not departure scenes
+- Amber's identity regularized without exposing her origin
 
 ## Complications
 
@@ -44,5 +39,4 @@ The forged documents are **NOT the departure catalyst.** Amber leaves because sh
 ## Related Files
 
 - Current direction: `current-direction.md`
-- Character exploration: `characters/` (Amber, Delia dynamics)
-- Open question: `_open-questions.md` (Delia resolution?)
+- Character reference: `../../../reference/characters/humans/delia-ketchum.md`

@@ -96,5 +96,4 @@ Author execution tips:
 - Fuji out of play (apprehended), but his research and enemies remain.
 - MC's status unresolved (League systems, custody, identity paperwork).
 - Ditto custody → potential reunion threads.
-- Oak/Delia/Ash triangle of care versus grief—future trust-building.
-
+- Oak, Delia, and Ash provide the household where Amber spends the next three years before her journey.

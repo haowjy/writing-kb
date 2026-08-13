@@ -85,11 +85,8 @@ This file archives completed work for reference. Active planning should focus on
 
 ### Purpose
 
-- Creates impossible situation for Delia (legally trapped)
-- Motivates Delia's breakdown at Stephen's funeral
-- Forces Amber to run away (can't contest without revealing truth)
-- Both Delia and Amber are Fuji's victims
-- Drives early story beats (Pallet departure, Route 1 survival)
+- Creates an identity-security vulnerability: contesting the documents invites scrutiny into who Amber really is
+- Records Fuji's willingness to overwrite both Amber's and Delia's agency
 
 ### Related Planning
 

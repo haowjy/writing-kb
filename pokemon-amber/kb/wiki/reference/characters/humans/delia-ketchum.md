@@ -19,11 +19,9 @@ This version of Delia is Dr. Fuji's ex-wife. That's what the story adds, and it 
 
 **Forced Confrontation:** Fuji drops Amber on her doorstep and walks away. Delia is now legally listed as the child's mother on forged documents she never signed. She had no say in any of it ([Ch.11](https://github.com/haowjy/pokemon-amber/blob/main/story/ch11/chapter11.md)).
 
-**Visceral Trauma Response:** She can't look at Amber without seeing Stephen burning. She knows Amber is innocent. Her body doesn't care. The disconnect between what she knows and what she feels is where the damage happens ([Ch.17-18](https://github.com/haowjy/pokemon-amber/blob/main/story/ch17/chapter17.md)).
+**Immediate Trauma:** Fuji's return, Stephen's murder, and the destruction of her home leave Delia shattered in the immediate aftermath ([Ch.17](https://github.com/haowjy/pokemon-amber/blob/main/story/ch17/chapter17.md)).
 
 **Practical Survivor:** She lost a daughter, divorced a man descending into madness, buried her modeling dreams, inherited a restaurant, and built something real with Stephen. Fuji walking back in is the worst thing that could happen to her.
-
-**Maternal Complexity:** She's a good mother to Ash. She cannot be a mother to Amber. Both things are true at the same time, and she knows it.
 
 ## History / Backstory
 
@@ -65,11 +63,9 @@ She never expected Dr. Fuji to return. Never expected him to succeed in his mad 
 
 When Dr. Fuji arrives in Pallet Town with Amber's clone and abandons her in Delia's garden, everything Delia built begins to crumble ([Ch.11](https://github.com/haowjy/pokemon-amber/blob/main/story/ch11/chapter11.md)). Within days, Fuji murders Stephen in a forest outside Pallet Town, eliminating the "obstacle" to his delusional plan to recreate his perfect family ([Ch.13](https://github.com/haowjy/pokemon-amber/blob/main/story/ch13/chapter13.md)).
 
-Fuji then attacks Delia's home, burning it down in his attempt to "reclaim" Amber and present himself as Delia's rescuer ([Ch.14-15](https://github.com/haowjy/pokemon-amber/blob/main/story/ch14/chapter14.md)). Professor Oak defeats Fuji, but the damage is done: Stephen is dead, the house is destroyed, and Delia is left to care for Ash's trauma while legally responsible for the clone of her dead daughter.
+Fuji then attacks Delia's home, burning it down in his attempt to "reclaim" Amber and present himself as Delia's rescuer ([Ch.14-15](https://github.com/haowjy/pokemon-amber/blob/main/story/ch14/chapter14.md)). Professor Oak defeats Fuji, but the damage is done: Stephen is dead, the house is destroyed, and Delia must care for Ash through the immediate aftermath while Amber's forged identity remains unresolved.
 
-In the aftermath, Delia is trapped in an impossible situation—legally listed as Amber's mother on forged documents she never signed, intellectually knowing Amber is innocent, but viscerally unable to look at the child without seeing Stephen burning to death.
-
-Over the following years, Delia and Amber settle into functional avoidance. No dramatic blowup, no single breaking point—just quiet erosion. Amber sleeps at Delia's house but spends her real time at Oak's lab. Delia leaves clean towels, makes food, keeps things running—but flinches when Amber enters a room. They orbit the same house without connecting. It's the best either of them can manage.
+Over the following three years, Delia and Amber build a decently good, caring household relationship. Amber has not called Delia "Mom," but that fact is not an active conflict between them. Delia participates naturally in Amber's going-away party and sunrise farewell when Amber begins her journey at thirteen.
 
 ## Personality & Characteristics
 
@@ -77,11 +73,9 @@ Over the following years, Delia and Amber settle into functional avoidance. No d
 
 **Nurturing but Not Naive:** With Ash, she is a loving and supportive mother who encourages his dreams while setting boundaries. She represents healthy parenting—kind but firm, supportive but realistic.
 
-**Trauma-Marked:** Amber's death and Fuji's unraveling left marks she can't think her way out of. Her reactions to Amber aren't choices. She can't control them, and the guilt of that makes everything worse.
+**Trauma-Marked:** Amber's death and Fuji's unraveling left lasting marks, compounded by Stephen's murder and the destruction of her home.
 
 **Quietly Strong:** Delia survived losing a child, divorcing a man descending into madness, burying her dreams, and starting over in a small town. She rebuilt her life through sheer determination and practical resilience.
-
-**Guilt-Ridden:** She knows the moment she hurts Amber. She knows Amber is innocent. The knowing doesn't help.
 
 **Protector of Her Son:** Above all else, Delia is fiercely protective of Ash. His nightmares, his safety, his wellbeing—these are her primary concerns even as she struggles with everything else.
 
@@ -95,7 +89,7 @@ When he returns with Amber's clone, Fuji still views Delia as "his wife" and bel
 ### Stephen Ketchum (Husband, Deceased)
 Stephen represented safety, stability, and a chance to start over. Their relationship was built on mutual understanding—two people with painful pasts choosing to build something new together. His protective nature and quiet strength complemented Delia's practical warmth.
 
-His murder by Fuji devastates Delia, and his absence becomes a visceral wound. Every time she looks at Amber, she sees the moment Stephen burned to death.
+His murder by Fuji devastates Delia, and his absence becomes a visceral wound.
 
 ### Ash Ketchum (Son)
 Delia's relationship with Ash represents everything good she managed to build from her tragedy. He is her joy, her purpose, her reason to keep going. She balances supporting his dreams of becoming a Pokemon Master with practical concerns about his safety and education.
@@ -103,16 +97,10 @@ Delia's relationship with Ash represents everything good she managed to build fr
 After Stephen's death, Ash's nightmares and trauma become another weight on Delia's shoulders. She must be strong for him while falling apart herself.
 
 ### Amber/Ambertwo (Clone of Deceased Daughter)
-Delia's feelings toward Amber are impossibly complicated. Intellectually, she knows Amber is innocent—a child who didn't choose to be created, didn't choose to be abandoned at her doorstep, didn't choose any of this.
-
-But emotionally, viscerally, Delia cannot separate Amber from everything Fuji took from her. Looking at Amber means seeing Stephen's death, seeing Fuji's obsession, seeing the daughter she lost and will never get back. Her body reacts before her mind can intervene—freezing, fleeing, unable to maintain eye contact.
-
-The guilt she feels for these reactions only makes everything worse. She knows she's failing this child, knows Amber can see the rejection, knows she should be better than this. But trauma doesn't respond to logic.
+Fuji forced their connection through a false identity and an act of abandonment, but that beginning does not define their later household. After three years together, Delia and Amber care about each other and Amber's departure is an ordinary separation from a loved household member, not an escape or reconciliation crisis. Amber has not called Delia "Mom."
 
 ### Professor Oak
-Oak serves as a steady presence during the crisis, offering practical help and emotional support. He houses them after the fire, helps with the legal complications of Amber's forged documents, and gently reminds Delia that there are options—including foster care—if she truly cannot manage caring for Amber.
-
-Their friendship is marked by mutual respect and his careful understanding of her impossible situation. He doesn't judge her for her limitations, but he also advocates for Amber's wellbeing.
+Oak serves as a steady presence during the crisis, offering practical help and emotional support. He houses them after the fire and helps with the legal complications of Amber's forged identity.
 
 ## Abilities & Skills
 

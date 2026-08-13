@@ -51,23 +51,6 @@ updated: 2026-04-05
 
 ---
 
-### 6. Delia resolution?
-**Affects:** Emotional closure, Pallet connections, forgiveness themes
-
-Future interlude material. Ch 18 leaves things unresolved deliberately (tension in what's NOT said). Resolution comes later.
-
-**Options:**
-- Eventual reconciliation (years later, mutual growth)
-- Permanent rift (some wounds don't heal)
-- Oak mediates (but damage remains)
-- Delia reaches out first
-- Amber reaches out first
-- Explored through interludes (Delia POV) before any on-page resolution
-
-**Urgency:** Low - not relevant until late Arc 2 or Arc 3
-
----
-
 ## Character/Partnership Decisions
 
 ### 8. Kyle meeting context?
@@ -209,7 +192,6 @@ If Amber competes, she needs opponents worth writing. Who are they?
 - #19 (Conference opponents)
 
 **Very low urgency (Arc 2+ or later):**
-- #6 (Delia resolution)
 - #16 (Heracross Mega)
 
 ---
@@ -338,7 +320,7 @@ If Amber competes, she needs opponents worth writing. Who are they?
 **Original Question:** Departure method
 
 - **Chosen:** Oak-supported, calm, licensed departure with resources
-- **Replaces:** Trauma-driven flight after Stephen's funeral / Delia rejection
+- **Replaces:** Trauma-driven flight
 - **Rationale:** Changes entire economic and emotional foundation. Amber starts with legitimacy and resources.
 
 ---
