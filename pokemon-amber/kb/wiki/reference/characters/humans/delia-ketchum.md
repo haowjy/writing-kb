@@ -65,7 +65,7 @@ When Dr. Fuji arrives in Pallet Town with Amber's clone and abandons her in Deli
 
 Fuji then attacks Delia's home, burning it down in his attempt to "reclaim" Amber and present himself as Delia's rescuer ([Ch.14-15](https://github.com/haowjy/pokemon-amber/blob/main/story/ch14/chapter14.md)). Professor Oak defeats Fuji, but the damage is done: Stephen is dead, the house is destroyed, and Delia must care for Ash through the immediate aftermath while Amber's forged identity remains unresolved.
 
-Over the following three years, Delia and Amber build a decently good, caring household relationship. Amber has not called Delia "Mom," but that fact is not an active conflict between them. Delia participates naturally in Amber's going-away party and sunrise farewell when Amber begins her journey at thirteen.
+Over the following four years, Delia and Amber build a decently good, caring household relationship. Amber has not called Delia "Mom," but that fact is not an active conflict between them. Delia participates naturally in Amber's going-away party and sunrise farewell when Amber begins her journey at fourteen after normal middle-school graduation.
 
 ## Personality & Characteristics
 
@@ -97,7 +97,7 @@ Delia's relationship with Ash represents everything good she managed to build fr
 After Stephen's death, Ash's nightmares and trauma become another weight on Delia's shoulders. She must be strong for him while falling apart herself.
 
 ### Amber/Ambertwo (Clone of Deceased Daughter)
-Fuji forced their connection through a false identity and an act of abandonment, but that beginning does not define their later household. After three years together, Delia and Amber care about each other and Amber's departure is an ordinary separation from a loved household member, not an escape or reconciliation crisis. Amber has not called Delia "Mom."
+Fuji forced their connection through a false identity and an act of abandonment, but that beginning does not define their later household. After four years together, Delia and Amber care about each other and Amber's departure is an ordinary separation from a loved household member, not an escape or reconciliation crisis. Amber has not called Delia "Mom."
 
 ### Professor Oak
 Oak serves as a steady presence during the crisis, offering practical help and emotional support. He houses them after the fire and helps with the legal complications of Amber's forged identity.
@@ -122,4 +122,4 @@ Auburn hair, often worn in a practical style suitable for restaurant work. Descr
 - Her relationship with Dr. Fuji and role as Amber's biological mother creates a unique interpretation not present in any canonical Pokemon media
 - Mrs. Keiko manages Pallet House in Delia's absence after Stephen's death
 - As of Chapter 17, Delia is staying at Oak's house with Ash and Amber after her home was destroyed in the fire
-- The house is eventually rebuilt; Amber lives there as Delia's legal daughter for ~3 years before departing on her journey at 13
+- The house is eventually rebuilt; Amber lives there as Delia's legal daughter for ~4 years before departing on her journey at 14 after normal middle-school graduation

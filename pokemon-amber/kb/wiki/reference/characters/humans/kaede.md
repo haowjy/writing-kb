@@ -176,6 +176,6 @@ Kaede's immediate crisis is resolved in ch10, but the structural problems persis
 - Erika becomes Gym Leader --- uses the Oddish case partly to build her claim --- but is hamstrung by the board. Nothing changes for the Ward.
 - Kaede joins TR because it's the natural economic path for Factory Ward residents. TR provides real opportunity where the gym system doesn't.
 - Kaede blames Erika specifically: she saved one kid, got the title, and let the Ward rot. The resentment isn't irrational --- it's structural. Erika IS trying but Kaede can't see that from outside.
-- In Arc 6 (Celadon return, age 14): Erika is Gym Leader but blocked by the board. Kaede is Rocket. They meet again. Erika remembers the girl whose brother she saved. Kaede sees the Gym Leader who let the Factory Ward rot.
+- In Arc 6 (Celadon return, age 15): Erika is Gym Leader but blocked by the board. Kaede is Rocket. They meet again. Erika remembers the girl whose brother she saved. Kaede sees the Gym Leader who let the Factory Ward rot.
 
 See: [Future Arc: Celadon](../../../planning/arcs/02-06-celadon/overview.md), [Factory Ward](../../places/kanto/celadon/factory-ward.md), [Team Rocket](../../organizations/team-rocket.md)

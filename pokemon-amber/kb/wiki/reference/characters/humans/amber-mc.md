@@ -6,7 +6,7 @@ An isekai'd adult consciousness inhabiting the body of Ambertwo — Dr. Fuji's c
 
 Ambertwo was created with trace Mew DNA as part of Fuji's cloning process. Nobody in the story names them. No character looks at her and says "Mew DNA" or "aura." Amber has lived with these traits her whole life --- she has no baseline to compare against and doesn't know they're unusual.
 
-**Current expressions (Age 9–13+):**
+**Current expressions (from age 9 onward):**
 - Low-grade emotional sense of nearby Pokemon — she reads their states instinctively
 - Pokemon treat her as peer rather than threat or unfamiliar human
 - Unusually deep communication with her own team
@@ -21,7 +21,7 @@ See: [Aura & Bond System](../../world/systems/aura.md), [Ditto](../pokemon/ditto
 
 ## Economic Position
 
-Amber walks her journey by **choice**, not poverty. Oak supports her properly --- starter funds, equipment, supplies --- so she's resourced like a working-class-plus trainer rather than the shoestring runaway her early planning imagined.
+Amber begins her journey at 14 after normal middle-school graduation. Oak rigorously prepares and sponsors her --- with starter funds, equipment, and supplies --- so she is resourced like a working-class-plus trainer rather than the shoestring runaway her early planning imagined. This support is not an early-graduation or early-departure exception.
 
 - **Walking journey** by choice (chooses the road for adventure, not forced by economics)
 - **No academy** --- Oak-mentored, self-taught with adult knowledge

@@ -229,7 +229,7 @@ Alternatives: medical retirement/sanctuary, permanent transfer to orgs, or ecolo
 - **Indigo Year 2** — Post-conference. Vee recruited in Celadon.
 - **Transition trigger** — Two successful Rocket thefts within ~60 days, plus one secondary factor: denied gym rematch, sponsor offer contingent on relocation, Ranger advice, or Amber's own line *"I am not bait."*
 - **Hoenn** — Ecology shift; new additions. Trapinch arc. Tone hardens. Gardevoir joins before Argaea.
-- **Argaea Visit 1 (Arc 10, age 16)** — After Hoenn. Gardevoir becomes the temporary external seal anchor; the Pikachu handoff occurs on the later road home.
+- **Argaea Visit 1 (Arc 10, age 17)** — After Hoenn. Gardevoir becomes the temporary external seal anchor; the Pikachu handoff's placement is unresolved; see [Pikachu handoff](../arcs/10-argaea-kitakami/pikachu-handoff.md).
 - **Sinnoh** — History/identity themes deepen. Shinx, Rockruff arcs TBD.
 
 Migration logistics: registration scan, health stamp, insurance proof, visa tier confirmation. Small friction grounds the travel.

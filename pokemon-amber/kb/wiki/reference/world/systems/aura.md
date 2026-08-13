@@ -62,12 +62,12 @@ This capacity does **not** grant access to Argaea and is not part of Argaea's
 barrier or sealing mechanism. The Argaea thread has cut Mew from its causal
 logic.
 
-Current expressions (Age 13+):
+Current expressions (Age 14+):
 - Low-grade emotional sense of nearby Pokemon
 - Pokemon treat her as peer rather than threat or human
 - Unusually deep communication with her own Pokemon
 
-She doesn't know it's unusual. She's normalized it. Nobody identifies it for her until the post-4Ever conversation with Oak (Arc 4, Age 13).
+She doesn't know it's unusual. She's normalized it. Nobody identifies it for her until the post-4Ever conversation with Oak (Arc 4, age 14).
 
 Peak expressions are TBD --- details to be developed in later arc planning.
 

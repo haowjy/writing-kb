@@ -1,6 +1,6 @@
 # Future Arc: 4Ever (Arc 4)
 
-**Amber age:** 13 | **Status:** Seed. Key beats locked. Details TBD.
+**Amber age:** 14 | **Status:** Seed. Key beats locked. Details TBD.
 
 ## What It Is
 

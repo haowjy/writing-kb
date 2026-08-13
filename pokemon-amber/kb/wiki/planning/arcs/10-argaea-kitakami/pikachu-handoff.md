@@ -1,10 +1,13 @@
 # Future Beat: The Pikachu Handoff
 
-**Status:** Far future. Seed only. Year 2 arc.
+**Status:** Far future. Seed only. The handoff's exact placement is unresolved.
+
+> [!FLAG] **Needs author decision**
+> The handoff must occur before Ash begins his age-14 journey, one school year after Amber's departure. Its placement among Amber's later arcs is not settled; do not infer it from the Argaea return road or the Hoenn conference.
 
 ## The Beat
 
-At the end of Year 2, after the hidden kingdom arc, Amber is traveling home to Pallet Town. On the road she finds a Pikachu --- unusually strong, refuses to go in a ball. She recognizes it immediately.
+Before Ash begins his journey, Amber is traveling home to Pallet Town. On the road she finds a Pikachu --- unusually strong, refuses to go in a ball. She recognizes it immediately.
 
 She knows exactly whose Pokemon this is supposed to be.
 
@@ -16,13 +19,13 @@ Oak doesn't understand why she said it that way. She doesn't explain.
 
 ## Why It Matters
 
-Ash starts his journey at 14 --- two years after Amber. In the canonical story, Ash oversleeps on his journey start day, arrives late to Oak's lab, and all three starter Pokemon are already gone. Oak gives him Pikachu instead.
+Ash starts his journey at 14 --- one year after Amber. In the canonical story, Ash oversleeps on his journey start day, arrives late to Oak's lab, and all three starter Pokemon are already gone. Oak gives him Pikachu instead.
 
 Amber knows this. She's read it. She watched it happen in another world.
 
 She doesn't intervene to change it. She just makes sure the right piece is in place.
 
-Her Year 2 just fell apart --- Charcadet stolen, first conference entered at a disadvantage. She had the knowledge and it didn't protect her. But here she is, using that same knowledge to make sure someone else's story goes right.
+Her first trainer year just fell apart --- Charcadet stolen, first conference entered at a disadvantage. She had the knowledge and it didn't protect her. But here she is, using that same knowledge to make sure someone else's story goes right.
 
 ## Tone
 

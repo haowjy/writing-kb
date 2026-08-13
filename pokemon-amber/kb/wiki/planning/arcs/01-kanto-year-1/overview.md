@@ -6,7 +6,7 @@
 
 ## What Happens
 
-Amber departs Pallet Town at 13 with Oak's blessing, a trainer license, starter funds, and Ditto. Her goal: 8 gym badges and conference entry. She acquires Charcadet and Teddiursa along the way. She meets Kyle Kong (14), and early Kanto settles into a core **Amber + Kyle** road dynamic: two peers pursuing badges together, Amber providing tactical insight and stubborn follow-through, Kyle providing muscle, confidence, and social momentum.
+Amber departs Pallet Town at 14 after normal middle-school graduation, with Oak's blessing, a trainer license, starter funds, and Ditto. Oak has rigorously prepared her, but this is not an early-departure exception. Her goal: 8 gym badges and conference entry. She acquires Charcadet and Teddiursa along the way. She meets Kyle Kong (14), and early Kanto settles into a core **Amber + Kyle** road dynamic: two peers pursuing badges together, Amber providing tactical insight and stubborn follow-through, Kyle providing muscle, confidence, and social momentum.
 
 The journey is properly resourced but repeatedly disrupted by weird Pokemon incidents that pull Amber off the gym circuit. Team Rocket operates as an escalating background threat. The gap between "normal trainer journey plan" and "weird stuff keeps happening to me" drives the arc.
 
@@ -123,9 +123,9 @@ Viridian is Amber's **first** gym challenge (not the 8th as in games). Giovanni 
 
 ## Kyle Partnership
 
-### Kyle Kong (Age 13)
+### Kyle Kong (Age 14)
 - Fighting Dojo heir, Saffron politics
-- 1 year early (Dojo-sponsored — Saffron rivalry with Sabrina is time-sensitive)
+- Starts after normal middle-school graduation; Dojo training supports his standard start, not an early departure
 - Traditional walking journey (Dojo honor, not necessity)
 - Has family resources
 - Reckless, overconfident, tactically weak
@@ -137,7 +137,7 @@ Viridian is Amber's **first** gym challenge (not the 8th as in games). Giovanni 
 - Both contribute meaningfully
 
 ### Partnership Dynamic (Updated)
-- **True peers** --- both 13, both early-departure kids, both first-years
+- **True peers** --- both 14-year-old first-years in the same trainer year
 - Early Kanto's default frame is the two of them on the road together, not a wider fixed ensemble
 - Amber provides tactical insight; Kyle provides physical confidence and sometimes resources
 - Temporary third parties rotate through based on the local arc; they do not usually graduate into permanent companions
@@ -185,14 +185,14 @@ Key beats regardless of outcome:
 **Escalating background threat.** Not the primary story engine for Arc 1, but present and growing.
 
 - Day 2 Route 1 incident: grunts file a report (girl with a Ditto, Paldean adventurer Alonso, two Charcadet, possible Paldean crew nearby, disrupted camp/cave operation, Ursaring removed during collapse)
-- Giovanni personally takes her measure at Viridian: not actionable at 13, filed away
-- Grunt-level grudge through Arc 1: the grunts who were embarrassed by a 13-year-old keep an eye out. Low-level, not organizational.
+- Giovanni personally takes her measure at Viridian: not actionable at 14, filed away
+- Grunt-level grudge through Arc 1: the grunts who were embarrassed by a 14-year-old keep an eye out. Low-level, not organizational.
 - Minor encounters, interference with gym circuit (pulling Amber into situations)
 - Not full confrontation yet --- that's Arc 2+
 - Butch & Cassidy or other agents (not Jessie/James comedy duo)
 
 **The long thread (Arc 1 → mid-saga):**
-The Route 1 camp/cave incident sits in Rocket files for years: a failed field operation, an escaped witness, a foreign adventurer, unusual Paldean Pokemon, Ursaring removed for later use, and an energy reading that was never fully explained. Eventually old records get pulled. Badge records, conference results, and Oak's sponsorship trace back to Amber. By then she is not a 13-year-old first-year anymore; she is the youngest-ever Hoenn conference winner. The organizational-level pursuit escalates. This converges with the Mewtwo thread: TR eventually understands they are chasing the same person connected to a significant Mega Stone ore deposit. The grunt grudge becomes something larger.
+The Route 1 camp/cave incident sits in Rocket files for years: a failed field operation, an escaped witness, a foreign adventurer, unusual Paldean Pokemon, Ursaring removed for later use, and an energy reading that was never fully explained. Eventually old records get pulled. Badge records, conference results, and Oak's sponsorship trace back to Amber. By then she is not a 14-year-old first-year anymore; she is the youngest-ever Hoenn conference winner. The organizational-level pursuit escalates. This converges with the Mewtwo thread: TR eventually understands they are chasing the same person connected to a significant Mega Stone ore deposit. The grunt grudge becomes something larger.
 
 Cross-ref: [The Mewtwo Thread](../../saga-threads/mewtwo-ambertwo.md) (ore acquisition, long-thread payoff)
 
@@ -351,7 +351,7 @@ The battle is formal, professional --- Giovanni always is. He already knows who 
 
 After the badge is given, Giovanni asks --- casually, as if it just occurred to him --- whether she's considered the gym trainer route instead of the journey route. It's a probe for something broader. She says no. He doesn't push.
 
-He files it. Not actionable at 13. She's Oak's protégé, she just started her journey, and she has no interest in what he's offering. But the information is logged.
+He files it. Not actionable at 14. She's Oak's protégé, she just started her journey, and she has no interest in what he's offering. But the information is logged.
 
 Both of them know more than they're showing. Giovanni knows who she is --- Fuji's creation, Ambertwo --- a year after he had Fuji disappeared. Amber knows who HE is --- she's been in this world four years, she knows Giovanni runs Team Rocket.
 

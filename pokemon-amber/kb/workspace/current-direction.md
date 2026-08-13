@@ -6,12 +6,12 @@ spoilers: true
 status: confirmed
 hidden: true
 created: 2026-03-30
-updated: 2026-03-30
+updated: 2026-08-13
 ---
 
 # Current Direction
 
-**Last updated: 2026-03-30**
+**Last updated: 2026-08-13**
 
 This is the single source of truth for the story's current intended direction. All other planning docs in `future/` should be consistent with this file. If they contradict it, this file wins.
 
@@ -27,12 +27,11 @@ This is the single source of truth for the story's current intended direction. A
 
 ## Character Ages
 
-- **Amber:** 13 at journey start (1 year early, Oak approves)
-- **Kyle Kong:** 13 (1 year early, Dojo-sponsored — Saffron politics are time-sensitive)
-- **Ash Ketchum:** 12 (2 years from his own journey; canon events at 14)
-- **Sabrina:** 13 (prodigy, no reason to wait — 1 year early)
+- **Amber, Kyle Kong, Sabrina, Reid, and Nora:** graduate middle school and begin their relevant trainer phase at 14.
+- **Amber, Reid, and Nora:** the same graduating cohort.
+- **Ash Ketchum and Gary Oak:** 13 at Amber's graduation/departure, with one school year left; Amber is one year older.
 
-Standard journey age is 14. Amber, Kyle, and Sabrina are all early-departure kids for different reasons — this shared trait is part of why they become a peer group. Chapters 1-17 establish Amber is ~1 year older than Ash. These ages are consistent.
+Oak sponsors and rigorously prepares Amber for her normal age-14 start. The support is preparation and resources, not an early-graduation or early-departure exception. Kyle's Dojo training and Sabrina's prodigy status likewise do not make either an early-departure exception.
 
 ---
 
@@ -132,7 +131,7 @@ Amber is **NOT a chosen protagonist.** She keeps getting pulled into unusual Pok
 | Spectator/coach tournament role | Amber pursues conference entry herself |
 | Flint/Trapinch rescue chain | TBD acquisition episodes for Charcadet/Heracross |
 | Landon Ashford character | Removed |
-| Age 10 for all characters | Amber 13, Kyle 14, Ash 12, Sabrina 14 |
+| Age 10 for all characters | Amber, Kyle, Sabrina, Reid, and Nora begin their trainer phases at 14; Ash and Gary are 13 at Amber's departure |
 
 ---
 

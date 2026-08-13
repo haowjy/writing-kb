@@ -52,14 +52,14 @@ Vee is somehow connected to the Erika plotline — possibly:
 
 ## Two-Visit Structure
 
-**Visit 1 (Arc 2, age 13, pre-4Ever):**
+**Visit 1 (Arc 2, age 14, pre-4Ever):**
 - Amber passes through Celadon pursuing badges, encounters Vee
 - Gets drawn into the Erika/Rocket situation peripherally
 - Helps Vee fight off a Rocket escalation, leaves without recruiting Vee
 - Seeds the Erika arc and Factory Ward thread without resolving them
 - Amber already knows the Factory Ward from Ch10 (age 10) — Kaede, Hiro, Sludge Fever
 
-**Visit 2 (Arc 6, age 14, post-4Ever):**
+**Visit 2 (Arc 6, age 15, post-4Ever):**
 - Amber returns deliberately to find Vee
 - The Erika arc may be ongoing or reach its climax here
 - Amber recruits Vee; the shared Rocket enemy is the foundation
@@ -80,7 +80,7 @@ Vee is somehow connected to the Erika plotline — possibly:
 
 | Character | Pre-journey (Ch5-11) | Visit 1 (Arc 2) | Visit 2 (Arc 6) | Post-skip |
 |-----------|---------------------|-----------------|-----------------|-----------|
-| Amber | 10 | 13 | 14 | — |
+| Amber | 10 | 14 | 15 | — |
 | Erika | 17 | 20 | 21 | GL at ~20 |
 | Mary | 15 | 18 | 19 | Gone from gym |
 

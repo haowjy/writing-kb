@@ -13,7 +13,7 @@ updated: 2026-03-30
 
 **Historical record of completed story revisions**
 
-This file archives completed work for reference. Active planning should focus on future chapters.
+This file archives superseded maintenance history only. It is not current planning guidance; use `current-direction.md` and the live wiki for current truth.
 
 ---
 
@@ -152,6 +152,5 @@ Major story direction pivot:
 - Departure changed from trauma flight to licensed, Oak-supported departure
 - Economics changed from shoestring survival to Oak-funded adventure
 - Badge pacing changed from "2 badges max Year 1" to "8 badges as goal, disrupted by incidents"
-- Character ages established: Amber 13, Kyle 14, Ash 12, Sabrina 14
 - Tournament role changed from spectator/coach to active participant (goal)
 - New central planning doc created: `current-direction.md`

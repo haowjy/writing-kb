@@ -7,18 +7,18 @@ Late-saga ordering from Sinnoh onward is current planning direction, not locked 
 
 ## Age Reference
 
-- **Age 13:** Kanto Year 1, Celadon/Vee seed, 4Ever, first conference
-- **Age 14:** Celadon return, Vee recruitment, Indigo Year 2 rebuild
-- **Age 15:** Hoenn (conference winner)
-- **Age 16:** Hidden Kingdom I
-- **Age 17:** Sinnoh
-- **Age 17-18:** Paldea -> Kalos
-- **Age 18:** brief real-world displacement / Alola-Ultra Space reset
-- **Age 18:** Hoenn return / Delta Episode
-- **Age 18:** Hidden Kingdom II
-- **Age 18-20+:** main-world war and final Ultra Space pursuit
-- **Standard journey age:** 14
-- **Ash Ketchum:** Starts at 14 (2 years after Amber's start; picks up Pikachu end of Arc 9)
+- **Age 14:** Kanto Year 1, Celadon/Vee seed, 4Ever, first conference
+- **Age 15:** Celadon return, Vee recruitment, Indigo Year 2 rebuild
+- **Age 16:** Hoenn (conference winner)
+- **Age 17:** Hidden Kingdom I
+- **Age 18:** Sinnoh
+- **Age 18-19:** Paldea -> Kalos
+- **Age 19:** brief real-world displacement / Alola-Ultra Space reset
+- **Age 19:** Hoenn return / Delta Episode
+- **Age 19:** Hidden Kingdom II
+- **Age 19-21+:** main-world war and final Ultra Space pursuit
+- **Trainer start:** Amber, Kyle, Sabrina, Reid, and Nora begin their relevant trainer phase at 14 after normal middle-school graduation; Amber, Reid, and Nora are the same graduating cohort. See [age-cohort decision](decisions/age-cohort.md).
+- **Ash Ketchum:** Starts at 14, one year after Amber's start; Ash and Gary are 13 with one school year left when Amber departs.
 - **Peak trainer age (typical):** 25–30
 - **Amber is an extreme historical outlier;** Alonso Quijano can also reach peak by endgame
 
@@ -39,7 +39,7 @@ Late-saga ordering from Sinnoh onward is current planning direction, not locked 
 ## Arc Map
 
 ### Arc 1 — Kanto: Journey Start
-**Amber age:** 13 | **Region:** Indigo (Kanto)
+**Amber age:** 14 | **Region:** Indigo (Kanto)
 
 Licensed departure from Pallet. Oak-supported. Amber is equipped but untested — game knowledge ≠ real wilderness. Ch 19 (Day 1): Caterpie catch + Route 1 travel. Ch 20 (Day 2): hostile Teddiursa encounter, promise to help save his missing mother, off-route tracking to a hidden Team Rocket camp. Teddy recognizes Rocket and charges; Amber takes a meaningful but not catastrophic hit protecting him; Alonso arrives with Armarouge and Charcadet to save her. Ch 21: Amber and Alonso enter the guarded cave; Rocket releases/provokes Ursaring, who almost recognizes Teddy before Rocket removes her and collapse traps Amber/Alonso. Teddiursa, Charcadet, and Ditto slip out to bring help. Charcadet notices Amber but does not join yet. The strange Mew-adjacent ore thread begins around this cave incident. Viridian Gym is her **first** gym: Giovanni fights Amber personally, and figures out what she is. She doesn't know what he knows. Meets Kyle Kong. Early Kanto's stable travel dynamic is Amber + Kyle as a duo, not a fixed larger ensemble; the usual expansion pattern is a rotating local third force tied to a gym, quest, rival, incident, or future seed. Badge progression begins, then keeps getting pulled sideways by promises, quests, Rocket activity, gym politics, local Pokemon suffering, environmental hazards, and other weird incidents. Team Rocket is an escalating background threat. Celadon reached; first glimpse of quest board.
 
@@ -50,7 +50,7 @@ See: [Kanto Year 1](arcs/01-kanto-year-1/overview.md)
 ---
 
 ### Arc 2 — Celadon / Vee
-**Amber age:** 13 | **Region:** Indigo (Kanto — Celadon)
+**Amber age:** 14 | **Region:** Indigo (Kanto — Celadon)
 
 Amber passes through Celadon pursuing badges. Encounters Vee — a Team Rocket experiment cycling painfully between Eeveelutions, classified as a [Defeat] threat on the quest board (seeded ch7). They interact; Vee bonds with Amber's Pokemon (likely Ditto). A Rocket escalation: Amber helps Vee fight them off, then leaves. Vee doesn't come with her. Not yet.
 
@@ -63,7 +63,7 @@ See: [Celadon arc](arcs/02-06-celadon/overview.md)
 ---
 
 ### Arc 3 — Finishing Kanto
-**Amber age:** 13 | **Region:** Indigo (Kanto)
+**Amber age:** 14 | **Region:** Indigo (Kanto)
 
 Final badge push. Amber grinding toward 8, disruptions continuing. Kyle partnership deepens. Rocket interference escalates. Team building: Magikarp attempt fails → sent to Oak's ranch. Caterpie caught, eventually to ranch. Nidoran (shiny ♀) acquired.
 
@@ -72,7 +72,7 @@ Final badge push. Amber grinding toward 8, disruptions continuing. Kyle partners
 ---
 
 ### Arc 4 — 4Ever
-**Amber age:** 13 | **Region:** Indigo (Kanto — forest near Pallet region)
+**Amber age:** 14 | **Region:** Indigo (Kanto — forest near Pallet region)
 
 Teddiursa faints in the forest — fainted Pokemon cannot be recalled, Amber forced to flee. Rejects professional rescue services. Returns alone to find Teddiursa. Runs into Sam and Celebi instead. Gets swept into the 4Ever plot.
 
@@ -85,7 +85,7 @@ This is the moment she realizes the story is happening *to her*. Her metagame kn
 ---
 
 ### Arc 5 — First Conference
-**Amber age:** 13 | **Region:** Indigo (Kanto Junior League)
+**Amber age:** 14 | **Region:** Indigo (Kanto Junior League)
 
 Amber enters the Kanto U19 Junior Conference with a hole in her team. Kyle also qualifies. Kyle vs. Sabrina is the political climax (Fighting Dojo vs. Psychic Gym); Kyle eventually wins the public reversal that saves/restores the Dojo. Amber performs beyond expectations for a first-year trainer without her ace — barely makes it through, or makes a notable showing before elimination.
 
@@ -94,7 +94,7 @@ Amber enters the Kanto U19 Junior Conference with a hole in her team. Kyle also 
 ---
 
 ### Arc 6 — Celadon Return / Vee Recruitment + Indigo Year 2
-**Amber age:** 14 | **Region:** Indigo (Kanto — Celadon, then road travel)
+**Amber age:** 15 | **Region:** Indigo (Kanto — Celadon, then road travel)
 
 Post-conference, post-4Ever. Amber deliberately detours back to Celadon. The one time she actively pursues a Pokemon. Vee remembers her. When Amber says she's going after Rocket, Vee has a reason to say yes. Not warmth — shared enemy.
 
@@ -107,7 +107,7 @@ Year 2 conference: **skipped.** Amber isn't interested in performing. She's gett
 ---
 
 ### Arc 7 — Hoenn: Arrival + Trapinch
-**Amber age:** 15 | **Region:** Hoenn
+**Amber age:** 16 | **Region:** Hoenn
 
 Arrives on Trainer visa (2-3 foreign Pokemon carry limit — Ditto + Vee most likely; Ursaring or others stabled). Hoenn ecosystem shift — new Pokemon, new geography.
 
@@ -120,7 +120,7 @@ Badge progression in Hoenn. New roster additions: Mudkip or Treecko, Aron, Ninca
 ---
 
 ### Arc 8 — Hoenn: Team Magma/Aqua/Rocket + Mega Stones
-**Amber age:** 15 | **Region:** Hoenn
+**Amber age:** 16 | **Region:** Hoenn
 
 Team Magma and Aqua conflict escalates — **backed by Team Rocket** in ways that are easier to feel than to prove. Giovanni hides inside the regional noise: strange financiers, Devon pressure, data harvesting around Groudon/Kyogre/Rayquaza/Mega material, and other wrong notes that only later assemble into a pattern. **Zinnia first crosses paths with Amber here.** Rayquaza and Draconid lore are seeded, but Hoenn does not pay off Delta Episode yet.
 
@@ -133,7 +133,7 @@ Mega Stones acquired in Hoenn. Can't harness them yet. Trying.
 ---
 
 ### Arc 9 — Hoenn Conference
-**Amber age:** 15 | **Region:** Hoenn
+**Amber age:** 16 | **Region:** Hoenn
 
 Enters the Hoenn U19 Junior Conference. **Wins as the youngest ever junior conference winner.** The unconventional roster, the Trapinch evolution finally happening, the moment Vibrava/Flygon earns it — this is the peak of the Hoenn arc.
 
@@ -144,7 +144,7 @@ The original trainer who abandoned Trapinch may be in the conference. That confr
 ---
 
 ### Arc 10 --- Hidden Kingdom (Argaea): Visit 1
-**Amber age:** 16 | **Region:** Argaea, a pocket region sealed from the ordinary Pokemon world
+**Amber age:** 17 | **Region:** Argaea, a pocket region sealed from the ordinary Pokemon world
 
 Amber and Prince Alexander enter Argaea completely by accident. They first
 spend several days in Kitakami, an Argaean province or community, resolving the
@@ -174,7 +174,7 @@ thread](saga-threads/argaea.md), [Pikachu handoff](arcs/10-argaea-kitakami/pikac
 ---
 
 ### Arc 11 — Sinnoh: Ceruledge + Team Galactic
-**Amber age:** 17 | **Region:** Sinnoh
+**Amber age:** 18 | **Region:** Sinnoh
 
 Amber arrives in Sinnoh already powerful — the kingdom was a real training ground. She's here for badges, progression, the next leg of the journey. Mid-arc, she sees Ceruledge in the field working for **Team Galactic** — no prior intelligence, just collision. How it passed from Rocket to Galactic happens off-screen between arcs. Cyrus's operation is the first evil team Amber targets with full intent to dismantle, not just disrupt — partly because of Galactic's scale, partly because Ceruledge is here.
 
@@ -186,12 +186,12 @@ Sinnoh also starts surfacing the **Champion-system wrong notes** behind Giovanni
 
 New Sinnoh roster: Shinx, Sneasel/Weavile, Rockruff/Lycanroc, Turtwig or Piplup.
 
-**Ends:** Team Galactic dismantled (or significantly broken). Ceruledge situation resolved — reunion, or the beginning of one. Mega Evolution unlocked. Amber at ~17, approaching peak.
+**Ends:** Team Galactic dismantled (or significantly broken). Ceruledge situation resolved — reunion, or the beginning of one. Mega Evolution unlocked. Amber at ~18, approaching peak.
 
 ---
 
 ### Arc 12 — Paldea
-**Amber age:** 17 | **Region:** Paldea
+**Amber age:** 18 | **Region:** Paldea
 
 Current preferred placement: **after Sinnoh, before Kalos and the kingdom raid (Visit 2).** This widens the world before the next legendary-class return and reconnects Amber with Alonso's region, adventurer culture, impossible-place myths, and people who understand that frame natively.
 
@@ -200,7 +200,7 @@ Specific plot beats remain open. The durable direction is structural: Paldea sho
 ---
 
 ### Arc 13 — Kalos
-**Amber age:** 17-18 | **Region:** Kalos
+**Amber age:** 18-19 | **Region:** Kalos
 
 Current preferred placement: **before the kingdom raid (Visit 2).** Kalos is where Amber should deepen and stabilize Mega Evolution mastery, and where Mega Dimension / Hyperspace Lumiose / Darkrai-adjacent dimensional lore can become relevant groundwork rather than last-minute endgame explanation.
 
@@ -209,7 +209,7 @@ Specific arc content remains open. The durable direction is that Kalos is part t
 ---
 
 ### Arc 14 — Real-World Displacement / Alola Reset
-**Amber age:** 18 | **Region:** dimensional displacement -> Alola / Ultra Space
+**Amber age:** 19 | **Region:** dimensional displacement -> Alola / Ultra Space
 
 After Kalos-side dimensional fallout — or some closely related late-saga rupture in the same family — Amber is briefly displaced into the real mundane world, then recovered through **Aether / Lusamine / Ultra Wormhole** activity. Alola functions as a mini-reset arc: Amber is still highly capable, but loses easy access to paperwork, roster depth, trusted infrastructure, and mainland support while Aether's crisis turns her into a locally wanted anomaly to contain or blame.
 
@@ -220,7 +220,7 @@ See: [Future Arc: Alola / Aether / Ultra Space Reset](arcs/14-dimensional-displa
 ---
 
 ### Arc 15 — Delta Episode / Hoenn Return
-**Amber age:** 18 | **Region:** Hoenn
+**Amber age:** 19 | **Region:** Hoenn
 
 After Alola, Amber returns to Hoenn for the **Delta Episode payoff**. Zinnia should own this arc's mythic core: Draconid lore, Rayquaza, meteor burden, and decisive action. Amber's role is crucial but supporting. She supplies the missing Meteorite condition before Sky Pillar and argues against Devon/League dimensional-disposal plans because Alola and the real-world displacement taught her that other worlds may contain real lives.
 
@@ -231,7 +231,7 @@ See: [Future Arc: Hoenn](arcs/07-09-hoenn/overview.md)
 ---
 
 ### Arc 16 --- Hidden Kingdom (Argaea): Visit 2
-**Amber age:** 18 | **Region:** Argaea
+**Amber age:** 19 | **Region:** Argaea
 
 Alexander has gained the resolve to re-enter Argaea. He and Amber recruit a
 capable group and return deliberately to a debt created in Visit 1.
@@ -252,7 +252,7 @@ thread](saga-threads/argaea.md)
 ---
 
 ### Arc 17+ — Main-World Escalation and War
-**Amber age:** 18-20+ | **Region:** interregional / global
+**Amber age:** 19-21+ | **Region:** interregional / global
 
 Mega Evolution is fully harnessed, peak rosters assemble, and trainers and
 their partners become strategic political actors. Giovanni's years of
@@ -282,7 +282,7 @@ resurfaces as Mewtwonite Y and helps Amber support Mewtwo #1 during the crisis.
 See: [The Mewtwo Thread](saga-threads/mewtwo-ambertwo.md)
 
 ### Final Saga — Ultra Space Pursuit / Rainbow Rocket
-**Amber age:** 18-20+ | **Region:** Ultra Space / multiple Pokemon realities
+**Amber age:** 19-21+ | **Region:** Ultra Space / multiple Pokemon realities
 
 Amber and a small group pursue Giovanni through Ultra Space, crossing Pokemon
 worlds drawn from the anime, manga, games, alternate outcomes,
@@ -306,24 +306,24 @@ Dungeon resolution remain open.
 
 | Arc | Age | Region | Key Beat |
 |-----|-----|--------|----------|
-| 1 | 13 | Kanto | Journey start (Ch 18-21), Teddiursa/Ursaring promise, Alonso/Charcadet seeded through camp+cave mini-arc |
-| 2 | 13 | Celadon | Vee first encounter, Celadon politics seeded |
-| 3 | 13 | Kanto | 8 badges earned |
-| 4 | 13 | Kanto forest | 4Ever — major Ursaring/Teddiursa payoff TBD, Charcadet stolen |
-| 5 | 13 | Kanto | First conference — enters without ace |
-| 6 | 14 | Celadon/Kanto | Vee recruited, Year 2, skips conference |
-| 7 | 15 | Hoenn | Arrival, Trapinch arc begins |
-| 8 | 15 | Hoenn | Magma/Aqua/Rocket, Ceruledge sighting, Mega Stones |
-| 9 | 15 | Hoenn | Conference — youngest ever winner |
-| 10 | 16 | Argaea / Kitakami | Accidental entry with Alexander; first Mega Evolution; loss; Cresselia and Gardevoir patch the seal |
-| 11 | 17 | Sinnoh | Team Galactic dismantled, Ceruledge reunion, Mega unlocked |
-| 12 | 17 | Paldea | Adventurer-culture widening, Alonso-region reconnection |
-| 13 | 17-18 | Kalos | Mega mastery and dimensional lore deepening |
-| 14 | 18 | Alola reset | Brief real-world displacement -> Aether extraction -> Alola / Ultra Space fugitive reset |
-| 15 | 18 | Hoenn return | Delta Episode — Zinnia owns the Rayquaza payoff; Amber supports |
-| 16 | 18 | Argaea | Deliberate return to replace the stopgap, free Gardevoir, and resolve the greater crisis; mechanism open |
-| 17+ | 18-20+ | Main world | Peak politics, systemic Dungeon crisis, coalition war, Giovanni defeated and escapes |
-| Final saga | 18-20+ | Ultra Space / many realities | Small-group pursuit and final battle against Rainbow Rocket |
+| 1 | 14 | Kanto | Journey start (Ch 18-21), Teddiursa/Ursaring promise, Alonso/Charcadet seeded through camp+cave mini-arc |
+| 2 | 14 | Celadon | Vee first encounter, Celadon politics seeded |
+| 3 | 14 | Kanto | 8 badges earned |
+| 4 | 14 | Kanto forest | 4Ever — major Ursaring/Teddiursa payoff TBD, Charcadet stolen |
+| 5 | 14 | Kanto | First conference — enters without ace |
+| 6 | 15 | Celadon/Kanto | Vee recruited, Year 2, skips conference |
+| 7 | 16 | Hoenn | Arrival, Trapinch arc begins |
+| 8 | 16 | Hoenn | Magma/Aqua/Rocket, Ceruledge sighting, Mega Stones |
+| 9 | 16 | Hoenn | Conference — youngest ever winner |
+| 10 | 17 | Argaea / Kitakami | Accidental entry with Alexander; first Mega Evolution; loss; Cresselia and Gardevoir patch the seal |
+| 11 | 18 | Sinnoh | Team Galactic dismantled, Ceruledge reunion, Mega unlocked |
+| 12 | 18 | Paldea | Adventurer-culture widening, Alonso-region reconnection |
+| 13 | 18-19 | Kalos | Mega mastery and dimensional lore deepening |
+| 14 | 19 | Alola reset | Brief real-world displacement -> Aether extraction -> Alola / Ultra Space fugitive reset |
+| 15 | 19 | Hoenn return | Delta Episode — Zinnia owns the Rayquaza payoff; Amber supports |
+| 16 | 19 | Argaea | Deliberate return to replace the stopgap, free Gardevoir, and resolve the greater crisis; mechanism open |
+| 17+ | 19-21+ | Main world | Peak politics, systemic Dungeon crisis, coalition war, Giovanni defeated and escapes |
+| Final saga | 19-21+ | Ultra Space / many realities | Small-group pursuit and final battle against Rainbow Rocket |
 
 ---
 

@@ -44,7 +44,7 @@ This is the first time Amber sees what's underneath Celadon's surface. She doesn
 
 ### Arc 2 / Arc 6 (Journey)
 
-The Factory Ward's conditions are part of the Celadon arc's political tension. When Amber returns to Celadon at 13 and again at 14, the ward is still there, still rotting. Whether Erika — now pursuing the GL title — will actually change anything, or whether she'll inherit the system as-is, is an open question.
+The Factory Ward's conditions are part of the Celadon arc's political tension. When Amber returns to Celadon at 14 and again at 15, the ward is still there, still rotting. Whether Erika — now pursuing the GL title — will actually change anything, or whether she'll inherit the system as-is, is an open question.
 
 Team Rocket's presence in the Factory Ward connects to the Vee thread (Rocket experiment cycling between Eeveelutions, first encountered in Arc 2).
 

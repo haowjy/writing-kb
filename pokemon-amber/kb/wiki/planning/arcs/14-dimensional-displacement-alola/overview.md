@@ -2,7 +2,7 @@
 
 **Status:** drafting
 
-**Amber age:** 18. Arc function, pressure, and key relationship lanes are
+**Amber age:** 19. Arc function, pressure, and key relationship lanes are
 clear; exact mechanics and final composition remain partly open.
 
 ## What It Is

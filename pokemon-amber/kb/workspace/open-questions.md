@@ -6,7 +6,7 @@ spoilers: true
 status: active
 hidden: true
 created: 2025-10-14
-updated: 2026-04-05
+updated: 2026-08-13
 ---
 
 # Open Questions to Decide Later
@@ -62,7 +62,7 @@ updated: 2026-04-05
 - Mutual benefit situation (not rescue)
 - [User will develop specific plot]
 
-**Note:** Kyle is 14, Amber is 13. More peer-based dynamic than old version. Both pursuing badges.
+**Note:** Kyle and Amber are both 14 and in the same trainer year. The dynamic is peer-based; both pursue badges.
 
 **Urgency:** Medium - need to decide before writing Kyle's introduction
 
@@ -346,9 +346,9 @@ If Amber competes, she needs opponents worth writing. Who are they?
 ### ✅ DECIDED: Ages (2026-03-30)
 **Original Question:** Character ages
 
-- **Chosen:** Amber 13, Kyle 14, Ash 12, Sabrina 14
-- **Standard journey age:** 14-15
-- **Amber:** 1 year early (Oak approves based on competence)
+- **Chosen:** Amber, Kyle, Sabrina, Reid, and Nora graduate middle school normally and begin their relevant trainer phase at 14. Amber, Reid, and Nora are the same graduating cohort.
+- **Ash and Gary:** 13 at Amber's departure, with one school year left; Amber is one year older.
+- **Oak's role:** rigorous preparation and sponsorship for Amber's normal start, not an early-departure exception.
 - **Replaces:** Old "age 10 for all characters"
 
 ---

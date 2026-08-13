@@ -2,12 +2,12 @@
 
 **Status:** drafting
 
-Approximately sixty-two in the story present, Oak is Amber's primary mentor and benefactor. He provides resources, Oak's Letter, and continued support throughout her journey. Publicly a renowned Pokemon researcher; privately a man carrying a nearly fifty-year-old memory he has never told anyone.
+Approximately sixty-two in the story present, Oak is Amber's primary mentor and benefactor. He rigorously prepares her for her normal age-14 departure, provides resources and Oak's Letter, and continues supporting her throughout the journey. Publicly a renowned Pokemon researcher; privately a man carrying a nearly fifty-year-old memory he has never told anyone.
 
 ## Role in Story
 
 - Gives Ditto to Amber at the end of ch17
-- Provides licensing, equipment, and starter funds before her departure (ch18)
+- Rigorously prepares Amber for her normal age-14 departure, then provides licensing, equipment, and starter funds (ch18)
 - Active mentor in the background throughout Arc 1 — not helicopter parenting, but present
 - The Sam/4Ever connection runs quietly beneath every scene between them
 

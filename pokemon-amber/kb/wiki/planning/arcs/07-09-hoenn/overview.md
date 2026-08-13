@@ -1,6 +1,6 @@
 # Future Arc: Hoenn
 
-**Amber age:** 15 | **Status:** Hoenn's structural job is clear. Exact badge order, roster composition, and crisis choreography remain partly open.
+**Amber age:** 16 | **Status:** Hoenn's structural job is clear. Exact badge order, roster composition, and crisis choreography remain partly open.
 
 ## What It Is
 
@@ -18,7 +18,7 @@ Hoenn should feel broad, sun-bright, and adventurous on the surface while carryi
 
 ## Current Direction
 
-- **Placement:** Hoenn remains Amber's age-15 conference year and still sits before [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](../10-argaea-kitakami/overview.md).
+- **Placement:** Hoenn remains Amber's age-16 conference year and still sits before [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](../10-argaea-kitakami/overview.md).
 - **Trainer arc:** Amber establishes herself in a new region, builds a Hoenn roster, and wins the Hoenn junior conference as the youngest ever winner.
 - **Emotional spine:** Trapinch/Flygon is still a major internal Hoenn throughline.
 - **Power seed:** Amber acquires Mega Stones here but cannot fully use them yet.

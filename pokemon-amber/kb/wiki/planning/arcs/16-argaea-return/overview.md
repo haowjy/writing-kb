@@ -2,7 +2,7 @@
 
 **Status:** drafting
 
-**Arc:** 16 (Visit 2, Amber age ~18)
+**Arc:** 16 (Visit 2, Amber age ~19)
 
 Alexander and Amber deliberately return with a capable group to:
 

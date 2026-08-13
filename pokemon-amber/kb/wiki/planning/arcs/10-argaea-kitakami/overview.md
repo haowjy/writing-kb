@@ -2,7 +2,7 @@
 
 **Status:** drafting
 
-**Arc:** 10 (Visit 1, Amber age ~16)
+**Arc:** 10 (Visit 1, Amber age ~17)
 
 Amber and Prince Alexander accidentally enter Argaea, resolve a local Kitakami
 crisis, then lose the larger confrontation and escape behind a temporary seal.

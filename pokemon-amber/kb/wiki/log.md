@@ -309,7 +309,7 @@ Locked this session:
 Consistency sweep (this entry):
 - Updated `arcs/saga-overview.md`: Arc 10/16 named Argaea; fixed stale "suppressing through Cresselia / over his reign" line to the give-Cresselia-away / stasis-vigil version; added Shaymin to the Arc 16 cure
 - Updated `wiki/index.md`: named Argaea in prince + arc entries; "Mt. Silver" -> "Mt. Silver anomaly"
-- Updated `characters/amber-mc-team.md`: named Argaea (Gardevoir, Pikachu, Gible entries, cross-ref); **flagged** the Year-2 (~age 14) vs Arc 10 (age 16) timeline contradiction (Gardevoir is a Hoenn acquisition yet "stays in Argaea")
+- Updated `characters/amber-mc-team.md`: named Argaea (Gardevoir, Pikachu, Gible entries, cross-ref); **superseded chronology note:** this older age-label flag predates the normal age-14 trainer-start decision; consult live planning for current chronology
 - Verified no live page reintroduces "Kitakami" (only `vocab.md` "dropped" note + this log) or "dream realm" as a place-name (`darkrai-cresselia.md` keeps it only as a Gen 5 canon-reference). `professor-oak.md` and `dimensional-displacement-bridge.md` keep "the (hidden) kingdom" as natural back-reference --- in-world correct (Oak doesn't know the name)
 - Resolved the "sweep pending" flags in `vocab.md` and `arc-hidden-kingdom.md`
 - Note: lore-keeper spawn (p23) for this sweep failed on a billing error; sweep was completed inline instead
@@ -455,3 +455,10 @@ the exact facts and open choreography.
 - Set Oak at approximately sixty-two in the story present, approximately forty-two when the first Kanto secession war ended, and approximately fifteen during the Celebi/4Ever encounter about forty-seven years ago.
 - Set Lance at approximately twenty-eight to thirty in the present and roughly eight to ten at the war's end. Oak remembers him as a child; Lance grew up respecting Oak as a living legend and former Champion despite their present formal and potentially conflicting roles.
 - Removed direct Oak-to-Lance succession. At least one Champion intervened before Lance's recent accession. Pryce is the private current direction for that intermediary, but dates, procedure, Pryce's politics, and whether Lance defeated him remain open.
+
+## 2026-08-13 --- Settled normal trainer-start cohort and shifted chronology
+
+- Replaced live early-departure and age-13 Kanto Year 1 guidance with normal age-14 middle-school graduation and trainer starts for Amber, Kyle, Sabrina, Reid, and Nora; Amber, Reid, and Nora are the same graduating cohort.
+- Recorded that Ash and Gary are 13 with one school year left at Amber's departure, and that Oak's rigorous sponsorship is preparation rather than an exception.
+- Shifted all downstream Amber age labels by one year while preserving arc order; no discarded alternatives remain in live guidance.
+- Marked the Pikachu handoff's placement as an explicit open chronology decision rather than retaining conflicting placement claims.
