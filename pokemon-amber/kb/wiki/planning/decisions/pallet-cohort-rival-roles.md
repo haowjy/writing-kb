@@ -2,16 +2,18 @@
 
 **Status:** drafting
 
+Oak normally sponsors exactly three Pallet graduates each year. Reid and Nora
+are publicly known as two of this year's three; Amber is the unknown third.
+
 Reid is the only newly introduced conventional recurring/tournament rival
-currently promised for Amber. Nora is an analytical academic foil and fellow
-Oak-sponsored graduate who may recur, but she is not promised as a major battle
-rival or tournament fixture.
+currently promised for Amber. Nora is an analytical academic foil who may
+recur, but she is not promised as a major battle rival or tournament fixture.
 
 ## Distinct Roles
 
 | Character | Settled role | Not implied |
 |---|---|---|
-| Reid | Fiery Pallet contemporary; conventional recurring/tournament rival | Starter, team, type focus, career, or exact tournament cadence |
+| Reid | Fiery Oak-sponsored Pallet contemporary; conventional recurring/tournament rival | Starter, team, type focus, career, or exact tournament cadence |
 | Nora | Analytical academic foil; Oak-sponsored member of Amber's graduating cohort; possible recurrence | Major battle rivalry, recurring tournament opposition, starter, team, career, or any tournament participation |
 
 "Academic foil" describes how Nora contrasts with Amber's approach to school
@@ -27,6 +29,10 @@ even though Amber did not form close friendships with them. Reid can seed a
 conventional competitive role; Nora should sharpen the classroom exchange
 through precise questions or information rather than inherit the same role.
 
+Reid and Nora are already publicly known as Oak-sponsored graduates. Reid's
+question reveals Amber as Oak's unknown third sponsored graduate rather than
+announcing an unexpected sponsorship program or exception.
+
 The scene must not manufacture a future tournament bracket from Amber's
 classroom. Later tournaments should derive most familiar competitors from
 people Amber meets organically during her journey. Which journey characters
@@ -36,9 +42,9 @@ return in that capacity remains open.
 
 - Reid and Nora's starters, teams, and careers
 - Amber, Reid, and Nora's exact class rankings and any valedictorian status
+- Nora's broad personality beyond her analytical academic-foil function
 - Nora's degree of recurrence and whether she ever participates materially in a tournament
 - Reid's exact tournament appearances
-- Reid's Oak-sponsorship status and Oak's annual sponsorship quota
 
 ## Cross-Refs
 

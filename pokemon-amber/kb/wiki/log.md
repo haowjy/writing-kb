@@ -474,5 +474,6 @@ the exact facts and open choreography.
 
 - Kept Reid as Amber's fiery Pallet contemporary and the only newly introduced conventional recurring/tournament rival currently promised.
 - Defined Nora as the analytical academic foil and fellow Oak-sponsored graduate who may recur without promising her as a major battle rival or tournament fixture.
+- Recorded Oak's normal quota of exactly three sponsored Pallet graduates per year: Reid and Nora are publicly known as two of this year's three, while Amber is the unknown third.
 - Required Chapter 18 to establish both as members of Amber's real graduating cohort without prebuilding a future tournament bracket; most familiar tournament participants should emerge organically from the journey.
-- Left both characters' starters, teams, careers, rankings, and valedictorian status open, along with Nora's recurrence and tournament participation.
+- Left both characters' starters, teams, careers, rankings, and valedictorian status open, along with Nora's broader personality, recurrence, and tournament participation.
