@@ -176,7 +176,8 @@ Key beats regardless of outcome:
 - Old plan: spectator/coach only (2 badges)
 - New plan: **she's pursuing 8 badges herself.** Whether she gets there depends on how many disruptions the story throws at her.
 - Even if she qualifies, she may not go deep --- she's a first-year trainer with an unusual team
-- Notable opponents: TBD
+- [Reid](../../decisions/pallet-cohort-rival-roles.md) is the only newly introduced conventional recurring/tournament rival currently promised. Nora is not a promised battle rival or tournament fixture.
+- Most other familiar tournament participants should be people met organically during the journey rather than a prebuilt field of Pallet classmates. Specific opponents remain open.
 
 ---
 

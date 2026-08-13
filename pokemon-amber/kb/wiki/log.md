@@ -469,3 +469,10 @@ the exact facts and open choreography.
 - Marked Charizard, Venusaur, and Blastoise as the restricted wartime trio that fought under Champion Oak. The pardon bars their reclamation or remobilization because restoring the trio would carry the political symbolism of Oak's wartime force.
 - Set the later partial-rehabilitation direction: Oak materially helps expose Giovanni or cripple Team Rocket, after which authorities permit the trio's reunion. The operation, public disclosure, and legal mechanism remain open.
 - Set the resulting one-time League-managed eggs from the three starter lines for Ash's cohort. Removed the implication that Pallet runs an annual Kanto-starter giveaway, and kept Ash's late arrival and Pikachu outcome open.
+
+## 2026-08-13 --- Distinguished Pallet cohort and rival roles
+
+- Kept Reid as Amber's fiery Pallet contemporary and the only newly introduced conventional recurring/tournament rival currently promised.
+- Defined Nora as the analytical academic foil and fellow Oak-sponsored graduate who may recur without promising her as a major battle rival or tournament fixture.
+- Required Chapter 18 to establish both as members of Amber's real graduating cohort without prebuilding a future tournament bracket; most familiar tournament participants should emerge organically from the journey.
+- Left both characters' starters, teams, careers, rankings, and valedictorian status open, along with Nora's recurrence and tournament participation.

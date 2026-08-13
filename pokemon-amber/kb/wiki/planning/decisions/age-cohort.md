@@ -13,6 +13,7 @@ Kanto Year 1 begins when Amber is 14. Later age labels follow from that start wh
 ## Cross-Refs
 
 - [Saga overview](../saga-overview.md)
+- [Pallet cohort rival roles](pallet-cohort-rival-roles.md)
 - [Amber](../../reference/characters/humans/amber-mc.md)
 - [Kyle Kong](../../reference/characters/humans/kyle-kong.md)
 - [Sabrina](../../reference/characters/humans/sabrina.md)
