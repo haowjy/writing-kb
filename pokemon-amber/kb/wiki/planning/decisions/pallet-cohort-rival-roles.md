@@ -21,19 +21,20 @@ and analysis. It is not a synonym for "battle rival." Likewise, membership in
 Amber's cohort establishes shared history, not a promise that every classmate
 will become a recurring competitor.
 
-## Chapter 18 Contract
+## Chapter 18 State
 
-Chapter 18 should make Reid and Nora recognizable members of Amber's real
+Chapter 18 establishes Reid and Nora as recognizable members of Amber's real
 graduating cohort. Their familiarity comes from years of ordinary school life,
-even though Amber did not form close friendships with them. Reid can seed a
-conventional competitive role; Nora should sharpen the classroom exchange
-through precise questions or information rather than inherit the same role.
+even though Amber did not form close friendships with them. Reid challenges
+Amber, and she turns the challenge into a mutual promise to battle in the
+finals at Indigo Plateau. Nora sharpens the classroom exchange through precise
+questions and information rather than inheriting Reid's competitive role.
 
 Reid and Nora are already publicly known as Oak-sponsored graduates. Reid's
 question reveals Amber as Oak's unknown third sponsored graduate rather than
 announcing an unexpected sponsorship program or exception.
 
-The scene must not manufacture a future tournament bracket from Amber's
+This promise does not manufacture a future tournament bracket from Amber's
 classroom. Later tournaments should derive most familiar competitors from
 people Amber meets organically during her journey. Which journey characters
 return in that capacity remains open.

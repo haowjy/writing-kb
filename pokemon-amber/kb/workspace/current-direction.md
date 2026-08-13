@@ -20,7 +20,7 @@ This is the single source of truth for the story's current intended direction. A
 ## Story Status
 
 - **Arc 0 (Chapters 1-17):** Written
-- **Chapter 18:** Planning (new direction below)
+- **Chapter 18:** Drafted; settled story state below, not yet published canon
 - **Arc 1 (Kanto Year 1):** Planning (new direction below)
 
 ---
@@ -37,15 +37,20 @@ Oak sponsors and rigorously prepares Amber for her normal age-14 start. The supp
 
 ## Chapter 18: Departure
 
-Amber's departure is **licensed, calm, and Oak-supported.** Not a trauma-driven flight.
+Amber's departure is **licensed, calm, and Oak-supported.** Her licensing and
+competency process happened offscreen; the chapter does not stage an exam or an
+early-departure exception.
 
 Six scenes:
-1. **License exam** --- real competency gate, Amber unusually prepared, competent not flashy
-2. **Oak conversation** --- responsibility speech, Amber bored-nodding but listening, Oak provides resources
-3. **Ranch** --- Pokemon goodbyes; Ash and Gary bring jealousy, argument, and comedy
-4. **Going-away party** --- Delia, Oak, Ash, Gary, and Ditto participate in a lively send-off
-5. **Packing / quiet close** --- evening, calm anticipation, forward-looking
-6. **Sunrise farewell** --- Pallet sees Amber and Ditto off as the adventure finally begins
+1. **Last school day** --- Reid and Nora reveal Amber as Oak's unknown third sponsored graduate; Amber and Reid promise to battle in the Indigo Plateau finals.
+2. **Lab sendoff** --- Oak's assistants provide practical travel gear; Oak gives Amber the prototype Pokedex and asks her to gather field scans.
+3. **Ranch and laboratory** --- Amber's three years of difficult work with Oak frame her thin school relationships; she recognizes an unlabeled Mega Stone but cannot safely ask about it.
+4. **Photograph, cake, and goals** --- Amber names travel and discovery, rather than a title, as her reason for leaving.
+5. **Oak's private farewell** --- he would prefer another year but trusts the standards she passed and her attention to Pokemon disagreement rather than obedience alone.
+6. **Sunrise departure** --- Pallet sees Amber and Ditto off as they begin the road north.
+
+The Mega Stone's species association and provenance remain open. Nothing
+establishes Rowan as its sender.
 
 ---
 
@@ -62,15 +67,10 @@ Six scenes:
 - Signals momentum and becoming
 - Strong identity tension (unsettled future shape)
 
-### 3. Heracross
-- Pain-averse, cleanliness-obsessed, hates getting dirty/hurt
-- Dislikes close combat despite being physically built for it
-- Judged/bullied by other Pokemon and trainers for seeming "wrong" for a Heracross
-- Amber does NOT force it into brawler role
-- Develops **technical, repeated-strike, multi-hit fighting style** --- precise rather than tanky
-- Adds warmth, physicality, comedy, battle presence to the team
-- Resonates with Amber through mismatch/misread identity (not one-to-one mirror)
-- Later Mega Heracross payoff possible
+### 3. Teddiursa
+- Route 1 Pokemon bound to Amber by her promise to help rescue his captured mother
+- Grievance-driven rather than immediately warm or trusting
+- Remains with Amber while Ursaring stays in Team Rocket custody
 
 ### Team Philosophy
 **Not every Pokemon should mirror Amber.** The team should feel like a group of beings with their own problems and histories who end up around Amber because she is the kind of person they can stay with.
@@ -80,7 +80,10 @@ Six scenes:
 ## Economics
 
 Oak's support means Amber is **properly resourced.** Not shoestring.
-- Starter funds, equipment, supplies from Oak
+- Oak's assistants provide starter funds, routine supplies, Rapidash Athletics
+  Stormweave trail runners, and a Silph Co. spatial bag that expands capacity
+  while reducing effective carrying weight
+- Oak provides the prototype Pokedex and the field-scan assignment
 - Can afford pokeballs, Pokemon Centers, basic living
 - Still not wealthy --- working-class-plus, not elite
 - World economics unchanged (pokeballs still expensive, quests still available)
@@ -151,9 +154,7 @@ Amber is **NOT a chosen protagonist.** She keeps getting pulled into unusual Pok
 
 ## Open Questions
 
-See `_open-questions.md` for full tracker. Key unresolved:
-- Charcadet acquisition: where/how?
-- Heracross acquisition: where/how?
+See `open-questions.md` for the full tracker. Key unresolved:
 - Charcadet evolution: Armarouge or Ceruledge? When?
 - How many badges does Amber actually get in Year 1?
 - Conference outcome: does she qualify? How far?

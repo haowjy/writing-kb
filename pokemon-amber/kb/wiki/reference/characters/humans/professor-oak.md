@@ -2,14 +2,43 @@
 
 **Status:** drafting
 
-Approximately sixty-two in the story present, Oak is Amber's primary mentor and benefactor. He rigorously prepares her for her normal age-14 departure, provides resources and Oak's Letter, and continues supporting her throughout the journey. Publicly a renowned Pokemon researcher; privately a man carrying a nearly fifty-year-old memory he has never told anyone.
+Approximately sixty-two in the story present, Oak is Amber's primary mentor and benefactor. He rigorously prepares her for her normal age-14 departure, supports her licensing, provides a prototype Pokedex, and continues supporting her throughout the journey. Publicly a renowned Pokemon researcher; privately a man carrying a nearly fifty-year-old memory he has never told anyone.
 
 ## Role in Story
 
 - Gives Ditto to Amber at the end of ch17
-- Rigorously prepares Amber for her normal age-14 departure, then provides licensing, equipment, and starter funds (ch18)
+- Rigorously prepares Amber for her normal age-14 departure, supports her
+  licensing, and entrusts her with a prototype Pokedex (ch18)
 - Active mentor in the background throughout Arc 1 — not helicopter parenting, but present
 - The Sam/4Ever connection runs quietly beneath every scene between them
+
+## Amber's Preparation
+
+During Amber's three years in Pallet, Oak gives her difficult academic and
+practical work at his ranch and laboratory. He would prefer another year of
+preparation before her journey, but she passes every standard he sets.
+
+His trust rests on more than technical competence. He has watched Amber work
+with many Pokemon and sees that she notices when they disagree with her rather
+than treating obedience as the only sign of success. He therefore trusts her
+judgment on the road while telling her to let her Pokemon challenge it.
+
+## Prototype Pokedex
+
+Oak gives Amber the prototype Pokedex at her Chapter 18 sendoff and asks her to
+gather field scans. Each scan derives and stores an image, estimated height,
+weight, and type. The prototype cannot yet identify a species by name, provide
+descriptions, or speak. Amber's suggestion gives Oak the idea that spoken
+descriptions would let a trainer keep watching a wild Pokemon; whether and when
+that feature is implemented remains open.
+
+## Workbench Mega Stone
+
+An unlabeled Mega Stone sits on Oak's workbench in Chapter 18. Amber recognizes
+what kind of object it is but cannot identify its species association. She does
+not ask Oak about it because explaining her recognition would expose knowledge
+she should not possess. The stone's provenance remains unresolved; nothing
+currently establishes Rowan as its sender.
 
 ## The Secession War
 

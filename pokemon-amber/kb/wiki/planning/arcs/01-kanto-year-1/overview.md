@@ -6,7 +6,16 @@
 
 ## What Happens
 
-Amber departs Pallet Town at 14 after normal middle-school graduation, with Oak's blessing, a trainer license, starter funds, and Ditto. Oak has rigorously prepared her, but this is not an early-departure exception. Her goal: 8 gym badges and conference entry. She acquires Charcadet and Teddiursa along the way. She meets Kyle Kong (14), and early Kanto settles into a core **Amber + Kyle** road dynamic: two peers pursuing badges together, Amber providing tactical insight and stubborn follow-through, Kyle providing muscle, confidence, and social momentum.
+Amber departs Pallet Town at 14 after normal middle-school graduation, with
+Oak's blessing, a trainer license, practical equipment, starter funds, Ditto,
+and a prototype Pokedex field assignment. Oak has rigorously prepared her, but
+this is not an early-departure exception. She leaves to travel, meet Pokemon,
+and see unfamiliar places; the arc develops that open-ended drive into an
+eight-badge and conference pursuit. She acquires Charcadet and Teddiursa along
+the way. She meets Kyle Kong (14), and early Kanto settles into a core **Amber
++ Kyle** road dynamic: two peers pursuing badges together, Amber providing
+tactical insight and stubborn follow-through, Kyle providing muscle,
+confidence, and social momentum.
 
 The journey is properly resourced but repeatedly disrupted by weird Pokemon incidents that pull Amber off the gym circuit. Team Rocket operates as an escalating background threat. The gap between "normal trainer journey plan" and "weird stuff keeps happening to me" drives the arc.
 
@@ -21,7 +30,7 @@ The journey is properly resourced but repeatedly disrupted by weird Pokemon inci
 - Team Rocket surveillance / interference
 - Conference arc (TBD: does Amber qualify? How far does Kyle get?)
 
-**Ending State:** TBD badges, full early roster (Ditto/Charcadet/Heracross), Kyle partnership solid, conference outcome resolved, setup for Arc 2.
+**Ending State:** TBD badges, full early roster (Ditto/Charcadet/Teddiursa), Kyle partnership solid, conference outcome resolved, setup for Arc 2.
 
 ---
 
@@ -41,13 +50,26 @@ Amber is not a chosen-one protagonist in this structure. She gets pulled into la
 
 ## Ch 18: Departure
 
-Licensed, calm, Oak-supported. See `current-direction.md` for full six-scene breakdown.
+Licensed, calm, Oak-supported. Amber's license and competency process occurred
+offscreen; Chapter 18 does not stage an exam.
 
 Key points:
-- Amber passes competency exam (unusually prepared, not flashy)
-- Oak provides resources, equipment, starter funds
-- Ranch goodbyes and Ash/Gary jealousy comedy
-- A lively going-away party with Delia participating naturally
+- Reid and Nora are fellow age-14 Oak-sponsored graduates; Reid and Amber
+  promise a battle in the Indigo Plateau finals, while Nora remains an academic
+  foil rather than a promised battle rival
+- The lab assistants provide practical travel supplies, Stormweave trail
+  runners, and a Silph Co. spatial bag that expands capacity and reduces
+  effective carrying weight
+- Oak's prototype Pokedex stores a scan's image, estimated height, weight, and
+  type; it cannot yet name the species, provide a description, or speak
+- Amber's suggestion gives Oak the idea for spoken descriptions, and he asks
+  her to gather field scans during the journey
+- The ranch and laboratory show the difficult academic and practical work Oak
+  gave Amber during the three-year Pallet gap
+- Amber recognizes an unlabeled Mega Stone on Oak's workbench but cannot name
+  its species association or explain her recognition; its provenance remains open
+- Oak would prefer another year, but trusts Amber because she passed his
+  standards and notices when Pokemon disagree rather than valuing obedience alone
 - Sunrise farewell --- legitimate, joyful, forward-looking
 
 **NOT:** trauma-driven flight, pre-dawn escape, forged documents catalyst.

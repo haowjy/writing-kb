@@ -311,7 +311,9 @@ See also: [Clan & Lineage System](../society/clan-system.md)
 - Trying to systematize and democratize knowledge
 - Remove mysticism, add scientific understanding
 - Face resistance from elite families
-- Oak's Pokedex: gather bond data across trainers/species
+- Field observation across trainers and species supports the bond research; the
+  Chapter 18 prototype Pokedex gathers basic Pokemon scans rather than serving
+  as the bond study itself
 - Goal: make aura cultivation teachable without ancient lineages
 
 **Psychics (Special Case):**

@@ -477,3 +477,16 @@ the exact facts and open choreography.
 - Recorded Oak's normal quota of exactly three sponsored Pallet graduates per year: Reid and Nora are publicly known as two of this year's three, while Amber is the unknown third.
 - Required Chapter 18 to establish both as members of Amber's real graduating cohort without prebuilding a future tournament bracket; most familiar tournament participants should emerge organically from the journey.
 - Left both characters' starters, teams, careers, rankings, and valedictorian status open, along with Nora's broader personality, recurrence, and tournament participation.
+
+## 2026-08-13 --- Captured settled Chapter 18 departure state
+
+- Replaced the obsolete on-page license exam and packing outline with the
+  drafted school, lab sendoff, ranch, private-farewell, and sunrise-departure
+  structure; Amber's licensing remains offscreen and ordinary.
+- Recorded Reid's Indigo Plateau finals promise and retained Nora as the
+  academic foil rather than a second promised tournament rival.
+- Added Amber's three-year ranch/lab routine, the assistants' Stormweave shoes
+  and Silph spatial bag, and the prototype Pokedex's limited field-scan
+  capabilities.
+- Recorded Oak's evidence-based trust in Amber and the visible workbench Mega
+  Stone while leaving the stone's species association and provenance open.

@@ -13,6 +13,14 @@
   - See: [Communications](communications.md)
 - Identity & Security: Inconsistent IDs, visual verification, minimal child ID enforcement; League influence rising.
   - See: [Identity & Security](identity-security.md)
+- Field Research Devices: Oak's Chapter 18 Pokedex is an incomplete prototype,
+  not the finished speaking encyclopedia Amber remembers. A scan derives and
+  stores an image, estimated height, weight, and type; it cannot yet identify a
+  species by name, provide descriptions, or speak. Amber gives Oak the idea for
+  spoken descriptions, and he assigns her to gather field scans.
+- Spatial Storage: Silph Co. can produce a travel bag whose interior capacity
+  exceeds its exterior dimensions and whose contents impose less effective
+  carrying weight. Amber receives one at her Chapter 18 sendoff.
 
 ## Trajectory
 - Short term: Tourist growth at hubs like Cinnabar drives ad‑hoc airfields (blimp masts + Pokemon pads); standardization (IDs, manifests, licensing) rolls out unevenly; League authority extends via Indigo joint administration.

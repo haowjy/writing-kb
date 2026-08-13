@@ -19,13 +19,29 @@ This is the same capacity Oak's bond research is trying to understand from the o
 
 See: [Aura & Bond System](../../world/systems/aura.md), [Ditto](../pokemon/ditto.md), [Mewtwo](../pokemon/mewtwo.md)
 
+## Three Years in Pallet
+
+During the three-year gap before her journey, Amber spends most afternoons,
+weekends, and school breaks at Oak's ranch and laboratory. Oak responds to her
+prior education by giving her difficult academic and practical work, including
+Pokemon care and laboratory technique.
+
+Her school relationships remain thin partly because she has already completed
+college in her prior life and has little common ground with children
+experiencing school for the first time. This is not a claim that she lived at
+the lab or cannot form peer relationships.
+
 ## Economic Position
 
 Amber begins her journey at 14 after normal middle-school graduation. Oak rigorously prepares and sponsors her --- with starter funds, equipment, and supplies --- so she is resourced like a working-class-plus trainer rather than the shoestring runaway her early planning imagined. This support is not an early-graduation or early-departure exception.
 
 - **Walking journey** by choice (chooses the road for adventure, not forced by economics)
-- **No academy** --- Oak-mentored, self-taught with adult knowledge
-- **Oak funding** --- starter funds, equipment, supplies; not wealthy but not struggling
+- **No Trainer Academy** --- Oak-mentored, self-taught with adult knowledge
+- **Lab sendoff** --- Oak's assistants provide road money, routine travel
+  supplies, Rapidash Athletics Stormweave trail runners, and a Silph Co.
+  spatial bag that expands capacity and reduces effective carrying weight
+- **Oak's field assignment** --- a prototype Pokedex for gathering scans while
+  she travels
 - **Quest boards** --- supplemental income and trainer experience, not survival
 - **Pokeballs** are still meaningful expenses (₽200 each, see [Pokeball Economics & Pricing](../../world/society/economics/pokeball-pricing.md)) but affordable
 - **Failed gym attempts** = setback, not financial disaster

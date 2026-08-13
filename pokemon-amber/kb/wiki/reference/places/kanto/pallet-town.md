@@ -1,5 +1,7 @@
 # Pallet Town
 
+**Status:** drafting
+
 **Pallet Town** is a small coastal town in southwestern Kanto, known as the location of Professor Oak's prestigious Pokemon research laboratory. It serves as a key setting for Chapters 11-18 of Pokemon Amber.
 
 ## Canonical Interpretations
@@ -144,13 +146,19 @@ Pallet Town becomes a central location in Chapters 11-18:
 - Community witnesses the violence
 - Officer Jenny and local police respond ([Ch.14-15](https://github.com/haowjy/pokemon-amber/blob/main/story/ch14/chapter14.md))
 
-**Chapter 17-18:**
-- Aftermath of violence
-- Delia, Ash, and Amber staying at Oak's house
-- Pallet House restaurant closed then reopened
-- Community awareness of tragedy
-- Stephen's funeral
-- Amber's eventual departure
+**Chapter 17:**
+- Hospital aftermath of Fuji's attack
+- Oak returns Ditto to Amber and begins the transition into formal mentorship
+
+**Three-year Pallet gap and Chapter 18:**
+- Amber attends middle school but spends most afternoons, weekends, and school
+  breaks working at Oak's ranch and laboratory
+- Oak's staff and research Pokemon become her strongest Pallet community while
+  her school relationships remain thin
+- Amber, Reid, and Nora complete middle school normally at 14 as Oak's three
+  sponsored Pallet graduates; Ash and Gary are 13 with one school year left
+- Oak's lab hosts Amber's private graduation sendoff before she departs north
+  along Route 1
 
 The town serves as both idyllic small-town setting and site of tragic violence, showing how Dr. Fuji's obsession destroys peaceful lives.
 
