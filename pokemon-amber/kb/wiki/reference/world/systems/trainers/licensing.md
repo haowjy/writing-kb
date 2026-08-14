@@ -58,7 +58,7 @@ Trainer progression moves through recognized tiers. Each tier unlocks different 
 | **Trainer** | License + 1--3 badges | 3--4 | Class C--B | Standard Trainer (2 foreign) | Basic |
 | **Senior Trainer** | 4--7 badges | 4--5 | Class B--A | Senior Trainer (3 foreign) | Moderate |
 | **Veteran Trainer** | 8 badges, conference qualified | 6 | Class A | Senior Trainer (3 foreign) | Moderate--High |
-| **ACE Trainer** | ≥1 Elite Badge; government-contracted | 6 | Class A--S | Official/Government (high scrutiny, diplomatic protocols, carry unrestricted but heavily documented) | High --- regional asset, emergency response |
+| **ACE Trainer** | ≥1 Elite Badge; government-contracted | 6 | Class A--S | Official/Government (high scrutiny, diplomatic protocols, foreign carry unrestricted but heavily documented) | High --- regional asset, emergency response |
 | **Elite / Champion-track** | Elite Four pipeline | 6 | Unrestricted | Official-tier (unrestricted) | Full |
 
 **Notes:**
@@ -102,8 +102,15 @@ Carry limits scale with demonstrated competency. The license is the floor; badge
 **Carry Limit vs. Total Ownership:**
 - Carry limit applies to active Pokemon on your person (in balls, out of balls)
 - Trainers can own more Pokemon than their carry limit --- excess live at ranches, stables, Oak's lab, or trusted facilities
-- No centralized PC storage network exists at this point in the timeline --- "boxing" a Pokemon means physically leaving it somewhere with someone
+- Instantaneous Pokemon transfer is in a limited beta during Amber's first journey year. Select Pokemon Centers have trial terminals, but trainers generally have to know the service exists and ask staff to use it; participating terminals can transfer a registered Pokemon to an approved ranch, stable, laboratory, or other receiving facility.
+- The transfer network opens broadly to the public the following year. This produces the familiar Center-to-ranch transfer system by the time Ash's cohort begins its journey.
+- The network transfers custody and location; it is not indefinite digital storage. A transferred Pokemon still lives at a physical receiving facility such as Oak's ranch.
 - Stored/stabled Pokemon don't count toward carry limit (not actively bonded)
+- Carry limits are not lifetime capture quotas. A trainer at their limit must transfer, stable, surrender, or release a Pokemon before registering another capture.
+- Pokemon Centers accept Pokemon that trainers surrender or transfer for care, relocation, or later placement. This gives lawful captures somewhere to go without requiring the capturing trainer to keep them permanently.
+- Maintained routes and open Mystery Dungeons ordinarily permit licensed capture unless posted rules close the area, protect a species, or impose another local restriction. Capturing in protected zones or closed seasons remains poaching.
+- Pokeball cost is the ordinary brake on indiscriminate capture: every attempt consumes equipment valuable enough that most trainers do not catch Pokemon they have no use or placement for.
+- Roughly two to three years after Amber's departure, maturing Pokedex/Pokeball/registry integration relaxes the pre-capture slot rule (automatic registration, capacity checks, inactive-ball locks for excess Pokemon). Exact timing, vendor, and offline behavior remain open. The six-Pokemon active limit is never relaxed. See [Pokemon Transfer & Storage](../../technology/pokemon-transfer.md).
 
 **Carry Limit (6 Pokemon):**
 - Legal regulation AND physiological safety threshold
@@ -116,4 +123,5 @@ Carry limits scale with demonstrated competency. The license is the floor; badge
 - [Gym and Elite Badges](badge-system.md) --- gym vs elite badges
 - [Trainer Culture --- Historical Evolution & Social Norms](cultural-history.md) --- how this system evolved
 - [International Licensing & Travel](international-licensing.md) --- cross-region travel
+- [Pokemon Transfer & Storage](../../technology/pokemon-transfer.md) --- moving Pokemon between facilities
 - [Ace Trainers (Recognition & Roles)](../../../organizations/ace-trainers.md) --- the ACE tier specifically

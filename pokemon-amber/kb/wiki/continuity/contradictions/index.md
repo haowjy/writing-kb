@@ -1,3 +1,3 @@
 # Contradiction Index
 
-- [Currency notation](currency-notation.md) — ₽ is current; ¥ is legacy
+- [Currency notation](currency-notation.md) — settled USD-like Pokédollar purchasing-power scale

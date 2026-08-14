@@ -44,7 +44,7 @@ The approach to [Celadon Gym](celadon-gym.md) is lined with ginkgo trees whose f
 **Celadon Metro System:**
 An elevated train network connecting key city locations. Features:
 - Modern stations with escalators
-- 24-hour day passes (₽300 for children) ([Chapter 7](https://github.com/haowjy/pokemon-amber/blob/main/story/ch7/chapter7.md))
+- 24-hour day passes (₽3 for children) ([Chapter 7](https://github.com/haowjy/pokemon-amber/blob/main/story/ch7/chapter7.md))
 - Turnstile entry with magnetic card readers
 - Metro stops include Pokemon Center Station
 - Clean, well-maintained system with automated announcements ([Chapter 7](https://github.com/haowjy/pokemon-amber/blob/main/story/ch7/chapter7.md))
@@ -91,7 +91,7 @@ The city's most prestigious institution. See: [Celadon Gym](celadon-gym.md)
 - Class certification testing (E through A)
 - Rainbow Badge challenges
 - Gym League Challenges
-- Training facilities (₽4,000 day pass)
+- Training facilities (₽40 day pass)
 - Ace Challenges (₽100,000)
 
 **Features:**

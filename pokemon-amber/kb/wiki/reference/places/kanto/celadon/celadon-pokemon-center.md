@@ -89,7 +89,7 @@ The lobby branches into three distinct areas separated by sleek glass partitions
 - Class A designation
 - Dramatic 'WANTED' header
 - "They really printed them like old Western posters"
-- ₽2,000,000 reward for Hypno capture
+- ₽20,000 reward for Hypno capture
 
 **Rescue Notices (Yellow Papers):**
 - Retrieving "fainted" Pokemon left in forests
@@ -199,7 +199,7 @@ Glass doors lead to outdoor training facilities:
 ### Observed Quests
 
 **Class A:**
-- "[WANTED] Mass Sleep Incident - Saffron City Hypno (Class A) ₽2,000,000"
+- "[WANTED] Mass Sleep Incident - Saffron City Hypno (Class A) ₽20,000"
   - Grainy photo of Hypno
   - Stark warning about public safety
   - Massive bounty reflecting severity
@@ -267,7 +267,7 @@ Amber feels out of place: "Meanwhile, I stood frozen like a tourist at a museum"
 ### Chapter 7: Discovery
 
 **Amber's Journey:**
-1. Takes metro from downtown (₽300 day pass)
+1. Takes metro from downtown (₽3 day pass)
 2. Arrives at Pokemon Center Station underground
 3. Escalates up to main lobby
 4. Overwhelmed by scale of facility

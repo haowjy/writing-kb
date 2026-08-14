@@ -98,11 +98,11 @@ Displayed at reception ([Chapter 5](https://github.com/haowjy/pokemon-amber/blob
 ```
 Ace Challenge Fee: ₽100,000
 
-Gym League Challenge Spectator Pass: ₽10,000
+Gym League Challenge Spectator Pass: ₽100
 
 Badge Challenge Fee: ₽5,000+
 
-Training Facilities Day Pass: ₽4,000
+Training Facilities Day Pass: ₽40
 ```
 
 Amber's reaction: "The coins in my bag might as well have been pocket lint. I did some quick mental math. The total was somewhere between 'adorably insufficient' and 'why even bother counting.'"
@@ -134,13 +134,13 @@ Celadon Gym issues badges certifying trainers for Celadon-area work (₽5,000+ p
 Public entertainment battles:
 - Regular tournaments (weekly or monthly)
 - Broadcasted locally
-- Spectators pay ₽10,000
+- Spectators pay ₽100
 - Participants compete for prize pools
 - Earns League Points toward Championship qualification
 
 ### Training Facilities
 
-₽4,000 day pass provides access to:
+₽40 day pass provides access to:
 - Multiple indoor battle rings
 - Training Pokemon (Victreebel, Tangrowth, Bellsprout, etc.)
 - Specialized equipment
@@ -322,4 +322,3 @@ The "RESTRICTED" sign on the greenhouse isn't just about Pokemon safety — it's
 [bulbapedia-ep026]: https://bulbapedia.bulbagarden.net/wiki/EP026
 [bulbapedia-ep044]: https://bulbapedia.bulbagarden.net/wiki/EP044
 [bulbapedia-tochukaso]: https://bulbapedia.bulbagarden.net/wiki/Tochukaso
-

@@ -38,8 +38,21 @@ See [Trainer Culture --- Historical Evolution & Social Norms](../systems/trainer
 - Stolen balls still respond to original trainer (usually)
 - Ball damage can trap Pokemon or release unexpectedly
 
+## Transfer and Registration
+
+Balls are serialized and link their occupant to the trainer's license at
+capture (see [Identity & Security](identity-security.md)). Moving a registered
+Pokemon between facilities is a separate system: instantaneous transfer is a
+limited Center-terminal beta in Amber's first journey year and opens to the
+public the following year. Later registry integration is planned to add
+automatic capture registration, capacity checks, and inactive/deployment locks
+for Pokemon beyond the active carry limit --- with Pokemon Center
+emergency/welfare overrides guaranteeing no ball becomes an inescapable trap.
+See [Pokemon Transfer & Storage](pokemon-transfer.md).
+
 ## Cross-Refs
 
+- [Pokemon Transfer & Storage](pokemon-transfer.md) --- the transfer network and its rollout
 - [Pokeball Economics & Pricing](../society/economics/pokeball-pricing.md) --- market pricing
 - [Pokemon Fainting Mechanics](../systems/pokemon/pokemon-fainting.md) --- ball interaction with fainted Pokemon
 - [Evolution of Pokemon Gyms](https://github.com/haowjy/pokemon-amber/blob/main/story/) --- gym institutional history (post-pokeball)

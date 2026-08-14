@@ -204,7 +204,7 @@ Gyms became profitable businesses while maintaining their teaching heritage.
 **Modern Celadon:**
 - Large complex with multiple buildings ([Chapter 5](https://github.com/haowjy/pokemon-amber/blob/main/story/ch5/chapter5.md))
 - Professional staff of 30+ trainers
-- Commercial training facilities (₽4,000 day pass)
+- Commercial training facilities (₽40 day pass)
 - Gym League entertainment broadcasts
 - Security infrastructure ([Chapter 8](https://github.com/haowjy/pokemon-amber/blob/main/story/ch8/chapter8.md))
 - HP UP formula research ([Chapter 8](https://github.com/haowjy/pokemon-amber/blob/main/story/ch8/chapter8.md))

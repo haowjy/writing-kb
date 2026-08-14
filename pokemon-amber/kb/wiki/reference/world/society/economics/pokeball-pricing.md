@@ -21,21 +21,21 @@ Pokeballs represent one of the most significant technological achievements in th
 
 ## Standard Pricing
 
-### Market Rates (₽1 ≈ $1 USD)
+### Market Rates
 
-**Pokeball**: ₽200 (~$200 USD)
+**Pokeball**: ₽200
 - Standard capture device
 - 1× base capture rate
 - Suitable for most common Pokemon
 - Most widely available
 
-**Great Ball**: ₽600 (~$600 USD)
+**Great Ball**: ₽600
 - Enhanced capture rate
 - 1.5× base capture rate
 - Required for stronger wild Pokemon
 - Available in major cities
 
-**Ultra Ball**: ₽1,200+ (~$1,200+ USD)
+**Ultra Ball**: ₽1,200+
 - Premium capture device
 - 2× base capture rate
 - Essential for rare/powerful Pokemon
@@ -63,7 +63,7 @@ Pokeballs represent one of the most significant technological achievements in th
 - Realistic team cost: ₽1,500-3,000 in pokeballs
 
 **Replacement Costs:**
-- Broken balls must be replaced
+- Two broken standard balls cost ₽400 to replace, a material loss for most trainers
 - Lost Pokemon = lost ₽200+ investment
 - Elite trainers may lose Ultra Balls (₽1,200 each)
 
@@ -121,7 +121,7 @@ Pokeballs represent one of the most significant technological achievements in th
 - Equipment replacement: varies
 
 **Sponsorship Advantage:**
-- Professor Oak's starters come WITH pokeball (₽200+ value)
+- Professor Oak's sponsorship grant includes fifty standard Pokeballs (₽10,000 value), an exceptional advantage rather than normal starter support
 - Gym scholarships may provide pokeballs
 - Wealthy families can afford full teams immediately
 - Poor families rely on child earning their own pokeballs
@@ -227,7 +227,7 @@ Standard pricing as listed above. Silph Co. headquarters in Saffron ensures stea
 - Unlimited funds from trainer battles
 
 **In This World:**
-- ₽200 = $200 real-world value
+- ₽200 is a serious purchase on the established purchasing-power scale
 - Each ball is serious investment
 - Trainers carefully choose when to use balls
 - Economic pressure shapes journey outcomes

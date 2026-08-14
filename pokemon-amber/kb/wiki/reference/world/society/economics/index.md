@@ -2,7 +2,7 @@
 
 ## Currency
 - Symbol: ₽ (Pokedollar analogue).
-- Rough conversion (for reader intuition): $1 ≈ ₽1.
+- Purchasing-power scale: ₽1 reads as approximately US$1 for the English-language audience; prose uses Pokédollars directly.
 - Inflation/variance: Exchange and local pricing vary by corridor; story does not model macroeconomics precisely.
 
 ## Payments
@@ -38,7 +38,7 @@ Notes:
 **Note:** Major public safety threats can dramatically exceed normal ranges (e.g., Hypno incident ₽20,000).
 
 ### Daily Living
-- Convenience store (medical supplies, clothing, food): ₽28 for emergency purchases ([Chapter 2](https://github.com/haowjy/pokemon-amber/blob/main/story/ch2/chapter2.md))
+- Convenience store (medical supplies, clothing, food): ₽28.47 for emergency purchases ([Chapter 2](https://github.com/haowjy/pokemon-amber/blob/main/story/ch2/chapter2.md))
 - Budget hotel room (one night): Varies by city and quality
 
 ### Pokeball Costs
@@ -46,7 +46,7 @@ Notes:
 **See:** [Pokeball Economics](pokeball-pricing.md) for detailed breakdown
 
 **Quick Reference:**
-- Pokeball: ₽200 (~$200 USD equivalent - premium technology)
+- Pokeball: ₽200 (premium technology; a serious purchase)
 - Great Ball: ₽600
 - Ultra Ball: ₽1,200+
 - **Note:** Trainer licenses do NOT include free pokeballs
@@ -67,4 +67,4 @@ Notes:
 ## Notes
 - Regional differences apply; numbers are illustrative to anchor reader expectations
 - Pricing reflects late 1980s / early 1990s technology era
-- ₽1 ≈ $1 USD for intuitive scaling (pokeballs as premium tech anchor this conversion)
+- The ₽1≈US$1 purchasing-power convention is a reader-facing scale, not a conversion to repeat in prose.

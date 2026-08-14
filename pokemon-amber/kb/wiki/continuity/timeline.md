@@ -48,7 +48,7 @@ Chronological, reader-focused summary of events so far. Citations link to `story
 - Street outing: Machoke crews, Pidgey post, transit maps; Amber charts Gym/Game Corner and realizes she needs money.
 
 ## Chapter 4 - Achievement Unlocked! First Battle! ([Summary](https://github.com/haowjy/pokemon-amber/blob/main/story/ch4/summary.md))
-- Park scouting leads to a 300₽ street match vs. Joey’s Rattata.
+- Park scouting leads to a ₽3 street match vs. Joey’s Rattata.
 - Ditto learns to transform mid‑exchange; “Tail Whip” hesitation matters in real fights.
 - Quick Attack closes the bout; Joey pays up. Public attention follows the shapeshifter.
 
