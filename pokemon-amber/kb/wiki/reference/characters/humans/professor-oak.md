@@ -14,9 +14,8 @@ Approximately sixty-two in the story present, Oak is Amber's primary mentor and 
 
 ## Amber's Preparation
 
-During Amber's three years in Pallet, Oak gives her difficult academic and
-practical work at his ranch and laboratory. He would prefer another year of
-preparation before her journey, but she passes every standard he sets.
+During Amber's four years in Pallet, she helps out at his ranch and laboratory,
+including recording Pokemon interactions for his bond research.
 
 His trust rests on more than technical competence. He has watched Amber work
 with many Pokemon and sees that she notices when they disagree with her rather

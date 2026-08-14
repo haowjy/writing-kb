@@ -65,7 +65,7 @@ Key points:
 - Amber's suggestion gives Oak the idea for spoken descriptions, and he asks
   her to gather field scans during the journey
 - The ranch and laboratory show the difficult academic and practical work Oak
-  gave Amber during the three-year Pallet gap
+  gave Amber during the four-year Pallet gap
 - Amber recognizes an unlabeled Mega Stone on Oak's workbench but cannot name
   its species association or explain her recognition; its provenance remains open
 - Oak would prefer another year, but trusts Amber because she passed his

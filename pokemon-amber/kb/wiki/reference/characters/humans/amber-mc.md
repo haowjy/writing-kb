@@ -21,7 +21,7 @@ See: [Aura & Bond System](../../world/systems/aura.md), [Ditto](../pokemon/ditto
 
 ## Three Years in Pallet
 
-During the three-year gap before her journey, Amber spends most afternoons,
+During the four-year gap before her journey, Amber spends most afternoons,
 weekends, and school breaks at Oak's ranch and laboratory. Oak responds to her
 prior education by giving her difficult academic and practical work, including
 Pokemon care and laboratory technique.

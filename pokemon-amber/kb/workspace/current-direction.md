@@ -44,7 +44,7 @@ early-departure exception.
 Six scenes:
 1. **Last school day** --- Reid and Nora reveal Amber as Oak's unknown third sponsored graduate; Amber and Reid promise to battle in the Indigo Plateau finals.
 2. **Lab sendoff** --- Oak's assistants provide practical travel gear; Oak gives Amber the prototype Pokedex and asks her to gather field scans.
-3. **Ranch and laboratory** --- Amber's three years of difficult work with Oak frame her thin school relationships; she recognizes an unlabeled Mega Stone but cannot safely ask about it.
+3. **Ranch and laboratory** --- Amber's four years of difficult work with Oak frame her thin school relationships; she recognizes an unlabeled Mega Stone but cannot safely ask about it.
 4. **Photograph, cake, and goals** --- Amber names travel and discovery, rather than a title, as her reason for leaving.
 5. **Oak's private farewell** --- he would prefer another year but trusts the standards she passed and her attention to Pokemon disagreement rather than obedience alone.
 6. **Sunrise departure** --- Pallet sees Amber and Ditto off as they begin the road north.
