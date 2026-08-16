@@ -8,11 +8,10 @@ How trainer success translates into career outcomes, and how type specialization
 
 ## Tournament Structure
 
-**Age Brackets:**
-- **Under-19 Junior League** (high school age: 14-18 years old; requires 8 gym badges OR school graduation OR gym leader recommendation)
-- Under-25 Challenger League
-- Open League (all ages)
-- Master League (invitation only)
+**Conference tournaments:**
+- **Junior Cup / U19:** Ages 14-18; valid trainer license and 8 recognized Gym Badges
+- **Standard:** Open-age; valid trainer license and 8 recognized Gym Badges. Qualified U19 trainers may choose it instead of the Junior Cup.
+- **ACE:** Elite Badge and tournament-ranking requirements
 
 **Typical Badge Outcomes:**
 - **2-3 badges:** Respectable, demonstrates work ethic, employable
@@ -86,8 +85,8 @@ Choosing a type specialty is culturally almost like choosing a profession --- fa
 
 ## Cross-Refs
 
-- [Celadon City](index.md)
+- [Trainer Systems Overview](index.md)
 - [Licensing System & Trainer Tiers](licensing.md) --- tier requirements
 - [Quarterly Conference System (Big 4 Rotation)](conference-system.md) --- tournament structure
 - [Clan & Lineage System](../../society/clan-system.md) --- traditional family-type lineages
-- [Celadon City](../../society/economics/index.md) --- broader economic context
+- [Economics](../../society/economics/index.md) --- broader economic context

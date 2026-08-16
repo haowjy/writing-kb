@@ -25,7 +25,7 @@ the crisis without predicting one fixed calamity.
 - Alonso and adventurer culture introduce Amber to explicit Dungeon exploration.
 - Amber gains field, navigation, and research experience; whether she claims
   the adventurer identity remains open.
-- Argaea contributes sealed-space experience without becoming a Dungeon.
+- Ashura contributes sealed-space experience without becoming a Dungeon.
 - Alola introduces cross-world travel and Rocket's later wormhole capability.
 - After the main-world war, Amber and a small group pursue Giovanni through
   Ultra Space into the Rainbow Rocket endgame.

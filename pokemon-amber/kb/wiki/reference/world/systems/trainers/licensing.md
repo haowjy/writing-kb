@@ -56,7 +56,7 @@ Trainer progression moves through recognized tiers. Each tier unlocks different 
 | **Novice** | Trainer ID only | 1 | Class D | Tourist (1 foreign) | None |
 | **Licensed Trainer** | Trainer License | 3 | Class D--C | Provisional Trainer (1 foreign) | Basic |
 | **Trainer** | License + 1--3 badges | 3--4 | Class C--B | Standard Trainer (2 foreign) | Basic |
-| **Senior Trainer** | 4--7 badges | 4--5 | Class B--A | Senior Trainer (3 foreign) | Moderate |
+| **Senior Trainer** | 4--7 badges | 5--6 | Class B--A | Senior Trainer (3 foreign) | Moderate |
 | **Veteran Trainer** | 8 badges, conference qualified | 6 | Class A | Senior Trainer (3 foreign) | Moderate--High |
 | **ACE Trainer** | ≥1 Elite Badge; government-contracted | 6 | Class A--S | Official/Government (high scrutiny, diplomatic protocols, foreign carry unrestricted but heavily documented) | High --- regional asset, emergency response |
 | **Elite / Champion-track** | Elite Four pipeline | 6 | Unrestricted | Official-tier (unrestricted) | Full |
@@ -97,6 +97,7 @@ Carry limits scale with demonstrated competency. The license is the floor; badge
 - License unlocks 3 --- the first real team
 - Each carry expansion requires meaningful badge progress
 - Full 6-Pokemon team not possible until 6 badges earned
+- The eighth badge does not add another slot; it satisfies the badge requirement for the Conference Junior Cup or Standard tournament, subject to age and other eligibility rules
 - Most trainers never reach 6 (most stop at 2-4 badges)
 
 **Carry Limit vs. Total Ownership:**

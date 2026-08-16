@@ -75,6 +75,6 @@ Rocket, and Rainbow Rocket](../../../planning/saga-threads/giovanni-team-rocket.
 - [Viridian Gym](../../places/kanto/viridian-gym.md)
 - [Champion/Protector and Indigo Council](../../world/society/government/champion-system.md)
 - [Kanto–Johto Colonial Integration and First Kanto Secession](../../world/history/kanto-johto-unification-war.md)
-- [Mewtwo](../pokemon/mewtwo.md)
+- [Mewtwo](../pokemon/legendary-mythical/mewtwo.md)
 - [Giovanni and Team Rocket](../../../planning/saga-threads/giovanni-team-rocket.md)
 - [Mystery Dungeon Instability and Exploration](../../../planning/saga-threads/mystery-dungeon-instability.md)

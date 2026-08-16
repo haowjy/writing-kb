@@ -18,7 +18,7 @@ Charcadet choosing Amber is not a rejection of Alonso. It is Charcadet choosing 
 
 Ch. 20 plants the seed outside the cave: Teddiursa recognizes Team Rocket and charges; Amber protects him before Alonso arrives to save her. Charcadet notices the protective act, but does not join.
 
-Ch. 21 deepens the evidence: Amber continues pursuing Teddy's mother into the guarded cave; Rocket removes Ursaring after an almost-reunion; Amber and Alonso are trapped; Teddiursa, Charcadet, and Ditto slip out to get help. Charcadet protects Teddy for Amber, echoing Amber's earlier protection.
+Ch. 22 deepens the evidence: Amber continues pursuing Teddy's mother into the guarded cave; Rocket removes Ursaring after an almost-reunion; Amber and Alonso are trapped; Teddiursa, Charcadet, and Ditto help find a narrow route into a genuine Mystery Dungeon. Charcadet remains part of carrying Amber's promise forward.
 
 The choice should come later after Charcadet observes a pattern over a short stretch with Alonso.
 
@@ -30,7 +30,7 @@ The actual choice should come after several chance encounters, not immediately a
 
 - Amber asks about Mystery Dungeons after hearing enough hints from Alonso / quest-board culture.
 - Alonso decides to show her one and sneaks her past the official route boundary; this is technically illegal or at least against posted safety rules.
-- Alonso has some justification: he knows enough to think the dungeon is manageable, has field supplies, and has Talonflame / Pawmot support. He is irresponsible, not stupid.
+- Alonso has some justification: he has field experience, supplies, two Charcadet, and Corvisquire support. His hot-headedness makes him under-research institutions and move too quickly; it does not erase his practical competence.
 - The dungeon can contain ordinary treasure or salvage, giving the party a reason to keep moving, but it should not become a major legendary/Mega relic seed.
 - A rude Kanto adventurer crew / treasure crew can be present as mundane antagonists. They are not a full evil team; they represent the bad reputation adventurers can have when they chase money, loot, rare Pokemon, or legal gray-zone contracts.
 

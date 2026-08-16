@@ -39,6 +39,9 @@ planning rather than being mixed into reference prose as equal possibilities.
 - planning/decisions/ records settled choices when the reasoning remains
   useful; rejected plans should not remain on live entity pages.
 - planning/rosters/ holds future team construction.
+- planning/team-arcs/ holds Pokemon character and relationship progression by
+  trainer; stable identity belongs in reference and membership logistics stay
+  in rosters.
 
 ### Continuity
 

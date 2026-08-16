@@ -4,10 +4,10 @@ Badges are symbols of trust and recognition issued by gyms. They originated as m
 
 ## Overview
 
-**Core Principle:** A gym’s badge reflects the gym’s trust and respect for a trainer’s demonstrated competency with that gym’s specialty and values.
+**Core Principle:** A gym’s badge reflects the gym’s trust and respect for a trainer’s demonstrated competency with that gym’s specialty and values. Standard badges are issued at the Gym Leader's discretion; a formal battle is customary, not universally required.
 
 **Two Badge Tiers:**
-- Standard **Gym Badge**: Earned by defeating a designated gym trainer or the leader on a standard challenge. Signals foundational competence and the gym’s respect.
+- Standard **Gym Badge**: Normally earned through that gym's established challenge, but may also be awarded directly by the Gym Leader for witnessed field competency, service, judgment, or another gym-specific standard. Signals foundational competence and the gym’s respect.
 - **Elite Badge**: Earned by defeating the Gym Leader’s primary team on an elite challenge. Signals exceptional mastery; holding ≥1 Elite Badge confers recognized “Ace Trainer” status.
 
 **What Badges Represent:**
@@ -21,13 +21,18 @@ Badges are symbols of trust and recognition issued by gyms. They originated as m
 
 **Standard (Gym Badge):**
 - Register at reception (ID/license checked; scheduling as needed)
-- Face the gym’s standard challenge (designated trainer or leader)
-- Win → receive the gym’s badge; recorded to your trainer profile
+- Normally face the gym’s standard challenge (designated trainer, leader, examination, service task, or another local format)
+- The Gym Leader retains final discretion and may award the badge based on relevant competency demonstrated outside the ordinary challenge
+- The gym records the award and its stated basis to the trainer's profile
 
 **Elite (Elite Badge):**
 - Invitation or request at reception; leaders gatekeep for safety and readiness
-- Face the leader’s primary team and elite evaluation
+- Face the leader’s registered high-power team representing that Gym under formal League oversight
 - Win → receive the gym’s Elite Badge; recognized for Ace status
+
+### Elite Defense Accountability
+
+Losing an Elite challenge does not by itself threaten a Gym Leader's position; successful elite challengers are expected to exist. The League tracks defense performance and recertification. Persistent abnormal losses can trigger roster review, fitness review, suspension of the Gym's authority to issue Elite Badges, or the appointment of another accredited defender. Removal as Gym Leader requires broader failure, corruption, or inability to run the institution, not merely losing legitimate challenges.
 
 ### Difficulty and Strategy
 - Difficulty is fixed per gym based on local culture, values, and typical threats
@@ -66,10 +71,14 @@ Quests are freelance work posted at Pokemon Centers. Legally, quests require a v
 ## Pokemon League Paths
 
 ### Juniors League (U19)
-- Qualify by earning 8 standard Gym Badges from League‑recognized gyms
+- Qualify for the host region's Conference Junior Cup by earning 8 standard Gym Badges from League-recognized gyms
 - Elite Badges improve seeding/prestige but are not required
 
-### Regular League (Open Age)
+### Standard Conference Tournament
+- Any licensed trainer with 8 standard Gym Badges from League-recognized gyms qualifies
+- A qualified U19 trainer may choose Standard instead of the Junior Cup; the categories are distinct and ACE remains separate.
+
+### ACE Conference Tournament
 - Must hold ≥1 Elite Badge (confers Ace Trainer status) and meet a tournament ranking points threshold
 - Elite Badges may grant seeding advantages and invitations to premier events
 
@@ -87,7 +96,8 @@ Quests are freelance work posted at Pokemon Centers. Legally, quests require a v
 ### Licenses, Not Badges
 - Wilderness travel is legal but risky; preserved areas require permits
 - Quests require a valid trainer license (contracts, liability, insurance)
-- Badges are credentials that affect reputation, hiring, and seeding—not legal access
+- Badges do not replace a trainer license or universally gate wilderness travel and quests
+- Within the licensing system, badge milestones expand active carry capacity: 4 Pokemon at 2 badges, 5 at 4 badges, and 6 at 6 badges
 
 ## Historical Context
 
@@ -99,7 +109,7 @@ Quests are freelance work posted at Pokemon Centers. Legally, quests require a v
 ### League Co‑option and Standardization
 - As the League formed, it adopted badges as proof of worthiness for competition
 - Badge proliferation led to a conference with major gyms; “pillar” gyms were recognized and standardized
-- Modern era preserves badges as trust marks and League qualifiers (Juniors: Gym Badges; Regular: Elite Badges + ranking)
+- Modern era preserves badges as trust marks and League qualifiers (Junior and Standard: Gym Badges; ACE: Elite Badge plus ranking)
 
 ## Regional Variations
 

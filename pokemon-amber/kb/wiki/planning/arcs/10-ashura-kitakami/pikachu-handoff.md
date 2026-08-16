@@ -44,7 +44,7 @@ explain should carry the weight.
 ## Cross-Refs
 
 - [Amber's roster](../../rosters/amber-team.md) — current Pikachu seed
-- [Arc 10 overview](overview.md) — shared planning window only; not placement proof
+- [Ashura Visit 1 overview](overview.md) — shared planning folder only; not placement proof
 - [Professor Oak](../../../reference/characters/humans/professor-oak.md)
 - [Trainer-start age and peer cohort](../../decisions/age-cohort.md)
 - [Oak team custody and the exceptional starter offer](../../decisions/oak-team-custody.md)

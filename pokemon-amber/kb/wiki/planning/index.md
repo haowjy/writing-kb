@@ -8,6 +8,7 @@
 | [Themes](themes/index.md) | Thematic architecture |
 | [Decisions](decisions/index.md) | Settled choices whose reasoning remains useful |
 | [Rosters](rosters/index.md) | Future Pokemon-team construction |
+| [Pokemon team arcs](team-arcs/index.md) | Pokemon emotional progression and trainer relationships |
 
 ## Other Planning Pages
 

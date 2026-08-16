@@ -26,7 +26,7 @@ Ursaring — Teddiursa evolved, hardened from surviving alone — finds Amber du
 
 The Iron-Masked Marauder (Team Rocket) steals Charcadet in the chaos of the battle. Amber walks out of the forest having found one and lost the other.
 
-Charcadet evolves into Ceruledge under Rocket. It will not be recovered until Sinnoh (Arc 11). Amber enters her first conference without her ace.
+Charcadet evolves into Ceruledge under Rocket. Its reunion with Amber occurs after Hoenn, before the two-year adventurer interval; its exact recovery sequence remains open. Amber enters her first conference without her ace.
 
 ### Sam
 

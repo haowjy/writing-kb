@@ -81,14 +81,6 @@ Mary's drive sits between ambition and service. She wants to prove she belongs i
 
 Erika moves from ambition toward duty. Becoming Gym Leader matters, but the deeper object is making Celadon Gym worthy of Celadon. Once she has authority, the question becomes whether the role expands her or cages her.
 
-### Beatriz Romero
-
-Beatriz is curiosity disciplined into vocation. Her dream is to discover and catalog every Pokemon, not as trophy collection but as an answer to ignorance. She believes misunderstanding Pokemon causes harm; observation and record-keeping become her way of protecting the world.
-
-### Ciro Salvatierra
-
-Ciro's drive is money-as-freedom. "Get rich" is not merely greed; it comes from growing up dirt poor, scrounging for scraps, and living under debt/dysfunctional-family scarcity. It is a demand that no one owns him. He clashes with Alonso's nobility, but his code matters: he will not abandon the vulnerable or sell out companions/Pokemon.
-
 ## Major Mirrors
 
 ### Oak

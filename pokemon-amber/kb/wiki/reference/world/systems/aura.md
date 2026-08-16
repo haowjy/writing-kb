@@ -58,8 +58,8 @@ See: [Professor Samuel Oak](../../characters/humans/professor-oak.md)
 
 Amber has an unusual baseline capacity due to her trace Mew DNA. Her manifestation is the Pokemon bond/empathy type.
 
-This capacity does **not** grant access to Argaea and is not part of Argaea's
-barrier or sealing mechanism. The Argaea thread has cut Mew from its causal
+This capacity does **not** grant access to Ashura and is not part of Ashura's
+barrier or sealing mechanism. The Ashura thread has cut Mew from its causal
 logic.
 
 Current expressions (Age 14+):
@@ -90,7 +90,7 @@ Peak expressions are TBD --- details to be developed in later arc planning.
 - [Professor Samuel Oak](../../characters/humans/professor-oak.md) --- Oak's research and the post-4Ever conversation
 - [Amber (MC)](../../characters/humans/amber-mc.md) --- Amber's Mew DNA origin
 - [Future Arc: 4Ever (Arc 4)](../../../planning/arcs/04-4ever/overview.md) --- first time Amber learns this system exists
-- [Argaea saga thread](../../../planning/saga-threads/argaea.md) --- Mega Evolution and the temporary Cresselia / Gardevoir seal; Mew DNA explicitly excluded
+- [Ashura saga thread](../../../planning/saga-threads/ashura.md) --- Ashura's unresolved Mega/first-contact model; Mew DNA explicitly excluded
 
 ## Detailed Mechanics
 

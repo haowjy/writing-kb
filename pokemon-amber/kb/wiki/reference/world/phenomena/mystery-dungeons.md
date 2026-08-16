@@ -9,7 +9,7 @@ become locally distorted. They are uncommon but known to Rangers, Centers,
 researchers, trainers, and adventurers.
 
 They distort places within the Pokemon world rather than opening into other
-worlds. Ultra Wormholes, Argaea, and Laqua have separate mechanisms.
+worlds. Ultra Wormholes, Ashura, and Laqua have separate mechanisms.
 
 ## Destabilization and Containment
 
@@ -54,7 +54,7 @@ Instability](../../../planning/saga-threads/mystery-dungeon-instability.md).
 
 - Route 1 remains Dungeon-adjacent rather than becoming a full Dungeon arc.
 - Procedures may make Dungeons legible without solving their underlying science.
-- Mystery Dungeons, Ultra Wormholes, Argaea, and Laqua remain distinct.
+- Mystery Dungeons, Ultra Wormholes, Ashura, and Laqua remain distinct.
 
 ## Related Pages
 

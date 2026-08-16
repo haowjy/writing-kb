@@ -71,16 +71,15 @@ Thematic and structural precedent this provides:
 
 ## Saga Application
 
-Darkrai, not Hoopa or Mew, caused Argaea's dimensional sealing; Amber's Mew DNA
-is not a key. Mega Dimension and hyperspace language remain provisional until
-the topology is designed.
+Darkrai, not Hoopa or Mew, remains the current direction for Ashura's dimensional
+sealing; Amber's Mew DNA is not an access key. The precise Mega Darkrai
+mechanism and relationship to the barrier remain provisional.
 
-[Arc 10](../../../../planning/arcs/10-argaea-kitakami/overview.md) owns Visit 1:
-Alexander kills the Mad King, Mega Darkrai escapes his body, Amber cannot
-identify the Mega form, and Cresselia holds it back during the retreat. The
-[Argaea saga thread](../../../../planning/saga-threads/argaea.md) owns the
-cross-arc seal and return.
+The legacy Visit 1 sequence in which Alexander kills a Mad King, Mega Darkrai
+escapes a body, and Cresselia/Gardevoir make a seal conflicts with the newer
+usurper-before-entry direction. Neither sequence is current fact. See the
+[Ashura succession model](../../../../planning/decisions/ashura-visit-one-succession-model.md).
 
 Hoopa may later navigate an existing distortion but cannot replace Darkrai as
-the cause. A Loyal Three / Pecharunt / Toxic Chains connection remains
-provisional.
+the cause. The Loyal Three are corrupted; a Pecharunt/Toxic Chains mechanism
+remains an unselected possibility, not established story lore.

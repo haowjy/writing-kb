@@ -1,22 +1,29 @@
 # Alonso Quijano
 
-A **Paldean adventurer**, age 17, from a minor noble family. He traveled from Paldea to Kanto with a small adventurer crew before getting separated near Route 1. His parents want him to grow into a proper knight; Alonso rejects that role-label and dreams of becoming the **Greatest Adventurer** instead. Ironically, he embodies the better knightly virtues — courage, loyalty, worthiness, and going where someone has to go — more sincerely because he is not performing knighthood. His personality and actions carry the ideal, not his diction.
+A **Paldean commoner** and independent adventurer, age 17. He travels alone: he came from Paldea to Kanto because reports said many Mystery Dungeons were being discovered there, and the trip cost nearly all of his money. Paldea's [noble- and knight-dominated journey tradition](../../world/society/paldea-knighthood.md) locked him out of the zones, expeditions, and tournaments where a name is made; Kanto's unclaimed Dungeons looked like a frontier where a commoner could make one. He dreams of becoming the **Greatest Adventurer**. Ironically, he embodies the better knightly virtues — courage, loyalty, worthiness, and going where someone has to go — more sincerely because he is not performing knighthood. His personality and actions carry the ideal, not his diction.
+
+His exact family origin remains **open**: farmer family versus disgraced former house, living parents versus orphan. His exact family motive for leaving is likewise open. Do not write him as a minor noble or as someone whose parents demand knighthood.
 
 ## Role in Story
 
-### Arc 1: Early Mentor
+### Arc 1: Deuteragonist of His Own Story
 
-Alonso Quijano is Amber's temporary early mentor during Arc 1. His mentorship is **existential, not tactical** — he teaches through example and presence, not skill drills or technique lectures. Amber learns from watching someone who genuinely embodies the ideals she's inherited as intellectual concepts (game knowledge).
+Alonso travels with Amber for a meaningful stretch of Arc 1 (exact duration open). He is not a temporary mentor or an accessory to her arc: he should feel like someone who **could be the protagonist of his own story** if Amber were not the MC. He has his own goal (Greatest Adventurer), his own initiative, his own mistakes, his own discoveries, and his own progression (badges, roster, carry limits) running in parallel with hers. He functions as a major traveling companion / deuteragonist for his stretch without displacing Amber's POV.
 
-### Endgame Return
+What Amber takes from him is still **existential, not tactical** — she learns by watching someone who genuinely embodies the ideals she's inherited as intellectual concepts (game knowledge). But that influence is something his own full trajectory produces, not a role he exists to fill.
 
-Alonso returns as a **peak-level ally** in the saga's endgame. At that point, he has grown to peak trainer level alongside Amber's development. He fights as an equal, not a mentor — the former teacher and student standing together.
+### Adventurer Interval and Endgame
+
+After Hoenn and Ceruledge's reunion, Alonso travels with Amber through roughly two years of Mystery Dungeon exploration. This is a substantive shared-adventure period: he remains a co-adventurer while both develop the field experience and rotating teams that make their later level credible.
+
+Alonso later appears as a **peak-level ally** in the saga's endgame. He fights as an equal, not a mentor.
 
 ## Personality
 
 Alonso is special in the sense that he is genuinely sincere, brave, and competent, not because he is a chosen one. He has a simple, almost goofy clarity that can make him look dumb until danger arrives.
 
 - **Plainspoken conviction:** he does not need knightly diction. He says the obvious brave thing and then does it. His spoken dream can be as blunt as: "I'm going to become the Greatest Adventurer."
+- **Hot-headed and impulsive:** he moves first and researches later. He spent nearly everything reaching Kanto without learning how its systems work — including that badges control active-party expansion — and the gap between his competence in the field and his ignorance of institutions is a real character flaw, not a quirk.
 - **Earnest without being foolish:** he believes in courage and worthiness, but he knows danger is real.
 - **Action over performance:** the ideal lives in his choices — protecting people, respecting Pokemon, walking toward trouble when someone has to.
 - **Inspirational through consistency:** like a Luffy-type figure, he repeats a simple belief until other people start moving too.
@@ -26,9 +33,14 @@ A useful recurring line/instinct for him is: **"Someone has to."**
 
 He walks into Kanto with a framework that does not map cleanly onto the trainer/gym/badge system, and he does not try to force the fit. He simply is what he is, and people who spend time around him recognize it.
 
+## Appearance and Voice
+
+- White / European-looking Paldean, strongly outdoor-tanned from living on expeditions; farmer-tan lines (neck, arms, collar) are welcome.
+- Spanish-influenced accent carried through cadence and vocabulary — word order, rhythm, and word choice — never through phonetic misspelling.
+
 ## Core Philosophy: Drive and Chosen Life
 
-Alonso represents the **chosen-ideal** variant of the saga's [obsession/drive theme](../../../planning/themes/core-story-elements.md). His goal is not to become the proper knight his parents want, and not to roleplay a knight in speech or costume; it is to become the **Greatest Adventurer** — a mythic, informal ideal closer to "Pokemon Master" than an official rank. The tension is that his adventurer path makes him look like the opposite of a respectable knight while making him act more knightly than the title would.
+Alonso represents the **chosen-ideal** variant of the saga's [obsession/drive theme](../../../planning/themes/core-story-elements.md). His goal is not knighthood, and not roleplaying a knight in speech or costume; it is to become the **Greatest Adventurer** — a mythic, informal ideal closer to "Pokemon Master" than an official rank. The tension is that his adventurer path makes him look like the opposite of a respectable knight while making him act more knightly than the title would.
 
 Part of that ideal is the pull toward **impossible places**: rumor maps, rescues in bad terrain, expeditions into unstable wilderness, Mystery Dungeon-scale anomalies, and any place that proves whether a person can really go where someone has to go.
 
@@ -49,15 +61,15 @@ This anchors the theme by showing ambition before it curdles into possession or 
 
 Alonso's dream comes from **Don Quixote**, usually called **Don Q**: a shabby Paldean bookstore owner with shelves full of travelogues, expedition journals, old adventure romances, knight stories, and maps of dubious accuracy. Don Q is not a hidden champion, retired legendary explorer, secret mentor, or disgraced great man. He has read almost everything and gone almost nowhere.
 
-Don Q tells outrageous "personal" adventure stories stitched together from books: giant beasts, impossible terrain, buried ruins, half-mythic places beyond polite Paldean life. He lies beautifully. Adults can dismiss him as a braggart and escapist, and they are basically right. Alonso's parents especially dislike him because he feeds Alonso's adventurer obsession, encourages escapism over respectable duty, and gives a minor noble child ideas incompatible with becoming a proper knight.
+Don Q tells outrageous "personal" adventure stories stitched together from books: giant beasts, impossible terrain, buried ruins, half-mythic places beyond polite Paldean life. He lies beautifully. Adults can dismiss him as a braggart and escapist, and they are basically right. How Don Q relates to Alonso's family stays open while the family question is open; the durable point is that respectable Paldean life — noble or common — had no sanctioned room for what he was selling.
 
-Alonso hears something real inside the false stories: a model of life larger than family caution, status maintenance, and polite trainer progression. The factual truth of Don Q's stories matters less than the fact that the lies made greatness feel possible. Don Q performed adventures he never lived; Alonso grows up to make those impossible stories real through action.
+Alonso hears something real inside the false stories: a model of life larger than family caution, status maintenance, and polite progression. The factual truth of Don Q's stories matters less than the fact that the lies made greatness feel possible. Don Q performed adventures he never lived; Alonso grows up to make those impossible stories real through action.
 
 This origin keeps Alonso's dream personal rather than bureaucratic:
 
 - he is not chasing Explorer/Guild status
 - he is not trying to earn an official title
-- his parents' minor-noble respectability and knight expectations give him something to push against
+- Paldea's elite-locked institutions give him something to push against
 - Don Q gives him the emotional infection: the belief that someone can become great by going where others will not
 - Alonso's greatness is not inherited from Don Q; it is the transformation of false story into lived conduct
 
@@ -71,7 +83,7 @@ He brought two Charcadet from Paldea as part of his early team. His starter is a
 
 Eventually **Charcadet chooses Amber.**
 
-Alonso letting Charcadet go is not a failure or a loss — it's the proof of his ideals. He does not call himself a knight here; he simply acts with the worthiness-over-possession principle his family role only gestures toward. The principle is:
+Alonso letting Charcadet go is not a failure or a loss — it's proof of his ideals. He does not call himself a knight here; he simply acts according to worthiness rather than possession. The principle is:
 
 > **Alonso is why Charcadet is in Kanto. Amber is why Charcadet stays.**
 
@@ -79,21 +91,29 @@ This intersects with the Mew-adjacent ore thread from the early Viridian cave in
 
 ## Pokemon
 
-### Early Team (Arc 1, when he meets Amber)
+### Arrival Team (Arc 1, when he meets Amber)
 
-- **Charcadet** — his starter and current ace; very strong, fiery, battle-tested, and still unevolved because Alonso has not found Auspicious Armor yet
-- **Charcadet** — the starter's younger sibling; weaker, less settled, and the one who will eventually choose Amber
-- **Talonflame** — speed, scouting, aerial rescue, and travel utility; gives Alonso real field competence rather than only romantic imagery
-- **Pawmot** — final evolution; scrappy field support / rescue utility, practical counterweight to Alonso's romance of adventure
+He enters Kanto legally with three registered Pokemon — his full active party under Kanto's licensing limits:
+
+- **Charcadet** — his starter and current ace; very strong, fiery, battle-tested, and still unevolved because Alonso has not found Auspicious Armor yet. The duelist.
+- **Charcadet** — the starter's younger sibling; weaker, less settled, and the one who will eventually choose Amber.
+- **Corvisquire** — scouting and aerial utility; can later become the envisioned Corviknight.
+
+Talonflame and Pawmot are **deleted** from the arrival team; do not restore them.
+
+### Kanto Additions
+
+- **Growlithe** — caught in Kanto after the younger Charcadet chooses Amber and frees a slot. Tracker, guardian, and rescue partner rather than a second duelist.
+- **Dratini** — provisional. After Alonso's second Kanto badge raises his active limit to four (see [licensing](../../world/systems/trainers/licensing.md)), he may catch Dratini through a substantial later expedition or Mystery Dungeon. The exact encounter remains open.
 
 ### Peak Team (Endgame Return)
 
 - Armarouge (his starter Charcadet's eventual evolved form and mature ace)
-- Talonflame
-- Pawmot
-- **Corviknight** — steel-armored flier; visual irony against his rejection of the knight role, acquired during his own growth arc
+- **Corviknight** — from his arrival Corvisquire; steel-armored flier, visual irony against his rejection of the knight role
+- Growlithe's line — tracker/guardian/rescue partner; evolution timing open
 - **Gallade** — blade-and-honor Fighting/Psychic; earned at high level
 - **Baxcalibur** — a Paldean pseudo-legendary, the mark of someone who's crossed the real wilderness and come back
+- Dratini's line — only if the provisional Dratini expedition happens
 
 The team reflects Alonso's arc: from a strong but mid-level Paldean specialist to someone who has completed his own journey across multiple regions and earned the right to stand at the peak.
 
@@ -110,7 +130,7 @@ Alonso imports the **Paldean adventurer myth** into Kanto — a structural contr
 
 Alonso admires adventurers broadly. The Horizons Explorers are one example he respects, but not the only one — he is not a fanboy, just someone who recognizes kindred spirits.
 
-When Alonso enters Kanto, he doesn't reject the gym system — he simply operates in a frame where a gym badge is one marker among many, not the organizing principle of a trainer's life. This gives Amber a different lens on her own journey, even before she fully internalizes it.
+When Alonso enters Kanto, he does not understand the badge system. Paldea has no public badge circuit: its Treasure Hunt / Journey of Glory remains an elite rite for noble youths and knight-apprentices. Badges are a Kanto-side tradition, foreign to him in the literal sense, and he failed to research what they gate before spending nearly everything to travel there. This gives Amber a different lens on her own journey, even before she fully internalizes it.
 
 
 ## Alonso and Adventurer Culture
@@ -125,21 +145,21 @@ Amber can notice the broader structural problem that Kanto adventurers may have 
 
 Alonso's arrival in Kanto is **plausible but not casual:**
 
-- He came as part of a small **Paldean adventurer crew** — organized crossing, not solo
-- His core companions are [Beatriz Romero](beatriz-romero.md) and [Ciro Salvatierra](ciro-salvatierra.md)
-- Near Route 1, Alonso gets separated after chasing trouble / Rocket movement / a Pokemon-in-danger lead; this is more "got lost following something important" than clean solo professionalism
+- He traveled alone from Paldea after reports that unusually many Mystery Dungeons were being discovered in Kanto
+- The crossing and travel costs consumed nearly all of his money; he reaches Kanto effectively broke
+- Near Route 1, he follows trouble, Rocket movement, a Pokemon-in-danger lead, or signs of a Dungeon because those are the reasons he came
 - Interregional travel in this world is **possible but not normalized** — dangerous wilderness between regions, though Repel, Poke Balls, healing infrastructure, ships, aviation, communications, and mapping are gradually making it more viable
-- Alonso and his crew are early adopters of interregional movement — they are there before the infrastructure is easy, which says something about them
+- Alonso is an early adopter of interregional movement — he is there before the infrastructure is easy, and has paid heavily to pursue the possibility of discovery
 
 See [Celadon City](../../world/systems/trainers/index.md) for the trainer systems context; Alonso exists partially outside those systems as a foreign adventurer.
 
 ## Story Role Summary
 
 ### Current (Arc 1)
-- Encountered early in Kanto during the Route 1 Team Rocket camp / guarded cave mini-arc after being separated from his crew
-- Existential mentor: presence and example, not tactical instruction
+- Encountered early in Kanto during the Route 1 Team Rocket camp / guarded cave mini-arc
+- Major traveling companion with his own protagonist-scale drive, mistakes, discoveries, and progression
 - Charcadet observes Amber through their shared time; the choice to let Charcadet go defines Alonso's character
-- Rejoins his Paldean crew after the mini-arc; his own journey continues elsewhere
+- Travels with Amber for a meaningful stretch; his search for discoveries pulls their shared journey toward further Mystery Dungeon incidents
 
 **Amber's internal arc (NEVER STATED --- implied through behavior only):** Amber starts dismissive ("this guy is insane"), shifts to grudging respect ("he's actually competent... he means this"), arrives at something quieter: sincerity is not fake just because it looks ridiculous. A life can be organized around a chosen ideal. This progression should be visible in how she treats him, not in narration or dialogue that names it.
 
@@ -151,10 +171,8 @@ See [Celadon City](../../world/systems/trainers/index.md) for the trainer system
 
 ## Cross-Refs
 
-- [Amber (MC)](amber-mc.md) — the apprentice; Amber learns from his example
+- [Amber (MC)](amber-mc.md) — traveling counterpart; Amber learns from his example without becoming his subordinate
 - [Amber MC — Team Planning (Spoilers)](../../../planning/rosters/amber-team.md) — Charcadet's full arc: from Alonso's team → Amber's → stolen → Ceruledge
-- [Beatriz Romero](beatriz-romero.md) — crew naturalist; wants to discover and catalog every Pokemon
-- [Ciro Salvatierra](ciro-salvatierra.md) — crew hustler; wants to get rich and choose his own life
 - [Giovanni](giovanni.md) — structural contrast: Giovanni's conquest-drive vs. Alonso's chosen ideal
 - [Saga Overview — Full Arc Structure](../../../planning/saga-overview.md) — Arc 1 placement and endgame return
 - [Core Story Elements](../../../planning/themes/core-story-elements.md) — obsession theme, mismatch/misread identity

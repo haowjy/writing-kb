@@ -41,7 +41,7 @@ This is the long thread. It takes years to pay off.
 **Arc 1, Day 2/3 (Route 1 camp + guarded cave near Viridian):**
 Team Rocket's hidden camp/cave operation is tied to a strange **psychic-reactive Mew-adjacent ore** or energy reading. The ore thread should begin here, but the ore is **not** the reason Charcadet bonds with Amber. Charcadet is present because it came to Kanto with Alonso Quijano; Amber matters because of what Charcadet sees her do.
 
-Ch. 20 plants the emotional seed outside the cave: Amber protects Teddiursa at the Team Rocket camp, takes a meaningful but not catastrophic hit, and Alonso arrives with Armarouge and Charcadet to save her. Ch. 21 escalates inside the guarded cave: Rocket releases/provokes Ursaring, the almost-reunion with Teddy is cut off, Amber/Alonso are trapped, and Teddiursa + Charcadet + Ditto slip out to bring help.
+Ch. 21 plants the emotional seed outside the cave: Amber protects Teddiursa at the Team Rocket camp, takes a meaningful but not catastrophic hit, and Alonso arrives with his two Charcadet to help. Ch. 22 escalates inside the guarded cave: Rocket releases/provokes Ursaring, the almost-reunion with Teddy is cut off, and the collapse forces Amber, Alonso, and their Pokemon through a narrow passage into a genuine Mystery Dungeon where they encounter Giovanni.
 
 The ore is a **Rocket/Mewtwo/Mewtwonite Y seed**, not a Charcadet custody thread. Under the Alonso version, Charcadet is present because Alonso brought it to Kanto; it should not be treated as the ore's guardian, keeper, or the Pokemon that ceremonially hands it to Amber before 4Ever.
 
@@ -109,4 +109,4 @@ That's the spine.
 - `story/ch20/plan.md` and `story/ch21/plan.md` — current beat-by-beat plans
 - [Saga Overview — Full Arc Structure](../saga-overview.md) — Arc 12+ future Unova / Genesect entry
 - [Giovanni–Fuji Jail Conversation Planning (Rev B)](../arcs/00-perfect-family/giovanni-fuji-jail.md) — Fuji's extraction, Mewtwo #2 context, two-Mewtwo distinction
-- `wiki/reference/characters/pokemon/mewtwo.md` — Mewtwo character file (stub, needs expansion)
+- `wiki/reference/characters/pokemon/legendary-mythical/mewtwo.md` — Mewtwo character file (stub, needs expansion)

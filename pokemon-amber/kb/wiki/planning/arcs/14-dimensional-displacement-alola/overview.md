@@ -168,7 +168,7 @@ This beat should stay **symbolic rather than causal**. Aether locks onto Amber b
 ## Cross-Refs
 
 - [Saga Overview — Full Arc Structure](../../saga-overview.md) — macro placement
-- [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](../10-argaea-kitakami/overview.md) — the promise established in the kingdom (Visit 1) and the later return it now precedes
+- [Ashura Visit 1](../10-ashura-kitakami/overview.md) and [Ashura return](../16-ashura-return/overview.md) — the promise established in the kingdom and the later return they now precede
 - [Late-Saga Dimensional Displacement Bridge](dimensional-displacement.md) — real-world displacement and Aether extraction handoff
 - [Amber MC — Team Planning (Spoilers)](../../rosters/amber-team.md) — Alola team direction
 - [World Opening Timeline](../../world-opening.md) — wider-world connectivity context

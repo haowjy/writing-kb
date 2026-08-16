@@ -136,7 +136,7 @@ Purpose is Fuji's real dependency, and alcohol floods in whenever the supply get
 - Forges official documents and identity records ([Ch.6](https://github.com/haowjy/pokemon-amber/blob/main/story/ch6/chapter6.md))
 
 **Pokemon Team:**
-- **Ditto**: A failed Mew clone (legendary baseline). Exceptional transformation fidelity; can retain near-source strength and rehearse specific forms without a live model. In ch13, fires Hyper Beam on Stephen but deliberately weakens it; refuses the finishing Bite. By ch15-16, refuses lethal orders entirely. Not hardwired resistance --- a gradual collapse of compliance rooted in Mew-nature. See: `wiki/reference/characters/pokemon/ditto.md`.
+- **Ditto**: A failed Mew clone (legendary baseline). Exceptional transformation fidelity; can retain near-source strength and rehearse specific forms without a live model. In ch13, fires Hyper Beam on Stephen but deliberately weakens it; refuses the finishing Bite. By ch15-16, refuses lethal orders entirely. Not hardwired resistance --- a gradual collapse of compliance rooted in Mew-nature. See: `wiki/reference/characters/pokemon/amber-team/ditto.md`.
 - **Magmar**: Enhanced with experimental serum; shows unwavering obedience to violent commands ([Ch.12](https://github.com/haowjy/pokemon-amber/blob/main/story/ch12/chapter12.md), [Ch.14-16](https://github.com/haowjy/pokemon-amber/blob/main/story/ch14/chapter14.md))
 
 **Resources:**

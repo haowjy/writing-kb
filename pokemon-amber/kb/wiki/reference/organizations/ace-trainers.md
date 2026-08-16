@@ -14,7 +14,7 @@
 - Government support: Frequently contracted for emergency response or special operations
 - Gym leadership: Eligible for consideration as gym leaders (not guaranteed; leaders are not always the strongest)
 - Elite Four candidacy: Holding 8 Elite Badges (from pillar gyms) qualifies a trainer for consideration (rare)
-- League seeding: Preferential seeding and invitations in the Regular League
+- League seeding: Preferential seeding and invitations in the ACE tournament
 
 ## Responsibilities and Expectations
 

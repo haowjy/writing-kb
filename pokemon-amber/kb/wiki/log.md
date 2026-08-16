@@ -292,14 +292,13 @@ package update, separate repo).
 - Cut from KB: Kitakami as a place, Ogerpon, Loyal Three, Pecharunt, Mew-sacrifice origin (all moved to trash with arc-kitakami-old.md)
 - Open flags raised: (1) Kingdom name is unnamed --- do not invent; (2) Mega-unlock reconciliation between Visit 1 and Sinnoh/Ceruledge beats
 
-## 2026-06-06 --- Argaea rework: cosmology/stasis/bonds locked; KB consistency sweep
+## 2026-06-06 --- Ashura rework: cosmology/stasis/bonds locked; KB consistency sweep
 
 Brainstorm session reworked the hidden-kingdom arc. Authoritative pages rewritten directly: `arcs/arc-hidden-kingdom.md`, `characters/prince-alexander.md`, `lore/legendaries/darkrai-cresselia.md`, and new `vocab.md`. Then a consistency sweep propagated the canonical terms.
 
 Locked this session:
-- **Name = Argaea** (from the Argead dynasty; a *concealed* Macedon play, so the conquest twist isn't telegraphed)
-- **Time = stasis** (Argaea skipped forward ~3,000 yrs; Alexander chronologically ancient, biologically a youth) --- replaces "3,000 years of continuous rule"
-- **Cosmology = Z-A's Mega Dimension, transposed:** AZ's ultimate weapon overloads Darkrai into Mega form, which folds Argaea into the Mega Dimension (a hyperspace woven from dreams). Canonical place-name is **Mega Dimension**; "dream/nightmare" is description, never a place-name
+- **Time = stasis** (Ashura skipped forward ~3,000 yrs; Alexander chronologically ancient, biologically a youth) --- replaces "3,000 years of continuous rule"
+- **Cosmology = Z-A's Mega Dimension, transposed:** AZ's ultimate weapon overloads Darkrai into Mega form, which folds Ashura into the Mega Dimension (a hyperspace woven from dreams). Canonical place-name is **Mega Dimension**; "dream/nightmare" is description, never a place-name
 - **Geography:** "Kitakami" dropped; site is an **anomalous region within the Mt. Silver massif** (preserves Oak mystery + dragon gauntlet)
 - **Lunar duo severed:** Darkrai locked in (no royal bond, wild Rogue Mega); Cresselia carried out
 - **1:1 bond culture** (one person, one lifelong bond)
@@ -307,16 +306,16 @@ Locked this session:
 - **Arc 16 cure = Cresselia (Lunar Wing) + Shaymin (purification)**; no mentor/tutor (cut)
 
 Consistency sweep (this entry):
-- Updated `arcs/saga-overview.md`: Arc 10/16 named Argaea; fixed stale "suppressing through Cresselia / over his reign" line to the give-Cresselia-away / stasis-vigil version; added Shaymin to the Arc 16 cure
-- Updated `wiki/index.md`: named Argaea in prince + arc entries; "Mt. Silver" -> "Mt. Silver anomaly"
-- Updated `characters/amber-mc-team.md`: named Argaea (Gardevoir, Pikachu, Gible entries, cross-ref); **superseded chronology note:** this older age-label flag predates the normal age-14 trainer-start decision; consult live planning for current chronology
+- Updated `arcs/saga-overview.md`: fixed stale "suppressing through Cresselia / over his reign" line to the give-Cresselia-away / stasis-vigil version; added Shaymin to the Arc 16 cure
+- Updated `wiki/index.md`: "Mt. Silver" -> "Mt. Silver anomaly"
+- Updated `characters/amber-mc-team.md` Gardevoir, Pikachu, and Gible cross-references; **superseded chronology note:** this older age-label flag predates the normal age-14 trainer-start decision; consult live planning for current chronology
 - Verified no live page reintroduces "Kitakami" (only `vocab.md` "dropped" note + this log) or "dream realm" as a place-name (`darkrai-cresselia.md` keeps it only as a Gen 5 canon-reference). `professor-oak.md` and `dimensional-displacement-bridge.md` keep "the (hidden) kingdom" as natural back-reference --- in-world correct (Oak doesn't know the name)
 - Resolved the "sweep pending" flags in `vocab.md` and `arc-hidden-kingdom.md`
 - Note: lore-keeper spawn (p23) for this sweep failed on a billing error; sweep was completed inline instead
 
-Open story flags (author deciding --- not invented): reseal agent (self vs deliberate); Mad King's combat presence (corruption-channel vs partner); mother dies-vs-corrupted + parents' Arc 16 fate; third Arc-10 party member; Alexander's Phase-2 tone; endgame placement (mid vs co-final); Mega-unlock reconciliation; optional proper name for the Mt. Silver anomaly / Argaea's fold instance.
+Open story flags (author deciding --- not invented): reseal agent (self vs deliberate); Mad King's combat presence (corruption-channel vs partner); mother dies-vs-corrupted + parents' Arc 16 fate; third Arc-10 party member; Alexander's Phase-2 tone; endgame placement (mid vs co-final); Mega-unlock reconciliation; optional proper name for the Mt. Silver anomaly / Ashura's fold instance.
 
-## 2026-08-08 --- Argaea restored to a continuous-history, two-visit thread
+## 2026-08-08 --- Ashura restored to a continuous-history, two-visit thread
 
 This entry supersedes the live planning direction recorded on 2026-06-05 and
 2026-06-06 where the two conflict. The older log entries remain as history; do
@@ -324,12 +323,12 @@ not treat their "locked" labels as current.
 
 Decided / current direction:
 
-- Renamed `arcs/arc-hidden-kingdom.md` to `arcs/10-argaea-kitakami.md` so the first Argaea visit sorts as Arc 10 and identifies its Kitakami focus.
-- Created `plot-threads/argaea.md` as the cross-arc causal spine for two visits.
-- Argaea is a smallish, physically and dimensionally sealed pocket region in
+- Stored the first Ashura visit at `arcs/10-ashura-kitakami.md` so it sorts as Arc 10 and identifies its Kitakami focus.
+- Created `plot-threads/ashura.md` as the cross-arc causal spine for two visits.
+- Ashura is a smallish, physically and dimensionally sealed pocket region in
   the same Pokemon world, with multiple provinces or communities and about
   3,000 years of continuous internal history. Stasis is superseded.
-- Kitakami is restored as a province or community inside Argaea. "Kitakami
+- Kitakami is restored as a province or community inside Ashura. "Kitakami
   dropped" is superseded.
 - Visit 1 is an accidental entry by Amber and Prince Alexander. They resolve
   the immediate Kitakami crisis over several days; Amber and Gardevoir first
@@ -342,10 +341,10 @@ Decided / current direction:
 - The patched seal buys only limited time, broadly a few years. Visit 2 is a
   deliberate return by Amber, Alexander, and a capable recruited group to
   replace the stopgap, free Gardevoir, and resolve the larger crisis.
-- Mew is cut from Argaea's access, barrier, and seal logic. Amber's trace Mew
+- Mew is cut from Ashura's access, barrier, and seal logic. Amber's trace Mew
   DNA is not a key.
 - Alexander's later-conqueror / evil-prince direction is rejected. His
-  post-Argaea role has not been replanned.
+  post-Ashura role has not been replanned.
 
 Removed as current locks: near-zero-time stasis; 1:1 bond culture; Cresselia
 and Shaymin escaping with Alexander; Shaymin plus Cresselia as the fixed Visit
@@ -368,7 +367,7 @@ role.
 - Renamed story-level plot threads to planning/saga-threads/ and tightened
   their admission test.
 - Moved minor threads and scene plans into their numbered arc folders.
-- Numbered arc folders and split Argaea Visit 2 into 16-argaea-return/.
+- Numbered arc folders and split Ashura Visit 2 into 16-ashura-return/.
 - Consolidated Team Rocket surveillance and Rainbow Rocket into the
   Giovanni/Team Rocket saga thread.
 - Consolidated the two Aura pages into one system reference.
@@ -431,7 +430,7 @@ This entry supersedes active claims that conflict with it; earlier maintenance e
   and the story's final battle is against Rainbow Rocket.
 - Kept Dungeon causes and resolution, catastrophe language, exact worlds,
   pursuit party, navigation, Rainbow Rocket formation, contacts, and final
-  objective open. Preserved Argaea and Laqua as distinct from the source of
+  objective open. Preserved Ashura and Laqua as distinct from the source of
   Mystery Dungeons or a universal dimensional mechanism.
 - Removed duplicated future mini-arc planning from the Mystery Dungeons
   reference page; the Charcadet saga thread and Arc 1 overview remain its
@@ -490,3 +489,32 @@ the exact facts and open choreography.
   capabilities.
 - Recorded Oak's evidence-based trust in Amber and the visible workbench Mega
   Stone while leaving the stone's species association and provenance open.
+
+## 2026-08-15 --- Organized Pokemon references and Amber team arcs
+
+- Split Pokemon characters into Amber-team, other-trainer, independent, legendary/mythical, and organizational collections; moved Ditto, Caterpie, and Mewtwo and repaired links.
+- Separated character identity, roster logistics, team arcs, regional chronology, and chapter execution into distinct knowledge layers.
+- Added Amber team-arc pages for Ditto, Caterpie, Charcadet, Teddiursa, and Vee; promoted Caterpie to an early secondary character and removed stale Charcadet/Teddiursa acquisition ordinals.
+- Recorded Caterpie's peaceful capture, silk-based survival, cowardice, Chapter 20 opening, planned Metapod rescue, and later benching conflict while leaving gender and payoff placement open.
+
+## 2026-08-15 --- Revised Alonso's Kanto expedition
+
+- Removed Beatriz Romero and Ciro Salvatierra from current planning and deleted their character pages; the older log entries remain only as superseded history.
+- Alonso now travels alone from Paldea after reports of numerous Mystery Dungeon discoveries in Kanto. The journey leaves him broke.
+- Established Paldea's Treasure Hunt as discovery-centered youth travel rather than Kanto's badge circuit, leaving Alonso unfamiliar with badges.
+- Alonso travels with Amber for a meaningful early stretch, allowing his search for discoveries to pull them into later Mystery Dungeon incidents.
+
+## 2026-08-15 --- Paldean knighthood and Alonso roster revision
+
+- Superseded the earlier public-youth-travel framing: Paldea's Treasure Hunt / Journey of Glory remains an elite rite for noble youths and knight-apprentices, unlike Kanto's democratized badge journey.
+- Established knighthood as a legal Paldean office, rare service-based upward mobility for commoners, invitation-based tournaments, restricted adventuring zones, and Charcadet's cultural association with knighthood and inherited armor.
+- Recast Alonso as a commoner with protagonist-scale drive whose exact family origin remains open. He travels legally and alone to Kanto, arrives broke, and failed to research how badges expand active-party capacity.
+- Replaced Alonso's arrival roster with starter Charcadet, younger Charcadet, and Corvisquire. Growlithe follows after the younger Charcadet chooses Amber; Dratini remains provisional after Alonso's second badge.
+- Replaced the old generic rescue with the Mystery Dungeon passage and Giovanni encounter, and replaced the formal first-Gym battle with discretionary standard badges after Giovanni's field assessment.
+
+## 2026-08-15 — Full current-author-session reconciliation
+
+- Added the settled post-Hoenn **approximately two-year Alonso/Mystery Dungeon adventurer interval**. It is active exploration and roster growth, not empty downtime; exact expedition list remains open.
+- Replaced the obsolete post-Hoenn one-year/numbered-arc chronology with an interval → **Sinnoh Standard Conference** direction. Tobias is a Standard entrant possibility; Amber's result remains open.
+- Reclassified the former Mad-King death / Mega-Darkrai escape / Cresselia-Gardevoir seal sequence as a conflicting legacy model. The usurper-before-entry direction is also unselected; `planning/decisions/ashura-visit-one-succession-model.md` now owns the decision.
+- Recorded the mature-roster direction, Heracross Mega-Stone search, rotating-carry practice, early Team Galactic interference, and remaining open questions without turning alternatives into canon.

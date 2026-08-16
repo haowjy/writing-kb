@@ -18,9 +18,9 @@ Hoenn should feel broad, sun-bright, and adventurous on the surface while carryi
 
 ## Current Direction
 
-- **Placement:** Hoenn remains Amber's age-16 conference year and still sits before [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](../10-argaea-kitakami/overview.md).
+- **Placement:** Hoenn remains Amber's age-16 conference year. Ceruledge's reunion and the roughly two-year Alonso/Mystery Dungeon adventurer interval follow before Sinnoh; Ashura's placement is later direction, not a fixed next arc.
 - **Trainer arc:** Amber establishes herself in a new region, builds a Hoenn roster, and wins the Hoenn junior conference as the youngest ever winner.
-- **Emotional spine:** Trapinch/Flygon is still a major internal Hoenn throughline.
+- **Emotional spine:** Trapinch/Flygon's Kanto-to-Hoenn abandonment storyline is a major internal Hoenn throughline. Amber rescued Trapinch and took custody in Kanto; Hoenn owns the former-trainer confrontation and major evolution payoff, not the initial acquisition.
 - **Power seed:** Amber acquires Mega Stones here but cannot fully use them yet.
 - **Ceruledge lane:** Ceruledge appears on the enemy side during the crisis, making Hoenn the first time Amber sees what Rocket theft grew into.
 - **Zinnia lane:** Amber and Zinnia should cross paths here for the first time, but Hoenn does not pay off the Delta Episode yet. It only creates the relationship and the unfinished obligation.
@@ -71,7 +71,7 @@ Amber should matter a great deal in Hoenn without becoming the sole rightful sol
 - She can win the conference year without resolving every deeper system behind it.
 - Hoenn should teach the useful late-saga lesson that sometimes the right move is to **support the specialist**, not to claim the center of every impossible event.
 
-That lesson pays off twice later: first in Delta Episode with Zinnia, then again in how Amber approaches [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](../10-argaea-kitakami/overview.md)'s return.
+That lesson pays off twice later: first in Delta Episode with Zinnia, then in later impossible-place decisions, including a possible Ashura return.
 
 ## Open Questions
 
@@ -84,7 +84,7 @@ That lesson pays off twice later: first in Delta Episode with Zinnia, then again
 ## Cross-Refs
 
 - [Saga Overview — Full Arc Structure](../../saga-overview.md) — macro placement and later Hoenn return
-- [Arc 10 + 16 --- The Hidden Kingdom (Argaea)](../10-argaea-kitakami/overview.md) — the discovery/promise arc that still follows Hoenn
+- [Adventurer interval](../10-11-adventurer-interval/overview.md) — the two-year Alonso/Mystery Dungeon phase following Hoenn
 - [Future Arc: Alola / Aether / Ultra Space Reset](../14-dimensional-displacement-alola/overview.md) — the Alola reset that now precedes Delta Episode
 - [Late-Saga Dimensional Displacement Bridge](../14-dimensional-displacement-alola/dimensional-displacement.md) — late-saga displacement handoff into Alola
 - [Rainbow Rocket Endgame](../../saga-threads/giovanni-team-rocket.md) — Giovanni's broader proxy-capture strategy

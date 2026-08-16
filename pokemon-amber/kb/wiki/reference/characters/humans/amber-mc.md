@@ -17,7 +17,7 @@ Ambertwo was created with trace Mew DNA as part of Fuji's cloning process. Nobod
 
 This is the same capacity Oak's bond research is trying to understand from the outside. It's what the Aura Guardian tradition calls "aura" — Pokemon bond/empathy type. Amber develops it through Oak's practical training advice (grounding techniques, how to listen to her team) without ever being told what it is.
 
-See: [Aura & Bond System](../../world/systems/aura.md), [Ditto](../pokemon/ditto.md), [Mewtwo](../pokemon/mewtwo.md)
+See: [Aura & Bond System](../../world/systems/aura.md), [Ditto](../pokemon/amber-team/ditto.md), [Mewtwo](../pokemon/legendary-mythical/mewtwo.md)
 
 ## Three Years in Pallet
 

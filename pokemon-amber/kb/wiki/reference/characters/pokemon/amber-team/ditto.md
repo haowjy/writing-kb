@@ -1,3 +1,7 @@
+---
+status: drafting
+---
+
 # Ditto
 
 Amber's first Pokemon. Originally Dr. Fuji's ace — a trained weapon. Now something else entirely.

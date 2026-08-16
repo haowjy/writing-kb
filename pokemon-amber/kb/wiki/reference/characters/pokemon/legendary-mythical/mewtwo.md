@@ -1,3 +1,7 @@
+---
+status: drafting
+---
+
 # Mewtwo
 
 Created by Dr. Fuji under Team Rocket's Project Chimera — a clone of Mew, weaponized. The "successful" product of the same lab that produced Ditto and Amber.
@@ -64,7 +68,7 @@ Mewtwo #1 and #2 are the same question answered two ways:
 
 The endgame question isn't "can Amber beat Mewtwo #2 in a fight." It's "can Mewtwo #2 be shown what its family actually is — and would seeing it change anything?" Some people never see it. Some people defend their parents forever.
 
-See [Giovanni](../humans/giovanni.md) and [The Mewtwo Thread](../../../planning/saga-threads/mewtwo-ambertwo.md) for the current household and political direction.
+See [Giovanni](../../humans/giovanni.md) and [The Mewtwo Thread](../../../../planning/saga-threads/mewtwo-ambertwo.md) for the current household and political direction.
 
 ## Open Questions
 
@@ -80,6 +84,6 @@ See [Giovanni](../humans/giovanni.md) and [The Mewtwo Thread](../../../planning/
 
 - `wiki/reference/characters/humans/dr-fuji.md` — creation, Project Chimera
 - `wiki/reference/characters/humans/amber-mc.md` — shared origin, Mew DNA
-- `wiki/reference/characters/pokemon/ditto.md` — the third product
+- `wiki/reference/characters/pokemon/amber-team/ditto.md` — the third product
 - `wiki/reference/world/systems/aura.md` — Mew DNA capacity
-- `planning/arcs/10-argaea-kitakami/overview.md` — Mew connection becomes plot-relevant
+- `planning/arcs/10-ashura-kitakami/overview.md` — Mew connection becomes plot-relevant

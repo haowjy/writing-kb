@@ -95,7 +95,7 @@ central antagonist rather than becoming the host of a villain boss rush.
 - Which worlds the pursuit enters, their order and number, and the exact
   relationship to existing Pokemon continuities.
 - Membership of Amber's small pursuit group.
-- Ultra Wormhole navigation rules and how much prior Mystery Dungeon or Argaea
+- Ultra Wormhole navigation rules and how much prior Mystery Dungeon or Ashura
   experience transfers.
 - How long Rainbow Rocket takes to form, whether Giovanni prepared contacts
   before the main-world war, and whether he builds or encounters any part of

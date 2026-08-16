@@ -75,7 +75,7 @@ available as part of his present active team.
 - **Charizard** — Oak's starter Pokemon (Charmander). Stubborn for the first
   three weeks. Still a Charmeleon by age 15 during the 4Ever events; it evolves
   at 17 during the push through Mt. Silver's dragon country. Whether that route
-  becomes Argaea's access site is open.
+  becomes Ashura's access site is open.
 - **Venusaur** — one of the restricted wartime trio.
 - **Blastoise** — one of the restricted wartime trio.
 
@@ -91,7 +91,7 @@ He made it to the outer edge of the dragon territory --- Jangmo-o packs, Gible d
 
 This is the story Gary has heard a hundred times. It has no ending. Gramps keeps telling a story that doesn't resolve.
 
-**Possible Argaea payoff:** the Mt. Silver route may connect to Argaea's
+**Possible Ashura payoff:** the Mt. Silver route may connect to Ashura's
 outside-world access point. The current direction does not fix the gateway's
 location or make Oak's route the cause of the breach.
 

@@ -22,9 +22,10 @@ These systems are distinct but often overlap in practice. A skilled trainer migh
 
 - **Licensing**: Legal framework for handling Pokemon and contracting quests (safety, accountability)
 - **Badges**: Gym trust marks; Standard vs Elite; used by the League for qualification and seeding
-- **League**: Competitive pathway with two tracks
-  - Juniors (U19): Earn 8 Standard Gym Badges from League‑recognized gyms (or recommendations)
-  - Regular (Open Age): Hold ≥1 Elite Badge (Ace status) and meet ranking points threshold
+- **League**: Competitive pathway with three Conference tournaments
+  - Juniors (U19): Earn 8 Standard Gym Badges from League-recognized gyms
+  - Standard (open-age): Earn 8 Standard Gym Badges from League-recognized gyms; qualified U19 trainers may choose it instead of the Junior Cup
+  - ACE: Hold ≥1 Elite Badge and meet ranking-points requirements
 
 **Integration**: Licenses gate legal work; badges influence hiring, reputation, and League entry/seeding. Badges reflect breadth and recognized trust, not raw power.
 
@@ -32,8 +33,9 @@ These systems are distinct but often overlap in practice. A skilled trainer migh
 
 - **Pokemon League** = competitive tournament circuit (sport, entertainment)
   - Win tournaments, earn prize money and fame
-  - Junior League: 8 badges OR recommendation
-  - Main League: Ranking Points/ELO OR 8 Ace Badges
+  - Conference Junior Cup: 8 recognized standard Gym Badges
+  - Standard tournament: 8 recognized standard Gym Badges
+  - ACE tournament: Elite Badge plus ranking requirements
   - Anyone can compete if they meet requirements
 
 - **Regional Champion** = government position (international representative)
@@ -50,6 +52,7 @@ Pre-Pokeball, Champions led gym councils against Pokemon. Post-Pokeball governme
 
 - **[Quest System](quest-system.md)** — board categories, requirements, sponsors, and process
 - **[Adventurer System](adventurer-system.md)** — older cultural and professional identity layered with private guilds and a newer international federation; not an official license tier
+- **[Career Paths](career-paths.md)** — professional outcomes, type specialization, and social mobility
 - **[Mystery Dungeons](../../phenomena/mystery-dungeons.md)** — known but delayed world phenomenon; Dungeon work uses existing quest categories while the federation coordinates field operations
 - **[Aura & Bonding](../aura.md)** - Advanced trainer-Pokemon connection mechanics (hidden reference)
 
@@ -59,8 +62,8 @@ Pre-Pokeball, Champions led gym councils against Pokemon. Post-Pokeball governme
 1. Obtain learner’s or standard trainer license
 2. Challenge gyms for badges as desired (trust, reputation, Juniors path)
 3. Take quests with a valid license; posters may prefer certain badges
-4. If Juniors path: Collect 8 Gym Badges to qualify
-5. If Regular path: Earn ≥1 Elite Badge (Ace) and accumulate ranking points
+4. Collect 8 Gym Badges for the Junior or Standard Conference tournament
+5. For the ACE path, earn ≥1 Elite Badge and accumulate ranking points
 6. Specialization: Gym employment, Ranger track, elite invitations
 
 **Badge Collection Strategy:**
@@ -73,20 +76,23 @@ Pre-Pokeball, Champions led gym councils against Pokemon. Post-Pokeball governme
 
 **League Qualification:**
 
-**Junior League (Under 18):**
-- 8 Standard Gym Badges from League‑recognized gyms (or recommendations)
+**Conference Junior Cup (Under 19):**
+- 8 Standard Gym Badges from League-recognized gyms
 
-**Regular League (Open Age):**
+**Standard Tournament:**
+- 8 Standard Gym Badges from League-recognized gyms
+
+**ACE Tournament:**
 - Hold ≥1 Elite Badge (Ace status) and meet tournament ranking threshold
 
 ## Historical Context
 
-The modern certification structure emerged after the [invention of the Pokeball](https://github.com/haowjy/pokemon-amber/blob/main/story/), which revolutionized Pokemon training. Previously, [gyms functioned as teaching guilds](https://github.com/haowjy/pokemon-amber/blob/main/story/) where badges represented personal trust; today badges serve as standardized area certifications for safety and legal purposes.
+The modern certification structure emerged after the [invention of the Pokeball](https://github.com/haowjy/pokemon-amber/blob/main/story/), which revolutionized Pokemon training. Previously, [gyms functioned as teaching guilds](https://github.com/haowjy/pokemon-amber/blob/main/story/) where badges represented personal trust; today badges record gym trust and demonstrated competence within the licensing and League systems.
 
 **Evolution:**
 - **Pre-Pokeball**: Badges = personal trust with gym leader
-- **Post-Pokeball**: Badges = standardized area certification
-- **Modern Era**: Badges serve dual purpose (quest access + League requirement)
+- **Post-Pokeball**: Badges = standardized records of gym trust and demonstrated competence
+- **Modern Era**: Badges expand licensed carry capacity, influence hiring, and qualify trainers for League competition; a trainer license, not badge count alone, gates quest access
 
 ## Related Organizations
 

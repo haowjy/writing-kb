@@ -46,6 +46,6 @@ outcome remain open planning.
 - [Professor Oak](../../reference/characters/humans/professor-oak.md)
 - [Lance](../../reference/characters/humans/lance.md)
 - [Pallet Town](../../reference/places/kanto/pallet-town.md)
-- [Pikachu return and possible Ash handoff](../arcs/10-argaea-kitakami/pikachu-handoff.md)
+- [Pikachu return and possible Ash handoff](../arcs/10-ashura-kitakami/pikachu-handoff.md)
 - [Giovanni, Team Rocket, and Rainbow Rocket](../saga-threads/giovanni-team-rocket.md)
 - [Kanto–Johto Colonial Integration and First Kanto Secession](../../reference/world/history/kanto-johto-unification-war.md)

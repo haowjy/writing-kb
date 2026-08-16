@@ -16,7 +16,7 @@ Amber and Alonso enter the guarded cave because Rocket's operation points inward
 
 Teddiursa sees his mother. For one moment Ursaring starts to come back to herself and recognizes her cub. Then Rocket forcefully recalls/removes her as collapse/rubble separates them. Teddy finds his mother and loses her again.
 
-Amber and Alonso are trapped. Teddiursa, Charcadet, and Ditto slip out through a small passage to bring help. Teddy has to carry part of the promise too.
+Amber and Alonso are trapped. Ditto, Teddiursa, and Charcadet help locate or open a narrow passage, and the group discovers that it leads into a genuine Mystery Dungeon. Alonso is ecstatic because discovering Mystery Dungeons is one of his central ambitions. Inside they encounter Giovanni, publicly acting as a researcher, who guides them through another exit while concealing Rocket's use of the site. Once outsiders have discovered the Dungeon, Giovanni orders the operation evacuated and sanitized. He privately recognizes Amber as Fuji's old clone.
 
 ## 4Ever Resolution (Settled 2026-06-07)
 

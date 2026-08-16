@@ -274,7 +274,7 @@ The Fighting Dojo represents gyms that failed to adapt - lost official status, o
 - Battle gym leader at full power
 - Proves elite capability
 - Pathway to Ace Trainer status
-- Automatic Main League qualification
+- Automatic ACE tournament qualification
 
 ### Why Two Tiers Work
 
@@ -303,7 +303,7 @@ The Fighting Dojo represents gyms that failed to adapt - lost official status, o
 - Standard badges: Area certification, quest access
 - Ace badges: Elite recognition, League shortcut
 - 8 standard badges: Junior League entry
-- 8 Ace badges: Main League automatic entry
+- 8 Ace badges: ACE tournament automatic entry
 
 **Coordination (Not Integration):**
 - Pokemon Centers coordinate quest system (closest to unified infrastructure)

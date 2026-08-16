@@ -6,6 +6,10 @@ This page tracks Amber's confirmed roster and candidate pool, organized by regio
 
 **Not every Pokemon should mirror Amber.** The team should feel like a group of beings with their own problems and histories who end up around Amber because she is the kind of person they can stay with.
 
+## Mature-Roster Direction
+
+The working mature emotional core is **Ditto, Ursaring, Flygon, Vee, Gardevoir, and Ceruledge**. This is a direction under active planning, not a locked final six or an assertion that all six are continuously carried. Butterfree and Heracross are meaningful rotations; Heracross's Mega-Stone search belongs to the Alonso/Mystery Dungeon adventurer interval. Amber's ownership is intentionally broader than her active carry limit: she commonly reserves one carried slot for a possible capture and uses Caterpie/Butterfree as capture support.
+
 ## Roster Tiers
 
 Within each region, Pokemon are organized by depth of narrative bond:
@@ -23,37 +27,31 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 ### Primary
 
-- **Ditto** — Identity/agency pillar; perfect copy variant; not to be sidelined. Foundational bond, mirror, comfort, identity. Established in chapters 1–17. Emotionally central, intimate.
+- **[Ditto](../../reference/characters/pokemon/amber-team/ditto.md)** *(first Pokemon; active from departure)* — Foundational identity/agency relationship and exceptional transformer. Do not sideline. Arc: [identity and agency](../team-arcs/amber/ditto-identity.md).
 
-- **Charcadet** *(2nd Pokemon; permanently stolen by Team Rocket)* ⚠️ *Non-native — registered as Amber's one foreign Pokemon allowance* — Nobody in Indigo knows what species it is; customs process is awkward by necessity. Amber registers it herself. Journey Pokemon: ambition, drive, intensity. Acquired very early — Amber's second Pokemon — so the bond is deep before the theft. **Stolen by Team Rocket and evolved into Ceruledge under their control** — its armor is shaped by malice and regret rather than honor. The Armarouge/Ceruledge choice is resolved by the story, not the author. Becomes a recurring Rocket Pokemon Amber recognizes. Core question: can it be reached? Does it remember her? Its loss is a radicalizing event — a primary driver of Amber's campaign against Team Rocket.
-  - **Theft timing:** End of Year 1, right before the first junior conference tournament. Amber has all 8 badges and just qualified. 4Ever happens in this window — she walks into her first conference without her ace. Her metagame knowledge didn't protect her. That failure is part of what radicalizes her.
-  - **Origin context:** Alonso — a Paldean adventurer chasing the Greatest Adventurer myth — is the reason Charcadet is in Kanto. Amber is the reason Charcadet stays. Charcadet was initially part of Alonso's early team: the younger sibling of Alonso's strong starter Charcadet. It chooses Amber after observing the beginning of her quest across multiple encounters. Alonso's willingness to let Charcadet go for a worthy trainer proves his ideals.
+- **Charcadet → Ceruledge** *(eventual Kanto choice; later stolen by Team Rocket)* — Paldean Pokemon brought to Kanto by Alonso; eventually chooses Amber after multiple observations. Non-native registration and foreign allowance apply. Arc: [choice, theft, and attempted recovery](../team-arcs/amber/charcadet-loss-and-return.md). Saga consequences: [Charcadet/Ceruledge](../saga-threads/charcadet-ceruledge.md).
 
-- **Teddiursa → Ursaring** *(3rd Pokemon; early bond through missing-mother promise; evolves from grief in 4Ever)* — Looks soft, is not. Aggressive, scrappy, surprises Amber with its temperament. Acts as personality rival to Charcadet — two aggressive Pokemon competing for the same space. Initial bond begins on Route 1: Teddiursa attacks humans because Team Rocket took/threatened his mother. Amber promises to help save Ursaring, follows him to a Rocket camp, protects him, then pursues the cave escalation with Alonso. Rocket removes mother Ursaring after an almost-reunion, so Amber's promise remains unfulfilled.
-  - **Pre-4Ever drive:** Playful but determined. Wants to find his mother. Getting stronger is the means, not yet consuming. Still has a childlike quality.
-  - **4Ever:** Finds his mother among Rocket's corrupted Pokemon — she has been driven to madness and is beyond saving. She dies. Teddiursa evolves into Ursaring through grief. The evolution is the emotional breaking point, not a power-up.
-  - **Post-4Ever:** Ursaring becomes destructively obsessed with strength and vengeance. Diminishing returns — rage without growth. Mirrors Amber's own radicalization after losing Charcadet. Both lost something in 4Ever; both harden into unsustainable versions of themselves.
-  - **Later:** Some event mellows both Ursaring and Amber. They come down together.
-  - See: [Teddiursa / Mother Ursaring Rescue Thread](../arcs/01-kanto-year-1/ursaring-rescue.md)
+- **Teddiursa → Ursaring** *(early Kanto acquisition; exact custody moment unsettled)* — Bond begins through Amber's promise to help save his missing mother. The promise remains unfulfilled after Rocket removes Ursaring from the cave. Arc: [promise, grief, and vengeance](../team-arcs/amber/teddiursa-ursaring.md). Rescue logistics: [Ursaring rescue](../arcs/01-kanto-year-1/ursaring-rescue.md).
 
-- **Vee (Eevee → Espeon)** *(first encountered in Celadon pre-4Ever; recruited post-4Ever on deliberate return)* — Team Rocket experiment. Modified to cycle freely between Vaporeon, Jolteon, and Flareon; transformations cause physical pain. Deeply mistrustful of humans as a result. Seeded in ch7 as a [Defeat] notice: *"Rogue Eevee and Eeveelutions Route 7 — Exercise Caution. (Class C)"* — Amber half-recognizes the setup but can't place it.
-  - **First encounter (pre-4Ever):** Amber runs into Vee in Celadon. They interact — Vee bonds with Amber's Pokemon (likely Ditto). A brief Team Rocket escalation: Rocket shows up, probably trying to recapture Vee; Amber helps fight them off. Then she leaves. Vee doesn't come with her. Not yet.
-  - **Recruitment (post-4Ever):** After Charcadet is stolen, Amber deliberately detours back to Celadon. The one time she actively pursues a Pokemon rather than stumbling into one. Vee remembers her. When Amber says she's going after Rocket, Vee has a reason to say yes. This isn't a trainer-Pokemon bond built on warmth — it's two people with the same enemy deciding to work together. Trust comes later.
-  - **Eventual permanent evolution into Espeon** represents emotional recovery — loses the multi-form ability, gains stability. Resonates with Amber's Rocket radicalization arc and identity themes (forced to be multiple things, in pain from it).
+- **Trapinch → Vibrava → Flygon** *(acquired in Kanto; major payoff in Hoenn)* — A Hoenn trainer becomes frustrated with Trapinch's slow development and leaves or fails to retrieve it during a Kanto incident. Trapinch continues waiting for that trainer in a Charmander-like abandonment story until Amber rescues it and it joins her. The modern Kanto acquisition execution remains open; deleted reset-era details involving ten-year-old Amber, Flint, and missing-license logistics are not current canon. In Hoenn, Trapinch confronts its former trainer and receives its major emotional and evolution payoff.
+
+- **Vee: Eevee → Espeon** *(first encountered in Celadon before 4Ever; recruited after 4Ever)* — Rocket experiment forced to cycle painfully among Eeveelutions. Joins Amber initially through a shared enemy; trust comes later. Arc: [shared enemy, trust, and stability](../team-arcs/amber/vee-trust-and-stability.md).
 
 ### Secondary
 
-- **Heracross** *(acquired after badges)* — Pain-averse, cleanliness-obsessed, hates getting dirty/hurt. Dislikes close combat despite being physically built for it. Judged/bullied by other Pokemon and trainers for seeming "wrong" for a Heracross. Amber does NOT force it into brawler role. Develops **technical, repeated-strike, multi-hit fighting style** — precise rather than tanky. Adds warmth, physicality, comedy, battle presence. Resonates with Amber through mismatch/misread identity (not one-to-one mirror). Later Mega Heracross payoff possible.
+- **[Caterpie → Butterfree](../../reference/characters/pokemon/amber-team/caterpie.md)** *(second Pokemon; first wild capture; early active team, later rotates to Oak's ranch)* — Precise silk and eventual Compound Eyes/powder capture support. Arc: [cowardice and courage](../team-arcs/amber/caterpie-courage.md).
 
-- **Nidoran ♀ (shiny)** — Shiny female Nidoran is blue; reads visually as male. Pack treats her as male, personality doesn't conform, gets bullied for it. Surprise acquisition — Amber doesn't expect the aggression. Maps onto misread identity themes without being a one-to-one mirror.
+- **Pidgey** *(caught at the end of Chapter 20)* — A different individual from the Pidgey that knocks itself unconscious in Chapter 19. It attacks Caterpie twice; during the second attack Caterpie contributes with *String Shot* and Amber catches Pidgey while it remains conscious. Pidgey is a low-priority reserve rather than an emotional core member.
 
-- **Squirtle** *(Kanto)* — One of the oddball members of the Squirtle Squad, not the leader. Steps away from the group identity when Amber crosses paths with them. The story is in why this one leaves — not defection, something more personal. Details TBD.
+- **Heracross** *(acquired after badges)* — Pain-averse and cleanliness-obsessed; develops a precise repeated-strike style rather than conventional tanking. Later Mega Heracross payoff remains possible.
 
-- **Pikachu** *(road home from Argaea; temporarily travels with Amber, returned to Oak)* — Found on the road home from Argaea. Refuses to go in a ball. Amber travels with it briefly and recognizes it immediately — she knows exactly whose Pokemon this is supposed to be. Returns it to Oak's lab at Pallet Town. Tells Oak: *"Give it to Ash if he wakes up late."* She knows Ash will oversleep on his journey start day. She's not just dropping off a difficult Pokemon — she's quietly making sure the right story happens. Oak doesn't understand why she said it that way. See: [Pikachu handoff](../arcs/10-argaea-kitakami/pikachu-handoff.md).
+- **Nidoran ♀ (shiny)** — Blue coloration causes others to misread her as male; surprise acquisition with identity-theme resonance.
+
+- **Squirtle** *(Kanto)* — An oddball member of the Squirtle Squad who eventually leaves the group for personal reasons still to be developed.
+
+- **Pikachu** *(possible temporary companion)* — Its origin, including a possible dangerous Mystery Dungeon encounter, and any Oak/Ash handoff remain open. Do not treat a handoff as decided.
 
 ### Tertiary
-
-- **Caterpie → Butterfree** *(early catch)* — Docile, calm, no real friction. Travels with Amber early, eventually moves to Oak's ranch. Payoff: Compound Eyes + Sleep Powder in a tournament match where Amber needs a precise play. Pulled specifically for that matchup, then returns to ranch.
 
 - **Magikarp** *(early catch)* — Amber catches it thinking she can grind it like in the games. Reality check: brutal, slow, the Pokemon is miserable. Sent to Oak's ranch. Payoff: may eventually evolve at the ranch without her. This is separate from the later **Alola Magikarp** direction. Slot filled by Heracross.
 
@@ -83,11 +81,11 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 ### Primary
 
-- **Kirlia → Gardevoir** *(acquired early Hoenn; external seal anchor after Argaea Visit 1)* — Amber's psychic slot. Caught early in Hoenn, travels with her through the full Hoenn arc and conference win. During the Kitakami stage of Argaea Visit 1, Amber and Gardevoir discover or are forced to discover Mega Evolution together. After Cresselia expels Amber and Alexander, Amber and Gardevoir use Mega Evolution in a sealing action. Gardevoir must remain at or on the outside threshold as external support while Cresselia holds the inner side. The patch is temporary, and freeing Gardevoir is a fixed objective of Visit 2. Gardevoir's exact location, accessibility, and long-term Mega mechanics are open; do not assume she remains Mega-Evolved for years. See: [the Argaea saga thread](../saga-threads/argaea.md) and [the Hidden Kingdom arc](../arcs/10-argaea-kitakami/overview.md).
+- **Kirlia → Gardevoir** *(acquired early Hoenn)* — Amber's psychic slot and a member of the working mature emotional core. Earlier pages treated Gardevoir as a fixed external seal anchor after Ashura Visit 1; that depends on an unresolved Ashura succession/Visit 1 model and is not current roster fact. See [Ashura's succession model](../decisions/ashura-visit-one-succession-model.md).
 
 ### Secondary (approaching Primary)
 
-- **Trapinch → Vibrava → Flygon** — Rare starter belonging to a Hoenn trainer gunning for a conference win. Got lost during training; trainer didn't file a rescue request, just moved on. His entire team is already evolved; Trapinch hadn't been used in tournaments for a while. The indifference is the wound. Trapinch won't evolve — emotional block from abandonment. Amber finds and saves it. The arc is Trapinch becoming strong enough to face the original trainer again. The trainer isn't a villain, just someone whose indifference becomes a target. Slow burn across the Hoenn arc. See: [Hoenn arc](../arcs/07-09-hoenn/overview.md).
+- **Trapinch → Vibrava → Flygon** *(continuing from Kanto)* — Hoenn carries forward the abandonment storyline begun when Amber rescued Trapinch in Kanto. Trapinch faces its former Hoenn trainer here and receives its major emotional and evolution payoff. See the Indigo primary entry above and [Hoenn arc](../arcs/07-09-hoenn/overview.md).
 
 ### Tertiary
 
@@ -122,7 +120,7 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 ### Candidate (Sinnoh)
 
-- **Gible → Garchomp** *(pseudo; also Argaea connection)* — Gible dens are in the Mt. Silver dragon gauntlet. If Amber gets through, acquiring a Gible from those passes is earned. Could be Sinnoh or the Argaea acquisition.
+- **Gible → Garchomp** *(pseudo; also Ashura connection)* — Gible dens are in the Mt. Silver dragon gauntlet. If Amber gets through, acquiring a Gible from those passes is earned. Could be Sinnoh or the Ashura acquisition.
 
 ---
 
@@ -168,7 +166,7 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 *Defined by acquisition difficulty and power level. Not subject to standard tier rules — these are long-game payoffs.*
 
-- **Gible → Garchomp** *(Sinnoh / Argaea)* — Dragon/Ground. Mt. Silver dragon gauntlet hook. Aggressive, fast, combat-oriented.
+- **Gible → Garchomp** *(Sinnoh / Ashura)* — Dragon/Ground. Mt. Silver dragon gauntlet hook. Aggressive, fast, combat-oriented.
 - **Goomy → Goodra** — Dragon. Gentle, affectionate; wetlands. Softer than Garchomp.
 - **Larvitar → Tyranitar** *(Johto, Mt. Silver)* — Rock/Dark. Eats mountains; territorial. High narrative cost to field responsibly.
 - **Bagon → Salamence** *(Hoenn)* — Dragon/Flying. Obsessively headbutts rocks, dreams of flight.
@@ -225,12 +223,13 @@ Alternatives: medical retirement/sanctuary, permanent transfer to orgs, or ecolo
 
 ## Region Plan & Transitions
 
-- **Indigo Year 1** — Licensing, Oak-supported departure. Core: Ditto/Charcadet/Teddiursa. 4Ever at end of Year 1 (all 8 badges). Charcadet stolen; Teddy/Ursaring payoff TBD with the mother-Ursaring rescue debt. First conference entered without ace.
+- **Indigo Year 1** — Licensing, Oak-supported departure. Early core: Ditto, Caterpie, Trapinch, and Teddiursa as custody permits. Charcadet remains Alonso's Pokemon through most of Kanto, chooses Amber near the end of the journey, and is stolen during 4Ever shortly afterward. Teddy/Ursaring payoff remains tied to the mother-Ursaring rescue debt. Amber enters her first conference without Charcadet.
 - **Indigo Year 2** — Post-conference. Vee recruited in Celadon.
 - **Transition trigger** — Two successful Rocket thefts within ~60 days, plus one secondary factor: denied gym rematch, sponsor offer contingent on relocation, Ranger advice, or Amber's own line *"I am not bait."*
-- **Hoenn** — Ecology shift; new additions. Trapinch arc. Tone hardens. Gardevoir joins before Argaea.
-- **Argaea Visit 1 (Arc 10, age 17)** — After Hoenn. Gardevoir becomes the temporary external seal anchor; the Pikachu handoff's placement is unresolved; see [Pikachu handoff](../arcs/10-argaea-kitakami/pikachu-handoff.md).
-- **Sinnoh** — History/identity themes deepen. Shinx, Rockruff arcs TBD.
+- **Hoenn** — Ecology shift; Trapinch's Kanto-to-Hoenn arc reaches its former-trainer and evolution payoff. Gardevoir joins.
+- **After Hoenn** — Ceruledge's reunion, then roughly two years of Alonso/Mystery Dungeon adventuring. This period develops the mature rotating roster and Heracross's Mega-Stone search.
+- **Sinnoh** — Standard Conference and early Team Galactic interference. Shinx and Rockruff remain open candidates.
+- **Ashura** — placement and roster consequences remain open; do not infer them from legacy arc numbering.
 
 Migration logistics: registration scan, health stamp, insurance proof, visa tier confirmation. Small friction grounds the travel.
 
@@ -249,8 +248,8 @@ Migration logistics: registration scan, health stamp, insurance proof, visa tier
 
 - [Current direction](https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/workspace/current-direction.md) — source of truth for story direction
 - [Celadon arc](../arcs/02-06-celadon/overview.md) — Celadon/Erika/Vee arc
-- [Hidden Kingdom arc](../arcs/10-argaea-kitakami/overview.md) — Argaea (the hidden kingdom) discovery arc
-- [Pikachu handoff](../arcs/10-argaea-kitakami/pikachu-handoff.md) — Pikachu/Ash handoff beat
+- [Ashura](../saga-threads/ashura.md) — unresolved Ashura placement and Visit 1 model
+- [Adventurer interval](../arcs/10-11-adventurer-interval/overview.md) — Mystery Dungeon roster-development phase
 - [Hoenn arc](../arcs/07-09-hoenn/overview.md) — Hoenn arc, Trapinch
 - [Amber](../../reference/characters/humans/amber-mc.md) — MC overview
 - [International licensing](../../reference/world/systems/trainers/international-licensing.md) — visa tiers and carry limits

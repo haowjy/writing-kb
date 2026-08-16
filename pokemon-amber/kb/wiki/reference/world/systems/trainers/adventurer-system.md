@@ -17,18 +17,18 @@ separate legal profession.
 
 [Alonso Quijano](../../../characters/humans/alonso-quijano.md) brings the
 Paldean ideal into Kanto. He pursues the title of Greatest Adventurer, travels
-with Charcadet, Beatriz, and Ciro, and values discovery over the circuit. Don Q,
-a shabby storyteller his minor-noble parents distrusted, made that ideal feel
-possible; they instead want Alonso to become a proper knight. Alonso sincerely
-becomes what Don Q only performed.
+alone with his Pokemon, and values discovery over legal office. Don Q, a shabby
+storyteller, made that ideal feel possible. Alonso sincerely becomes what Don Q
+only performed. Alonso's exact family origin remains open.
 
 ## Travel and Work
 
 Long-distance adventuring exists but remains unusual because off-route Pokemon,
 unmapped terrain, supplies, and cross-region law make expeditions dangerous and
 expensive. Ships, aviation, Centers, communications, mapping, Pokeballs, and
-Repel make it increasingly possible. Alonso can reach Kanto with his Paldean
-crew, then become separated while following trouble or a Pokemon in danger.
+Repel make it increasingly possible. Reports of numerous Mystery Dungeon
+discoveries draw Alonso from Paldea to Kanto; the journey consumes nearly all
+his money, leaving him broke when he arrives.
 
 Adventurers often use Pokemon Center [quest
 boards](quest-system.md), but the board classifies jobs rather than identities.

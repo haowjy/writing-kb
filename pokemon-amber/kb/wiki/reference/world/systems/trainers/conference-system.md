@@ -15,20 +15,20 @@ The Big 4 are grouped as a single competitive cluster because they are geographi
 
 ## Quarterly Rotation Schedule
 
-Each region receives a three-month active season. The final month of each season hosts both a U19 event and an ACE-tier conference.
+Each region receives a three-month active season. Its final month hosts three tournaments: the U19 Junior Cup, the open-age Standard tournament, and the ACE tournament.
 
 | Months | Active Region | Season-End Events |
 | --- | --- | --- |
-| 1-3 | Kanto | Kanto U19 Junior League Tournament; Kanto Conference (ACE tier) |
-| 4-6 | Johto | Johto U19 Junior League Tournament; Johto Conference (ACE tier) |
-| 7-9 | Hoenn | Hoenn U19 Junior League Tournament; Hoenn Conference (ACE tier) |
-| 10-12 | Sinnoh | Sinnoh U19 Junior League Tournament; Sinnoh Conference (ACE tier) |
+| 1-3 | Kanto | Kanto Junior Cup; Kanto Standard; Kanto ACE |
+| 4-6 | Johto | Johto Junior Cup; Johto Standard; Johto ACE |
+| 7-9 | Hoenn | Hoenn Junior Cup; Hoenn Standard; Hoenn ACE |
+| 10-12 | Sinnoh | Sinnoh Junior Cup; Sinnoh Standard; Sinnoh ACE |
 
 After Month 12, the cycle resets to Kanto.
 
 ## Competitive Tiers
 
-### U19 Junior League
+### Conference Junior Cup (U19 Junior League)
 
 The U19 tier is the youth tournament layer.
 
@@ -36,9 +36,17 @@ The U19 tier is the youth tournament layer.
 - **Badge sourcing rule:** Badges may be mixed across Big 4 regions for qualification
 - **Participation pattern:** Most youth entrants compete in one regional event per year because travel and logistics are limiting factors
 
-### Conference Tier (ACE Level)
+### Standard Tournament
 
-The conference tier is the elite competitive layer.
+The Standard tournament is the normal adult-accessible Conference path.
+
+- **Eligibility baseline:** Valid trainer license and 8 badges from 8 different recognized gyms
+- **Age:** Open-age path. A qualified U19 trainer may enter Standard instead of the Junior Cup; a trainer chooses one conference category for that regional event.
+- **Badge sourcing rule:** Badges may be mixed across Big 4 regions
+
+### ACE Tournament
+
+The ACE tournament is the elite competitive layer.
 
 - **Eligibility baseline:** ACE-level capability and League recognition beyond standard junior qualification
 - **Role in progression:** Primary high-tier conference path tied to Elite Four and champion-track competition pipelines
@@ -62,7 +70,7 @@ Tournaments use a **registration pool** system — trainers register more Pokemo
 
 Badge eligibility is interoperable across the Big 4.
 
-- A mixed badge set is valid for U19 entry if the trainer has 8 distinct gym badges
+- A mixed set of 8 distinct gym badges satisfies the badge requirement for Junior and Standard entry
 - Region of issue does not invalidate badge count for tournament registration
 - Cross-recognition supports interregional travel and avoids duplicate badge-grinding for each host region
 

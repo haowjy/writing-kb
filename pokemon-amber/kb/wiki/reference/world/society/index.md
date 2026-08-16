@@ -5,3 +5,4 @@
 - [Economics](economics/index.md)
 - [Champion government system](government/champion-system.md)
 - [International institutions](international-institutions.md) — layered service, field, police, and elite cooperation
+- [Paldean knighthood and the Journey of Glory](paldea-knighthood.md) — legal knighthood, noble access, Charcadet tradition, and commoner exclusion
