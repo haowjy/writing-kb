@@ -20,13 +20,13 @@ Ch. 20 plants the seed outside the cave: Teddiursa recognizes Team Rocket and ch
 
 Ch. 22 deepens the evidence: Amber continues pursuing Teddy's mother into the guarded cave; Rocket removes Ursaring after an almost-reunion; Amber and Alonso are trapped; Teddiursa, Charcadet, and Ditto help find a narrow route into a genuine Mystery Dungeon. Charcadet remains part of carrying Amber's promise forward.
 
-The choice should come later after Charcadet observes a pattern over a short stretch with Alonso.
+The choice develops across most of Kanto as Charcadet observes Amber in the trio's shared adventures; it lands only near Kanto's end, shortly before 4Ever.
 
 The same incident also seeds the ore thread: Rocket is harvesting/testing psychic-reactive Mew-adjacent material from the cave. Charcadet may become associated with the ore after the rescue, but the ore does **not** cause Charcadet's bond with Amber. The emotional bond comes from observation, trust, and Amber keeping promises.
 
 ## Mystery Dungeon Bonding Arc
 
-The actual choice should come after several chance encounters, not immediately after the Route 1 / cave incident. A later Alonso mini-arc can bring Amber and the reader into explicit Mystery Dungeon knowledge:
+The actual choice should come after several chance encounters, not immediately after the Route 1 / cave incident. A later Kanto Mystery Dungeon mini-arc can bring the trio and the reader into explicit Mystery Dungeon knowledge:
 
 - Amber asks about Mystery Dungeons after hearing enough hints from Alonso / quest-board culture.
 - Alonso decides to show her one and sneaks her past the official route boundary; this is technically illegal or at least against posted safety rules.

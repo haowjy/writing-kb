@@ -2,15 +2,15 @@
 
 ## Core Promise
 
-Amber promises Teddiursa she will help save his missing mother. That promise begins the Route 1 off-route mini-arc and remains unfulfilled after Ch. 21.
+Amber promises Teddiursa she will help save his missing mother. That promise begins the Route 1 off-route mini-arc and remains unfulfilled after Ch. 22.
 
 Teddiursa does not initially trust Amber because she is kind. He tolerates her because she recognizes the problem and moves toward the humans who took/threatened Ursaring.
 
-## Ch. 20: Team Rocket Camp
+## Ch. 21: Team Rocket Camp
 
-Teddiursa recognizes Team Rocket at the hidden camp and charges before Amber can plan. Amber protects him and takes a meaningful but not catastrophic hit. Alonso arrives with Armarouge and Charcadet after Amber's choice and saves her.
+Teddiursa recognizes Team Rocket at the hidden camp and charges before Amber can plan. Amber protects him and takes a meaningful but not catastrophic hit. Alonso arrives with his starter Charcadet and its younger sibling after Amber's choice and saves her.
 
-## Ch. 21: Cave Escalation
+## Ch. 22: Cave Escalation
 
 Amber and Alonso enter the guarded cave because Rocket's operation points inward. Rocket releases/provokes Ursaring as a last resort. Ursaring is not evil; she is hurt, furious, disoriented, and made dangerous by Rocket.
 
@@ -32,7 +32,7 @@ Some later event mellows both Ursaring and Amber. They come down together. The a
 
 ## Open Questions
 
-- Is Teddiursa officially caught in Ch. 20, after Ch. 21, or later?
+- Is Teddiursa officially caught in Ch. 21, after Ch. 22, or later?
 - How does Rocket remove Ursaring during the almost-reunion in Ch. 21?
 - How exactly does Ursaring die in 4Ever? In battle? Mercy kill? Self-destruction?
 - What corrupted her — Dark Ball, experimentation, battle drugs?

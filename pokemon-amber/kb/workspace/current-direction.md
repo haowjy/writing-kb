@@ -6,12 +6,12 @@ spoilers: true
 status: confirmed
 hidden: true
 created: 2026-03-30
-updated: 2026-08-13
+updated: 2026-08-15
 ---
 
 # Current Direction
 
-**Last updated: 2026-08-13**
+**Last updated: 2026-08-15**
 
 This is the single source of truth for the story's current intended direction. All other planning documents should be consistent with this file. If they contradict it, this file wins.
 
@@ -61,11 +61,11 @@ establishes Rowan as its sender.
 - Established in chapters 1-17
 - Emotionally central, intimate
 
-### 2. Charcadet
-- Journey Pokemon: ambition, drive, intensity
-- Not yet settled --- evolves into Armarouge or Ceruledge (TBD)
-- Signals momentum and becoming
-- Strong identity tension (unsettled future shape)
+### Eventual: Charcadet -> Ceruledge
+- Alonso's younger Charcadet remains Alonso's Pokemon through most of Kanto; it is not part of Amber's early roster.
+- Its choice of Amber develops across the Kanto journey and lands near Kanto's end, shortly before 4Ever, with Alonso's permission.
+- Team Rocket steals it during 4Ever and coerces its evolution into Ceruledge.
+- Journey Pokemon: ambition, drive, intensity; signals momentum and becoming.
 
 ### 3. Teddiursa
 - Route 1 Pokemon bound to Amber by her promise to help rescue his captured mother
@@ -74,6 +74,14 @@ establishes Rowan as its sender.
 
 ### Team Philosophy
 **Not every Pokemon should mirror Amber.** The team should feel like a group of beings with their own problems and histories who end up around Amber because she is the kind of person they can stay with.
+
+---
+
+## Kanto Traveling Group and Later Separation
+
+Kanto's principal traveling group is the fixed trio of **Amber, Kyle, and Alonso**. Alonso is the more experienced, adventurous, Brock-like force; he repeatedly draws Amber and Kyle toward Mystery Dungeons and the wider, stranger Pokemon world. Kyle is inspired by that model. Amber initially gets pulled into the adventure, then gradually discovers its real thrill and breadth. Temporary or local companions may appear, but they do not replace the trio. Prince Alexander travels a separate route, intersects periodically as a mysterious rival, and is not a fourth party member.
+
+The trio separates after the Kanto Conference-era resolution rather than becoming permanent companions. Kyle defeats Sabrina at the critical U19/Conference public moment, proving the Fighting Dojo's legitimacy and securing or restoring its position as Saffron's primary civic Gym. Alonso continues dangerous exploration and Mystery Dungeon pursuit. Amber continues traveling to experience the wider Pokemon world, not because she has settled on a grand ambition. Do not invent the exact separation scene or dialogue.
 
 ---
 
@@ -155,9 +163,9 @@ Amber is **NOT a chosen protagonist.** She keeps getting pulled into unusual Pok
 ## Open Questions
 
 See `open-questions.md` for the full tracker. Key unresolved:
-- Charcadet evolution: Armarouge or Ceruledge? When?
+- Exact late-Kanto Charcadet choice/capture sequence (its Ceruledge trajectory and timing shortly before 4Ever are settled).
 - How many badges does Amber actually get in Year 1?
-- Conference outcome: does she qualify? How far?
+- Amber's conference outcome: does she qualify, and how far does she go? (Kyle's Sabrina victory is settled.)
 - Mary/Sabrina as companions?
 - Kyle meeting context?
 - Post-Year-1 region choice?

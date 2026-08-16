@@ -93,7 +93,7 @@ The ore thread connects four things without making any one of them the whole exp
 - Amber proving herself through repeated protective choices rather than instant heroism.
 - The eventual Mewtwonite Y payoff in the Unova / Genesect crisis.
 
-Charcadet's bond with Amber is not caused by the stone. Charcadet chooses Amber because it watches what she does for Teddiursa, first at the camp, then through the cave rescue and the later short stretch with Alonso. The ore is a parallel long thread from the same incident, not the mechanism of their bond.
+Charcadet's bond with Amber is not caused by the stone. Charcadet chooses Amber because it watches what she does for Teddiursa, first at the camp, then through the cave rescue and the Kanto journey that follows with Alonso and Kyle. The ore is a parallel long thread from the same incident, not the mechanism of their bond.
 
 It turns out to be the thing that lets the first Mewtwo --- Fuji's real creation, the one made by accident through care rather than engineering --- achieve its fullest form.
 
@@ -106,7 +106,7 @@ That's the spine.
 ## Cross-Refs
 
 - [Arc 1: Kanto (Year 1)](../arcs/01-kanto-year-1/overview.md) — Day 2 camp/cave mini-arc, Alonso/Charcadet seed
-- `story/ch20/plan.md` and `story/ch21/plan.md` — current beat-by-beat plans
+- `story/ch21/plan.md` and `story/ch22/plan.md` — current beat-by-beat plans
 - [Saga Overview — Full Arc Structure](../saga-overview.md) — Arc 12+ future Unova / Genesect entry
 - [Giovanni–Fuji Jail Conversation Planning (Rev B)](../arcs/00-perfect-family/giovanni-fuji-jail.md) — Fuji's extraction, Mewtwo #2 context, two-Mewtwo distinction
 - `wiki/reference/characters/pokemon/legendary-mythical/mewtwo.md` — Mewtwo character file (stub, needs expansion)

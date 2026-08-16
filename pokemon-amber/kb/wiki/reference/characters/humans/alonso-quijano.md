@@ -6,11 +6,13 @@ His exact family origin remains **open**: farmer family versus disgraced former 
 
 ## Role in Story
 
-### Arc 1: Deuteragonist of His Own Story
+### Arc 1: Kanto's Adventurous Third
 
-Alonso travels with Amber for a meaningful stretch of Arc 1 (exact duration open). He is not a temporary mentor or an accessory to her arc: he should feel like someone who **could be the protagonist of his own story** if Amber were not the MC. He has his own goal (Greatest Adventurer), his own initiative, his own mistakes, his own discoveries, and his own progression (badges, roster, carry limits) running in parallel with hers. He functions as a major traveling companion / deuteragonist for his stretch without displacing Amber's POV.
+Once Kyle joins them, Alonso is part of Kanto's fixed principal traveling trio with Amber and Kyle. He is neither a temporary mentor nor a rotating third: he should feel like someone who **could be the protagonist of his own story** if Amber were not the MC. He has his own goal (Greatest Adventurer), initiative, mistakes, discoveries, and progression (badges, roster, carry limits) running in parallel with theirs.
 
-What Amber takes from him is still **existential, not tactical** — she learns by watching someone who genuinely embodies the ideals she's inherited as intellectual concepts (game knowledge). But that influence is something his own full trajectory produces, not a role he exists to fill.
+He is the trio's more experienced, adventurous, Brock-like force. Alonso repeatedly pulls Amber and Kyle toward Mystery Dungeons and the wider, stranger Pokemon world. Kyle is inspired by his example; Amber is initially pulled along, then gradually learns the genuine thrill and breadth of that world. What Amber takes from him is existential, not tactical — a lived chosen ideal rather than an intellectual lesson.
+
+The trio eventually separates after the Kanto Conference-era resolution. Alonso continues pursuing dangerous exploration and Mystery Dungeons; the scene-level separation remains open.
 
 ### Adventurer Interval and Endgame
 
@@ -157,9 +159,10 @@ See [Celadon City](../../world/systems/trainers/index.md) for the trainer system
 
 ### Current (Arc 1)
 - Encountered early in Kanto during the Route 1 Team Rocket camp / guarded cave mini-arc
-- Major traveling companion with his own protagonist-scale drive, mistakes, discoveries, and progression
-- Charcadet observes Amber through their shared time; the choice to let Charcadet go defines Alonso's character
-- Travels with Amber for a meaningful stretch; his search for discoveries pulls their shared journey toward further Mystery Dungeon incidents
+- Fixed member of Kanto's principal trio with Amber and Kyle; his protagonist-scale drive, mistakes, discoveries, and progression remain his own
+- Repeatedly leads the trio toward Mystery Dungeon incidents and the wider, stranger Pokemon world
+- Charcadet observes Amber across most of the Kanto journey; Alonso's decision to permit its late-Kanto choice defines his character
+- After the Conference-era resolution, continues alone into dangerous exploration and Mystery Dungeon pursuit
 
 **Amber's internal arc (NEVER STATED --- implied through behavior only):** Amber starts dismissive ("this guy is insane"), shifts to grudging respect ("he's actually competent... he means this"), arrives at something quieter: sincerity is not fake just because it looks ridiculous. A life can be organized around a chosen ideal. This progression should be visible in how she treats him, not in narration or dialogue that names it.
 

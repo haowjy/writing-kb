@@ -11,11 +11,13 @@ Oak's blessing, a trainer license, practical equipment, starter funds, Ditto,
 and a prototype Pokedex field assignment. Oak has rigorously prepared her, but
 this is not an early-departure exception. She leaves to travel, meet Pokemon,
 and see unfamiliar places; the arc develops that open-ended drive into an
-eight-badge and conference pursuit. She acquires Charcadet and Teddiursa along
-the way. She meets Kyle Kong (14), and early Kanto settles into a core **Amber
-+ Kyle** road dynamic: two peers pursuing badges together, Amber providing
-tactical insight and stubborn follow-through, Kyle providing muscle,
-confidence, and social momentum.
+eight-badge and conference pursuit. Teddiursa joins her early, while the
+younger Charcadet remains Alonso's Pokemon until near Kanto's end. Once Kyle
+joins them, Kanto's principal traveling group is the fixed trio of **Amber,
+Kyle, and Alonso**: Amber brings tactical insight and persistence, Kyle brings
+physical confidence and social momentum, and Alonso brings experienced,
+adventurous momentum toward Mystery Dungeons and the wider, stranger Pokemon
+world.
 
 The journey is properly resourced but repeatedly disrupted by weird Pokemon incidents that pull Amber off the gym circuit. Team Rocket operates as an escalating background threat. The gap between "normal trainer journey plan" and "weird stuff keeps happening to me" drives the arc.
 
@@ -26,26 +28,44 @@ The journey is properly resourced but repeatedly disrupted by weird Pokemon inci
 - Ch 21: missing-mother promise, off-route tracking, hidden Team Rocket camp, and Alonso introduction
 - Ch 22: guarded cave escalation, Ursaring almost-reunion, collapse, and small-Pokemon rescue
 - Viridian Gym: Giovanni awards Amber and Alonso discretionary standard badges after the cave/Dungeon assessment and delays them while Rocket cleans the site
-- Kyle partnership begins
+- Kyle joins Amber and Alonso; their fixed Kanto trio forms
 - Badge progression across the year (disrupted by incidents)
 - Team Rocket surveillance / interference
 - Conference arc (TBD: does Amber qualify? How far does Kyle get?)
 
-**Ending State:** TBD badges, full early roster (Ditto/Charcadet/Teddiursa), Kyle partnership solid, conference outcome resolved, setup for Arc 2.
+**Ending State:** the Conference-era resolution settles Kyle's public fight
+with Sabrina and ends the trio's Kanto journey. Amber, Kyle, and Alonso then
+separate onto their own paths rather than remaining a permanent group; the
+separation's scene-level execution is open. Amber leaves wanting further travel
+and experience of the wider Pokemon world, not a fixed grand ambition. Kyle has
+secured the Fighting Dojo's position, while Alonso continues dangerous
+exploration and Mystery Dungeon pursuit.
 
 ---
 
-## Structural Premise: Duo + Rotating Third
+## Structural Premise: Fixed Trio, Local Companions
 
-Early Kanto should not become a fixed large travel party. The durable engine is **Amber + Kyle** as a duo, with a rotating local third force attached to whatever problem the road produces.
+Kanto's principal traveling group is **Amber, Kyle, and Alonso**. The trio is
+the durable road engine once Kyle joins; local companions, rivals, Gym Leaders,
+quest clients, and Pokemon crises can still accompany a particular problem, but
+they do not replace the trio as Kanto's central structure.
 
-- Amber is trying to have a normal badge journey.
-- The road keeps dragging her sideways through promises, quests, Gym politics, Rocket pressure, local Pokemon suffering, environmental hazards, and other weird incidents.
-- The usual expansion pattern is a temporary third force: guest trainer, Gym Leader, rival, quest client, future-seed character, villain, local Pokemon crisis, or dungeon-adjacent anomaly.
-- This is partly a character-bloat control rule. Guest characters should usually have one main function and maybe one focal Pokemon, not a full independent team arc.
-- Canon/future-canon encounters in Kanto should be selective seeds or arc texture, not an obligation to promote every cameo into a permanent cast ecosystem.
+- Amber begins with travel and discovery, not a grand title or fixed life plan.
+  Alonso repeatedly pulls her toward Mystery Dungeons, risk, and the breadth of
+  the Pokemon world; she is often carried into the adventure before gradually
+  discovering that she genuinely wants it too.
+- Kyle is inspired by Alonso's chosen-adventure model while Amber's tactical
+  insight helps him meet his inherited Fighting Dojo obligation.
+- Alonso is the more experienced, adventurous, Brock-like force: a peer and
+  fellow traveler, not a temporary mentor or rotating third.
+- Guest characters should usually retain one main local function and maybe one
+  focal Pokemon rather than spawning a permanent cast ecosystem.
+- Prince Alexander follows a separate route and periodically intersects as a
+  mysterious rival; he is not a fourth party member.
 
-Amber is not a chosen-one protagonist in this structure. She gets pulled into larger obligations because of what she notices, promises, and refuses to abandon.
+Amber is not a chosen-one protagonist in this structure. She gets pulled into
+larger obligations because of what she notices, promises, and refuses to
+abandon.
 
 ---
 
@@ -105,11 +125,11 @@ This is NOT desperate survival. It's the gap between theory and experience.
 - **Personality:** Ambition, drive, intensity. Not yet settled (Armarouge vs Ceruledge mirrors its unsettled identity). Knightly, but not property --- it chooses the quest it wants to serve.
 - **First seed:** At the Team Rocket camp, Charcadet sees Amber protect Teddiursa before Alonso arrives to save her. This is a meaningful but not catastrophic hit: the moral choice, not the maximum physical cost.
 - **Deepening evidence:** In the cave escalation, Charcadet sees Amber keep pursuing Teddy's mother, then joins Teddiursa and Ditto in slipping out to bring back help after Amber/Alonso are trapped.
-- **Capture:** Not captured at the camp or immediately after the cave. Its choice comes after observing Amber's pattern over a short stretch with Alonso. At the eventual separation, Alonso recognizes Charcadet's choice and lets it go. Amber catches it after that choice is clear.
+- **Capture:** Not captured at the camp or immediately after the cave. Its choice develops across most of the Kanto journey as it observes Amber in the trio's shared adventures. Near the end of Kanto, shortly before 4Ever, Alonso recognizes and permits the choice; Amber catches it only after that choice is clear.
 - **The ore thread:** The strange Mew-adjacent ore from the Viridian cave incident is a Rocket/Mewtwo/Mewtwonite Y setup, not a Charcadet custody thread. Charcadet is present for the incident because Alonso brought it to Kanto, but it should not be treated as the ore guardian or as handing Amber the ore before 4Ever. See [The Mewtwo Thread](../../saga-threads/mewtwo-ambertwo.md).
 
 - **Alonso's team context:** Alonso enters Kanto legally at the three-Pokemon limit with a strong starter Charcadet, the younger Charcadet who eventually chooses Amber, and Corvisquire. After the younger Charcadet leaves, he catches Growlithe; Dratini remains provisional for after his second badge raises his limit to four.
-- **Mystery Dungeon bond beat:** The actual capture/choice should likely happen in a later Alonso-led Mystery Dungeon mini-arc, after several chance encounters. Amber asks what Mystery Dungeons are; Alonso sneaks her past the official route boundary to show her one. Younger Charcadet gets in over its head or loses control with fire; Amber visibly flinches from old fire trauma but protects it anyway, then later trusts it with a practical task. This is the specific emotional proof that makes the choice land.
+- **Mystery Dungeon bond beat:** A later Kanto Mystery Dungeon mini-arc can provide decisive emotional proof, but it does not compress the choice into a short Alonso stretch. Alonso brings Amber and Kyle toward the Dungeon; younger Charcadet gets in over its head or loses control with fire; Amber visibly flinches from old fire trauma but protects it anyway, then later trusts it with a practical task. The exact capture scene remains open, within the settled late-Kanto timing.
 
 ### Teddiursa
 - **When/where:** Route 1, Day 2. Amber encounters him before the cave --- he's aggressive and attacks humans because humans/Team Rocket are tied to his mother's disappearance.
@@ -161,14 +181,13 @@ Viridian is Amber's **first** gym challenge (not the 8th as in games). Giovanni 
 - Mutual benefit situation (not rescue)
 - Both contribute meaningfully
 
-### Partnership Dynamic (Updated)
-- **True peers** --- both 14-year-old first-years in the same trainer year
-- Early Kanto's default frame is the two of them on the road together, not a wider fixed ensemble
-- Amber provides tactical insight; Kyle provides physical confidence and sometimes resources
-- Temporary third parties rotate through based on the local arc; they do not usually graduate into permanent companions
-- Kyle gets lost constantly (comedy, also a clean way to separate/rejoin the duo when needed)
-- Amber's coaching helps Kyle's gym performance
-- Kyle may reach 8 badges with her help; wouldn't get there solo
+### Partnership Dynamic
+- **True peers** --- Amber and Kyle are 14-year-old first-years in the same trainer year.
+- With Alonso, they form Kanto's fixed principal trio; Alonso's experience and Dungeon appetite repeatedly redirect the road toward stranger, wider adventure.
+- Amber provides tactical insight; Kyle provides physical confidence and sometimes resources; Alonso supplies the practical adventurous horizon that inspires Kyle and gradually wins Amber over.
+- Local companions can come and go without becoming replacements for the trio.
+- Kyle gets lost constantly (comedy, and an occasional way to separate/rejoin the group).
+- Amber's coaching helps Kyle's gym performance; Kyle may reach 8 badges with her help and would not reach them solo.
 
 ### Saffron Politics
 - Kyle represents Fighting Dojo (currently official pillar gym)
@@ -185,17 +204,18 @@ Viridian is Amber's **first** gym challenge (not the 8th as in games). Giovanni 
 - Requirements: 8 badges from 8 different gyms
 - Quarterly system: Kanto U19 at Month 3, or later regional conferences
 
-### Possible Outcomes (TBD):
-1. **Amber qualifies, Kyle qualifies** --- both compete, Amber knocked out by strong opponent, Kyle faces Sabrina
-2. **Amber falls short, Kyle qualifies** --- Amber in corner/coach role, Kyle vs Sabrina
-3. **Both qualify but different outcomes** --- Amber goes further than expected; Kyle faces Sabrina as the Saffron political climax
-4. **Amber qualifies but Kyle doesn't** --- role reversal from old plan
+### Settled Kyle Outcome; Open Amber Outcome
 
-Key beats regardless of outcome:
-- Kyle vs. Sabrina is the political climax (Fighting Dojo vs Psychic Gym)
-- Sabrina is a true prodigy (what Kyle + coaching can match, she does alone)
-- Kyle eventually defeats Sabrina; the win must feel earned through growth, strategy, bond, and self-possession rather than simple type reversal
-- The win saves/restores the Dojo but frees Kyle to want something beyond it
+Kyle qualifies, faces Sabrina at the critical public U19/Conference moment, and
+defeats her. The win proves the Fighting Dojo's legitimacy and secures or
+restores its position as Saffron's primary civic Gym. It must feel earned
+through growth, strategy, bond, and self-possession rather than simple type
+reversal; Sabrina remains the raw psychic prodigy.
+
+Amber's Conference path remains open:
+- Amber qualifies and is eliminated early to mid-bracket.
+- Amber qualifies and goes unexpectedly far.
+- Amber falls short and supports Kyle from outside the bracket.
 
 ### Amber's Conference Role
 - Old plan: spectator/coach only (2 badges)
@@ -322,7 +342,7 @@ Cross-ref: [The Mewtwo Thread](../../saga-threads/mewtwo-ambertwo.md) (ore acqui
 - **Ch 21 — Teddiursa / Rocket Camp / Alonso:** missing-mother promise and first Rocket escalation
 - **Ch 22 — Guarded Cave / Ursaring / Rescue:** almost-reunion, collapse, and rescue
 - **Viridian Gym:** ✅ CONFIRMED — first gym, Giovanni personal battle (see below)
-- **Charcadet acquisition:** planned — seeded in Ch. 21/22, actual choice after a short stretch with Alonso
+- **Charcadet acquisition:** planned — seeded in Ch. 21/22, choice develops across Kanto and lands near its end, shortly before 4Ever
 - **Teddiursa bond/acquisition:** planned — begins through the Route 1 missing-Ursaring promise
 - **Kyle meeting:** TBD context
 - **Badge challenges:** Need specific gym episodes
@@ -353,7 +373,7 @@ Giovanni keeps Amber and Alonso near the Viridian Gym while cleanup proceeds. Ma
 
 Giovanni takes their measure through the cave incident and, if needed, a controlled field assessment. Three things interest him:
 - The Ditto (confirms it; Fuji's work, exactly as documented)
-- Charcadet, if it has chosen Amber by then (an unknown Paldean species would draw attention)
+- Alonso's younger Charcadet, an unknown Paldean species that would draw attention without yet belonging to Amber
 - Her battle style: status-heavy, methodical, almost turn-based. Creative use of positioning. Not what you expect from a first-year.
 
 Standard badges are discretionary trust marks, so Giovanni may award Amber and Alonso badges for competency he personally witnessed without putting them through Viridian's ordinary challenge. These are not Elite/ACE badges. Elite certification requires defeating the Gym Leader's registered high-power type team under formal oversight.

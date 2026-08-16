@@ -147,7 +147,7 @@ Mega Heracross is a brawler form --- ironic for a pain-averse Heracross. Could b
 - Amber falls short of 8 badges, watches/coaches Kyle
 - Both qualify, different outcomes
 
-Regardless: Kyle faces Sabrina, loses. That's the political climax.
+Settled alongside this question: Kyle qualifies, faces Sabrina, and defeats her at the political climax; only Amber's qualification and performance remain open.
 
 **Urgency:** Medium - affects badge pacing planning
 
@@ -202,20 +202,20 @@ If Amber competes, she needs opponents worth writing. Who are they?
 
 ---
 
-### ✅ DECIDED: Ch 20/21 Route 1 Camp + Guarded Cave Mini-Arc (2026-05-17)
-**Context:** Current beat-by-beat plans live in `story/ch20/plan.md` and `story/ch21/plan.md`.
+### ✅ DECIDED: Ch 21/22 Route 1 Camp + Guarded Cave Mini-Arc (revised 2026-08-15)
+**Context:** Current beat-by-beat plans live in `story/ch21/plan.md` and `story/ch22/plan.md`.
 
-- **Ch. 20:** Teddiursa attacks humans because his mother is missing. Amber promises to help save Ursaring, follows Teddy off-route, finds a hidden Team Rocket camp, and takes a meaningful but not catastrophic hit protecting Teddy when he recognizes Rocket and charges. Alonso arrives with Armarouge and Charcadet after Amber's choice and saves her. Charcadet notices but does not join.
-- **Ch. 21:** Amber and Alonso enter the guarded cave. Rocket releases/provokes Ursaring; she rampages, briefly recognizes Teddy, then Rocket removes her as collapse/rubble separates them. Amber and Alonso are trapped. Teddiursa, Charcadet, and Ditto slip out to bring help. Amber's promise to help Teddy save Ursaring remains unfulfilled.
-- **Affected files:** `story/ch20/plan.md`, `story/ch21/plan.md`, `wiki/arcs/arc1-kanto-year1.md`, `wiki/arcs/saga-overview.md`, `wiki/plot-threads/mewtwo-thread.md`, `wiki/plot-threads/charcadet-to-ceruledge-throughline.md`, `wiki/plot-threads/ursaring-rescue-thread.md`
+- **Ch. 21:** Teddiursa attacks humans because his mother is missing. Amber promises to help save Ursaring, follows Teddy off-route, finds a hidden Team Rocket camp, and takes a meaningful but not catastrophic hit protecting Teddy when he recognizes Rocket and charges. Alonso arrives with his starter Charcadet and the younger Charcadet after Amber's choice and saves her. Charcadet notices but does not join.
+- **Ch. 22:** Amber and Alonso enter the guarded cave. Rocket releases/provokes Ursaring; she rampages, briefly recognizes Teddy, then Rocket removes her as collapse/rubble separates them. Amber and Alonso are trapped. Teddiursa, Charcadet, and Ditto slip out to bring help. Amber's promise to help Teddy save Ursaring remains unfulfilled.
+- **Affected files:** `story/ch21/plan.md`, `story/ch22/plan.md`, `wiki/arcs/arc1-kanto-year1.md`, `wiki/arcs/saga-overview.md`, `wiki/plot-threads/mewtwo-thread.md`, `wiki/plot-threads/charcadet-to-ceruledge-throughline.md`, `wiki/plot-threads/ursaring-rescue-thread.md`
 
 ---
 
-### ✅ DECIDED: Charcadet Capture Timing (revised 2026-05-17)
+### ✅ DECIDED: Charcadet Capture Timing (revised 2026-08-15)
 **Original Question:** When does Amber officially catch Charcadet?
 
-- **Chosen:** Not at the camp and not immediately after the cave. Charcadet's choice comes later, after it observes Amber's pattern over a short stretch with Alonso. Alonso recognizes the choice and lets Charcadet go; Amber catches it after that choice is clear.
-- **Affected files:** `story/ch20/plan.md`, `story/ch21/plan.md`, `wiki/arcs/arc1-kanto-year1.md`, `wiki/characters/amber-mc-team.md`
+- **Chosen:** Not at the camp or immediately after the cave. The younger Charcadet remains Alonso's Pokemon through most of Kanto; its choice of Amber develops across the journey and lands near Kanto's end, shortly before 4Ever. Alonso recognizes and permits the choice; Amber catches it only after it is clear.
+- **Affected files:** `story/ch21/plan.md`, `story/ch22/plan.md`, `wiki/arcs/arc1-kanto-year1.md`, `wiki/characters/amber-mc-team.md`
 
 ---
 
@@ -227,10 +227,10 @@ If Amber competes, she needs opponents worth writing. Who are they?
 
 ---
 
-### ✅ DECIDED: Mew-Adjacent Ore Handoff Timing (reframed 2026-05-17)
+### ✅ DECIDED: Mew-Adjacent Ore Handoff Timing (revised 2026-08-15)
 **Original Question:** When does Charcadet trust Amber enough to hand over the stone/ore?
 
-- **Chosen:** Right before Arc 4 (4Ever). Charcadet is associated with the Mew-adjacent ore from the early Viridian cave incident, but the ore is not the reason Charcadet bonds with Amber. The handoff is a quiet relationship milestone --- and for readers paying attention, a red flag: the moment Amber takes it is the moment before she loses Charcadet.
+- **Chosen:** No Charcadet-to-Amber ore handoff is current. The Mew-adjacent ore from the early Viridian cave is a Rocket/Mewtwo/Mewtwonite Y seed, not a Charcadet custody or bond mechanism; the material's later custody remains open.
 - **Affected files:** `wiki/arcs/saga-overview.md`, `wiki/plot-threads/mewtwo-thread.md`
 
 ---
@@ -243,10 +243,10 @@ If Amber competes, she needs opponents worth writing. Who are they?
 
 ---
 
-### ✅ DECIDED: Charcadet Acquisition (revised 2026-05-17)
+### ✅ DECIDED: Charcadet Acquisition (revised 2026-08-15)
 **Original Question:** #13 — Where/how does Amber get Charcadet?
 
-- **Chosen:** Alonso brings Charcadet to Kanto. Amber meets Charcadet through the Route 1 camp/cave mini-arc, but Charcadet chooses her only after observing her over a short stretch with Alonso.
+- **Chosen:** Alonso brings the younger Charcadet to Kanto. Amber meets it through the Route 1 camp/cave mini-arc, but it remains Alonso's Pokemon through most of Kanto and chooses Amber only near Kanto's end, shortly before 4Ever.
 - **Affected files:** `wiki/arcs/arc1-kanto-year1.md`, `wiki/arcs/saga-overview.md`, `wiki/characters/alonso-quijano.md`, `wiki/characters/amber-mc-team.md`
 
 ---

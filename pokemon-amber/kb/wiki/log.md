@@ -518,3 +518,19 @@ the exact facts and open choreography.
 - Replaced the obsolete post-Hoenn one-year/numbered-arc chronology with an interval → **Sinnoh Standard Conference** direction. Tobias is a Standard entrant possibility; Amber's result remains open.
 - Reclassified the former Mad-King death / Mega-Darkrai escape / Cresselia-Gardevoir seal sequence as a conflicting legacy model. The usurper-before-entry direction is also unselected; `planning/decisions/ashura-visit-one-succession-model.md` now owns the decision.
 - Recorded the mature-roster direction, Heracross Mega-Stone search, rotating-carry practice, early Team Galactic interference, and remaining open questions without turning alternatives into canon.
+
+## 2026-08-15 --- Corrected Kanto companion structure and Charcadet timing
+
+- Replaced the superseded Amber/Kyle duo-plus-rotating-third model with Kanto's
+  fixed principal trio: Amber, Kyle, and Alonso. Local companions remain local;
+  Prince Alexander travels a separate route and is not a fourth member.
+- Recorded Alonso as the trio's experienced, adventurous force; he inspires
+  Kyle and pulls both younger travelers toward Mystery Dungeons and the wider
+  Pokemon world.
+- Set the Kanto Conference-era resolution as the trio's later separation point:
+  Kyle defeats Sabrina and secures the Fighting Dojo's civic-Gym standing,
+  Alonso resumes dangerous exploration, and Amber continues traveling without a
+  fixed grand ambition. The separation scene remains open.
+- Corrected Charcadet's choice to develop across most of Kanto. It remains
+  Alonso's Pokemon until near Kanto's end, shortly before 4Ever, when Alonso
+  permits its choice of Amber.

@@ -124,13 +124,11 @@ See [Saffron Gym Rivalry](../../../planning/arcs/01-kanto-year-1/saffron-gym-riv
 - Amber is weirdly capable/knowledgeable for her age
 - Accepting help doesn't threaten ego
 
-### Partnership Development (Months 7-11)
+### Kanto Trio and Conference Separation
 
-**Not Permanent Companions:**
-- Different speeds/goals
-- Cross paths periodically
-- Kyle gets lost constantly (brings them together)
-- Amber solo most of the time, Kyle appearances occasional
+Kyle travels through Kanto as a fixed principal trio with Amber and Alonso, not as Amber's occasional companion. Their local companions may change, but the trio remains the central road structure. Alonso's adventurous example gives Kyle a chosen-life horizon beyond the inherited Dojo mission.
+
+They separate after the Conference-era resolution rather than remaining a permanent group. Kyle's Conference achievement is defeating Sabrina at the critical public moment, proving the Fighting Dojo's legitimacy and securing or restoring its position as Saffron's primary civic Gym. The exact separation scene is open.
 
 **Coaching Relationship:**
 - Kyle asks for gym strategy help
@@ -194,9 +192,9 @@ See [Saffron Gym Rivalry](../../../planning/arcs/01-kanto-year-1/saffron-gym-riv
 ### With Amber
 **Evolution Over Time:**
 - **First meeting:** Mutual "who is this kid?"
-- **Early journey:** Rivals who help occasionally
-- **Mid-year:** Reluctant friends (won't admit it)
-- **Tournament:** Genuine allies, strategic partners
+- **Early journey:** Fixed-trio road companions; Amber and Kyle begin as rivals who have to learn how to travel together with Alonso
+- **Mid-year:** Reluctant friends (won't admit it), increasingly shaped by Alonso's adventurous example
+- **Tournament:** Genuine allies and strategic partners
 
 **Dynamic:**
 - He's stronger physically, she's smarter tactically
@@ -233,7 +231,7 @@ See [Saffron Gym Rivalry](../../../planning/arcs/01-kanto-year-1/saffron-gym-riv
 - Begins questioning whether preserving the Dojo is enough for him
 
 ### Future Direction
-- **Leaves to adventure:** after accomplishing the inherited mission, he wants something greater and self-chosen
+- **Separates after the Conference-era resolution:** after accomplishing the inherited mission, he leaves the fixed Kanto trio and wants something greater and self-chosen
 - **Father relationship:** Koichi has to reckon with the fact that the son who saved the Dojo may not stay inside it
 - **Sabrina relationship:** respect/recognition possible, companion role not intended
 - **Fighting aura mastery:** further development as he matures beyond the Dojo's narrow expectations
@@ -260,9 +258,9 @@ See [Saffron Gym Rivalry](../../../planning/arcs/01-kanto-year-1/saffron-gym-riv
 
 ## Open Questions
 
-1. **Does he continue appearing after Year 1?**
-   - If Amber leaves Kanto, does he follow?
-   - Or stay in Kanto, occasional cameos?
+1. **Later appearances after the Kanto separation**
+   - The trio does not remain together after the Conference-era resolution.
+   - Kyle's later route, appearances, and the exact form of his chosen adventure remain open.
 
 2. **Father relationship resolution?**
    - Does Koichi pressure ease?
