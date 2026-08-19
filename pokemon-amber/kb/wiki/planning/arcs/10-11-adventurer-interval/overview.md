@@ -20,7 +20,7 @@ The interval gives Amber room to mature as an explorer and teammate outside a ba
 - Amber and Alonso explore multiple Mystery Dungeons, encounter deeper Dungeon lore, and face one or more legendary-scale incidents.
 - The individual expeditions, their order, and their resolutions remain open. Do not invent an episode list merely to fill the two years.
 - Amber develops a mature rotating roster through field experience. The working emotional core is Ditto, Ursaring, Flygon, Vee, Gardevoir, and Ceruledge; it is a planning direction, not a locked final-six declaration.
-- Butterfree and Heracross remain meaningful rotations. Amber searches Mystery Dungeons for Heracross's Mega Stone; Heracross's precise, repeatable physical long-range style is a live team direction.
+- Butterfree and Heracross remain meaningful rotations. Amber searches Mystery Dungeons for Heracross's Mega Stone; Heracross's precise, repeatable physical long-range style is established planning direction.
 - Amber commonly keeps one active-carry slot available for a possible capture and uses Caterpie/Butterfree as capture support. Ownership can exceed the active carry limit through lawful transfers and stabling.
 - The interval is the principal explanation for Amber's later team-wide experience, earned Mega competence, and ability to compete with Tobias rather than an unexplained power jump.
 

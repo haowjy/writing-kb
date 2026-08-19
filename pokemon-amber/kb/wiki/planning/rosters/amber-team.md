@@ -31,7 +31,7 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 - **Charcadet → Ceruledge** *(eventual Kanto choice; later stolen by Team Rocket)* — Paldean Pokemon brought to Kanto by Alonso; eventually chooses Amber after multiple observations. Non-native registration and foreign allowance apply. Arc: [choice, theft, and attempted recovery](../team-arcs/amber/charcadet-loss-and-return.md). Saga consequences: [Charcadet/Ceruledge](../saga-threads/charcadet-ceruledge.md).
 
-- **Teddiursa → Ursaring** *(early Kanto acquisition; exact custody moment unsettled)* — Bond begins through Amber's promise to help save his missing mother. The promise remains unfulfilled after Rocket removes Ursaring from the cave. Arc: [promise, grief, and vengeance](../team-arcs/amber/teddiursa-ursaring.md). Rescue logistics: [Ursaring rescue](../arcs/01-kanto-year-1/ursaring-rescue.md).
+- **Teddiursa → Ursaring** *(early Kanto acquisition; exact registration moment unsettled)* — By the post-Ch. 25 roster state, Teddiursa is settled as Amber's active third Pokemon. His exact conventional capture/registration moment remains open. Bond begins when Amber accepts his urgent request for help; only inside the cave does she see captive Ursaring and understand the rescue's fuller object. The promise remains unfulfilled after Rocket removes her. Arc: [promise, grief, and vengeance](../team-arcs/amber/teddiursa-ursaring.md). Rescue logistics: [Ursaring rescue](../arcs/01-kanto-year-1/ursaring-rescue.md).
 
 - **Trapinch → Vibrava → Flygon** *(acquired in Kanto; major payoff in Hoenn)* — A Hoenn trainer becomes frustrated with Trapinch's slow development and leaves or fails to retrieve it during a Kanto incident. Trapinch continues waiting for that trainer in a Charmander-like abandonment story until Amber rescues it and it joins her. The modern Kanto acquisition execution remains open; deleted reset-era details involving ten-year-old Amber, Flint, and missing-license logistics are not current canon. In Hoenn, Trapinch confronts its former trainer and receives its major emotional and evolution payoff.
 
@@ -41,9 +41,9 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 - **[Caterpie → Butterfree](../../reference/characters/pokemon/amber-team/caterpie.md)** *(second Pokemon; first wild capture; early active team, later rotates to Oak's ranch)* — Precise silk and eventual Compound Eyes/powder capture support. Arc: [cowardice and courage](../team-arcs/amber/caterpie-courage.md).
 
-- **Pidgey** *(caught at the end of Chapter 20)* — A different individual from the Pidgey that knocks itself unconscious in Chapter 19. It attacks Caterpie twice; during the second attack Caterpie contributes with *String Shot* and Amber catches Pidgey while it remains conscious. Pidgey is a low-priority reserve rather than an emotional core member.
+- **Pidgey running thread** *(Ch. 19--27; endpoint open)* — Pidgey/Pidgeot carries generic early-franchise nostalgia for Amber, not favorite status. The individual Amber chases in Ch. 19 faints before capture. A different Pidgey attacks Caterpie twice in Ch. 20; Caterpie's *String Shot* contributes to its conscious capture, but it faints against Rocket Pokemon in Ch. 21 and later recovers off-page, breaks the thin new connection, and flies away. After her first badge opens a fourth active slot, Amber catches another Pidgey through ordinary conscious battle capture in Ch. 26. Ch. 27 makes the limit costly: she releases that new, shallowly bonded Pidgey to open a prospective Grass-type Rock-counter slot before Pewter. The subsequent Dungeon gives her Heracross, not a separate Grass Pokemon. The release hurts; it is neither a claim of equal bond with Caterpie/Teddiursa nor proof Pidgey is a favorite. Whether Amber later keeps or evolves a Pidgey remains open.
 
-- **Heracross** *(acquired after badges)* — Pain-averse and cleanliness-obsessed; develops a precise repeated-strike style rather than conventional tanking. Later Mega Heracross payoff remains possible.
+- **Heracross** *(captured in the voluntary, level-appropriate Grass Mystery Dungeon after Ch. 26--27)* — Amber's intended Pewter Rock counter, though it is Bug/Fighting rather than Grass: incoming Rock damage is neutral and Fighting offense is super-effective against Rock. It repeatedly tries to charge, wrestle, and fight at close range despite being physically weak for its species, but has a genuine talent for precise physical long-range repeated-hit attacks. Arc: [brawler identity and ranged precision](../team-arcs/amber/heracross-brawler-identity.md).
 
 - **Nidoran ♀ (shiny)** — Blue coloration causes others to misread her as male; surprise acquisition with identity-theme resonance.
 
@@ -177,7 +177,6 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 ## Willingly Left — Agency Outcomes (Use Sparingly)
 
-- **Heracross** → Forest guardian. Trigger: anti‑poaching arc; chooses to defend sap/nest.
 - **Shellder** → Lighthouse/rescue partner. Trigger: storm rescues; stays with crew.
 - **Gastly** → Lavender mentorship. Trigger: apprenticeship under clergy oversight.
 - **Croagunk** → Ranger HazMat team. Trigger: industrial spill; transfers for greater good.
@@ -192,7 +191,6 @@ Rule: one, max two, across saga; frame as mutual choice with on‑screen convers
 - **Charcadet** *(permanent — the central theft)* — Stolen end of Year 1; evolves into Ceruledge under Rocket. Not recovered. Becomes a Rocket asset and recurring antagonist Amber has a personal relationship with. The theft radicalizes Amber.
 - **Murkrow** — Rooftop net + recall jammer during Celadon stakeout. Stakes: OPSEC breach. Outcome: recovered; lingering trust issues.
 - **Elekid/Mareep** — Electric-type targeted for power utility. Stakes: PR/legal heat; Ranger cooperation → ally earned. Outcome: recovered.
-- **Heracross** — Pheromone lure + dart; Game Corner pipeline. Outcome: recovered or converts to "willingly left."
 - **Shellder** — Ferry inspection ruse; leverage against Amber. Outcome: quick recovery.
 
 Hard rule: Ditto thefts resolve fast as bottle episodes to showcase Ditto's agency and Rocket limits. All other thefts besides Charcadet resolve within the arc.

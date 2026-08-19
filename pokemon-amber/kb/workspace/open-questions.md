@@ -102,18 +102,7 @@ Less urgent now that the early team is Ditto/Charcadet/Heracross. Vee is a later
 
 ---
 
-### 14. Heracross acquisition: where/how?
-**Affects:** Early-mid journey pacing, team formation
-
-Need a situation that showcases Heracross's mismatch personality --- the pain-aversion, the cleanliness obsession, why other trainers/Pokemon rejected it.
-
-**Options:**
-- Abandoned/released by frustrated trainer
-- Wild Heracross that won't behave "normally"
-- Found in situation where its unusual traits are actually useful
-- Amber sees it fight "wrong" and recognizes value
-
-**Urgency:** High - needs to happen in Arc 1
+### ~~14. Heracross acquisition: where/how?~~ → DECIDED (see Decision Log)
 
 ---
 
@@ -129,10 +118,10 @@ Both have identity implications for a Pokemon whose theme is "unsettled future s
 
 ---
 
-### 16. Heracross Mega Evolution: if/when?
+### 16. Heracrossite timing and exact Mega payoff
 **Affects:** Power scaling, late-game dynamics
 
-Mega Heracross is a brawler form --- ironic for a pain-averse Heracross. Could be played for drama (forced to confront what it avoids) or triumph (redefining what Mega means for it).
+Mega Heracross gives Heracross the raw brawler strength it once envied, tempting it to abandon its learned ranged specialization. The settled payoff combines Mega strength and Skill Link with that precision; timing and scene execution remain open.
 
 **Urgency:** Very low - late-game payoff
 
@@ -176,7 +165,6 @@ If Amber competes, she needs opponents worth writing. Who are they?
 ## Decision Priority
 
 **High urgency (Arc 1 planning):**
-- #14 (Heracross acquisition — when/where, now not tied to Arc 1 specifically)
 
 **Medium urgency (Arc 1 structure):**
 - #8 (Kyle meeting context)
@@ -227,11 +215,11 @@ If Amber competes, she needs opponents worth writing. Who are they?
 
 ---
 
-### ✅ DECIDED: Mew-Adjacent Ore Handoff Timing (revised 2026-08-15)
+### ✅ DECIDED: No Route 1 Ore Handoff (revised 2026-08-17)
 **Original Question:** When does Charcadet trust Amber enough to hand over the stone/ore?
 
-- **Chosen:** No Charcadet-to-Amber ore handoff is current. The Mew-adjacent ore from the early Viridian cave is a Rocket/Mewtwo/Mewtwonite Y seed, not a Charcadet custody or bond mechanism; the material's later custody remains open.
-- **Affected files:** `wiki/arcs/saga-overview.md`, `wiki/plot-threads/mewtwo-thread.md`
+- **Chosen:** There is no Route 1 ore or Charcadet-to-Amber handoff. Rocket's cave operation is a Mew search after an unidentified powerful psychic signal; no ore is recovered. Mewtwonite Y's eventual material origin and custody chain remain open, and Charcadet's bond with Amber is not an artifact mechanism.
+- **Affected files:** `wiki/planning/saga-threads/mewtwo-ambertwo.md`, `wiki/planning/arcs/01-kanto-year-1/ursaring-rescue.md`
 
 ---
 
@@ -257,7 +245,7 @@ If Amber competes, she needs opponents worth writing. Who are they?
 - **Chosen:** Route 1, Day 2. Teddiursa attacks humans because Team Rocket took/threatened his mother. Amber promises to help save Ursaring, follows him to a hidden Rocket camp, and protects him when he recognizes Rocket and charges.
 - **Ch. 21 continuation:** Rocket removes mother Ursaring after an almost-reunion in the guarded cave. Teddiursa, Charcadet, and Ditto later slip out to fetch rescue for trapped Amber/Alonso.
 - **Ursaring:** Still in Rocket hands. Amber's promise remains unfulfilled; future reunion likely ties into a more serious Rocket experiment/operation.
-- **Replaces Heracross as 3rd Arc 1 Pokemon.** Heracross acquisition question (#14) remains open — no longer Arc 1 specific.
+- **Replaces Heracross as 3rd Arc 1 Pokemon.** This older note is superseded: Heracross is captured in the voluntary Grass Mystery Dungeon after Ch. 26--27.
 - **Affected files:** `wiki/arcs/arc1-kanto-year1.md`, `wiki/arcs/saga-overview.md`, `wiki/plot-threads/ursaring-rescue-thread.md`
 
 ---
@@ -266,7 +254,7 @@ If Amber competes, she needs opponents worth writing. Who are they?
 **Original Question:** #4 — When does TR first appear?
 
 - **Chosen:** Day 2 of Route 1. First encounter is the hidden camp / guarded cave operation. TR is present almost immediately.
-- **What they were doing:** Ore deposit with Mew-adjacent energy readings (flagged as possible Mew/legendary trace). Turned out to be Mega Stone ore deposit, not Mew. They wanted it regardless — part of rebuilding legendary capture operations post-Mewtwo escape (ch6).
+- **What they were doing:** A Mew search after instruments detect an unidentified powerful psychic presence around/beneath the cave. Whether it is Mew, residue, or another phenomenon remains open even to Rocket; no ore is recovered.
 - **Pacing established:** TR starts active (not just surveillance) from the very start of the journey. Amber's first incident IS a TR op.
 - **Affected files:** `wiki/arcs/arc1-kanto-year1.md`, `wiki/plot-threads/mewtwo-thread.md`
 
@@ -311,8 +299,8 @@ If Amber competes, she needs opponents worth writing. Who are they?
 **Original Question:** #10 (Third Pokemon timing/species)
 
 - **Chosen:** Heracross
-- **Personality:** Pain-averse, cleanliness-obsessed, hates close combat. Technical multi-hit style. Mismatch theme.
-- **Acquisition:** TBD (open question #14)
+- **Personality:** Starts fights and keeps forcing conventional charging, wrestling, and melee despite being physically weak by Heracross standards. Its genuine strength is precise physical long-range repeated-hit attacks; accepting that specialization is the mismatch arc.
+- **Acquisition:** Conventional conscious battle capture in the voluntary, level-appropriate Grass Mystery Dungeon after Ch. 26--27; exact choreography remains open.
 
 ---
 

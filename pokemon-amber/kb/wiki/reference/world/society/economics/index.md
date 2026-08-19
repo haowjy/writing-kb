@@ -49,6 +49,7 @@ Notes:
 - Pokeball: ₽200 (premium technology; a serious purchase)
 - Great Ball: ₽600
 - Ultra Ball: ₽1,200+
+- [Escape Orb](../../technology/escape-orbs.md): ₽300 (ordinary safety overhead for a deliberate regulated/known Mystery Dungeon entry)
 - **Note:** Trainer licenses do NOT include free pokeballs
 
 ### Income Ranges

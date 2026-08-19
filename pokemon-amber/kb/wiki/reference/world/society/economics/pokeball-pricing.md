@@ -88,7 +88,7 @@ Pokeballs represent one of the most significant technological achievements in th
 **Included:**
 - Trainer ID card
 - Pokemon Center free healing access
-- Legal permission to carry up to 6 Pokemon
+- Legal permission to carry up to 3 active Pokemon; badges raise the active-custody limit to 4 at one badge, 5 at two, and the six-Pokemon ceiling at four
 - Quest board access
 
 **NOT Included:**

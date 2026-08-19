@@ -13,12 +13,14 @@ Clarifies what "fainting" means, why it matters for rescue and capture, and how 
 
 ## Core Rule
 
-**Fainted Pokemon cannot be returned to their Pokeball.** They've depleted their capacity to dematerialize.
+**Fainted Pokemon cannot be returned to their Pokeball.** They've depleted their capacity to dematerialize, and fainting disables the active ball connection. Their bodies remain physical until recovery.
 
 ## Ball Interaction
 
-- Recall requires a minimal physiological/psychic threshold. When fainted, that threshold isn't met; the body won't phase.
+- Recall requires a minimal physiological/psychic threshold. When fainted, that threshold isn't met; the body won't phase, and the active ball connection is disabled.
 - New capture requires a successful registration handshake. Fainted targets cannot complete the handshake and thus cannot be legally caught.
+- After physical recovery, a registered or well-bonded partner normally cooperates with a quick recapture and relink. The broken connection does not mean it has wandered away, abandoned the trainer, or dissolved the team.
+- A newly caught, thinly bonded Pokemon can leave before that relink; the Ch. 21 Pidgey is the planned example.
 - Edge case: partial sedation or paralysis can look like fainting; Centers and Rangers use scanners to differentiate. Attempting to ball a fainted target simply fails to trigger.
 
 ## Observable Facts (Can State)

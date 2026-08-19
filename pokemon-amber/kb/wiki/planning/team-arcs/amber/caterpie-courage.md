@@ -64,7 +64,7 @@ A later Viridian Forest encounter may place one of Caterpie's former peers, now 
 ## Placement Constraints
 
 - Do not complete the courage arc in Chapter 20.
-- Do not place the Metapod evolution inside the already crowded Team Rocket camp or Ursaring cave sequence without reconsidering Teddiursa, Alonso, and Charcadet's competing beats.
+- Do not place the Metapod evolution inside the already crowded Team Rocket chase or Ursaring cave sequence without reconsidering Teddiursa, Alonso, and Charcadet's competing beats.
 - Seed changes across repeated behavior rather than introducing guilt immediately before its payoff.
 
 ## Open Questions

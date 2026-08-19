@@ -2,21 +2,23 @@
 
 ## Core Promise
 
-Amber promises Teddiursa she will help save his missing mother. That promise begins the Route 1 off-route mini-arc and remains unfulfilled after Ch. 22.
+Amber commits to helping Teddiursa in Ch. 22 after he communicates an urgent ask. The exchange does not establish that Rocket captured his mother; seeing captive Ursaring inside the cave gives the promise its fuller object. It remains unfulfilled after the collapse.
 
-Teddiursa does not initially trust Amber because she is kind. He tolerates her because she recognizes the problem and moves toward the humans who took/threatened Ursaring.
+Teddiursa does not initially trust Amber because she is kind. He tolerates her because she recognizes the problem and moves toward the humans who took Ursaring.
 
-## Ch. 21: Team Rocket Camp
+Rocket's cave operation is a **Mew search**: instruments detected an exceptionally powerful psychic presence beneath/around the isolated cave (whether Mew, residue, or another phenomenon is unknown, even to Rocket). The cave was Ursaring and Teddiursa's home; Rocket appropriated it as a temporary search base, captured Ursaring when she resisted, and Teddiursa escaped. The older psychic-reactive ore / Mewtwonite / forced-evolution / fossil purposes are deleted.
 
-Teddiursa recognizes Team Rocket at the hidden camp and charges before Amber can plan. Amber protects him and takes a meaningful but not catastrophic hit. Alonso arrives with his starter Charcadet and its younger sibling after Amber's choice and saves her.
+## Ch. 21: Route Chase and Alonso
 
-## Ch. 22: Cave Escalation
+Teddiursa and two low-level Rocket handlers spill onto maintained Route 1. Amber intervenes with Ditto and her new Pidgey; Caterpie stays out of the fight. Pidgey faints and cannot be recalled; Teddiursa turns back to help Ditto, and the handlers retreat once two of their four Pokemon are disabled. Amber follows Teddiursa while treating Ditto, leaving Pidgey; Pidgey recovers off-page and, its fainting-broken ball connection unrestored and its bond thin, flies away. Amber reaches the larger confrontation and is overwhelmed; Alonso arrives and completes a meaningful rescue. The chapter ends with Teddy desperately trying to communicate a further request.
 
-Amber and Alonso enter the guarded cave because Rocket's operation points inward. Rocket releases/provokes Ursaring as a last resort. Ursaring is not evil; she is hurt, furious, disoriented, and made dangerous by Rocket.
+## Ch. 22: The Request and the Collapse
 
-Teddiursa sees his mother. For one moment Ursaring starts to come back to herself and recognizes her cub. Then Rocket forcefully recalls/removes her as collapse/rubble separates them. Teddy finds his mother and loses her again.
+Amber and Alonso take stock and decode Teddiursa's ask through gesture, pantomime, and possibly Ditto illustration --- "help me" as a concept, not understood speech. Both accept the request. They beat the exterior guards, enter, and face competent operatives. Ursaring is restrained, captive, and increasingly uncontrollable. The operatives retreat through a prepared escape route with Ursaring, force the heroes into a deeper branch, and collapse the junction behind them. Whether Ursaring recognizes Teddiursa in the chaos remains open.
 
-Amber and Alonso are trapped. Ditto, Teddiursa, and Charcadet help locate or open a narrow passage, and the group discovers that it leads into a genuine Mystery Dungeon. Alonso is ecstatic because discovering Mystery Dungeons is one of his central ambitions. Inside they encounter Giovanni, publicly acting as a researcher, who guides them through another exit while concealing Rocket's use of the site. Once outsiders have discovered the Dungeon, Giovanni orders the operation evacuated and sanitized. He privately recognizes Amber as Fuji's old clone.
+## Ch. 23-24: Dungeon and Giovanni
+
+The collapsed deeper branch opens into a genuine Mystery Dungeon (Ditto-heavy, psychic types). Alonso identifies it and initially --- wrongly --- infers that a valuable Dungeon explains Rocket's protection; the truth remains the Mew-like signal, which Rocket never mapped or understood. The group self-rescues through a secondary forest exit. Giovanni intercepts outside --- he was never inside and is never seen with Rocket --- and field-tests both trainers with Nidoking before inviting them to the Gym. See `story/ch23/plan.md` and `story/ch24/plan.md`.
 
 ## 4Ever Resolution (Settled 2026-06-07)
 
@@ -32,8 +34,8 @@ Some later event mellows both Ursaring and Amber. They come down together. The a
 
 ## Open Questions
 
-- Is Teddiursa officially caught in Ch. 21, after Ch. 22, or later?
-- How does Rocket remove Ursaring during the almost-reunion in Ch. 21?
+- Is Teddiursa officially caught in this mini-arc, or later?
+- Does Ursaring recognize Teddiursa before Rocket extracts her in Ch. 22?
 - How exactly does Ursaring die in 4Ever? In battle? Mercy kill? Self-destruction?
 - What corrupted her — Dark Ball, experimentation, battle drugs?
 - What is the later event that mellows both Ursaring and Amber?

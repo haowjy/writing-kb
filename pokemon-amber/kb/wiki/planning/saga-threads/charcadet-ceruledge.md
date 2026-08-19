@@ -16,13 +16,13 @@ Charcadet choosing Amber is not a rejection of Alonso. It is Charcadet choosing 
 
 ## Route 1 Seed
 
-Ch. 20 plants the seed outside the cave: Teddiursa recognizes Team Rocket and charges; Amber protects him before Alonso arrives to save her. Charcadet notices the protective act, but does not join.
+Ch. 21 plants the seed during the Rocket chase: Amber intervenes for a fleeing Teddiursa at cost to herself, follows him into the operation's reach, and is overwhelmed before Alonso arrives to complete the rescue. Charcadet notices Amber's protective pattern, but does not join.
 
-Ch. 22 deepens the evidence: Amber continues pursuing Teddy's mother into the guarded cave; Rocket removes Ursaring after an almost-reunion; Amber and Alonso are trapped; Teddiursa, Charcadet, and Ditto help find a narrow route into a genuine Mystery Dungeon. Charcadet remains part of carrying Amber's promise forward.
+Ch. 22 deepens the evidence: Amber patiently decodes only Teddy's urgent ask, accepts it, and follows the request into the guarded cave; there she sees captive Ursaring before Rocket extracts her through a prepared escape route and collapses the junction. Charcadet remains part of carrying Amber's promise forward through the Mystery Dungeon escape (Ch. 23-24).
 
 The choice develops across most of Kanto as Charcadet observes Amber in the trio's shared adventures; it lands only near Kanto's end, shortly before 4Ever.
 
-The same incident also seeds the ore thread: Rocket is harvesting/testing psychic-reactive Mew-adjacent material from the cave. Charcadet may become associated with the ore after the rescue, but the ore does **not** cause Charcadet's bond with Amber. The emotional bond comes from observation, trust, and Amber keeping promises.
+The older psychic-reactive ore thread attached to this incident is deleted: Rocket's cave operation is a Mew search, not ore harvesting, and no ore passes to Amber or Charcadet. Charcadet's bond with Amber comes from observation, trust, and Amber keeping promises.
 
 ## Mystery Dungeon Bonding Arc
 

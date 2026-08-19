@@ -21,6 +21,10 @@
 - Spatial Storage: Silph Co. can produce a travel bag whose interior capacity
   exceeds its exterior dimensions and whose contents impose less effective
   carrying weight. Amber receives one at her Chapter 18 sendoff.
+- Pokemon augmentation: regulated X Attack, the separate experimental serum, and Sebastian's radio-wave forced-evolution research have different origins, effects, and risks.
+  - See: [Pokemon Augmentation Technologies](pokemon-augmentation.md)
+- Dungeon safety equipment: Escape Orbs are the ordinary required safety gear for deliberate regulated/known Mystery Dungeon entry; their exact mechanics remain open.
+  - See: [Escape Orbs](escape-orbs.md)
 
 ## Trajectory
 - Short term: Tourist growth at hubs like Cinnabar drives ad‑hoc airfields (blimp masts + Pokemon pads); standardization (IDs, manifests, licensing) rolls out unevenly; League authority extends via Indigo joint administration.

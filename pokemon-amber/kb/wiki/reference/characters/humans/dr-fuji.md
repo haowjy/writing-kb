@@ -132,7 +132,7 @@ Purpose is Fuji's real dependency, and alcohol floods in whenever the supply get
 ## Abilities / Possessions
 **Scientific Expertise:**
 - Advanced genetic engineering and cloning technology
-- Pokemon enhancement serums and modification techniques ([Ch.16](https://github.com/haowjy/pokemon-amber/blob/main/story/ch16/chapter16.md))
+- Genetic engineering, cloning, and modification techniques; he was a close collaborator on an experimental augmentation serum but did not create it ([Ch.16](https://github.com/haowjy/pokemon-amber/blob/main/story/ch16/chapter16.md)).
 - Forges official documents and identity records ([Ch.6](https://github.com/haowjy/pokemon-amber/blob/main/story/ch6/chapter6.md))
 
 **Pokemon Team:**
@@ -142,7 +142,7 @@ Purpose is Fuji's real dependency, and alcohol floods in whenever the supply get
 **Resources:**
 - Access to Team Rocket funding and facilities
 - Forged identity documents for Amber ([Ch.6](https://github.com/haowjy/pokemon-amber/blob/main/story/ch6/chapter6.md))
-- Enhancement serums and experimental equipment ([Ch.16](https://github.com/haowjy/pokemon-amber/blob/main/story/ch16/chapter16.md))
+- The one known surviving vial of the experimental strength-augmentation serum. Its now-dead creator is provisionally called Dr. Kihara --- an assistant label, not author-approved canon --- and Fuji was that scientist's close collaborator, not its creator. See [Pokemon Augmentation Technologies](../../world/technology/pokemon-augmentation.md).
 
 ## Status
 **Apprehended** - Captured by authorities after his final battle with Professor Oak ([Ch.17](https://github.com/haowjy/pokemon-amber/blob/main/story/ch17/chapter17.md)). His Ditto was taken into custody for questioning but remains unharmed, while his Magmar's fate is unknown.

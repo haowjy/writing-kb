@@ -37,13 +37,24 @@ support.
 
 Mystery Dungeons support exploration, rescue, off-route danger, and encounters
 with unexpected Pokemon. Alonso introduces Amber to explicit Dungeon
-exploration; Amber gradually gains field and navigation experience. Chapters
-20-21 use a guarded, Dungeon-adjacent Route 1 cave without explaining the full
-phenomenon.
+exploration; Amber gradually gains field and navigation experience. The first
+on-page Dungeon is the genuine, undiscovered Dungeon beneath Rocket's Route 1
+cave operation (Ch. 23-24): Ditto-heavy with psychic types, modest loot, and a
+secondary forest exit. Its possible link to the psychic signal Rocket was
+hunting remains unresolved.
 
 Dungeon work uses existing [quest-board](../systems/trainers/quest-system.md)
 categories such as Rescue, Item, Investigation, Defeat, and Escort. It creates
 no universal Explorer or Adventurer license.
+
+## Deliberate Entry and Safety
+
+A planned entry into a known, regulated Dungeon generally requires an
+[Escape Orb](../technology/escape-orbs.md). Rangers patrol those access points,
+may inspect the Orb with Trainer ID and active-custody compliance, and treat an
+entry without one as a civil safety violation rather than an automatic serious
+crime. Accidental or forced entry is not a violation. Exact Orb mechanics and
+any future hazard-rating or permit system remain open.
 
 Team Rocket eventually possesses stronger evidence that its activity worsens
 the crisis, but Rocket is neither the origin nor necessarily the only modern
@@ -52,7 +63,7 @@ Instability](../../../planning/saga-threads/mystery-dungeon-instability.md).
 
 ## Constraints
 
-- Route 1 remains Dungeon-adjacent rather than becoming a full Dungeon arc.
+- The Route 1 Dungeon (Ch. 23-24) is a real Dungeon but a compact first instance: it teaches survival-level facts through Alonso without lore-dumping the full phenomenon, and its Mew-adjacent question stays open.
 - Procedures may make Dungeons legible without solving their underlying science.
 - Mystery Dungeons, Ultra Wormholes, Ashura, and Laqua remain distinct.
 

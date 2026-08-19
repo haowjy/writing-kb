@@ -140,7 +140,7 @@ Amber is **NOT a chosen protagonist.** She keeps getting pulled into unusual Pok
 | Shoestring survival economics | Oak-funded adventure |
 | 2-badge Year 1 cap | 8-badge goal (disrupted by events) |
 | Spectator/coach tournament role | Amber pursues conference entry herself |
-| Flint/Trapinch rescue chain | TBD acquisition episodes for Charcadet/Heracross |
+| Flint/Trapinch rescue chain | Charcadet acquisition TBD; Heracross captured in the Grass Dungeon after Ch. 26--27 |
 | Landon Ashford character | Removed |
 | Age 10 for all characters | Amber, Kyle, Sabrina, Reid, and Nora begin their trainer phases at 14; Ash and Gary are 13 at Amber's departure |
 

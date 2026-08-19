@@ -97,7 +97,7 @@ Quests are freelance work posted at Pokemon Centers. Legally, quests require a v
 - Wilderness travel is legal but risky; preserved areas require permits
 - Quests require a valid trainer license (contracts, liability, insurance)
 - Badges do not replace a trainer license or universally gate wilderness travel and quests
-- Within the licensing system, badge milestones expand active carry capacity: 4 Pokemon at 2 badges, 5 at 4 badges, and 6 at 6 badges
+- Within the licensing system, badge milestones expand active carry capacity: 4 Pokemon at 1 badge, 5 at 2 badges, and 6 at 4 badges. Six is the hard active-custody ceiling.
 
 ## Historical Context
 

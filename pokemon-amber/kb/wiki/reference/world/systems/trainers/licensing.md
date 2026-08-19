@@ -55,8 +55,8 @@ Trainer progression moves through recognized tiers. Each tier unlocks different 
 |------|-------------|-------|--------|----------------------|-----------------|
 | **Novice** | Trainer ID only | 1 | Class D | Tourist (1 foreign) | None |
 | **Licensed Trainer** | Trainer License | 3 | Class D--C | Provisional Trainer (1 foreign) | Basic |
-| **Trainer** | License + 1--3 badges | 3--4 | Class C--B | Standard Trainer (2 foreign) | Basic |
-| **Senior Trainer** | 4--7 badges | 5--6 | Class B--A | Senior Trainer (3 foreign) | Moderate |
+| **Trainer** | License + 1--3 badges | 4--5 | Class C--B | Standard Trainer (2 foreign) | Basic |
+| **Senior Trainer** | 4--7 badges | 6 | Class B--A | Senior Trainer (3 foreign) | Moderate |
 | **Veteran Trainer** | 8 badges, conference qualified | 6 | Class A | Senior Trainer (3 foreign) | Moderate--High |
 | **ACE Trainer** | ≥1 Elite Badge; government-contracted | 6 | Class A--S | Official/Government (high scrutiny, diplomatic protocols, foreign carry unrestricted but heavily documented) | High --- regional asset, emergency response |
 | **Elite / Champion-track** | Elite Four pipeline | 6 | Unrestricted | Official-tier (unrestricted) | Full |
@@ -76,9 +76,9 @@ Carry limits scale with demonstrated competency. The license is the floor; badge
 |-----------|-------------|
 | Trainer ID only | 1 Pokemon |
 | **Trainer License** | **3 Pokemon** |
-| 2 Gym Badges | 4 Pokemon |
-| 4 Gym Badges | 5 Pokemon |
-| 6 Gym Badges | 6 Pokemon |
+| 1 Gym Badge | 4 Pokemon |
+| 2 Gym Badges | 5 Pokemon |
+| 4 Gym Badges | 6 Pokemon |
 
 **Trainer License:**
 - Obtained separately from Trainer ID --- requires passing a more substantive competency evaluation
@@ -96,7 +96,7 @@ Carry limits scale with demonstrated competency. The license is the floor; badge
 - Can get Trainer ID easily at 14+ (or any age) but can only carry 1
 - License unlocks 3 --- the first real team
 - Each carry expansion requires meaningful badge progress
-- Full 6-Pokemon team not possible until 6 badges earned
+- Full 6-Pokemon team becomes possible at 4 badges; active custody never exceeds 6
 - The eighth badge does not add another slot; it satisfies the badge requirement for the Conference Junior Cup or Standard tournament, subject to age and other eligibility rules
 - Most trainers never reach 6 (most stop at 2-4 badges)
 

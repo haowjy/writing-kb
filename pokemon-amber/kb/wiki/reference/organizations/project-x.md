@@ -19,8 +19,8 @@ he is the compact's relevant expert on Pokemon evolution.
 Mega Evolution is Project X's central joint investigation and best current
 lead. The work increasingly indicates that the bond between a Pokemon and its
 trainer may be causal rather than incidental. Project X is broader than Mega
-Evolution, and Mega Evolution remains distinct from [Fuji's](../characters/humans/dr-fuji.md)
-fatal, unstable forced-evolution serum.
+Evolution. It is also distinct from the experimental augmentation serum and
+from radio-wave forced-evolution research; see [Pokemon Augmentation Technologies](../world/technology/pokemon-augmentation.md).
 
 ## Oak's exclusion and Rowan's consultation
 

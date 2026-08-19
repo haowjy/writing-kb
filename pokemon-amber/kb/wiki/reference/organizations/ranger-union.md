@@ -18,10 +18,21 @@ Rangers:
   boards](../world/systems/trainers/quest-system.md).
 
 They may inspect licenses, enforce wilderness rules, and command public-safety
-responses. Police own arrests and criminal investigations; the [International
-Police](international-police.md) coordinates cross-border cases; adventurers
-explore and perform contracted fieldwork; Ace Trainers serve military and
-championship roles.
+responses. On maintained routes and at known Dungeon access points, an ordinary
+inspection can include Trainer ID, the number of Pokemon a person carries or
+actively controls, and required safety gear. Police own arrests and criminal
+investigations; the [International Police](international-police.md) coordinates
+cross-border cases; adventurers explore and perform contracted fieldwork; Ace
+Trainers serve military and championship roles.
+
+## Proportionate Enforcement
+
+Rangers function as route wardens as well as emergency responders. They issue
+warnings, scoldings, civil fines, closures, or a request to leave when the
+circumstances warrant; minor child and paperwork violations are not a pretext
+for a brutal response. Routine enforcement belongs in the travel world
+occasionally, not at every stop.
+
 
 ## Organization
 

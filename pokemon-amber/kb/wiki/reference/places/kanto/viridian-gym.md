@@ -12,6 +12,12 @@ Giovanni earns battle credibility on a conventional trainer journey, then takes 
 
 The Gym issues legitimate Earth Badges and maintains real battle standards. Under Giovanni it anchors first-partner access, schools, public safety, emergency capacity, roads, underground routes, trade, and Pokemon Center infrastructure. These projects meet real needs while making registration, patronage, logistics, surveillance, self-sufficiency, and war preparation flow through his civic network.
 
+## Development Campus
+
+The Gym expands into a development campus: trainer development programs with strong, genuinely earned placements by Viridian trainers in Indigo/Silver and other standard and junior tournaments, plus cheaper Pokeballs, computer/registration/transfer infrastructure, and agricultural and civic projects. The public benefits are real and persuasive, not a front.
+
+X Attack originates here as a Viridian Gym / Giovanni-company development, run through controlled Gym trials: temporary regulated strength enhancement with normal fainting intact. Silph may manufacture or distribute it under license but is not its originator. It is distinct from the experimental serum and from radio-wave forced evolution; see [Pokemon Augmentation Technologies](../../world/technology/pokemon-augmentation.md).
+
 ## Hidden Role
 
 Rocket uses Gym-linked personnel, facilities, veteran ties, and local authority for cover and influence. Gym allies later provide local trainer forces, civic legitimacy, and infrastructure; Rocket supplies covert general staff, logistics, intelligence, and secret assets. The overlap does not make the Gym fake or every resident complicit.

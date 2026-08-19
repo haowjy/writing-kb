@@ -534,3 +534,56 @@ the exact facts and open choreography.
 - Corrected Charcadet's choice to develop across most of Kanto. It remains
   Alonso's Pokemon until near Kanto's end, shortly before 4Ever, when Alonso
   permits its choice of Amber.
+
+## 2026-08-17 --- Route 1 mini-arc restructured through Ch. 25
+
+- Rewrote the Ch. 21-25 chapter plans in the story repo around the settled sequence: Ch. 21 Rocket chase / Pidgey loss / Alonso rescue; Ch. 22 decoded request, cave assault, captive rampaging Ursaring extracted, collapse cliffhanger; Ch. 23 genuine Mystery Dungeon (Ditto-heavy, psychic types, modest loot); Ch. 24 secondary forest exit and Giovanni's Nidoking field test; Ch. 25 Gym wait, Matori's development-campus tour, discretionary standard badges.
+- Rocket's cave operation is now a Mew search (Pokemon Adventures echo): instruments detected an exceptionally powerful psychic presence whose identity --- Mew, residue, or other --- stays open even to Rocket. Deleted the psychic-reactive ore / Mewtwonite seed, forced-evolution testing, and fossil mining as settled purposes; Mewtwonite Y's Unova payoff stands, but its material origin and custody chain are now open.
+- Giovanni is never inside the cave or Dungeon and never appears with Rocket. He intercepts after reported intruders/collapse, goes from frown to genial smile, announces himself as Viridian Gym Leader, calls the attack an "impromptu test," and has "something" for those who passed. His motive is threat assessment and witness containment while Rocket sanitizes the cave --- not confirming Ditto. Whether he recognizes Amber remains open. "Thanks for entertaining me!" and "Sorry for taking the credit" are superseded wording.
+- Recorded Pidgey's Ch. 21 loss (fainting-broken ball connection, thin bond, flies away off-page) in the roster page.
+- Updated `reference/world/phenomena/mystery-dungeons.md`: the Route 1 Dungeon is now the first on-page genuine Dungeon, not merely Dungeon-adjacent.
+- Recorded X Attack's origin as a Viridian Gym / Giovanni-company development with controlled Gym trials (temporary strength, fainting intact; Silph manufactures/distributes without canon origin), distinct from the provisionally named Dr. Kihara's lost lethal serum and from radio-wave forced evolution, on `reference/places/kanto/viridian-gym.md`.
+- Reconciled `arcs/01-kanto-year-1/overview.md`, `arcs/01-kanto-year-1/ursaring-rescue.md`, `saga-overview.md`, `saga-threads/mewtwo-ambertwo.md`, `saga-threads/charcadet-ceruledge.md`, `team-arcs/amber/teddiursa-ursaring.md`, `team-arcs/amber/caterpie-courage.md`, and `reference/characters/humans/alonso-quijano.md` with the new sequence.
+
+
+## 2026-08-17 --- Corrected fainting, Route 1, and augmentation references
+
+- Clarified that fainting disables an active Pokeball connection without dissolving an established partnership: recovery normally permits a cooperative recapture/relink, while the thinly bonded Ch. 21 Pidgey is the exception that leaves first.
+- Removed the remaining Route 1 ore-to-Mewtwonite Y claim from Mewtwo reference. Rocket searches for Mew after an unidentified psychic signal; no ore is recovered, and Mewtwonite Y's origin, material, custody chain, and Unova path remain open.
+- Replaced the Fuji forced-evolution-serum attribution with the current experimental-serum direction. The now-dead creator is only provisionally called Dr. Kihara (an assistant label, not author-approved canon); Fuji was a collaborator and holds the one known vial.
+- Added `reference/world/technology/pokemon-augmentation.md` to distinguish regulated Viridian X Attack, the experimental serum, and Sebastian's separate radio-wave forced-evolution line; Silph may manufacture/distribute X Attack under license but is not its originator.
+
+## 2026-08-18 — Recorded post-Chapter-25 custody and prepared-Dungeon direction
+
+- Created Chapter 26 and 27 plans in the story repository: Viridian departure,
+  proportionate Ranger response to pooled child teams, fourth-slot Pidgey
+  capture, then a chosen Grass-Dungeon opportunity and painful Pidgey release.
+  The plans distinguish settled direction from unresolved scene mechanics and
+  contain no approved dialogue.
+- Replaced the stale active-custody progression everywhere it appeared in live
+  documentation: trainer license = 3, first badge = 4, second = 5, fourth = 6;
+  six remains the active-custody ceiling. This replaced the old 2/4/6-badge
+  progression in trainer licensing, badge-system, Pokeball-economics wording,
+  and Alonso's future Dratini note.
+- Added Escape Orb documentation: ₽300 safety equipment generally required for
+  deliberate regulated/known Mystery Dungeon entry; absence is a civil safety
+  violation, while Orb mechanics and any explorer credential remain open.
+- Recorded Ranger inspection/proportionate-enforcement norms, Amber's Pidgey
+  running thread, Alonso/Amber's chosen-companionship progression, and the
+  Ch26–27 placement in Kanto Year 1 and saga overview.
+- Corrected the Ch. 22 plan's over-specific Teddiursa decoding: it establishes
+  an urgent plea for help, not prior knowledge that Rocket captured Ursaring.
+
+## 2026-08-18 — Locked Heracross's Grass-Dungeon acquisition and combat arc
+
+- Set the voluntary, level-appropriate Grass Mystery Dungeon after Ch. 26--27
+  as Heracross's conventional conscious-battle capture; it replaces the
+  separate Grass-type Rock-counter direction.
+- Recorded Heracross as Bug/Fighting and the intended Pewter answer without
+  mislabeling it as Grass or fixing an attack, loot source, or choreography.
+- Recast the former forest-guardian/anti-poaching acquisition and departure
+  branches as a later voluntary defense spotlight. Added its brawler-identity
+  and ranged-precision arc, including the later Heracrossite/Mega temptation
+  and payoff.
+- Removed the obsolete acquisition question and conflicting guardian/theft
+  alternatives while retaining open capture, move, defense, and Mega details.

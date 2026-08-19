@@ -8,6 +8,13 @@ His exact family origin remains **open**: farmer family versus disgraced former 
 
 ### Arc 1: Kanto's Adventurous Third
 
+Alonso and Amber do not become permanent companions when they first survive the
+Route 1 incident. Their relationship becomes travel companionship through
+repeated chosen cooperation: forced cooperation in Ch. 21--24, a shared Ch. 25,
+temporary parting after Viridian in Ch. 26, then an elective Dungeon expedition
+in Ch. 27. Continued same-direction travel becomes normal after that; no formal
+"travel with me" contract is required.
+
 Once Kyle joins them, Alonso is part of Kanto's fixed principal traveling trio with Amber and Kyle. He is neither a temporary mentor nor a rotating third: he should feel like someone who **could be the protagonist of his own story** if Amber were not the MC. He has his own goal (Greatest Adventurer), initiative, mistakes, discoveries, and progression (badges, roster, carry limits) running in parallel with theirs.
 
 He is the trio's more experienced, adventurous, Brock-like force. Alonso repeatedly pulls Amber and Kyle toward Mystery Dungeons and the wider, stranger Pokemon world. Kyle is inspired by his example; Amber is initially pulled along, then gradually learns the genuine thrill and breadth of that world. What Amber takes from him is existential, not tactical — a lived chosen ideal rather than an intellectual lesson.
@@ -89,7 +96,7 @@ Alonso letting Charcadet go is not a failure or a loss — it's proof of his ide
 
 > **Alonso is why Charcadet is in Kanto. Amber is why Charcadet stays.**
 
-This intersects with the Mew-adjacent ore thread from the early Viridian cave incident (see [The Mewtwo Thread](../../../planning/saga-threads/mewtwo-ambertwo.md)), which eventually becomes Mewtwonite Y. Alonso brings Charcadet into the incident; Amber gives Charcadet a reason to stay.
+This intersects with Rocket's Mew search at the early Viridian cave incident (see [The Mewtwo Thread](../../../planning/saga-threads/mewtwo-ambertwo.md)) and with Alonso's first discovered Mystery Dungeon beneath it. Alonso brings Charcadet into the incident; Amber gives Charcadet a reason to stay.
 
 ## Pokemon
 
@@ -158,7 +165,7 @@ See [Celadon City](../../world/systems/trainers/index.md) for the trainer system
 ## Story Role Summary
 
 ### Current (Arc 1)
-- Encountered early in Kanto during the Route 1 Team Rocket camp / guarded cave mini-arc
+- Encountered early in Kanto during the Route 1 Team Rocket chase / guarded cave mini-arc
 - Fixed member of Kanto's principal trio with Amber and Kyle; his protagonist-scale drive, mistakes, discoveries, and progression remain his own
 - Repeatedly leads the trio toward Mystery Dungeon incidents and the wider, stranger Pokemon world
 - Charcadet observes Amber across most of the Kanto journey; Alonso's decision to permit its late-Kanto choice defines his character

@@ -13,5 +13,6 @@ These are Amber's developed Pokemon relationship arcs. Inclusion here is not the
 | Charcadet / Ceruledge | [Choice, theft, and attempted recovery](charcadet-loss-and-return.md) | Drafting; saga-critical |
 | Teddiursa / Ursaring | [Promise, grief, and vengeance](teddiursa-ursaring.md) | Drafting |
 | Vee / Espeon | [Shared enemy, trust, and stability](vee-trust-and-stability.md) | Drafting |
+| Heracross | [Brawler identity and ranged precision](heracross-brawler-identity.md) | Drafting |
 
 Do not create arc pages for utility or candidate Pokemon merely because they appear in [Amber's roster](../../rosters/amber-team.md). A team-arc page promises sustained dramatic movement.

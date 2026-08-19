@@ -36,9 +36,27 @@ Late-saga ordering from Sinnoh onward is current planning direction, not locked 
 ### Arc 1 — Kanto: Journey Start
 **Amber age:** 14 | **Region:** Indigo (Kanto)
 
-Licensed departure from Pallet. Oak-supported. Ch 19: Pidgey chase and failed capture, lunch, peaceful Caterpie catch, and Amber's first-capture celebration. Ch 20: Caterpie's survival history, refusal to fight, first silk-swinging experiment, and two attacks by a different Pidgey. Caterpie contributes *String Shot* during the second attack, and Amber catches Pidgey while it remains conscious; Ditto, Caterpie, and Pidgey fill her initial three-Pokemon custody limit. Ch 21 opens with Teddiursa's confrontation: Amber identifies Teddiursa's missing-mother problem, promises to help, follows him off-route, protects him at a hidden Rocket camp, and meets Alonso and his Charcadet. Ch 22: Amber and Alonso enter the guarded cave; Rocket releases or provokes Ursaring, who almost recognizes Teddy before Rocket removes her and a collapse traps Amber and Alonso. Teddiursa, Charcadet, and Ditto help find a narrow route into a genuine Mystery Dungeon, where the group encounters Giovanni. Charcadet notices Amber but remains Alonso's Pokemon through most of Kanto; it chooses Amber only near the end of the Kanto journey, shortly before 4Ever. The strange Mew-adjacent ore thread begins around this cave incident. At Viridian Gym, Giovanni delays Amber and Alonso while Rocket cleans the compromised Dungeon site, then awards discretionary standard badges based on the incident. He recognizes what Amber is; she does not know what he knows. Kyle Kong joins Amber and Alonso to form Kanto's fixed principal traveling trio. Alonso is its more experienced, adventurous force: he draws Kyle toward a chosen life of adventure and repeatedly pulls both younger travelers toward Mystery Dungeons and the wider, stranger Pokemon world. Temporary local companions still appear without replacing the trio; Prince Alexander follows a separate route and intersects as a mysterious rival rather than a fourth party member. Badge progression begins, then keeps getting pulled sideways by promises, quests, Rocket activity, gym politics, local Pokemon suffering, environmental hazards, and other weird incidents. Team Rocket is an escalating background threat. Celadon reached; first glimpse of quest board. Trapinch joins Amber in Kanto through an abandonment/rescue storyline whose modern execution remains open, then carries that unresolved relationship into Hoenn.
+Amber's licensed departure begins as an ordinary badge journey but the Route 1
+mini-arc introduces Caterpie, a Pidgey capture/loss pattern, Teddiursa, Alonso,
+Rocket's Mew-search cave, and the first on-page Mystery Dungeon. Giovanni
+awards Amber and Alonso discretionary first badges after the escape. Immediately
+afterward, Amber leaves Viridian, encounters proportionate Ranger enforcement,
+and fills the new fourth active slot with a Pidgey. She and Alonso then choose a
+prepared Grass-Dungeon opportunity together; its Escape Orb safety cost and her
+painful Pidgey release make the roster limit real. Their continuing
+companionship grows by repeated choice, not a formal immediate pact.
 
-**Ends:** Amber has ~3-4 badges, real trainer experience, and a growing reputation for weird incident magnetism. Mother Ursaring remains in Rocket hands; Amber's promise to Teddy is unfulfilled. Amber is not a chosen one; she keeps getting dragged into larger obligations because of what she notices and what she refuses to walk past. The Mew-adjacent ore thread is associated with Charcadet, not yet Amber.
+Kyle Kong later joins Amber and Alonso to form Kanto's fixed principal traveling
+trio. Alonso is its more experienced, adventurous force, drawing both younger
+travelers toward Mystery Dungeons and the wider world. Badge progression keeps
+being interrupted by promises, quests, Rocket activity, gym politics, local
+Pokemon suffering, and environmental hazards. Team Rocket escalates in the
+background; Trapinch joins Amber through a still-open Kanto abandonment/rescue
+storyline and carries that relationship into Hoenn.
+
+For chapter-level Route 1/Viridian planning, see [Kanto Year 1](arcs/01-kanto-year-1/overview.md).
+
+**Ends:** Amber has several badges (exact count open), real trainer experience, and a growing reputation for weird incident magnetism. Mother Ursaring remains in Rocket hands; Amber's promise to Teddy is unfulfilled. Amber is not a chosen one; she keeps getting dragged into larger obligations because of what she notices and what she refuses to walk past.
 
 See: [Kanto Year 1](arcs/01-kanto-year-1/overview.md)
 
