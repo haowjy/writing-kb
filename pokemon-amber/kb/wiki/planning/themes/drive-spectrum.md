@@ -69,9 +69,31 @@ Function for Amber: he shows that a person can organize a life around a dream wi
 
 ### Kyle Kong
 
-Kyle begins with inherited drive: Koichi's mission, the Fighting Dojo's pride, and the need to prove the Dojo still matters against Sabrina and the Psychic Gym.
+Kyle begins with imposed drive: Koichi's mission, the Fighting Dojo's pride,
+and the need to prove the Dojo still matters against Sabrina and the Psychic
+Gym. Unlike Alonso, Kyle did not choose the goal organizing his life.
 
-His arc is about converting inherited ambition into chosen ambition. Beating Sabrina fulfills the mission, but afterward the mission becomes too small. He leaves toward adventure because he finally wants something beyond proving someone else's point.
+His arc is about escaping imposed ambition and discovering chosen desire.
+Meeting Amber is the divergence that lets him beat Sabrina and delay the
+Dojo's loss; without her, he loses and retreats toward the noodle-shop life.
+After winning, he rejects inheriting the Dojo and wants to continue traveling
+with Amber. Alonso's Luffy-like freedom --- doing what he wants and becoming
+serious when it matters --- changes Kyle's dream into becoming strong enough
+to do whatever he wants.
+
+Rage complicates that dream. Kyle and Mankey initially treat violence as proof
+that nobody controls them, but reflexive anger controls both of them. The
+eventual tragic Annihilape evolution makes that contradiction physical: Kyle
+gains a stronger partner through a process that feels partly like losing the
+living Mankey/Primeape he grew up with.
+
+Injustice is the greatest fuel for Kyle's rage. His anger is compelling because
+he often identifies a genuine wrong before anyone else acts. His fall begins
+when moral clarity becomes unilateral authority: because the system failed, he
+believes he alone may choose the punishment. Resistance then feels like
+complicity, and consequences feel like further betrayal. His mature freedom
+must preserve the ability to oppose injustice without becoming governed by an
+ever-growing ledger of grievances.
 
 ### Mary
 

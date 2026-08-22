@@ -25,7 +25,37 @@ Madame Boss retains family leverage and can act independently; she is not Giovan
 
 ## Public and Hidden Faces
 
-Publicly, Rocket appears in gambling, loans, protection, smuggling, and the under-resourced gaps where it also supplies money, order, or work. Its concealed layer includes rare-Pokemon trafficking, poaching, cloning and research abuse, political intimidation, industrial espionage, and targeted violence. Knowledge is compartmentalized.
+Rocket's principal outward identity is a shady Pokemon-catching guild descended
+from the prewar commercial hunter profession. Commercial hunting was openly
+practiced before postwar environmental and capture restrictions made most of
+its old methods illegal roughly twenty years ago. Rocket argues that the League
+scapegoated independent hunters for wartime ecological collapse and now grants
+capture privileges mainly to Gyms, Rangers, clans, and large institutions.
+
+The guild facade is not fictitious. Rocket brokers connect wealthy buyers to
+semi-autonomous squads that locate, confine, capture, transport, and launder
+Pokemon. For enough money a buyer can commission almost any realistically
+obtainable Pokemon. Most business targets wild Pokemon; the organization turns
+a blind eye to opportunistic theft of unusually valuable registered partners,
+and specialized acquisition squads openly exist within the network to steal
+particular Pokemon.
+
+Squads are not comprehensively registered as formal members. They are
+recognized through leaders, sponsors, handlers, brokers, aliases, reputation,
+and authenticated access to buyers, equipment, safe sites, and information.
+There is still a command structure from Giovanni and Admins through commanders
+and handlers to squad leaders, but lower instructions favor prices,
+priorities, and desired outcomes over documented methods. This autonomy creates
+plausible deniability: successful unsanctioned methods may be rewarded, while a
+captured squad can be disavowed as independent.
+
+Rocket also appears in gambling, loans, protection, smuggling, and the
+under-resourced gaps where it supplies money, order, or work. Its more deeply
+concealed layer includes cloning and research abuse, forced evolution, Dark
+Balls and obedience work, legendary capture, political intimidation,
+industrial espionage, and targeted violence. Knowledge is compartmentalized;
+ordinary hunter squads can knowingly poach or steal without knowing what the
+black programs do with selected Pokemon.
 
 ## Giovanni's Direction
 

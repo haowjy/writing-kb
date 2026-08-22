@@ -8,18 +8,26 @@ His exact family origin remains **open**: farmer family versus disgraced former 
 
 ### Arc 1: Kanto's Adventurous Third
 
-Alonso and Amber do not become permanent companions when they first survive the
-Route 1 incident. Their relationship becomes travel companionship through
-repeated chosen cooperation: forced cooperation in Ch. 21--24, a shared Ch. 25,
-temporary parting after Viridian in Ch. 26, then an elective Dungeon expedition
-in Ch. 27. Continued same-direction travel becomes normal after that; no formal
-"travel with me" contract is required.
+Alonso joins Amber and Kyle through the Route 2 incident. Continued chosen
+cooperation turns the three into Kanto's principal traveling group for most of
+the journey; no formal "travel with me" contract is required. Alonso should
+feel like someone who **could be the protagonist of his own story** if Amber
+were not the MC. He has his own goal, initiative, mistakes, discoveries, and
+progression running in parallel with theirs.
 
-Once Kyle joins them, Alonso is part of Kanto's fixed principal traveling trio with Amber and Kyle. He is neither a temporary mentor nor a rotating third: he should feel like someone who **could be the protagonist of his own story** if Amber were not the MC. He has his own goal (Greatest Adventurer), initiative, mistakes, discoveries, and progression (badges, roster, carry limits) running in parallel with theirs.
+He is the group's Luffy-like free adventurer, not its responsible Brock-like
+caretaker. Alonso repeatedly pulls Amber and Kyle toward Mystery Dungeons and
+the wider, stranger Pokemon world because he wants to go. Kyle is inspired by
+his freedom; Amber is initially pulled along, then gradually learns the genuine
+thrill and breadth of that world. What they take from him is existential, not
+tactical --- a lived chosen ideal rather than an intellectual lesson.
 
-He is the trio's more experienced, adventurous, Brock-like force. Alonso repeatedly pulls Amber and Kyle toward Mystery Dungeons and the wider, stranger Pokemon world. Kyle is inspired by his example; Amber is initially pulled along, then gradually learns the genuine thrill and breadth of that world. What Amber takes from him is existential, not tactical — a lived chosen ideal rather than an intellectual lesson.
-
-The trio eventually separates after the Kanto Conference-era resolution. Alonso continues pursuing dangerous exploration and Mystery Dungeons; the scene-level separation remains open.
+Near Kanto's end, the younger Charcadet chooses Amber. Alonso honors that choice,
+entrusts Charcadet to Amber, and leaves before the Conference-era resolution
+because another adventure is where he wants to go. He needs no formal party
+dissolution. Amber and Kyle remain together after his departure. Alonso's
+chosen freedom becomes the model Kyle follows when rejecting the Dojo
+inheritance.
 
 ### Adventurer Interval and Endgame
 
@@ -27,12 +35,29 @@ After Hoenn and Ceruledge's reunion, Alonso travels with Amber through roughly t
 
 Alonso later appears as a **peak-level ally** in the saga's endgame. He fights as an equal, not a mentor.
 
-## Personality
+## Personality: Luffy-Like Freedom
 
-Alonso is special in the sense that he is genuinely sincere, brave, and competent, not because he is a chosen one. He has a simple, almost goofy clarity that can make him look dumb until danger arrives.
+Alonso's governing personality model is **Luffy-like**: kind of dumb in
+ordinary life, ruled by immediate desire, difficult to embarrass or socially
+control, and inclined to do whatever he wants. When someone is genuinely in
+danger, the foolishness drops away. He becomes serious, direct, and completely
+reliable without needing to announce a moral lesson.
+
+Alonso is special because he is genuinely sincere, brave, and capable when it
+matters, not because he is a chosen one or generally intellectual.
 
 - **Plainspoken conviction:** he does not need knightly diction. He says the obvious brave thing and then does it. His spoken dream can be as blunt as: "I'm going to become the Greatest Adventurer."
+- **Kind of dumb:** poor planning, obvious misunderstandings, appetite,
+  institutional ignorance, and impulsive conclusions are real traits. Do not
+  reveal that he was secretly calculating everything.
+- **Does whatever he wants:** rules, prestige, embarrassment, and other
+  people's expectations have little control over him. This is freedom rather
+  than random cruelty; his wants repeatedly include helping people, exploring,
+  eating, fighting, and going somewhere interesting.
 - **Hot-headed and impulsive:** he moves first and researches later. He spent nearly everything reaching Kanto without learning how its systems work — including that badges control active-party expansion — and the gap between his competence in the field and his ignorance of institutions is a real character flaw, not a quirk.
+- **Serious when needed:** danger to another person or Pokemon can make him
+  abruptly focused. The tonal switch should be clean: no goofy undercut while
+  he is deciding that someone must be saved.
 - **Earnest without being foolish:** he believes in courage and worthiness, but he knows danger is real.
 - **Action over performance:** the ideal lives in his choices — protecting people, respecting Pokemon, walking toward trouble when someone has to.
 - **Inspirational through consistency:** like a Luffy-type figure, he repeats a simple belief until other people start moving too.
@@ -40,7 +65,11 @@ Alonso is special in the sense that he is genuinely sincere, brave, and competen
 
 A useful recurring line/instinct for him is: **"Someone has to."**
 
-He walks into Kanto with a framework that does not map cleanly onto the trainer/gym/badge system, and he does not try to force the fit. He simply is what he is, and people who spend time around him recognize it.
+He walks into Kanto with a framework that does not map cleanly onto the trainer/gym/badge system, and he does not try to force the fit. He simply does what he wants, and people who spend time around him recognize that this makes him unusually free.
+
+That freedom is Alonso's central influence on Kyle. Alonso is not teaching
+Kyle a philosophy in speeches; Kyle watches someone live without allowing an
+institution, family role, or public expectation to own him.
 
 ## Appearance and Voice
 
@@ -156,7 +185,7 @@ Alonso's arrival in Kanto is **plausible but not casual:**
 
 - He traveled alone from Paldea after reports that unusually many Mystery Dungeons were being discovered in Kanto
 - The crossing and travel costs consumed nearly all of his money; he reaches Kanto effectively broke
-- Near Route 1, he follows trouble, Rocket movement, a Pokemon-in-danger lead, or signs of a Dungeon because those are the reasons he came
+- Near Route 2 beyond Viridian, he follows trouble, Rocket movement, a Pokemon-in-danger lead, or signs of a Dungeon because those are the reasons he came
 - Interregional travel in this world is **possible but not normalized** — dangerous wilderness between regions, though Repel, Poke Balls, healing infrastructure, ships, aviation, communications, and mapping are gradually making it more viable
 - Alonso is an early adopter of interregional movement — he is there before the infrastructure is easy, and has paid heavily to pursue the possibility of discovery
 
@@ -165,11 +194,14 @@ See [Celadon City](../../world/systems/trainers/index.md) for the trainer system
 ## Story Role Summary
 
 ### Current (Arc 1)
-- Encountered early in Kanto during the Route 1 Team Rocket chase / guarded cave mini-arc
-- Fixed member of Kanto's principal trio with Amber and Kyle; his protagonist-scale drive, mistakes, discoveries, and progression remain his own
+- Encountered early in Kanto during the post-Viridian Route 2 Team Rocket chase / guarded cave mini-arc
+- Member of Kanto's principal trio with Amber and Kyle through most of the
+  journey; his protagonist-scale drive, mistakes, discoveries, and progression remain his own
 - Repeatedly leads the trio toward Mystery Dungeon incidents and the wider, stranger Pokemon world
 - Charcadet observes Amber across most of the Kanto journey; Alonso's decision to permit its late-Kanto choice defines his character
-- After the Conference-era resolution, continues alone into dangerous exploration and Mystery Dungeon pursuit
+- After Charcadet chooses Amber near Kanto's end, Alonso leaves before the
+  Conference resolution and continues alone into dangerous exploration and
+  Mystery Dungeon pursuit
 
 **Amber's internal arc (NEVER STATED --- implied through behavior only):** Amber starts dismissive ("this guy is insane"), shifts to grudging respect ("he's actually competent... he means this"), arrives at something quieter: sincerity is not fake just because it looks ridiculous. A life can be organized around a chosen ideal. This progression should be visible in how she treats him, not in narration or dialogue that names it.
 

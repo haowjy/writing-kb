@@ -10,7 +10,7 @@ Amber's commitment to help Teddiursa becomes a promise to save his mother once t
 
 ## Relationship Movement
 
-1. Teddiursa flees Team Rocket onto maintained Route 1; Rocket captured his mother when she resisted their seizure of their home cave.
+1. After Amber and Kyle pass through Viridian, Teddiursa flees Team Rocket onto maintained Route 2; Rocket captured his mother when she resisted their seizure of their home cave.
 2. Amber intervenes before understanding the situation; Teddiursa turns back to fight beside her and Ditto.
 3. Teddiursa communicates his ask through gesture and pantomime --- "help me" as a concept, not speech --- and Amber patiently decodes it and promises to help save Ursaring.
 4. Teddiursa tolerates Amber because she moves toward the problem, not because he instantly trusts her.

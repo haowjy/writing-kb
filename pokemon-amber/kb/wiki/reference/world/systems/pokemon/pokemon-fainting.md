@@ -21,6 +21,14 @@ Clarifies what "fainting" means, why it matters for rescue and capture, and how 
 - New capture requires a successful registration handshake. Fainted targets cannot complete the handshake and thus cannot be legally caught.
 - After physical recovery, a registered or well-bonded partner normally cooperates with a quick recapture and relink. The broken connection does not mean it has wandered away, abandoned the trainer, or dissolved the team.
 - A newly caught, thinly bonded Pokemon can leave before that relink; the Ch. 21 Pidgey is the planned example.
+- The disabled interval can be exploited for theft. A poacher can physically
+  remove a fainted partner, shield or obstruct its original relink as it
+  recovers, and attempt a new-ball handshake once it becomes responsive.
+  Failure does not grant custody; prolonged confinement lets the poacher
+  restrain or faint the Pokemon again and manufacture repeated attempts.
+- Fainting breaks the active technical link, not the emotional relationship or
+  underlying lawful claim. A strongly bonded stolen Pokemon may continue
+  resisting and trying to return to its trainer after every recovery.
 - Edge case: partial sedation or paralysis can look like fainting; Centers and Rangers use scanners to differentiate. Attempting to ball a fainted target simply fails to trigger.
 
 ## Observable Facts (Can State)
@@ -46,6 +54,8 @@ Clarifies what "fainting" means, why it matters for rescue and capture, and how 
 ## Practical Consequences
 
 - Rescue urgency: predators, exposure, and opportunistic theft are real risks; time matters
+- Theft risk: a separated fainted partner must be recovered before a captor can
+  move it into shielded confinement and exploit successive recovery windows
 - Handler duty: stabilize in the field (sugar gel, heat, shelter) or carry to a Center; abandoning a partner can draw civil penalties depending on circumstances
 - Quest boards: "Fainted Pokemon retrieval" exists because recalls fail by design
 

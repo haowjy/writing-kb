@@ -2,23 +2,25 @@
 
 ## Core Promise
 
-Amber commits to helping Teddiursa in Ch. 22 after he communicates an urgent ask. The exchange does not establish that Rocket captured his mother; seeing captive Ursaring inside the cave gives the promise its fuller object. It remains unfulfilled after the collapse.
+After passing through Viridian, Amber commits to helping Teddiursa on Route 2 after he communicates an urgent ask. The exchange does not establish that Rocket captured his mother; seeing captive Ursaring inside the cave gives the promise its fuller object. It remains unfulfilled after the collapse. Exact replacement chapter numbers are open.
 
 Teddiursa does not initially trust Amber because she is kind. He tolerates her because she recognizes the problem and moves toward the humans who took Ursaring.
 
 Rocket's cave operation is a **Mew search**: instruments detected an exceptionally powerful psychic presence beneath/around the isolated cave (whether Mew, residue, or another phenomenon is unknown, even to Rocket). The cave was Ursaring and Teddiursa's home; Rocket appropriated it as a temporary search base, captured Ursaring when she resisted, and Teddiursa escaped. The older psychic-reactive ore / Mewtwonite / forced-evolution / fossil purposes are deleted.
 
-## Ch. 21: Route Chase and Alonso
+## Route 2: Chase and Alonso
 
-Teddiursa and two low-level Rocket handlers spill onto maintained Route 1. Amber intervenes with Ditto and her new Pidgey; Caterpie stays out of the fight. Pidgey faints and cannot be recalled; Teddiursa turns back to help Ditto, and the handlers retreat once two of their four Pokemon are disabled. Amber follows Teddiursa while treating Ditto, leaving Pidgey; Pidgey recovers off-page and, its fainting-broken ball connection unrestored and its bond thin, flies away. Amber reaches the larger confrontation and is overwhelmed; Alonso arrives and completes a meaningful rescue. The chapter ends with Teddy desperately trying to communicate a further request.
+Teddiursa and two low-level Rocket handlers spill onto maintained Route 2 after Amber and Kyle have passed through Viridian. Amber intervenes with Ditto and her new Pidgey; Caterpie stays out of the fight. Pidgey faints and cannot be recalled; Teddiursa turns back to help Ditto, and the handlers retreat once two of their four Pokemon are disabled. Amber follows Teddiursa while treating Ditto, leaving Pidgey; Pidgey recovers off-page and, its fainting-broken ball connection unrestored and its bond thin, flies away. Amber reaches the larger confrontation and is overwhelmed; Alonso arrives and completes a meaningful rescue. The chapter ends with Teddy desperately trying to communicate a further request. Kyle's exact role in this fight remains open.
 
-## Ch. 22: The Request and the Collapse
+## Route 2 Cave: The Request and the Collapse
 
 Amber and Alonso take stock and decode Teddiursa's ask through gesture, pantomime, and possibly Ditto illustration --- "help me" as a concept, not understood speech. Both accept the request. They beat the exterior guards, enter, and face competent operatives. Ursaring is restrained, captive, and increasingly uncontrollable. The operatives retreat through a prepared escape route with Ursaring, force the heroes into a deeper branch, and collapse the junction behind them. Whether Ursaring recognizes Teddiursa in the chaos remains open.
 
-## Ch. 23-24: Dungeon and Giovanni
+## Route 2 Dungeon and Giovanni Interception
 
-The collapsed deeper branch opens into a genuine Mystery Dungeon (Ditto-heavy, psychic types). Alonso identifies it and initially --- wrongly --- infers that a valuable Dungeon explains Rocket's protection; the truth remains the Mew-like signal, which Rocket never mapped or understood. The group self-rescues through a secondary forest exit. Giovanni intercepts outside --- he was never inside and is never seen with Rocket --- and field-tests both trainers with Nidoking before inviting them to the Gym. See `story/ch23/plan.md` and `story/ch24/plan.md`.
+The collapsed deeper branch opens into a genuine Mystery Dungeon (Ditto-heavy, psychic types). Alonso identifies it and initially --- wrongly --- infers that a valuable Dungeon explains Rocket's protection; the truth remains the Mew-like signal, which Rocket never mapped or understood. The group self-rescues through another Route 2 exit.
+
+Giovanni intercepts them outside and immediately attacks with Nidoking without introducing himself. Amber and Alonso contribute most to defeating it; Kyle contributes little. Giovanni pauses after the loss, reveals that he is Viridian's Gym Leader, and retroactively calls the attack an impromptu test. He awards standard badges to Amber and Alonso, pauses before Kyle, gives him nothing, and leaves. He does not escort them backward, invite them to the Gym, stage a long wait, or give them a development-campus tour.
 
 ## 4Ever Resolution (Settled 2026-06-07)
 

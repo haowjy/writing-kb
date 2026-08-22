@@ -97,7 +97,8 @@
 ### 5. Consequences That Stick
 **Makes stakes real:**
 - Failed gym attempts = cooldown periods
-- Some victories change the terms rather than restoring the old world (Kyle can save the Dojo's claim, but not return to a simple inherited life)
+- Some victories buy time rather than restoring the old world: Kyle delays the
+  Dojo's loss, but refusing succession means it eventually loses official status
 - Weird incidents derail the gym circuit
 - Secrets compound over time
 
@@ -136,7 +137,8 @@ These emerge from story events without needing to be stated:
 - Don't need to say it - the gap between plan and outcome speaks for itself
 
 **Some battles can't be won:**
-- Shown through: Kyle winning back the Dojo's claim and still outgrowing the inherited mission
+- Shown through: Kyle winning the Dojo a reprieve, rejecting succession, and
+  accepting that preserving an institution is not worth surrendering his freedom
 - Don't need to say it - tragic realism in action
 
 **Let events speak for themselves. Readers interpret as they want.**

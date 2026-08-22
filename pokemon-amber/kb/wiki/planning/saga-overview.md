@@ -37,18 +37,23 @@ Late-saga ordering from Sinnoh onward is current planning direction, not locked 
 **Amber age:** 14 | **Region:** Indigo (Kanto)
 
 Amber's licensed departure begins as an ordinary badge journey but the Route 1
-mini-arc introduces Caterpie, a Pidgey capture/loss pattern, Teddiursa, Alonso,
-Rocket's Mew-search cave, and the first on-page Mystery Dungeon. Giovanni
-awards Amber and Alonso discretionary first badges after the escape. Immediately
-afterward, Amber leaves Viridian, encounters proportionate Ranger enforcement,
-and fills the new fourth active slot with a Pidgey. She and Alonso then choose a
-prepared Grass-Dungeon opportunity together; its Escape Orb safety cost and her
-painful Pidgey release make the roster limit real. Their continuing
+mini-arc introduces Caterpie, then a brief encounter with Kyle, several Rocket
+grunts, and a playful Mew that becomes intensely curious about Amber. The later
+Route 1 sequence ends with Kyle becoming Amber's temporary companion. They
+reach Viridian before the larger incident. On Route 2 after Viridian, Teddiursa
+and Alonso enter through Rocket's Ursaring operation and the first on-page
+Mystery Dungeon. Giovanni immediately attacks the emerging group with Nidoking,
+then calls it an impromptu Gym test after they win. He awards standard badges
+to Amber and Alonso but not Kyle and does not bring them back into Viridian;
+the tour and long cleanup wait are removed. Their continuing
 companionship grows by repeated choice, not a formal immediate pact.
 
-Kyle Kong later joins Amber and Alonso to form Kanto's fixed principal traveling
-trio. Alonso is its more experienced, adventurous force, drawing both younger
-travelers toward Mystery Dungeons and the wider world. Badge progression keeps
+Kyle Kong first becomes Amber's temporary companion after the Mew encounter.
+Alonso then joins through the Teddiursa crisis, and the three travel together
+through most of Kanto. Alonso is the Luffy-like free force who does what he
+wants, becomes serious when needed, and draws both younger travelers toward
+Mystery Dungeons and the wider world. Near Kanto's end he leaves after
+Charcadet chooses Amber, leaving Amber and Kyle as a duo. Badge progression keeps
 being interrupted by promises, quests, Rocket activity, gym politics, local
 Pokemon suffering, and environmental hazards. Team Rocket escalates in the
 background; Trapinch joins Amber through a still-open Kanto abandonment/rescue
@@ -100,9 +105,9 @@ This is the moment she realizes the story is happening *to her*. Her metagame kn
 ### Arc 5 — First Conference
 **Amber age:** 14 | **Region:** Indigo (Kanto Junior League)
 
-Amber enters the Kanto U19 Junior Conference with a hole in her team. Kyle also qualifies. Kyle vs. Sabrina is the political climax (Fighting Dojo vs. Psychic Gym); Kyle eventually wins the public reversal that saves/restores the Dojo. Amber performs beyond expectations for a first-year trainer without her ace — barely makes it through, or makes a notable showing before elimination.
+Amber enters the Kanto U19 Junior Conference with a hole in her team. Kyle also qualifies. Kyle vs. Sabrina is the political climax (Fighting Dojo vs. Psychic Gym); Kyle wins the public reversal that delays the Dojo's displacement. Amber performs beyond expectations for a first-year trainer without her ace — barely makes it through, or makes a notable showing before elimination.
 
-**Ends:** Conference complete. Amber is post-radicalization, bruised, building. Charcadet's absence is felt through every battle. The Kanto trio separates after this Conference-era resolution: Kyle has publicly defeated Sabrina and secured the Fighting Dojo's civic-Gym position, Alonso continues dangerous exploration and Mystery Dungeon pursuit, and Amber continues traveling to experience the wider Pokemon world without a fixed grand ambition. The separation's exact scene is open.
+**Ends:** Conference complete. Amber is post-radicalization, bruised, building. Alonso already left near Kanto's end after honoring Charcadet's choice to go with Amber. Kyle publicly defeats Sabrina and wins the Fighting Dojo a reprieve, then rejects the succession needed to sustain it. The Dojo eventually loses official status without an heir. Inspired by Alonso's freely chosen life, Kyle wants to continue journeying with Amber and become strong enough to do whatever he wants. Exact next destination and Amber's response remain open.
 
 ---
 

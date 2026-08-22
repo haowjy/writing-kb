@@ -32,6 +32,55 @@ Lance was roughly eight to ten when the war ended and is approximately twenty-ei
 
 Giovanni was about fourteen when the war ended, and about thirty-four or thirty-five in the story present. He remembers the war and its aftermath but was not a child soldier and held no meaningful command. His father, the previous Viridian Gym Leader, died in the final or last major battle. The father's ideology, the battle's location and tactics, and whether Mt. Silver was involved remain open.
 
+## Legendary Roaming, Wild Unrest, and Natural Disasters
+
+As the war intensified, natural disasters became frequent and powerful
+Legendary Pokemon began appearing unpredictably across the theater. Their
+movements and battles destroyed settlements, roads, supply infrastructure,
+and military positions without reliably favoring either side. These were not
+rare symbolic appearances: roaming Legendary Pokemon could unexpectedly alter
+or devastate an entire operational area.
+
+Wild Pokemon unrest also became widespread. Habitat destruction, wartime
+capture, human settlement pressure, disrupted migration, and the disasters
+themselves drove Pokemon into conflict with people. Wild attacks interrupted
+front-line operations and repeatedly struck rear areas that military planners
+had considered secure. Towns, farms, roads, depots, and other back-line
+infrastructure could not be treated as safe merely because they were distant
+from the opposing army.
+
+People disagreed, and still disagree, about the exact cause. Explanations
+include ecological collapse, Legendary anger, Pokemon retaliation against
+human expansion, wartime disturbance of old territories, and several
+overlapping natural phenomena. The postwar settlement did not require one
+accepted theory. The shared conclusion was that continued unrestricted human
+expansion and commercial Pokemon extraction risked renewed disaster and wild
+hostility.
+
+## Postwar Capture Settlement
+
+Modern poaching and commercial-capture restrictions arose from that conclusion
+roughly twenty years before story present. They function as an environmental
+and security compact: limit how aggressively humans remove Pokemon and intrude
+on habitats in order to stabilize ecosystems, reduce conflict around
+settlements, and appease powerful wild Pokemon and Pokemon communities.
+
+Before the war, commercial Pokemon hunters openly acquired Pokemon for clients
+and institutions. The profession itself was not generally illegal. Postwar
+law restricted commercial taking, physical confinement across repeated
+recovery cycles, protected habitats and populations, and other methods capable
+of extracting Pokemon at scale. Individual trainer capture remained legal and
+licensed because its custody limits and personal responsibility do not permit
+the same industrial removal.
+
+The laws are historically recent. Older hunters remember performing openly a
+trade that is now widely treated as poaching. Some adapted to authorized
+relocation, nuisance control, research, and emergency work; others continued
+through informal guilds and black markets. This contested transition supplies
+Team Rocket's outward identity as a loose Pokemon-catching guild and part of
+its claim that the League scapegoated hunters for a crisis created by armies,
+settlements, and industry.
+
 ## Political Memory
 
 Madame Boss concluded that Kanto lost because it lacked money: money buys supplies, silence, officials, scientists, and loyalty. She taught Giovanni finance and logistics, then converted surviving wartime infrastructure into a criminal-financial organization.
@@ -50,6 +99,10 @@ These are interpretations of shared history, not interchangeable facts.
 - Exact secession-war duration, title relinquishment and accession procedures, the full intermediary succession, and Mt. Silver's role.
 - The father's politics and the details of his death.
 - Indigo Council franchise, constitution, and emergency checks.
+- Which Legendary Pokemon roamed during the war, whether particular disasters
+  can be attributed to them, and how much any side understood at the time.
+- The exact postwar instrument, enforcement rollout, and regional variation of
+  the modern commercial-capture and poaching regime.
 
 ## Cross-References
 
@@ -59,3 +112,4 @@ These are interpretations of shared history, not interchangeable facts.
 - [Giovanni](../../characters/humans/giovanni.md)
 - [Team Rocket](../../organizations/team-rocket.md)
 - [Clan & Lineage System](../society/clan-system.md)
+- [Poaching, Hunter Guilds, and Illegal Pokemon Acquisition](../society/crime/poaching.md)

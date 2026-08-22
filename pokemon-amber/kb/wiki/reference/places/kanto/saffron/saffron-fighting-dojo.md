@@ -12,7 +12,8 @@ Saffron City's official Pillar Gym (Fighting-type). Ancient Fighting-type clan t
 
 - **Official Saffron City Pillar Gym** (issues legitimate Fighting-type badge)
 - Losing prestige: younger generation weaker than elders
-- 2-3 year crisis: expected to lose official status unless Kyle changes the public/political story
+- The official-Gym decision comes the following year; the Dojo is expected to
+  lose unless Kyle creates an immediate public reversal against Sabrina
 
 ## The Decline
 
@@ -29,7 +30,13 @@ See [Saffron Gym Rivalry](../../../../planning/arcs/01-kanto-year-1/saffron-gym-
 
 ## Kyle's Role
 
-Kyle is the Dojo's heir and effectively its desperate last attempt to prove relevance. His U19 tournament journey is the proxy war. Current direction: Kyle eventually defeats Sabrina at the critical public moment, saving/restoring the Dojo's claim — then realizes he wants a larger chosen quest than simply inheriting the institution he saved.
+Kyle is the Dojo's unwillingly elevated heir and effectively its desperate last
+attempt to prove relevance. His U19 tournament journey is the proxy war. Without
+meeting Amber, he loses and the Dojo loses its position. With Amber's influence,
+he defeats Sabrina and wins the Dojo a reprieve --- then rejects inheriting
+the institution and chooses personal freedom instead. Without a viable heir,
+the reprieve does not last; the Dojo eventually loses official status and
+continues as an unofficial training hall.
 
 ## Cross-Refs
 

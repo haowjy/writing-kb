@@ -587,3 +587,117 @@ the exact facts and open choreography.
   and payoff.
 - Removed the obsolete acquisition question and conflicting guardian/theft
   alternatives while retaining open capture, move, defense, and Mega details.
+
+## 2026-08-20 — Recorded wartime Pokemon unrest and modern poaching-law origin
+
+- Established that the secession war's escalation coincided with frequent
+  natural disasters, unpredictable roaming Legendary Pokemon, and broad wild
+  Pokemon unrest that disrupted military fronts, back-line infrastructure,
+  settlements, roads, and civilian life.
+- Established modern poaching and commercial-capture law as a roughly
+  twenty-year-old postwar environmental/security settlement intended to limit
+  extraction and settlement pressure, stabilize Pokemon ecologies, protect
+  towns, and appease powerful wild Pokemon and Pokemon communities.
+- Recorded commercial Pokemon hunting as a formerly ordinary profession whose
+  surviving crews now range from lawful contractors to gray-market hunters and
+  poachers; removed conservation-object framing inconsistent with Pokemon as
+  active territorial participants.
+- Defined Rocket's main outward face as a decentralized, shady hunter guild:
+  semi-autonomous unregistered squads, real command through handlers and
+  sponsors, outcome-based instructions, and organizational deniability.
+- Recorded Rocket's poaching economy, tolerated opportunistic partner theft,
+  specialized theft squads, and the recovery-window method that exploits the
+  temporary ball-link break after fainting while leaving emotional bonds and
+  lawful ownership intact.
+
+## 2026-08-20 --- Kyle and playful Mew inserted after Caterpie
+
+- Inserted a brief Route 1 interlude after Caterpie and before the larger
+  Teddiursa / Alonso / Rocket-cave sequence.
+- Kyle now meets Amber while both collide with a few Rocket grunts pursuing or
+  trying to contain Mew, then becomes her temporary companion.
+- Mew freely escapes and shows extraordinary playful interest in Amber; the
+  possible trace-Mew-biology / Ditto explanation remains hidden and open.
+- Corrected the geography: Amber and Kyle pass through Viridian before
+  Teddiursa and Alonso appear on Route 2. The old Chapters 21--27 chain is
+  structurally superseded and cannot be fixed through mechanical renumbering.
+- Restored Giovanni's post-Dungeon interception as a short, reluctant witness
+  assessment under his public identity. Removed the return invitation, tour,
+  and prolonged cleanup wait; an abbreviated Nidoking test remains open.
+- Physically rebuilt `story/ch21/plan.md` through `story/ch27/plan.md`: Chapter
+  21 now owns Kyle/Mew, Chapter 22 owns Viridian, Chapters 23--25 own the Route
+  2 chase/cave/Dungeon, Chapter 26 owns Giovanni's short interception, and
+  Chapter 27 owns recovery/next-direction planning. Deleted the duplicate
+  insertion note and removed the obsolete tour/wait plan files from the live
+  sequence.
+- Extended the physical plan through Chapters 28--29 instead of compressing
+  the prepared Dungeon into Chapter 27: Chapter 28 owns preparation/entry and
+  Chapter 29 owns the working Heracross encounter/capture payoff.
+- Corrected Chapter 26 to the author-established Giovanni sequence: he attacks
+  immediately with Nidoking, pauses after losing, reveals himself as Viridian's
+  Gym Leader, labels it an impromptu test, awards Amber and Alonso standard
+  badges, withholds one from the poorly contributing Kyle, and leaves. This
+  supersedes the assistant-invented reluctant civic interview framing.
+- Settled Mankey as Kyle's childhood first partner and recorded his rebellious
+  tree-climbing wild-child background. Added Riolu as the likely Oak-arranged
+  second partner that brings Kyle through Pallet and onto Route 1; the exact
+  placement history remains open. Recorded the sudden pre-journey political
+  pressure to defeat Sabrina before Saffron's official-Gym decision next year.
+- Audited the live Kyle arc and removed the stale Conference trio-separation
+  model. Without Amber, Kyle loses to Sabrina and the Dojo loses its official
+  position; with Amber, he wins, preserves it, rejects inheriting it, and wants
+  to continue traveling with her. Alonso leaves earlier, after honoring
+  Charcadet's choice of Amber, leaving Amber and Kyle as the late-Kanto duo.
+- Made Alonso's governing personality explicitly Luffy-like: kind of dumb,
+  impulse- and appetite-driven, does whatever he wants, and switches to total
+  seriousness when someone is in danger. His lived freedom, not a speech, is
+  the model that makes Kyle's rejection of imposed duty imaginable.
+- Superseded the preceding permanent-preservation wording: Kyle's Sabrina win
+  delays the Fighting Dojo's displacement but does not save it permanently.
+  His rejection of succession leaves it without a viable heir, so it eventually
+  loses official Gym status and survives as an unofficial Dojo.
+- Recorded Kyle's chosen dream as becoming strong enough to do whatever he
+  wants. Without Amber, defeat drives him to retreat into the noodle-shop life;
+  with Amber and Alonso's influence, cooking remains a genuine love while he
+  chooses freedom and wants to continue traveling with Amber.
+- Added rage as Kyle's recurring central flaw: he speaks with his fists against
+  people who annoy or provoke him, while Mankey mirrors and escalates that
+  reflex. Settled Mankey's eventual Annihilape evolution as a tragic long-term
+  consequence that feels partly like losing the living partner Kyle knew; exact
+  trigger and placement remain open.
+- Defined injustice as the deepest source of Kyle's rage. He often recognizes
+  real abuses, but escalates from witness to self-appointed judge and treats
+  restraint as complicity. Rage Fist mirrors his accumulating moral ledger:
+  injury becomes justification for stronger retaliation until grievance itself
+  controls him.
+# 2026-08-22: Kyle's Tragic Rage Foreshadowing
+
+- Established Kyle's fall as a gradual corruption of justified anger rather
+  than immediate villainous behavior.
+- Early warning ladder: appealing intervention, excess force, moral certainty,
+  mutual escalation with Mankey/Primeape, accumulated grievances, and Amber's
+  eventual fear of what Kyle will do even when his diagnosis is correct.
+- Clarified the Sasuke comparison: both can follow isolation, perceived
+  betrayal, revenge, and power-seeking, but Kyle is not driven by one massacre
+  or one target. His rage grows from many genuine injustices until he believes
+  only his unilateral violence can answer them.
+# 2026-08-22: Kyle's Childhood, Koichi, and the Noodle-Shop Owner
+
+- Established that Kyle's sensitivity to injustice begins with chronic
+  childhood unfairness rather than a single major atrocity.
+- Koichi may love Kyle but usually treats him as a pupil, heir, and answer to
+  the Dojo's political decline before treating him as a son. Kyle is burdened
+  with preserving an institution whose crisis predates him.
+- Established the noodle-shop owner as Kyle's quiet surrogate parent and the
+  adult who tames his wild behavior through food, chores, boundaries, patience,
+  and attention without crushing his independence.
+- Left the owner's name, gender, history, and exact first-meeting age open.
+- Clarified the two-stage pressure: Kyle repeatedly failed Koichi's high
+  childhood expectations because he constantly got into school trouble; once
+  his journey begins, his public performance becomes evidence in Saffron's
+  official-Gym selection and the pressure becomes extreme.
+- Clarified that young Kyle was a frequent school delinquent who used martial
+  arts in fights, was suspended often, and repeatedly ignored warnings not to
+  use Dojo training for ordinary violence. The warnings are valid; Kyle treats
+  the gap between praised Dojo combat and forbidden street violence as
+  hypocrisy and uses that grievance to dismiss legitimate restraint.

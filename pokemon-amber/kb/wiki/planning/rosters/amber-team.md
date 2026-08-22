@@ -221,7 +221,7 @@ Alternatives: medical retirement/sanctuary, permanent transfer to orgs, or ecolo
 
 ## Region Plan & Transitions
 
-- **Indigo Year 1** — Licensing, Oak-supported departure. Early Amber core: Ditto, Caterpie, and Teddiursa as custody permits. The younger Charcadet remains Alonso's Pokemon through most of Kanto, chooses Amber near the end of the journey, and is stolen during 4Ever shortly afterward. Teddy/Ursaring payoff remains tied to the mother-Ursaring rescue debt. Amber enters her first conference without Charcadet.
+- **Indigo Year 1** — Licensing, Oak-supported departure. Early Amber core: Ditto, Caterpie, and Teddiursa as custody permits. The younger Charcadet remains Alonso's Pokemon through most of Kanto, chooses Amber near the end of the journey, and is stolen during 4Ever shortly afterward. Alonso entrusts Charcadet to Amber and leaves for his next adventure, leaving Amber and Kyle as the late-Kanto duo. Teddy/Ursaring payoff remains tied to the mother-Ursaring rescue debt. Amber enters her first conference without Charcadet.
 - **Indigo Year 2** — Post-conference. Vee recruited in Celadon.
 - **Transition trigger** — Two successful Rocket thefts within ~60 days, plus one secondary factor: denied gym rematch, sponsor offer contingent on relocation, Ranger advice, or Amber's own line *"I am not bait."*
 - **Hoenn** — Ecology shift; Trapinch's Kanto-to-Hoenn arc reaches its former-trainer and evolution payoff. Gardevoir joins.

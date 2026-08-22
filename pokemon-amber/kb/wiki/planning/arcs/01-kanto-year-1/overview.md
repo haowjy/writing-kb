@@ -12,12 +12,12 @@ and a prototype Pokedex field assignment. Oak has rigorously prepared her, but
 this is not an early-departure exception. She leaves to travel, meet Pokemon,
 and see unfamiliar places; the arc develops that open-ended drive into an
 eight-badge and conference pursuit. Teddiursa joins her early, while the
-younger Charcadet remains Alonso's Pokemon until near Kanto's end. Once Kyle
-joins them, Kanto's principal traveling group is the fixed trio of **Amber,
-Kyle, and Alonso**: Amber brings tactical insight and persistence, Kyle brings
-physical confidence and social momentum, and Alonso brings experienced,
-adventurous momentum toward Mystery Dungeons and the wider, stranger Pokemon
-world.
+younger Charcadet remains Alonso's Pokemon until near Kanto's end. Amber and
+Kyle meet first; Alonso joins them on Route 2. The three travel together through
+most of Kanto, with Alonso's Luffy-like freedom repeatedly pulling the others
+toward Mystery Dungeons and stranger adventures. Near Kanto's end, Charcadet
+chooses Amber and Alonso leaves for his next adventure, leaving Amber and Kyle
+as a duo.
 
 The journey is properly resourced but repeatedly disrupted by weird Pokemon incidents that pull Amber off the gym circuit. Team Rocket operates as an escalating background threat. The gap between "normal trainer journey plan" and "weird stuff keeps happening to me" drives the arc.
 
@@ -25,34 +25,30 @@ The journey is properly resourced but repeatedly disrupted by weird Pokemon inci
 - Ch 18: Licensed departure from Pallet
 - Ch 19: Pidgey chase and failed capture, lunch mechanics rant, peaceful Caterpie catch, first-capture celebration
 - Ch 20: Caterpie POV, silk-movement experiment, and Pidgey attack
-- Ch 21: Rocket chase spills onto Route 1; Amber intervenes, loses her new Pidgey, follows Teddiursa, is overwhelmed, and meets Alonso through a real rescue
-- Ch 22: Teddiursa's ask decoded and accepted ("help me" as concept, not speech); cave assault; captive rampaging Ursaring extracted by Rocket; collapse traps the pair
-- Ch 23: the deeper branch is a genuine Mystery Dungeon; Alonso identifies it; Ditto-heavy and psychic; path toward another exit; Mew question left open
-- Ch 24: exit through a secondary forest opening; Giovanni intercepts outside (never inside, never with Rocket) and field-tests both with Nidoking; frown to smile; "impromptu test"; invitation to the Gym
-- Ch 25: hours of delay buy Rocket cleanup; Matori's tour of the development campus; Giovanni awards discretionary standard badges (not ACE); Amber's relief, excitement, and wry Ash-like anxiety
-- Ch 26: Amber leaves Viridian, is cleared after a Ranger addresses rich children pooling individually legal Pokemon, and uses her new fourth active slot for another deliberately caught Pidgey
-- Ch 27: Amber and Alonso choose a prepared Grass-Dungeon opportunity; Escape Orb cost/safety normalcy and Pidgey's painful release make the four-Pokemon limit concrete, and the subsequent Dungeon is the settled post-Ch. 26--27 capture site for Heracross
-- Kyle joins Amber and Alonso; their fixed Kanto trio forms
+- Ch 21: brief Route 1 interlude with a few Rocket grunts, Kyle, and Mew. Kyle and Amber meet while independently colliding with the grunts. Mew treats the conflict as play, takes an unusually strong interest in Amber, and disappears before anyone can understand or capture it.
+- After Ch 21: Amber and Kyle reach and pass through Viridian before the larger Rocket plot begins. The exact Viridian chapter count and ordinary city beats remain open.
+- Route 2, after Viridian: Teddiursa's flight from Rocket introduces Alonso and leads into the Ursaring rescue attempt, Rocket operation, collapse, and Mystery Dungeon.
+- Kyle remains with Amber after the Mew encounter and becomes a temporary companion first. Alonso joins on Route 2 through the Teddiursa rescue; the three travel together through most of Kanto without a formal party declaration.
+- The Chapter 21--27 plan files have been physically reorganized around the new geography: Mew/Kyle on Route 1, Viridian, then Teddiursa/Alonso and the cave on Route 2. Giovanni still intercepts the group at the Route 2 exit, but the tour, long cleanup wait, and invitation back into Viridian are removed.
 - Badge progression across the year (disrupted by incidents)
 - Team Rocket surveillance / interference
 - Conference arc (TBD: does Amber qualify? How far does Kyle get?)
 
-**Ending State:** the Conference-era resolution settles Kyle's public fight
-with Sabrina and ends the trio's Kanto journey. Amber, Kyle, and Alonso then
-separate onto their own paths rather than remaining a permanent group; the
-separation's scene-level execution is open. Amber leaves wanting further travel
-and experience of the wider Pokemon world, not a fixed grand ambition. Kyle has
-secured the Fighting Dojo's position, while Alonso continues dangerous
-exploration and Mystery Dungeon pursuit.
+**Ending State:** Alonso has already left after honoring Charcadet's choice to
+join Amber. Amber and Kyle enter the Conference era as the remaining pair. Kyle
+defeats Sabrina and wins the Fighting Dojo a temporary reprieve --- an
+outcome that would not occur without Amber changing his path --- but rejects
+inheriting the Dojo. Inspired by Alonso's freedom, he wants to continue
+journeying with Amber and pursue a life he chose himself.
 
 ---
 
-## Structural Premise: Fixed Trio, Local Companions
+## Structural Premise: Trio, Then Amber/Kyle Duo
 
-Kanto's principal traveling group is **Amber, Kyle, and Alonso**. The trio is
-the durable road engine once Kyle joins; local companions, rivals, Gym Leaders,
-quest clients, and Pokemon crises can still accompany a particular problem, but
-they do not replace the trio as Kanto's central structure.
+Amber and Kyle are the durable relationship. Alonso joins them for most of
+Kanto, creating a temporary principal trio, then leaves near Kanto's end after
+Charcadet chooses Amber. Local companions, rivals, Gym Leaders, quest clients,
+and Pokemon crises can still accompany particular problems.
 
 - Amber begins with travel and discovery, not a grand title or fixed life plan.
   Alonso repeatedly pulls her toward Mystery Dungeons, risk, and the breadth of
@@ -60,12 +56,13 @@ they do not replace the trio as Kanto's central structure.
   discovering that she genuinely wants it too.
 - Kyle is inspired by Alonso's chosen-adventure model while Amber's tactical
   insight helps him meet his inherited Fighting Dojo obligation.
-- Alonso is the more experienced, adventurous, Brock-like force: a peer and
-  fellow traveler, not a temporary mentor or rotating third.
+- Alonso is the Luffy-like free adventurer: kind of dumb, impulsive, serious
+  when needed, and governed by what he wants rather than other people's roles.
+  He is a peer and fellow traveler, not the group's responsible caretaker.
 - Guest characters should usually retain one main local function and maybe one
   focal Pokemon rather than spawning a permanent cast ecosystem.
 - Prince Alexander follows a separate route and periodically intersects as a
-  mysterious rival; he is not a fourth party member.
+  mysterious rival; he is not a permanent party member.
 
 Amber is not a chosen-one protagonist in this structure. She gets pulled into
 larger obligations because of what she notices, promises, and refuses to
@@ -113,11 +110,21 @@ This is NOT desperate survival. It's the gap between theory and experience.
 
 **Ch 19:** Amber and Ditto chase and defeat a Pidgey but fail to capture it. During lunch, a hungry Caterpie enters Amber's backpack on a silk thread. After an accidental rough response from Ditto, Amber apologizes, leaves Caterpie food, and gives it space. Caterpie accepts Amber's offer and activates the Pokeball itself. The chapter ends with Amber raising the occupied ball and celebrating her first successful catch with Ditto.
 
-**Ch 20:** Caterpie's POV establishes its silk-based survival and shame at being left behind. Amber accepts its refusal to fight; Amber and Ditto open silk-swinging as another path. A Pidgey attack shows Ditto using Pidgey and Caterpie forms in one fight. Chapter 21 opens with Teddiursa.
+**Ch 20:** Caterpie's POV establishes its silk-based survival and shame at being left behind. Amber accepts its refusal to fight; Amber and Ditto open silk-swinging as another path. A Pidgey attack shows Ditto using Pidgey and Caterpie forms in one fight.
 
-**Ch 21:** Teddiursa and two Rocket handlers spill onto Route 1. Amber intervenes with Ditto and her new Pidgey; Pidgey faints and is later lost off-page; Teddiursa turns back to help Ditto; Amber follows him into the larger confrontation and is overwhelmed; Alonso arrives and completes a real rescue. The chapter ends on Teddy desperately trying to ask for more.
+**Ch 21:** Amber briefly encounters a few Team Rocket grunts and Kyle on Route 1. The grunts are pursuing or trying to contain Mew, but they are a small field group rather than the full cave operation. Kyle has already challenged them by the time Amber arrives, giving both young trainers an immediate reason to cooperate. Mew is playful throughout: it evades attacks, imitates or teases the combatants, and appears more amused than threatened. Its attention repeatedly returns to Amber with an intensity that is strange beneath the playfulness. Amber does not learn why. Mew leaves freely, denying Rocket and the protagonists a clean resolution. Kyle and Amber continue together provisionally after the incident.
 
-**Ch 22:** Amber decodes only Teddiursa's urgent "help me" request and both trainers accept. They beat the exterior guards, enter the cave, discover Ursaring restrained and rampaging, and watch competent operatives extract her through a prepared escape route before collapsing the junction around them.
+**After Ch 21 — Viridian:** Amber and Kyle travel into Viridian before Teddiursa or Alonso appears. This section should let Kyle and Amber function briefly as temporary companions and give the journey geographical breathing room. Exact city events, chapter divisions, and whether Amber receives or attempts anything Gym-related here remain open.
+
+**Route 2 — after Viridian:** Teddiursa's pursuit spills into Amber and Kyle's path. Alonso enters through the rescue, and the larger Rocket operation, captive Ursaring, collapse, and Mystery Dungeon follow on Route 2. When the group emerges, Giovanni immediately attacks with Nidoking without introducing himself. After Amber and Alonso contribute most to defeating it, he pauses, reveals that he is Viridian's Gym Leader, and retroactively presents the attack as an impromptu Gym test. He gives Amber and Alonso standard badges, pauses before Kyle, gives him nothing, and leaves. No tour, prolonged wait, or invitation back to Viridian follows.
+
+### Mew's Route 1 Behavior
+
+- Mew is not solemn, cryptic, or waiting to deliver exposition. It is curious, playful, mischievous, and completely capable of leaving whenever it wishes.
+- Mew becomes extremely interested in Amber. It may circle her, inspect her at close range, copy her posture, touch her, or briefly mirror Ditto, but the exact gag/action is not yet settled.
+- The hidden reason may involve Amber's trace Mew-derived biology and Ditto's Mew-derived nature, but neither Amber nor Kyle can diagnose that on Route 1.
+- The scene reveals no clone lore and does not confirm that Mew understands Amber's origin. Interest comes first; explanation belongs much later.
+- Rocket witnesses enough to know Mew behaved unusually around Amber, potentially creating a small surveillance seed, but they do not successfully capture Mew or prove why it reacted. This Route 1 squad is separate from the larger Route 2 operation.
 
 ---
 
@@ -125,10 +132,10 @@ This is NOT desperate survival. It's the gap between theory and experience.
 
 ### Charcadet
 
-- **When/where:** Route 1 / Viridian off-route mini-arc, beginning in Ch. 21. Charcadet is in Kanto because it traveled from Paldea with [Alonso Quijano](../../../reference/characters/humans/alonso-quijano.md), a 17-year-old Paldean adventurer. Alonso is why Charcadet is in Kanto; Amber is why Charcadet stays.
+- **When/where:** Route 2 after Viridian, during the Teddiursa/Rocket mini-arc. Charcadet is in Kanto because it traveled from Paldea with [Alonso Quijano](../../../reference/characters/humans/alonso-quijano.md), a 17-year-old Paldean adventurer. Alonso is why Charcadet is in Kanto; Amber is why Charcadet stays.
 - **Personality:** Ambition, drive, intensity. Not yet settled (Armarouge vs Ceruledge mirrors its unsettled identity). Knightly, but not property --- it chooses the quest it wants to serve.
-- **First seed:** During the Ch. 21 chase and confrontation, Charcadet sees Amber protect a fleeing Teddiursa at cost to herself before Alonso arrives to complete the rescue. The moral choice, not the maximum physical cost.
-- **Deepening evidence:** In Ch. 22, Charcadet sees Amber patiently decode Teddy's ask and commit to the cave rescue, then carries that promise through the collapse and the Mystery Dungeon escape (Ch. 23-24).
+- **First seed:** During the Route 2 chase and confrontation, Charcadet sees Amber protect a fleeing Teddiursa at cost to herself before Alonso completes the rescue. The moral choice, not the maximum physical cost.
+- **Deepening evidence:** Charcadet sees Amber patiently decode Teddy's ask and commit to the cave rescue, then carry that promise through the collapse and Mystery Dungeon escape. Exact new chapter numbers remain open.
 - **Capture:** Not captured during the mini-arc or immediately after it. Its choice develops across most of the Kanto journey as it observes Amber in the trio's shared adventures. Near the end of Kanto, shortly before 4Ever, Alonso recognizes and permits the choice; Amber catches it only after that choice is clear.
 - **No artifact thread:** Charcadet's bond with Amber comes from observed protective choices and promises kept, never from an object. The older psychic-reactive ore premise attached to the cave incident is deleted; Rocket's operation there is a Mew search. See [The Mewtwo Thread](../../saga-threads/mewtwo-ambertwo.md).
 
@@ -136,11 +143,11 @@ This is NOT desperate survival. It's the gap between theory and experience.
 - **Mystery Dungeon bond beat:** A later Kanto Mystery Dungeon mini-arc can provide decisive emotional proof, but it does not compress the choice into a short Alonso stretch. Alonso brings Amber and Kyle toward the Dungeon; younger Charcadet gets in over its head or loses control with fire; Amber visibly flinches from old fire trauma but protects it anyway, then later trusts it with a practical task. The exact capture scene remains open, within the settled late-Kanto timing.
 
 ### Teddiursa
-- **When/where:** Route 1, Day 2. Teddiursa flees onto the maintained route with two Rocket handlers behind him --- Rocket seized his home cave as a temporary Mew-search base and captured his mother when she resisted.
+- **When/where:** Route 2 after Amber and Kyle pass through Viridian. Teddiursa flees onto the maintained route with two Rocket handlers behind him --- Rocket seized his home cave as a temporary Mew-search base and captured his mother when she resisted.
 - **Personality:** Grievance-driven, not warm. He's not a comfort bear; he's a small animal trying to get to his mother.
-- **The ask:** In Ch. 22, Teddiursa communicates through gesture, direction, reactions, and pantomime --- "help me" as a concept, not speech. Amber tests interpretations after wrong guesses but does not learn that Rocket captured Ursaring before entering the cave. She commits to the urgent request; seeing the captive Ursaring gives the rescue its fuller object. Teddiursa does not trust Amber because she is kind; he tolerates her because she moves toward the problem.
-- **Cave escalation:** In Ch. 22, Ursaring is restrained, captive, and increasingly uncontrollable. Rocket extracts her through a prepared escape route and collapses the junction, trapping Amber and Alonso. Whether Ursaring recognizes Teddy in the chaos remains open.
-- **Escape:** The collapsed branch opens into a genuine Mystery Dungeon (Ch. 23); the group self-rescues through a secondary forest exit (Ch. 24). Giovanni is never inside.
+- **The ask:** Teddiursa communicates through gesture, direction, reactions, and pantomime --- "help me" as a concept, not speech. Amber tests interpretations after wrong guesses but does not learn that Rocket captured Ursaring before entering the cave. She commits to the urgent request; seeing the captive Ursaring gives the rescue its fuller object. Teddiursa does not trust Amber because she is kind; he tolerates her because she moves toward the problem.
+- **Cave escalation:** Ursaring is restrained, captive, and increasingly uncontrollable. Rocket extracts her through a prepared escape route and collapses the junction, trapping the travelers. Whether Ursaring recognizes Teddy in the chaos remains open.
+- **Escape:** The collapsed branch opens into a genuine Route 2 Mystery Dungeon; the group self-rescues through another exit. Giovanni briefly intercepts them under his legitimate public identity, assesses what they saw, and disengages without bringing them back to Viridian.
 - **Ursaring thread:** Amber's promise to help Teddiursa save his mother remains unfulfilled. Teddiursa and Ursaring should eventually reunite, likely through a later, more serious Team Rocket experiment or operation involving rage/obedience/battle-drug/living-weapon use.
 - **Why he stays:** The promise was made and immediately made harder. No warmth yet --- but a real bond through shared injury, debt, and an unfinished rescue.
 
@@ -161,7 +168,7 @@ Rough pacing considerations:
 Exact badge count for Year 1: **TBD**. Amber pursues eight for Conference qualification, but no projected finishing range is current truth.
 
 ### Viridian Gym — First Gym
-Viridian is Amber's **first** badge (not the 8th as in games), on day ~3-5 of her journey. There is no formal Gym battle: Giovanni field-tests Amber and Alonso together with Nidoking after the cave/Dungeon incident (Ch. 24) and later awards discretionary standard badges (Ch. 25). Whether and when he recognizes her as Fuji's clone and Oak's protégé remains open. Amber doesn't know what he knows. The reader who knows Pokémon canon feels the weight before she does.
+Viridian is Amber's **first** badge (not the 8th as in games), earned after the Route 2 cave/Dungeon incident in Chapter 26. There is no formal scheduled Gym battle: Giovanni immediately attacks the emerging group with Nidoking, then calls it an impromptu Gym test after they win. He gives standard badges to Amber and Alonso but not Kyle. Whether and when he recognizes Amber as Fuji's clone and Oak's protégé remains open. Amber doesn't know what he knows. The reader who knows Pokémon canon feels the weight before she does.
 
 ### Available Gyms (any 8 count for conference):
 **Pillar:** Pewter, Cerulean, Vermillion, Celadon, Fuchsia, Saffron (Fighting Dojo), Cinnabar, **Viridian (FIRST)**
@@ -179,25 +186,34 @@ Viridian is Amber's **first** badge (not the 8th as in games), on day ~3-5 of he
 - Reckless, overconfident, tactically weak
 - Strong Pokemon, poor strategy
 
-### Meeting Context: TBD
-- Related to Chapter 7 + manga inspiration
-- Mutual benefit situation (not rescue)
+### Meeting Context
+- Chapter 21 Route 1 Mew incident
+- Mutual benefit situation, not a rescue
 - Both contribute meaningfully
 
 ### Partnership Dynamic
 - **True peers** --- Amber and Kyle are 14-year-old first-years in the same trainer year.
-- With Alonso, they form Kanto's fixed principal trio; Alonso's experience and Dungeon appetite repeatedly redirect the road toward stranger, wider adventure.
+- With Alonso, they form Kanto's principal trio through most of the journey;
+  his impulsive appetite for adventure repeatedly redirects the road.
 - Amber provides tactical insight; Kyle provides physical confidence and sometimes resources; Alonso supplies the practical adventurous horizon that inspires Kyle and gradually wins Amber over.
-- Local companions can come and go without becoming replacements for the trio.
+- Alonso leaves near Kanto's end after Charcadet chooses Amber; Amber and Kyle
+  then continue as a duo.
 - Kyle gets lost constantly (comedy, and an occasional way to separate/rejoin the group).
-- Amber's coaching helps Kyle's gym performance; Kyle may reach 8 badges with her help and would not reach them solo.
+- Amber's coaching helps Kyle reach eight badges and become capable of beating
+  Sabrina. Without meeting Amber, he falls short, loses to Sabrina, and the
+  Dojo loses its official position.
 
 ### Saffron Politics
 - Kyle represents Fighting Dojo (currently official pillar gym)
 - Sabrina (14) represents Psychic Gym (challenger, expected to displace the Dojo)
 - Tournament = political proxy war
-- Kyle eventually defeats Sabrina at the critical public moment, preserving/restoring the Dojo's claim
-- After accomplishing the inherited mission, Kyle begins yearning for a larger chosen quest
+- Kyle eventually defeats Sabrina at the critical public moment, delaying the
+  Dojo's displacement rather than preventing it permanently
+- Without Amber, Kyle loses to Sabrina and the Dojo loses its position
+  immediately; with Amber, the reprieve lasts until the unresolved succession
+  problem catches up with it
+- With Amber, Kyle wins, rejects inheriting the Dojo, and wants to keep
+  journeying with her toward a self-chosen life
 
 ---
 
@@ -211,7 +227,7 @@ Viridian is Amber's **first** badge (not the 8th as in games), on day ~3-5 of he
 
 Kyle qualifies, faces Sabrina at the critical public U19/Conference moment, and
 defeats her. The win proves the Fighting Dojo's legitimacy and secures or
-restores its position as Saffron's primary civic Gym. It must feel earned
+wins it a temporary reprieve as Saffron's primary civic Gym. It must feel earned
 through growth, strategy, bond, and self-possession rather than simple type
 reversal; Sabrina remains the raw psychic prodigy.
 
@@ -233,15 +249,16 @@ Amber's Conference path remains open:
 
 **Escalating background threat.** Not the primary story engine for Arc 1, but present and growing.
 
-- Day 2 Route 1 incident: grunts file a report (girl with a Ditto, lone Paldean adventurer Alonso, two Charcadet, compromised cave operation, Ursaring extracted during the withdrawal)
-- Giovanni personally takes her measure at Viridian: not actionable at 14, filed away
+- Route 1 incident: a few grunts file a report about Mew's unusual interest in a girl traveling with Ditto and Kyle
+- Route 2 incident after Viridian: grunts file a report (same girl, Paldean adventurer Alonso, two Charcadet, compromised cave operation, Ursaring extracted during the withdrawal)
+- Giovanni does not single Amber out during the first Viridian passage. After the Route 2 Dungeon, he immediately tests the emerging group with Nidoking, then uses his Gym Leader identity and badges as the cover story after they win.
 - Grunt-level grudge through Arc 1: the grunts who were embarrassed by a 14-year-old keep an eye out. Low-level, not organizational.
 - Minor encounters, interference with gym circuit (pulling Amber into situations)
 - Not full confrontation yet --- that's Arc 2+
 - Butch & Cassidy or other agents (not Jessie/James comedy duo)
 
 **The long thread (Arc 1 → mid-saga):**
-The Route 1 cave incident sits in Rocket files for years: a compromised search operation, escaped witnesses, a foreign adventurer, unusual Paldean Pokemon, Ursaring extracted for later use, and a psychic signal that was never identified. Eventually old records get pulled. Badge records, conference results, and Oak's sponsorship trace back to Amber. By then she is not a 14-year-old first-year anymore; she is the youngest-ever Hoenn conference winner. The organizational-level pursuit escalates. The grunt grudge becomes something larger.
+The Route 1 Mew sighting and Route 2 cave incident sit in Rocket files for years: Mew's interest in Amber, a compromised search operation, escaped witnesses, a foreign adventurer, unusual Paldean Pokemon, Ursaring extracted for later use, and a psychic signal that was never identified. Eventually old records get pulled. Badge records, conference results, and Oak's sponsorship trace back to Amber. By then she is not a 14-year-old first-year anymore; she is the youngest-ever Hoenn conference winner. The organizational-level pursuit escalates. The grunt grudge becomes something larger.
 
 Cross-ref: [The Mewtwo Thread](../../saga-threads/mewtwo-ambertwo.md) (Mew search, long-thread payoff)
 
@@ -341,71 +358,70 @@ Cross-ref: [The Mewtwo Thread](../../saga-threads/mewtwo-ambertwo.md) (Mew searc
 - **Ch 18:** Departure (planning, see `current-direction.md`)
 - **Ch 19 — Route 1:** Pidgey chase, lunch, peaceful Caterpie catch, first-capture celebration
 - **Ch 20 — Caterpie:** backstory, first team interactions, silk movement, and Pidgey attack
-- **Ch 21 — Rocket Chase / Teddiursa / Alonso:** first Rocket collision, Pidgey lost, Alonso's rescue, Teddy's ask
-- **Ch 22 — The Request / Cave Assault / Collapse:** promise made, captive Ursaring extracted, heroes trapped
-- **Ch 23 — Mystery Dungeon:** survival and discovery beneath the cave; Mew question open
-- **Ch 24 — Exit / Giovanni Field Test:** secondary exit; Nidoking test; frown to smile; Gym invitation
-- **Ch 25 — Gym Wait / Tour / Badges:** Matori's campus tour; X Attack; discretionary standard badges
-- **Viridian Gym:** ✅ CONFIRMED — first badge via Giovanni's discretionary award after the Ch. 24 field test (see below)
-- **Charcadet acquisition:** planned — seeded in Ch. 21/22, choice develops across Kanto and lands near its end, shortly before 4Ever
-- **Teddiursa bond/acquisition:** planned — begins through the Route 1 missing-Ursaring promise
-- **Kyle meeting:** TBD context
+- **Ch 21 — Kyle / Rocket / Mew:** first Rocket collision; playful Mew takes unusual interest in Amber; Kyle becomes a temporary companion
+- **Ch 22 — Viridian passage:** occurs before Teddiursa and Alonso; exact city beats and Gym outcome remain open
+- **Ch 23--26 — Route 2 / Teddiursa / Alonso / Cave / Dungeon:** Pidgey loss, Alonso's rescue, Teddy's ask, captive Ursaring extracted, collapse, Mystery Dungeon survival, Giovanni's Nidoking test, and badges for Amber and Alonso but not Kyle
+- **Viridian badge:** confirmed as Amber and Alonso's standard first badge after the Chapter 26 Nidoking battle; no tour, long wait, or return invitation
+- **Charcadet acquisition:** planned — seeded in the Route 2 rescue, choice develops across Kanto and lands near its end, shortly before 4Ever
+- **Teddiursa bond/acquisition:** planned — begins through the Route 2 missing-Ursaring promise
+- **Kyle meeting:** Ch. 21 Route 1 Mew encounter
 - **Badge challenges:** Need specific gym episodes
 - **Incident episodes:** Need development
 - **Conference arc:** Needs structure once badge count decided
 
 ---
 
-## Route 1 Mini-Arc
+## Early-Journey Sequence
 
 | Chapter | Function | Plan |
 |---|---|---|
 | 19 | Failed Pidgey capture, peaceful Caterpie catch, first-capture celebration | [Chapter 19](https://github.com/haowjy/pokemon-amber/blob/main/story/ch19/plan.md) |
 | 20 | Caterpie's fear, silk-based survival, first team interactions, and Pidgey capture | [Chapter 20](https://github.com/haowjy/pokemon-amber/blob/main/story/ch20/plan.md) |
-| 21 | Rocket chase onto Route 1, Pidgey lost, Alonso's rescue, Teddy's desperate ask | [Chapter 21](https://github.com/haowjy/pokemon-amber/blob/main/story/ch21/plan.md) |
-| 22 | The request decoded and accepted, cave assault, Ursaring extracted, collapse cliffhanger | [Chapter 22](https://github.com/haowjy/pokemon-amber/blob/main/story/ch22/plan.md) |
-| 23 | Mystery Dungeon survival and discovery; Mew question left open | [Chapter 23](https://github.com/haowjy/pokemon-amber/blob/main/story/ch23/plan.md) |
-| 24 | Dungeon exit; Giovanni's Nidoking field test and Gym invitation | [Chapter 24](https://github.com/haowjy/pokemon-amber/blob/main/story/ch24/plan.md) |
-| 25 | Cleanup delay, Matori's development-campus tour, discretionary standard badges | [Chapter 25](https://github.com/haowjy/pokemon-amber/blob/main/story/ch25/plan.md) |
-| 26 | Viridian departure, proportionate Ranger inspection, and a deliberate Pidgey catch in Amber's fourth active slot | [Chapter 26](https://github.com/haowjy/pokemon-amber/blob/main/story/ch26/plan.md) |
-| 27 | Elective Grass-Dungeon setup, Escape Orb cost, Pidgey's release, and the settled Heracross capture payoff | [Chapter 27](https://github.com/haowjy/pokemon-amber/blob/main/story/ch27/plan.md) |
+| 21 | A few Rocket grunts, Kyle, playful Mew, and Mew's unusual interest in Amber | [Chapter 21](https://github.com/haowjy/pokemon-amber/blob/main/story/ch21/plan.md) |
+| 22 | Viridian passage with Amber and Kyle; exact city/Gym beats open | [Chapter 22](https://github.com/haowjy/pokemon-amber/blob/main/story/ch22/plan.md) |
+| 23 | Route 2 Teddiursa chase, Alonso rescue, and Teddy's ask | [Chapter 23](https://github.com/haowjy/pokemon-amber/blob/main/story/ch23/plan.md) |
+| 24 | Route 2 cave assault, Ursaring extraction, and collapse | [Chapter 24](https://github.com/haowjy/pokemon-amber/blob/main/story/ch24/plan.md) |
+| 25 | Mystery Dungeon survival and discovery | [Chapter 25](https://github.com/haowjy/pokemon-amber/blob/main/story/ch25/plan.md) |
+| 26 | Route 2 exit, immediate Nidoking attack, Giovanni's impromptu-test cover, badges for Amber and Alonso, and Kyle's exclusion | [Chapter 26](https://github.com/haowjy/pokemon-amber/blob/main/story/ch26/plan.md) |
+| 27 | Route 2 recovery and the next prepared-Dungeon proposition | [Chapter 27](https://github.com/haowjy/pokemon-amber/blob/main/story/ch27/plan.md) |
+| 28 | Prepared entry into a known Dungeon; safety/economic contrast with the forced collapse | [Chapter 28](https://github.com/haowjy/pokemon-amber/blob/main/story/ch28/plan.md) |
+| 29 | Heracross encounter and working capture payoff | [Chapter 29](https://github.com/haowjy/pokemon-amber/blob/main/story/ch29/plan.md) |
 
-The mini-arc ends with Ursaring still in Rocket hands, Amber's promise to Teddy unfulfilled, and Charcadet interested in Amber but not ready to join. Chapter plans own scene execution; [Caterpie's courage arc](../../team-arcs/amber/caterpie-courage.md) and the [Ursaring rescue thread](ursaring-rescue.md) own the longer emotional movement.
+The Route 2 mini-arc ends with Ursaring still in Rocket hands, Amber's promise to Teddy unfulfilled, and Charcadet interested in Amber but not ready to join. Chapter plans own scene execution; [Caterpie's courage arc](../../team-arcs/amber/caterpie-courage.md) and the [Ursaring rescue thread](ursaring-rescue.md) own the longer emotional movement.
 
 ## Viridian Gym --- First Badge
 
 Viridian gives Amber her first badge around day 3-5 of her journey.
 
-Giovanni is never inside the cave or Dungeon and is never seen with Team Rocket. He intercepts Amber and Alonso after people report intruders and a collapse, sends Nidoking to test both trainers together, and --- apparent frown giving way to a genial smile --- announces himself as the Viridian Gym Leader, calls the attack an "impromptu test," and invites them to the Gym because he has "something" for those who passed. His motive is not confirming Ditto: privately, he is assessing the immediate threat, controlling and occupying witnesses, and wrapping that containment in a plausible invitation while Rocket sanitizes the cave. They hold no proof linking him to anything.
+Giovanni is never inside the cave or Dungeon and is never seen with Team Rocket. He intercepts Amber, Kyle, and Alonso at the secondary Route 2 exit and immediately attacks with Nidoking before identifying himself. Amber and Alonso contribute most to defeating it; Kyle contributes little. Giovanni pauses, changes presentation, announces himself as Viridian's Gym Leader, and calls the attack an "impromptu test."
 
-At the Gym, Giovanni keeps Amber and Alonso waiting for hours while cleanup proceeds. His secretary Matori talks with Alonso and leads a tour of the expanding development campus: trainer development with strong, genuinely earned Viridian placements in Indigo/Silver and other standard and junior tournaments, cheaper Pokeballs, computer/registration/transfer infrastructure, agricultural and civic projects, and X Attack in controlled Gym trials. The public benefits are real and persuasive; the delay and the hospitality are containment.
-
-Standard badges are discretionary trust marks, so Giovanni awards Amber and Alonso badges for competency he personally witnessed without putting them through Viridian's ordinary challenge. These are not Elite/ACE badges. Elite certification requires defeating the Gym Leader's registered high-power type team under formal oversight.
+Standard badges are discretionary trust marks, so Giovanni awards Amber and Alonso badges for competency he personally witnessed. He pauses before Kyle but does not award him one. These are not Elite/ACE badges. Giovanni then leaves; there is no Gym invitation, tour, long wait, or development-campus sequence.
 
 Amber's immediate emotional sequence after leaving Giovanni is relief, genuine excitement over her first badge, and then wry apprehension. She is not resigned and does not feel guilty about accepting it. Instead, she recognizes that her carefully planned journey has already begun resembling Ash's: criminal encounters, dangerous detours, and a badge obtained through circumstances she never expected. The recognition should land as dry humor with a real thread of anxiety beneath it.
 
-He files it. Not actionable at 14. She's Oak's protégé, she just started her journey, and she has no interest in what he's offering. But the information is logged.
+Giovanni files the encounter. Amber is not immediately actionable at fourteen, but the Mew report, Oak sponsorship, and Route 2 interference are logged.
 
-Amber knows who Giovanni is --- she's been in this world four years, she knows Giovanni runs Team Rocket. Whether and when Giovanni recognizes her as Fuji's creation remains open. She knows his attention is dangerous but cannot prove his connection to the cave operation, and she does not know that the hospitality and delays are buying Rocket cleanup time.
+Amber knows who Giovanni is --- she's been in this world four years, she knows Giovanni runs Team Rocket. Whether and when Giovanni recognizes her as Fuji's creation remains open. She knows his attention is dangerous but cannot prove his connection to the cave operation.
 
 She performs normal first-year trainer anyway.
 
-**Craft note:** The sequence runs on asymmetric information. Amber knows Giovanni leads Team Rocket and tries not to show it. Giovanni performs genial civic concern over private containment. Alonso sees a prominent Gym Leader who tested them fairly and kept his word.
+**Craft note:** The sequence runs on asymmetric information. Amber knows Giovanni leads Team Rocket and tries not to show it. Giovanni invents the Gym-test explanation after the attack fails. Alonso can accept the official explanation more readily. Kyle experiences only the verdict: Amber and Alonso passed; he did not.
 
-## Post-Viridian Continuation (Drafting)
+## Post-Viridian Continuation
 
-Amber and Alonso first cooperate because the Route 1 incident leaves them no
-clean alternative. They share Chapter 25, part after Viridian in Chapter 26,
-and choose the Chapter 27 Grass-Dungeon expedition together. That repeated
-choice, rather than a formal immediate pact, is the beginning of their normal
-same-direction travel. In Ch. 26, a rich Youngster leader has pooled several
-children's individually legal Pokemon; a Ranger checks the group, scolds them,
-and clears Amber's valid license and four-Pokemon allowance. At this point
-Amber has Ditto, Caterpie, Teddiursa, and the fourth slot her first badge
-permits; Ch. 26 fills it with Pidgey and the voluntary Grass Dungeon after
-Ch. 26--27 opens it again for the settled Heracross capture. The exact Dungeon
-contents, capture choreography, legal basis for a pooled-team fine, and Alonso
-registration details remain open.
+Amber and Kyle meet first on Route 1. Alonso joins them through the Route 2
+incident, and the three continue together through repeated choices rather than
+a formal pact. Chapters 27--29 move from recovery to a deliberately prepared
+Dungeon expedition and Heracross capture. Amber's first badge from Giovanni
+raises her active allowance to four, supporting the working Ditto, Caterpie,
+Teddiursa, and Heracross roster.
+
+Through most of Kanto, Amber's tactics help Kyle grow capable of facing
+Sabrina, while Alonso's Luffy-like freedom gives Kyle a model for wanting a
+life beyond obligation. Near Kanto's end, Charcadet chooses Amber; Alonso gives
+Charcadet to her and leaves for his next adventure. Amber and Kyle continue as
+a duo. Kyle later defeats Sabrina, delays the Dojo's loss, rejects inheriting it,
+and wants to keep journeying with Amber.
 
 ---
 
@@ -413,6 +429,6 @@ registration details remain open.
 
 - [Current direction](../../../../workspace/current-direction.md) — source of truth
 - [Open questions](../../../../workspace/open-questions.md) — decision tracker
-- [The Mewtwo Thread](../../saga-threads/mewtwo-ambertwo.md) - Rocket's Route 1 cave operation is a Mew search; the old ore premise is deleted and Mewtwonite Y's origin is open
+- [The Mewtwo Thread](../../saga-threads/mewtwo-ambertwo.md) - the Route 1 Mew sighting leads into Rocket's Route 2 cave search; the old ore premise is deleted and Mewtwonite Y's origin is open
 - [Giovanni/Fuji jail scene](../00-perfect-family/giovanni-fuji-jail.md) — Giovanni context; why the Viridian Gym battle carries weight
 - [Mewtwo](../../../reference/characters/pokemon/legendary-mythical/mewtwo.md) — Mewtwo connection to Amber
