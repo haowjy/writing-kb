@@ -81,6 +81,17 @@ Author execution tips:
 - Hospital scene; Fuji apprehended; Ditto in custody but unharmed; Delia shattered; Ash volatile; MC in legal limbo ([Ch.17]).
 - Seeds for next arcs: League orphan care, Oak as stabilizing figure, MC/Ash/Delia recovery.
 
+10) Warning Signs---Fuji's Disappearance *(drafting)*
+- A few days after the hospital aftermath, Oak warns Lance about Fuji's
+  augmentation serum. The following morning, Lance flies to the Sinnoh
+  negotiations.
+- The negotiations consume most of the next week. Their treaty establishes a
+  four-region alliance and the International Police; implementation remains
+  incomplete after the treaty takes effect.
+- Roughly 10–12 days after the Pallet attack, Lance crosses Kanto on the
+  few-hour return flight and witnesses the Viridian detention-block explosion.
+  Fuji is made publicly dead while Giovanni retains him off-books.
+
 ## Hidden Mechanics (author guidance; do not exposit)
 - Non-replicability drives Fuji's escalation; he wrongfully attributes failure to solvable variables (resources, sabotage) instead of luck.
 - MC's faint resonance with psychic surges explains some recognition beats; keep subtle.
@@ -93,7 +104,8 @@ Author execution tips:
 - Non-Replicable Miracles: you can't force a miracle to happen twice.
 
 ## Exit Conditions & Hooks
-- Fuji out of play (apprehended), but his research and enemies remain.
+- Fuji publicly presumed dead after the Viridian explosion; secretly retained
+  off-books by Giovanni, with his research and enemies still active.
 - MC's status unresolved (League systems, custody, identity paperwork).
 - Ditto custody → potential reunion threads.
 - Oak, Delia, and Ash provide the household where Amber spends the next four years before her journey.

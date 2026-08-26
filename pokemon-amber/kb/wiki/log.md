@@ -701,3 +701,15 @@ the exact facts and open choreography.
   use Dojo training for ordinary violence. The warnings are valid; Kyle treats
   the gap between praised Dojo combat and forbidden street violence as
   hypocrisy and uses that grievance to dismiss legitimate restraint.
+
+# 2026-08-25: Chapter 17.5 Timeline and Sinnoh Treaty
+
+- Fixed the Viridian explosion and Fuji disappearance at roughly 10–12 days
+  after the Pallet attack rather than one month afterward.
+- Oak calls Lance a few days after Chapter 17; the Sinnoh negotiations begin
+  the following morning and consume most of the next week.
+- Established Dragonite's Sinnoh–Kanto crossing as a few hours and retained
+  the Fuji-cell scene as occurring several hours before the explosion.
+- Recorded that the treaty takes effect at the end of the negotiations,
+  establishing the four-region alliance and International Police even though
+  their permanent staffing, offices, procedures, and funding remain unfinished.

@@ -100,13 +100,16 @@ Giovanni gives Fuji broad scientific autonomy, funding, facilities, and latitude
 ## Scene Setup
 
 - **Place:** Viridian detention wing, Rocket-aligned secure ward.
-- **Time:** ~1 month after Pallet incident.
+- **Time:** roughly 10–12 days after the Pallet incident. Oak calls Lance a
+  few days after Chapter 17; the Sinnoh negotiations begin the following
+  morning and consume most of the next week before the Viridian explosion.
 - **POV:** Third-person limited (Giovanni) or cinematic omniscient.
 - **Atmosphere:** sterile, bureaucratic, calm.
 
 **Known facts to characters**
 - No leaks; police/League channels are quiet (Giovanni's people verify).
-- Giovanni has already done weeks of damage control (PR, committees, budget triage).
+- Giovanni has already spent roughly ten days on damage control (PR,
+  committees, budget triage).
 - He's here to **evaluate** Fuji's utility/volatility and choose a disposition.
 
 ---
