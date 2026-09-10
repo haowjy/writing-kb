@@ -19,7 +19,7 @@ This is the same capacity Oak's bond research is trying to understand from the o
 
 See: [Aura & Bond System](../../world/systems/aura.md), [Ditto](../pokemon/amber-team/ditto.md), [Mewtwo](../pokemon/legendary-mythical/mewtwo.md)
 
-## Three Years in Pallet
+## Four Years in Pallet
 
 During the four-year gap before her journey, Amber spends most afternoons,
 weekends, and school breaks at Oak's ranch and laboratory. Oak responds to her
@@ -29,7 +29,17 @@ Pokemon care and laboratory technique.
 Her school relationships remain thin partly because she has already completed
 college in her prior life and has little common ground with children
 experiencing school for the first time. This is not a claim that she lived at
-the lab or cannot form peer relationships.
+the lab or cannot form peer relationships. Oak's ranch is a genuine place of
+belonging where she enjoys useful care and research work; her school distance
+does not mean she lacks purpose or feels alienated everywhere.
+
+Amber wants the childhood Pokemon adventure she once imagined and leaves to
+experience it, not to escape an inadequate home. Choosing extra time with the
+ranch Pokemon and household before departure means she does not rush her
+goodbyes, not that she doubts the journey. She experiences Delia as an
+affectionate, friendlike cohabitant and Ash as a little brother. Amber helped
+Ash regain his energetic footing after Stephen's death, without becoming
+responsible for explaining or managing his recovery.
 
 ## Economic Position
 

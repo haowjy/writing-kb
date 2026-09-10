@@ -65,7 +65,7 @@ When Dr. Fuji arrives in Pallet Town with Amber's clone and abandons her in Deli
 
 Fuji then attacks Delia's home, burning it down in his attempt to "reclaim" Amber and present himself as Delia's rescuer ([Ch.14-15](https://github.com/haowjy/pokemon-amber/blob/main/story/ch14/chapter14.md)). Professor Oak defeats Fuji, but the damage is done: Stephen is dead, the house is destroyed, and Delia must care for Ash through the immediate aftermath while Amber's forged identity remains unresolved.
 
-Over the following four years, Delia and Amber build a decently good, caring household relationship. Amber has not called Delia "Mom," but that fact is not an active conflict between them. Delia participates naturally in Amber's going-away party and sunrise farewell when Amber begins her journey at fourteen after normal middle-school graduation.
+Over the following four years, Delia and Amber build an affectionate household relationship. Delia's feelings are maternal; Amber experiences their closeness as more friendlike, between people who have lived together for years. Delia is comfortable being called "Delia," so the difference is not a grievance or a reconciliation task. Amber begins her wanted journey at fourteen after normal middle-school graduation, with Delia's support; the exact sendoff sequence remains open.
 
 ## Personality & Characteristics
 
@@ -97,7 +97,7 @@ Delia's relationship with Ash represents everything good she managed to build fr
 After Stephen's death, Ash's nightmares and trauma become another weight on Delia's shoulders. She must be strong for him while falling apart herself.
 
 ### Amber/Ambertwo (Clone of Deceased Daughter)
-Fuji forced their connection through a false identity and an act of abandonment, but that beginning does not define their later household. After four years together, Delia and Amber care about each other and Amber's departure is an ordinary separation from a loved household member, not an escape or reconciliation crisis. Amber has not called Delia "Mom."
+Fuji forced their connection through a false identity and an act of abandonment, but that beginning does not define their later household. After four years together, Delia loves Amber maternally while Amber's affection remains friendlike and cohabitant-shaped. Delia is comfortable with Amber calling her "Delia"; a first "Mom" is neither owed as repayment nor required as a relationship payoff, though the direction does not forbid Amber from ever using it. Amber's departure is a supported adventure launch, not an escape or reconciliation crisis.
 
 ### Professor Oak
 Oak serves as a steady presence during the crisis, offering practical help and emotional support. He houses them after the fire and helps with the legal complications of Amber's forged identity.
