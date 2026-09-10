@@ -6,7 +6,7 @@ status: drafting
 
 ## Arc in One Line
 
-A Pokemon created and trained to become whatever Fuji commanded gradually chooses what it will become, what it will refuse, and who it wants beside it.
+A Pokemon created and trained to become whatever Fuji commanded gradually chooses what it will become, what it will refuse, and Amber as the partner it wants beside it.
 
 ## Established Foundation
 
@@ -20,14 +20,14 @@ See [Ditto's character reference](../../../reference/characters/pokemon/amber-te
 ## Continuing Movement
 
 - Fuji's memorized repertoire represents imposed identity.
-- Forms learned with Amber should represent curiosity, relationship, and chosen experience.
-- Ditto must remain an active decision-maker rather than Amber's universal tactical answer.
+- Forms learned with Amber should express its curiosity, relationship, and chosen experience; curiosity is personality, not a separate travel purpose.
+- Ditto must remain an active decision-maker rather than Amber's universal tactical answer. Its agency lies in meaningful choices, including refusal and selected forms; it does not require a separate human-style life project.
 - Its unusual Mew-derived nature should surface through behavior and capability before anyone gives Amber a complete explanation.
 - The delayed Arcanine-memory reveal needs a crisis where Ditto's choice and remembered history can own the emotional center.
 
 ## Relationship With Amber
 
-Amber gives Ditto room rather than a predefined role. The relationship should still develop friction around command, danger, and whether using Fuji's weaponized forms repeats his treatment of Ditto.
+Amber gives Ditto room rather than a predefined role. Ditto journeys with her because it chose her as its trainer and partner over Fuji; their shared life deepens their bond and lets both grow stronger. The relationship should still develop friction around command, danger, and whether using Fuji's weaponized forms repeats his treatment of Ditto.
 
 ## Open Questions
 

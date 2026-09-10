@@ -60,7 +60,9 @@ By ch15-16, ordered to kill the children and then Oak, it refuses from the start
 
 Amber didn't try to bond with Ditto. She was just living in Fuji's apartment, scared, figuring things out — and Ditto was there. That was enough.
 
-Mew is playful. Being around someone who wasn't performing anything for it, who was genuinely present, was probably novel. The bond formed quietly and without ceremony.
+Ditto chose Amber as its trainer and partner over Fuji. Traveling with her follows from that choice; it needs no separate exploratory ambition, bucket list, or search for freedom. Their shared life deepens the trainer-Pokemon bond and lets both grow stronger, without making that strength the purpose of the relationship.
+
+Mew is playful. Ditto's playfulness and curiosity are personality, not a travel goal. Being around someone who wasn't performing anything for it, who was genuinely present, gave those traits room. The bond formed quietly and without ceremony.
 
 By the time of ch15-16, the orders Fuji gives involve Amber directly. That's where the compliance ends entirely.
 
@@ -83,6 +85,7 @@ Whether Oak tells Amber what Ditto is — a failed Mew clone, exceptional, train
 
 - Remove the "hardwired moral resistance" framing from `[retired plot-secrets page]` — it misrepresents what actually happens in ch13 and ch15-16
 - The playfulness is Mew-nature, not a trained trait and not something Amber taught it. She just gave it room.
+- “A bit of humanity” describes Ditto's emotional depth and meaningful choices; it does not establish human DNA, a human soul, speech, new literal biology, or a human-style identity crisis.
 - Standard Ditto are much weaker — their transformations are always visibly imperfect. This one's exceptional origin should remain a background secret, not explained to Amber or anyone in-story.
 
 ## Cross-Refs

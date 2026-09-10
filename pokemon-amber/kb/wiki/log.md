@@ -713,3 +713,5 @@ the exact facts and open choreography.
 - Recorded that the treaty takes effect at the end of the negotiations,
   establishing the four-region alliance and International Police even though
   their permanent staffing, offices, procedures, and funding remain unfinished.
+
+[2026-09-09] [query-saved] Corrected Ditto's Amber partnership motivation: the chosen trainer-Pokemon relationship, not a separate exploratory or freedom-seeking project, explains the journey; preserved agency, Fuji history, and personality-based playfulness.
