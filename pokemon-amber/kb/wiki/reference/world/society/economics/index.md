@@ -19,7 +19,7 @@
 - Celadon Metro 24-Hour Pass (child): ₽3 ([Chapter 7](https://github.com/haowjy/pokemon-amber/blob/main/story/ch7/chapter7.md))
 
 ### Gym Services ([Chapter 5](https://github.com/haowjy/pokemon-amber/blob/main/story/ch5/chapter5.md) - Celadon Gym)
-- Gym League Challenge Spectator Pass: ₽100
+- Gym League Challenge Spectator Pass: ₽10
 - Training Facilities Day Pass: ₽40
 
 Notes:

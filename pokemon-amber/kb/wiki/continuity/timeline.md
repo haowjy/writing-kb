@@ -37,12 +37,13 @@ Chronological, reader-focused summary of events so far. Citations link to `story
 - Mewtwo locks eyes with Amber before blasting out; an Arcanine charges in the confusion.
 - Shattered clone tanks and Fuji’s bleeding suit frame the escape into a hidden mansion.
 
-## Chapter 2 - First Pokemon ([Summary](https://github.com/haowjy/pokemon-amber/blob/main/story/ch2/summary.md))
+## Chapter 2 - A Dream ([Summary](https://github.com/haowjy/pokemon-amber/blob/main/story/ch2/summary.md))
 - Convenience store triage: bandages, food, and a Psyduck t‑shirt before a budget hotel.
 - Amber vomits in shock, showers off blood and ash, and confronts her child body (mint‑green hair).
-- Fuji vanishes; Ditto is left as a silent guardian. Amber touches a real Pokemon for the first time.
+- Fuji vanishes; Ditto is left as a silent guardian. Amber touches a real Pokemon for the first time and falls asleep wondering whether this world is a dream.
 
 ## Chapter 3 - Into the World of (Pocket) Monsters ([Summary](https://github.com/haowjy/pokemon-amber/blob/main/story/ch3/summary.md))
+- After days of lived experience, Amber concludes it was not a dream. Fuji arranges their move, and they fly to Celadon on Pidgeot Express.
 - Celadon apartment routine; TV battles reveal real‑time tactics (not turn‑based).
 - Ditto bungles object/bird forms, then nails a perfect Poliwrath by copying TV visuals.
 - Street outing: Machoke crews, Pidgey post, transit maps; Amber charts Gym/Game Corner and realizes she needs money.

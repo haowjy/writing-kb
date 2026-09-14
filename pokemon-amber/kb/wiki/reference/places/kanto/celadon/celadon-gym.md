@@ -98,7 +98,7 @@ Displayed at reception ([Chapter 5](https://github.com/haowjy/pokemon-amber/blob
 ```
 Ace Challenge Fee: ₽100,000
 
-Gym League Challenge Spectator Pass: ₽100
+Gym League Challenge Spectator Pass: ₽10
 
 Badge Challenge Fee: ₽5,000+
 
@@ -134,7 +134,7 @@ Celadon Gym issues badges certifying trainers for Celadon-area work (₽5,000+ p
 Public entertainment battles:
 - Regular tournaments (weekly or monthly)
 - Broadcasted locally
-- Spectators pay ₽100
+- Spectators pay ₽10
 - Participants compete for prize pools
 - Earns League Points toward Championship qualification
 
