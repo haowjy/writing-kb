@@ -22,7 +22,7 @@ Celadon Gym is governed by a board of noble families. Erika's family holds a sea
 
 > **TODO:** Current prose has her too polished in shop interactions (Ch9). Revise to show the effort it takes her to be diplomatic. She should be visibly uncomfortable playing gym representative.
 
-**Rough-but-caring.** Protective of Amber but shows it through directness, not maternal warmth. Worries about taking a kid into the Game Corner district — but frames it practically, not sentimentally. When Kaede is caught, Mary kneels and asks about her brother instead of reading charges. She bends rules when people need help, which is how she got suspended in the first place.
+**Rough-but-caring.** Protective of Amber but shows it through directness, not maternal warmth. Worries about taking a kid into the Game Corner — but frames it practically, not sentimentally. When Kaede is caught, Mary kneels and asks about her brother instead of reading charges. She bends rules when people need help, which is how she got suspended in the first place.
 
 **Outcast.** Only Erika treats her as a real colleague. The other gym girls — Kayla, the trainers — are polite enough, but Mary is socially isolated in this institution of refined noble daughters.
 
@@ -47,10 +47,10 @@ Catches Amber trespassing in the restricted greenhouse. Confrontational at first
 Posts WANTED notice for the Oddish thief at the Pokemon Center. Recognizes Amber.
 
 ### Ch8 — Investigation begins
-Brings Amber in for questioning about the theft. Erika joins, proposes HP UP corporate espionage theory. Mary assigned to investigate.
+Brings Amber in for questioning about the theft. The security footage cannot identify the thief, but Amber recognizes her from their earlier collision and is the only available eyewitness. Erika joins, proposes an HP UP corporate-espionage theory, and assigns Mary to investigate.
 
 ### Ch9 — The chase
-Leads investigation through Celadon shops and Game Corner district with Amber in tow. Tracks Kaede through merchant interviews. Overhears Kaede in a back-alley shop. Chase through the district — Bellsprout trips Kaede with Vine Whip. Mary kneels beside the crying girl and asks about her brother.
+Erika sends Amber with Mary because Amber saw the culprit's face. Mary first tries to return Amber, then permits her into the Game Corner only if Amber holds her hand. Merchant interviews lead them to the unnamed culprit; Amber recognizes her in a back-alley shop while still holding Mary's hand. When the girl flees, Mary lets go and says "Stay here," but Amber follows with Ditto's occupied Pokeball. Bellsprout captures the girl, and Mary kneels beside her to ask where the Oddish is.
 
 ### Ch10 — Resolution
 Brings Kaede to verify her story. Returns with Erika for medical help. Assists with Hiro's treatment. Quietly approves Erika's decision to provide free care.

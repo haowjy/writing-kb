@@ -125,7 +125,7 @@ Erika makes her first on-screen appearance when Mary brings Amber to the securit
 
 **Information Security:** When Kayla nearly reveals that Oddish isn't actually used for current HP UP production, Erika's "smile remained perfectly in place, but her eyes had gone sharp as razors" ([Ch.8](https://github.com/haowjy/pokemon-amber/blob/main/story/ch8/chapter8.md)). This shows her awareness of proprietary information protection.
 
-**Decision Making:** Chooses to use Amber's Ditto to get a visual of the thief rather than more conventional investigation methods, showing creative problem-solving.
+**Decision Making:** Accepts Amber's eyewitness recognition as the only available way to identify the thief. In Chapter 9, she tells Mary to take Amber because Amber saw the girl's face.
 
 ### Chapter 9: Investigation Assignment
 Erika assigns Mary to lead the investigation ([Ch.9](https://github.com/haowjy/pokemon-amber/blob/main/story/ch9/chapter9.md)):

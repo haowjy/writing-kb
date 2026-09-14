@@ -43,14 +43,12 @@ Kaede makes her first appearance in the story's final moments, though she isn't 
 
 This brief encounter establishes her as a mystery figure who will become important later.
 
-### Chapter 9: The Chase
-Kaede is properly introduced when Mary and Amber track down the stolen Oddish. Their investigation leads them through Celadon's item shops, where multiple merchants remember a "desperate-looking girl" with "red-rimmed eyes" asking questions about HP UP production ([Ch.9](https://github.com/haowjy/pokemon-amber/blob/main/story/ch9/chapter9.md)):
+### Chapter 9: Recognition and Capture
+Mary and Amber track down the stolen Oddish through Celadon's item shops, where multiple merchants remember a "desperate-looking girl" with "red-rimmed eyes" asking questions about HP UP production ([Ch.9](https://github.com/haowjy/pokemon-amber/blob/main/story/ch9/chapter9.md)). At this point in the story, she remains unnamed.
 
-**The Confrontation:** Mary and Amber find Kaede in a shop near the Game Corner, where a merchant reveals her plan to use the stolen Oddish's spores to recreate HP UP. When discovered, Kaede flees through back alleys, leaving golden spore trails.
+**The Confrontation:** Amber recognizes the girl in a shop near the Game Corner because Amber saw her face during their earlier collision. The conversation reveals that she stole the Oddish believing its spores could be used for HP UP to help her brother, but does not reveal her name or her brother's situation. When discovered, the girl flees through back alleys, leaving golden spore trails.
 
-**The Capture:** Mary's Bellsprout trips Kaede during the chase. When captured, she immediately begs not to be sent to jail, crying that her brother will die without her help---establishing that her theft wasn't for profit but desperation.
-
-**Motivations Revealed:** Through tears and panic, Kaede explains that her brother needs help but they lack the resources for proper treatment, setting up the humanitarian crisis at the story's emotional core.
+**The Capture:** Mary's Bellsprout trips the girl during the chase. She immediately begs not to be sent to jail, crying that her brother will die without her help. Her name and the details of her brother's situation are revealed in Chapter 10.
 
 ### Chapter 10: Resolution
 Kaede's situation is resolved when Mary and Amber bring Erika to help ([Ch.10](https://github.com/haowjy/pokemon-amber/blob/main/story/ch10/chapter10.md)):

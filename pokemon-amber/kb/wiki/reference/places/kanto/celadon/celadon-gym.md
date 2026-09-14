@@ -112,7 +112,7 @@ Amber's reaction: "The coins in my bag might as well have been pocket lint. I di
 Celadon Gym issues badges certifying trainers for Celadon-area work (₽5,000+ per attempt).
 
 **Badge Challenge Process:**
-- Battle Gym Leader Erika or designated gym trainer(s)
+- Battle designated gym trainer(s)
 - Fixed difficulty based on Celadon area's threats (Grass-types, forest Pokemon, urban gardens)
 - Everyone faces similar challenge (tests area competency, not personalized)
 - Win = earn Rainbow Badge for Celadon area
@@ -215,7 +215,7 @@ An Oddish was stolen from the restricted greenhouse, triggering investigation.
 4. Mary posts WANTED notices at Pokemon Center ([Chapter 7](https://github.com/haowjy/pokemon-amber/blob/main/story/ch7/chapter7.md))
 5. Mary recognizes Amber at Pokemon Center, brings her in for questioning
 6. Security footage reviewed showing both Amber and real thief ([Chapter 8](https://github.com/haowjy/pokemon-amber/blob/main/story/ch8/chapter8.md))
-7. Amber identifies thief using Ditto's transformation ability
+7. The footage cannot identify the thief, but Amber recognizes her from their earlier collision and is the only available eyewitness
 8. Investigation continues under Erika's direction
 
 **Thief Description (from footage):**
@@ -276,7 +276,7 @@ The "RESTRICTED" sign on the greenhouse isn't just about Pokemon safety — it's
 ## Canon Basis
 
 **Retained from games/anime/manga:**
-- Grass-type gym, Rainbow Badge, Erika as leader, all-female trainers
+- Grass-type gym, Rainbow Badge, all-female trainers
 - Erika's traditional aesthetic (kimono, flower motifs, "Nature-Loving Princess")
 - Perfume production from Pokemon essences ([anime EP026][bulbapedia-ep026])
 - Greenhouse as core facility

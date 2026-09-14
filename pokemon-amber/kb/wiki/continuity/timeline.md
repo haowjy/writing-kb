@@ -72,15 +72,14 @@ Chronological, reader-focused summary of events so far. Citations link to `story
 
 ## Chapter 8 - Start of an Unpaid Side Quest ([Summary](https://github.com/haowjy/pokemon-amber/blob/main/story/ch8/summary.md))
 - Security office: Tangela guards; Kayla queues grainy footage showing Amber…and an older, sneezing girl fleeing with something.
-- Ditto proves it can mimic a human (helium‑pitched voice), clarifying the thief’s look.
+- The footage cannot show the thief's face clearly; Amber recognizes her from their earlier collision and says she can identify her again.
 - Erika arrives, covers a near‑slip about HP UP ingredients, and redirects the investigation to item vendors.
-- Mary runs to PR for a camera; the “Oddish Heist” inquiry formally begins.
+- Erika directs Mary to pursue item-vendor leads, with Amber as the necessary eyewitness.
 
 ## Chapter 9 - Side Quest: Trade Secrets ([Summary](https://github.com/haowjy/pokemon-amber/blob/main/story/ch9/summary.md))
-- Department Store canvass amid Meowth thefts and a traffic‑directing Mr. Mime.
-- Clerk mentions a sickly girl asking for cheap HP UP; official bottles cost ₽9,800 with no ingredients listed.
-- Game Corner district: neon chaos, Grimer in the street; a back‑room conversation confirms the Oddish theft for a brother’s sake.
-- Bellsprout trips the girl with Vine Whip; a bag bursts golden spores as she begs them not to call the police.
+- Department Store canvass finds reports of an unnamed, sickly-looking girl asking about HP UP; official bottles cost ₽9,800 with no ingredients listed.
+- Mary takes Amber into the Game Corner because Amber alone can recognize the girl; a back-room conversation confirms the Oddish theft and the girl's concern for her brother.
+- Amber recognizes the girl in person. Bellsprout trips her with Vine Whip; she begs them not to call the police, but her name and her brother's situation remain unresolved at this point.
 
 ## Chapter 10 - Side Quest: Complete! ([Summary](https://github.com/haowjy/pokemon-amber/blob/main/story/ch10/summary.md))
 - Factory Ward apartment: Hiro struggles to breathe; Oddish’s spores help him rest.

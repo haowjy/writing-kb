@@ -40,6 +40,10 @@ organization. Broader than [Project X](reference/organizations/project-x.md).
 
 ## Places and Boundaries
 
+### Game Corner *(Celadon neighborhood)*
+
+The neighborhood is **Game Corner**, with no **district** suffix. Use this name consistently rather than alternative district labels. This names the neighborhood only; it does not define individual buildings or geographic boundaries.
+
 ### Ashura Kingdom
 
 The physically and dimensionally sealed pocket region at the center of an

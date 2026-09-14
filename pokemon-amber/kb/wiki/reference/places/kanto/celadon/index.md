@@ -100,7 +100,7 @@ The city's most prestigious institution. See: [Celadon Gym](celadon-gym.md)
 - Security office with surveillance systems
 - Large staff (30+ trainers)
 
-**Current Leader:** Erika (Grass-type specialist)
+**Gym Leader:** Vacant — Erika is the leading candidate
 
 Amber's main interactions in Chapters 5-9 occur here, including her greenhouse incident and involvement in the Oddish theft investigation.
 
@@ -200,7 +200,7 @@ Celadon serves as Amber's primary location during her early exploration:
 
 **Chapter 7:** Amber takes metro to Pokemon Center, discovers quest system, encounters gym trainer Mary regarding theft
 
-**Chapter 8:** Amber brought to gym security office, helps identify Oddish thief using Ditto's transformation, meets Erika
+**Chapter 8:** Amber is brought to the gym security office, recognizes the Oddish thief from their earlier collision, and meets Erika
 
 **Ongoing:** Celadon remains Amber's home base as she navigates her situation with Dr. Fuji
 
@@ -226,7 +226,7 @@ Celadon represents:
 - Game appearances: Red/Blue/Yellow, Gold/Silver/Crystal, FireRed/LeafGreen, HeartGold/SoulSilver, Let's Go Pikachu/Eevee
 
 **Retained from Canon:**
-- Grass-type gym with Erika as leader
+- Grass-type gym
 - Rainbow Badge
 - Major commercial center
 - Garden/nature aesthetic
@@ -248,4 +248,3 @@ Celadon represents:
 - Gym complex: [Chapters 5-8](https://github.com/haowjy/pokemon-amber/blob/main/story/ch5/chapter5.md)
 - Social dynamics: [Chapters 5-9](https://github.com/haowjy/pokemon-amber/blob/main/story/ch5/chapter5.md)
 - Canon comparison: [Bulbapedia - Celadon City](https://bulbapedia.bulbagarden.net/wiki/Celadon_City)
-

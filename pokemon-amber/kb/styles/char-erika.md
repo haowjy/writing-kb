@@ -16,11 +16,11 @@ Erika controls the pace and disclosure of a conversation. She can be warm, clini
 
 Erika uses Mary's name and a quiet reminder instead of raising her voice. "Still" closes the attempted loophole; "until further notice" keeps the decision in Erika's hands.
 
-### Amber
+### The suspected thief
 
 > "So this is our thief?" (Ch. 8)
 
-The short question acknowledges the accusation while leaving Erika room to reassess Amber for herself. The lightly amused delivery lowers Amber's guard without dismissing the theft.
+The question concerns the girl on the security monitor, not Amber. Its brevity confirms the subject and prompts Mary to explain that Amber saw the girl's face outside the greenhouse.
 
 ### Battle
 
