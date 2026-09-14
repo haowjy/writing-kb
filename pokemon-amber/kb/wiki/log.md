@@ -715,3 +715,15 @@ the exact facts and open choreography.
   their permanent staffing, offices, procedures, and funding remain unfinished.
 
 [2026-09-09] [query-saved] Corrected Ditto's Amber partnership motivation: the chosen trainer-Pokemon relationship, not a separate exploratory or freedom-seeking project, explains the journey; preserved agency, Fuji history, and personality-based playfulness.
+
+## 2026-09-14 — Recalibrated style guidance
+
+- Replaced synthetic Amber, tone, and battle examples with small verified
+  chapter excerpts and recorded the approved emphasis on immediate,
+  game-literate, fallible narration.
+- Reframed emotional, body-comedy, mechanical-tic, and battle-scale guidance
+  around overexplanation and repeated spectacle rather than mandatory bodily
+  response, stripped-down action, or prohibited vocabulary.
+- Merged the superseded emotional-gap issue files into
+  `issues/narratorial-overexplanation.md`; added `styles/index.md` for focused
+  loading and evidence boundaries.

@@ -2,56 +2,46 @@
 
 Load this file when Kayla, Mary, Stephen, Delia, or Ash speaks.
 
----
-
 ## Kayla
 
-Kayla wants to be accurate without becoming the center of the exchange. Hesitation appears when she corrects someone or introduces information that may cause conflict.
+Kayla wants to be accurate without becoming the center of the exchange.
+Hesitation can appear when she corrects someone or reaches a disclosure she
+cannot comfortably complete.
 
-> "But... that's not the Pokemon we use for HP UP production anymore. Oddish isn't even---" (Ch. 8)
+> "But... that's not the Pokemon we use for HP UP production anymore. That Oddish can't even---" [ch8]
 
-The opening pause marks the social cost of contradicting someone. The unfinished correction shows that she is interrupted or loses the floor; use that break only when the scene supplies one of those causes.
+This is a self-interruption. Leave the withheld information withheld unless the
+scene itself supplies a reason to complete it; do not explain the slip in
+narration.
 
 ## Mary
 
-Mary pursues operational facts. Suspicion sharpens her questions; visible vulnerability can redirect her toward a practical offer.
+Mary works from the immediate facts. Suspicion sharpens her questions; visible
+need can redirect her toward a practical offer. She is not a detective
+interface required to convert every exchange into a solved inference.
 
-> "There was a theft," [...] "That's quite a coincidence, don't you think?" (Ch. 8)
+> "Take us to your Oddish, and your brother. Maybe we can help." [ch10]
 
-She places the known event beside Amber's story and asks Amber to account for the connection.
-
-> "Take us to your Oddish, and your brother. Maybe we can help." (Ch. 10)
-
-The first sentence requests the next actionable step. "Maybe" reflects a real limit on what Mary can promise.
+The request identifies the next practical step. "Maybe" preserves the real
+limit on what Mary can promise.
 
 ## Stephen
 
-Stephen makes care concrete through food, shelter, and gentle redirection. When guarded, he asks for small agreements rather than delivering speeches.
+Stephen makes care concrete through food, shelter, and gentle redirection. When
+guarded, he asks for small agreements rather than delivering speeches.
 
-> "Sit. Are you hungry? We have leftover curry." (Ch. 12)
-
-The three short sentences move from immediate safety to a need he can meet.
-
-> "Just... don't tell your mother, okay? Either of you." (Ch. 14)
-
-The pause and tag question show that he is asking for cooperation he cannot comfortably demand. "Either of you" closes the obvious loophole.
+> "Are you hungry? We have leftover curry." [ch12]
 
 ## Delia
 
-Delia protects people by drawing clear boundaries. Under pressure, her speech narrows toward the action she needs someone else to take.
+Delia protects people by drawing clear boundaries. Under pressure, her speech
+narrows toward the action she needs someone else to take.
 
-> "Get off my property. Before I call Officer Jenny." (Ch. 11)
-
-The first sentence states the boundary. The second gives the immediate consequence if Fuji ignores it.
+> "Get off my property." [ch11]
 
 ## Ash
 
-Ash speaks from the want occupying him right now. Excitement, unfairness, or frustration arrives in short bursts and can replace the previous topic immediately.
+Ash speaks from the want occupying him right now. Excitement, unfairness, or
+frustration can replace the previous topic immediately.
 
-> "How come she gets the first one?" (Ch. 14)
-
-The question reduces the situation to the fairness issue Ash cares about.
-
-> "I quit! This is stupid!" (Ch. 17)
-
-The first declaration tries to end an upsetting activity. The second attacks the activity because he cannot explain the actual source of his distress.
+> "How come she gets the first one?" [ch14]

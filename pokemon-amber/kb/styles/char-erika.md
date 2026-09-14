@@ -2,44 +2,39 @@
 
 Load this file when Erika appears.
 
----
+## Core behavior
 
-## Core Behavior
+Erika controls pace and disclosure without surrendering authority. She can be
+warm, clinical, political, or sharply practical; warmth need not be a strategic
+feint. Her wording reflects the task and the institution she represents rather
+than making every courtesy a leverage play.
 
-Erika controls the pace and disclosure of a conversation. She can be warm, clinical, or political without surrendering authority. Her wording is deliberate: each question gathers information, each courtesy preserves leverage, and each command gives a precise action.
+## Register by context
 
-## Register by Context
+### Gym and subordinates
 
-### Subordinates
+> "Mary," Erika's voice held a gentle reminder rather than a rebuke. "You know you're still suspended from gym battles until further notice." [ch9]
 
-> "Mary," [...] "You know you're still suspended until further notice." (Ch. 9)
-
-Erika uses Mary's name and a quiet reminder instead of raising her voice. "Still" closes the attempted loophole; "until further notice" keeps the decision in Erika's hands.
-
-### The suspected thief
-
-> "So this is our thief?" (Ch. 8)
-
-The question concerns the girl on the security monitor, not Amber. Its brevity confirms the subject and prompts Mary to explain that Amber saw the girl's face outside the greenhouse.
+The reminder concerns gym battles. Her measured delivery keeps authority
+without escalating the exchange.
 
 ### Battle
 
-> "Stun Spore, wide dispersion!" (Ch. 10)
+> "Sleep Powder, straight up!" [ch10]
 
-The move name identifies the action; "wide dispersion" specifies coverage. Erika's commands are concise because the tactical choice is already made.
+A concise command can name the immediate tactical use without narrating every
+step of Erika's reasoning.
 
-### Politics
+### Investigation and care
 
-> "Though I suspect solving our Oddish predicament might help your case with the board." (Ch. 9)
+> "Then we need to know where to look." [ch8]
 
-Erika presents an exchange without promising an outcome she does not control. "Might" is meaningful uncertainty about the board, not habitual hedging.
-
-### Medical work
-
-> "Sludge Fever," [...] "It's been spreading through the Factory Ward again." (Ch. 10)
-
-She names the condition before giving the fact that changes the situation. "Again" implies prior cases and turns one sick Pokemon into a wider problem.
+Erika turns the information in front of her into a next question. She can also
+act with professional urgency and offer care without turning the scene into a
+lesson about her power.
 
 ## Difference from Mary
 
-Erika manages institutions and competing interests; Mary pursues the next operational fact. In a shared investigation, Erika frames what can happen and who must accept it. Mary asks what happened and what they do next.
+Erika manages institutional constraints and can set the available response.
+Mary works from the immediate facts and next practical task. Neither role makes
+Mary a detective interface or Erika a permanently calculating authority.

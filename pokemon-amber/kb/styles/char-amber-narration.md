@@ -1,43 +1,48 @@
 # Amber: First-Person Narration Voice
 
-Load this file when writing any chapter from Amber's POV (first person). This is the dominant mode of the story. For her *spoken dialogue*, load `char-amber-dialogue.md`.
+Load this file for Amber's first-person chapters. For spoken dialogue, load
+[Amber dialogue](char-amber-dialogue.md).
 
----
+## Core effect
 
-## The Voice in One Paragraph
+Amber is conversational, opinionated, immediate, and game-literate. She is a
+fan encountering a real world, not a neutral guide or an always-correct
+strategist. Her excitement, bias, mistakes, desire, and uncertainty can be the
+point of a thought as much as a tactical decision can.
 
-Amber's narration is direct, observant, and emotionally immediate. Her attention stays with the people, Pokemon, and problems in front of her. She notices behavior and practical consequences, then uses what she knows when it changes her next choice.
+Let an event, judgment, or thought stand once it has rendered the moment. Do
+not append an explanation of what Amber feels or what the reader must conclude.
+Direct emotional telling is still valid when it is the most economical amount
+of attention. Preserve clear action geography, bodily experience, warmth,
+imagery, wonder, and grief.
 
-> Ash had stopped arguing. That was the first problem. The second was the Pidgey tucked inside his jacket, one wing hanging lower than the other. He kept looking at Delia's closed kitchen door. I held out both hands. "Give me the Pidgey." The questions could wait until I knew whether its wing was broken. (synthetic, noncanonical)
+## Game thought and judgment
 
-**Use when:** Amber finds Ash concealing an injured Pokemon and needs to separate the medical problem from the question of blame.
+Game knowledge may create pleasure, expectation, curiosity, a wrong assumption,
+or a next move. It need not solve the scene. Early Amber is not required to be
+hypercompetent; later competence is earned through her time at Oak's ranch.
 
-Ash's unusual silence leads Amber to the concealed Pidgey; the lowered wing gives her evidence of injury, and his glance at Delia's door reveals why he hid it. The first/second structure orders those problems by consequence. Amber's open hands and direct request move the scene toward a safe transfer, while the final sentence postpones questioning until she understands the physical stakes.
+> "Rattata had a lower HP stat than Ditto normally, so even if Ditto just copied all stats except HP like in the game, we beat it in pure stats right now." [ch4]
+>
+> "the most OP move in all of Pokemon was available here: dodge!" (excerpt) [ch4]
 
----
+The first thought is a fan's provisional model, and the second lets delight and
+overconfidence be visible without a corrective lecture.
 
-## Internal Thought
+## Open conclusions
 
-Most thought stays integrated into Amber's first-person narration. Direct questions belong when she is actively testing uncertainty. Italicized thought isolates an exact phrase, move, or fact that strikes her in the moment. Single-quoted thought is rare and reserved for a sharp verbal reaction.
+Use questions and hedges when Amber lacks evidence. A tentative theory is
+information, not a verbal defect to automatically scrub.
 
-> The Growlithe planted its paws and lowered its head. Its chest expanded. A low vibration climbed through the stones under my shoes. *Roar.* In the games, the move forced a switch. We had a ravine behind us. I caught Ash's sleeve and pulled him sideways, putting solid ground at our backs. "Crouch. Cover your ears." If Roar could force people back as easily as Pokemon, I wanted the direction of our retreat decided before it opened its mouth. (synthetic, noncanonical)
+> "...the theory that Ditto was a failed Mew clone might be true, at least in this world." [ch7]
 
-**Use when:** Amber recognizes a move whose game effect could become physically dangerous in the current terrain.
+## Rhythm and humor
 
-The Growlithe's posture and the vibration provide physical evidence before the isolated move name captures recognition. Remembering Roar's effect matters because the ravine turns retreat into danger. Amber responds by changing their position and giving Ash two usable commands; the final conditional thought preserves uncertainty about whether the move affects people while justifying action before proof.
+Vary sentence and paragraph shape for attention and feeling, not to satisfy a
+short-sentence quota. Humor can be blunt, deadpan, or excited; it does not need
+a punchline or an internal essay after every incongruity.
 
----
+> 'Brat,' I thought, watching Rattata wheel around for another pass. [ch4]
 
-## Pop-Culture / Isekai References
-
-Use references sparingly when they arise naturally from Amber's immediate thought.
-
-Amber's reference pool is Pokemon games, anime, and internet culture.
-
-Game knowledge belongs when it changes Amber's decision or reveals a meaningful mismatch between what she expects and what she encounters.
-
-> Officer Jenny laid three photographs across the table: a broken lock, an empty cage, one sharp boot print. Every episode I remembered would have followed the boot print. The lock bothered me more. Its housing had bent outward. Whatever left the cage had opened it from inside. I slid that photograph back to her. "Who told you this was a theft?" (synthetic, noncanonical)
-
-**Use when:** Amber recognizes that the obvious genre clue conflicts with the physical evidence.
-
-The three photographs restrict the evidence to entry, disappearance, and an apparent culprit. Amber's remembered episode pattern points toward the boot print, but the outward-bent lock contradicts that expectation. "Whatever" preserves uncertainty about the occupant; returning the photograph and asking who called it theft redirects the investigation toward whether a crime occurred at all.
+The judgment lands while the battle continues; it needs no follow-up account
+of what kind of person Joey is.

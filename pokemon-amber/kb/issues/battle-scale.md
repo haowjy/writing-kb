@@ -1,49 +1,40 @@
-# Battle Scale — Prose Doesn't Differentiate by Stakes
+# Battle Scale — Interchangeable Spectacle
 
-**Scope**: Structural/scene-level across all battle chapters
-**Severity**: Moderate — content differentiates stakes, but form doesn't
+**Scope:** Action passages, most visibly Chs. 15–16
+**Severity:** Moderate when repeated effects flatten escalation
 
----
+## Problem
 
-## The Problem
+Large confrontations can accumulate crackling fists, whirling limbs, lunges,
+smoke, elemental collisions, and commentary on intensity in interchangeable
+rhythmic and emotional space. In Chs. 15–16, the reader can lose the changed
+position, injury, perception, or opportunity that makes one exchange distinct
+from the next.
 
-The Joey park battle (Ch. 4) and the Oak vs. Fuji apocalyptic confrontation (Ch. 16) use structurally identical prose technique:
-- Short-command/long-setup rhythm
-- Single-command paragraphs creating held-breath beats
-- Kinetic sensory detail
-- Internal monologue dropout during contact
+The target is interchangeable spectacle, not spectacle itself. Do not cut a
+battle merely because it serves enjoyment, or make every high-stakes passage
+maximally dense. Reader excitement and sensory scale are part of the story.
 
-The technique is consistent and well-executed. But a child's casual battle and a murderous confrontation between a former Champion and a deranged scientist shouldn't feel like different-content-same-form.
+## Evidence
 
----
+- [ch15] repeatedly returns to "whirling fists," "whirling arms," and
+  "fists crackling as its arms whirled to life once again." The recurrence
+  makes successive exchanges less distinct even as the danger changes.
+- [ch16] "countered the counter" and "a torrent of a thick, continuous torrent"
+  expose the accumulated explanatory and sentence-level clutter around the
+  actual tactical reversals.
 
-## What Changes Between Small and Large Battles (Currently)
+## Revision direction
 
-| Dimension | Small (Ch. 4) | Large (Ch. 16) |
-|-----------|---------------|-----------------|
-| Content | Rattata vs Ditto | Dragonite vs Mewtwo-class clones |
-| Sensory scale | Playground dust | Buildings collapsing, fire |
-| Command style | Tentative, learning | Coordinated tactical vs frantic |
-| Internal monologue | Present (discovery hybrid) | Absent |
-| Paragraph rhythm | Same | Same |
-| Sentence length distribution | Same | Same |
+Keep the action's causal spine and distinct registers:
 
----
+- Ch. 4 is close to Amber's discovery, competitive bias, and excitement.
+- Ch. 15 needs escape geography, limited sight, danger, and intimate harm.
+- Ch. 16's panoramic register can hold wider tactics, multiple participants,
+  and ideological conflict without becoming Amber POV.
 
-## What Could Differentiate (Not Prescriptive — Options)
-
-- **Paragraph density**: small battles might allow more white space; apocalyptic battles might pack more per paragraph
-- **Sentence length ceiling**: large-scale destruction might warrant longer, more complex sentences to convey simultaneous action
-- **POV technique**: small battles can afford close focus; large battles might need wider-angle narration with multiple simultaneous events
-- **Time compression**: large battles might skip between moments rather than tracking every exchange
-- **Sound/sensory layering**: small battles can be heard cleanly; large battles should feel like sensory overload
-
----
-
-## Chapters Affected
-
-- Ch. 4 (Joey battle — fine as-is, this is the baseline)
-- Ch. 10 (Erika gym battle — mid-scale, sits between)
-- Ch. 13 (Fuji's attack — the command contrast with Oak is effective, but the prose rhythm is still the same)
-- Ch. 15 (Electabuzz burning — more intimate violence, slightly different feel)
-- Ch. 16 (Oak vs Fuji — the chapter most affected by this issue)
+For a repeated effect, ask what changed: location, injury, available move,
+line of sight, objective, relationship, or reader expectation. Preserve the
+detail that makes that change felt; compress duplicate spectacle and evaluative
+connective tissue. Vary rhythm because attention changes, not to enforce a
+sentence-length pattern.

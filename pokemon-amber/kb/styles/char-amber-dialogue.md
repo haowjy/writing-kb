@@ -1,55 +1,37 @@
 # Amber: Spoken Dialogue and Interaction
 
-Load this file when Amber speaks aloud. For her narration and internal voice, load `char-amber-narration.md`.
+Load this file when Amber speaks aloud. For her internal voice, load
+[Amber narration](char-amber-narration.md).
 
----
+## Core effect
 
-## Core Behavior
+Amber speaks plainly, but not flawlessly. Her register changes with the person,
+her immediate goal, and how much control she has. She can blurt, hedge, tease,
+ask an awkward question, or become blunt when the harm is clear. Do not turn
+her into a uniformly polished investigator, teacher, or tactician.
 
-Amber speaks plainly. Her register changes with her audience, her immediate goal, and how much control she has. What she knows shapes what she asks or explains more often than it changes the sophistication of her wording.
+## Awkwardness and incomplete excuses
 
-## Register by Audience
+A small, unadorned line can carry a strange encounter. Let an unsuccessful
+excuse fail rather than supplying a polished replacement.
 
-### Authority figures
-
-Amber gives the relevant context, then asks for permission or help. Respect comes through the structure of the request rather than a pile of filler words.
-
-> Officer Jenny reached for Ditto's Pokeball. I kept two fingers over the clasp. "I can show you the face from the photograph. Ditto needs to see it first, and I need to stay in the room." (synthetic, noncanonical)
-
-**Use when:** An authority figure needs Ditto's ability, and Amber must cooperate without surrendering responsibility for it.
-
-Jenny's reach creates the need to speak; Amber's fingers delay the handoff without escalating it. Her first sentence leads with the result she can provide and the photograph Ditto needs. The final clause states the condition that keeps Amber responsible for what follows.
-
-### Peers
-
-With Ash or Mary, Amber is quicker and less guarded. She can blurt, tease, or move directly to the practical point.
-
-> Ash held the map upside down and pointed left. "We aren't lost."
+> "Um, hi?" [ch5]
 >
-> I turned it around. The marked trail ended at the blue crease where the stream had soaked through the paper. "Of course not. We're standing exactly where the map stops being useful. Take the right fork. It has footprints." (synthetic, noncanonical)
+> "I'm sorry," I managed, the words coming out smaller than intended. "We were just... uh..." [ch5]
 
-**Use when:** A peer's confidence is unsupported, but Amber still needs to keep both of them moving.
+## Pressure and confrontation
 
-The upside-down map discredits Ash's direction, while the soaked crease prevents Amber from replacing his certainty with her own. She corrects the map before answering his pride with deadpan agreement. Her final command gives him both a route and the evidence for choosing it.
+Questions can arrive in cautious fragments; confrontation can name the action
+without softening it. These selected lines illustrate Amber's speech, not a
+verdict on their surrounding scenes.
 
-### Fuji
+> "What happened to... Dr. Fuji?" [ch17]
+>
+> "All this time, you've been dressing a complete stranger in your dead daughter's clothes. Think about how fucked up that is." [ch15]
 
-Amber's speech depends on what she needs from him. Questions can come out in cautious fragments; confrontation becomes blunt and specific.
+## Teaching and authority
 
-> "What happened to... Dr. Fuji?" (Ch. 17)
-
-**Use when:** Amber needs information about Fuji but cannot approach the question casually. The pause isolates his name because the answer matters to her.
-
-> "All this time, you've been dressing a complete stranger in your dead daughter's clothes. Think about how fucked up that is." (Ch. 15)
-
-**Use when:** Amber has stopped negotiating within Fuji's family fantasy. The first sentence names his behavior in concrete terms; the second forces him to face its implication without softening it.
-
-### Teaching
-
-Amber breaks a task into usable steps and checks what the listener needs next.
-
-> Ash pressed the eraser down until the paper started to tear. I slid the worksheet out from under his hand and turned it to the questions he had already answered. "Start with the ones you know. Then we can come back to the hard part." (synthetic, noncanonical)
-
-**Use when:** Frustration has made the difficult part of a task impossible to approach directly.
-
-The threatened tear gives Amber a reason to intervene. Moving the worksheet stops the damage, while the completed answers give Ash evidence that some of the task is manageable. Her first sentence supplies an immediate action; the second postpones the difficult part without erasing it.
+When Amber explains or asks an adult for help, let the scene determine whether
+she has usable knowledge, uncertainty, or neither. Four years of ranch and lab
+life can support later practical competence, but early scenes may leave her
+wrong-footed or unable to explain herself.

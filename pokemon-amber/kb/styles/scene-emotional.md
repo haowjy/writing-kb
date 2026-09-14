@@ -1,33 +1,37 @@
 # Emotional / Intimate Scene Technique
 
-Load this file for grief, fear, vulnerability, tenderness, loss, or a relationship-changing admission.
+Load this file for grief, fear, vulnerability, tenderness, loss, or a
+relationship-changing admission.
 
----
+## Core choice
 
-## Core Choice
+Choose the behavior, sensation, object, absence, or direct statement the POV
+character would register under this pressure. Let the reader infer emotion when
+the first rendering is adequate. Name a feeling when that is the clearest,
+most economical telling or when recognition changes understanding or action.
 
-Choose the behavior, sensation, object, or absence the POV character would notice under this specific pressure. Let the reader reconstruct the emotion from that evidence. Name the feeling when recognizing it changes the character's understanding or next action.
+An emotional scene may turn through a choice, avoidance, new information, or a
+changed relationship. It may also leave a reaction unresolved. Do not prescribe
+a breakdown, shock response, physical symptom, or abandonment of game thought
+just because the material is painful.
 
-An emotional scene needs a turn: a relationship changes, a character makes or avoids a choice, information becomes bearable or unbearable, or an existing wound gains a new consequence.
+## Restraint and rhythm
 
-## Restraint
+Give the strongest detail room. A further gesture, sensation, metaphor, or
+explanation must add different information, not merely certify the same mood.
+Fragments and silence work when thought or speech genuinely breaks; flowing
+sentences and direct statements work when they better fit the attention of the
+moment.
 
-Give the strongest detail room. Additional gestures or sensations must add a different piece of emotional information. Repeating several signs of the same feeling reduces their force.
+> "A hand touched my back. Rubbed slow circles while I retched."
+>
+> "When the heaving finally stopped, the hand lifted. Footsteps moved away." [ch2]
 
-Fragments and silence can represent interrupted thought, but their shape must follow what the character cannot complete or what the other person refuses to say.
+The limited perception and departure make care and uncertainty legible without
+naming either.
 
-## Annotated Example: Care and Departure
+> "And... my Ditto?" I asked, before catching myself. "His Ditto?" [ch17]
 
-> "A hand touched my back. Rubbed slow circles while I retched. When the heaving finally stopped, the hand lifted. Footsteps moved away." (Ch. 2)
-
-**Purpose in the beat:** Amber receives care without yet knowing whether the person providing it will stay.
-
-"A hand" limits perception to what Amber can register while retching; the slow circles make the care sustained. Once the physical need ends, contact lifts and the footsteps answer the relational question through departure rather than interpretation.
-
-## Annotated Example: Absence
-
-> "Cold tea in a forgotten mug. An empty chair where Dr. Fuji should be. And there, the empty space by the kettle where Ditto's Pokeball used to sit, a glaring absence." (Ch. 11)
-
-**Purpose in the beat:** The room shows Amber that both Fuji and Ditto are gone before she can act on either loss.
-
-Cold tea and the forgotten mug show interrupted activity and elapsed time. The empty chair locates Fuji's absence in his habitual place; the remembered space by the kettle reveals Ditto's disappearance. "Glaring absence" gives the Pokeball priority because it changes Amber's next concern.
+The correction lets the reader hear attachment followed by a retreat to formal
+ownership, without a separate explanation. This selected line is a local
+example, not a whole-chapter endorsement.

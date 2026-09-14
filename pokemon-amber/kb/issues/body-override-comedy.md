@@ -1,16 +1,22 @@
-# Body-Override Comedy
+# Repeated Body-Override Explanation in Comedy
 
-## Pattern
-Scenes where the child body's neurochemistry "hijacks" the adult mind for comedy — the sugar rush reaction in Ch. 14.
+**Scope:** Ch. 14's syrup scene; watch future domestic-comedy revisions
+**Severity:** Low unless the explanatory frame becomes habitual
 
 ## Problem
-These scenes lean on a gimmick ("watch the adult brain get overridden by child biology") that doesn't serve the character or story. The joke is: adult loses control of child body's reactions, comedy ensues. It reinforces an adult/child binary that doesn't reflect what's actually happening with Amber's character — her personality was already compatible with childhood; the body isn't "overriding" an otherwise composed adult.
 
-## Scope
-Ch. 14 (sugar). May recur if writers treat body-override as an established comedy technique.
+The risk is not hunger, small-body sensation, childlike enjoyment, or physical
+need. The risk is repeating the same adult-mind-versus-body explanation after
+the comic or sensory reaction is already legible.
 
-## Severity
-Low — these are contained scenes, not structural. But they set a pattern that could become a crutch.
+> "My adult mind registered it as overwhelmingly saccharine, but my body responded with pure delight." [ch14]
 
-## Evidence
-- Ch. 14: sugar hit — "the sweetness hit my taste buds like a revelation. My adult mind registered it as overwhelmingly saccharine, but my body responded with pure delight" — explicitly frames it as adult-vs-child-body
+That contrast can be useful once. Do not stack further narration that explains
+the same gimmick, diagnoses Amber's psychology, or treats physical pleasure as
+an exception requiring apology.
+
+## Revision question
+
+Keep the bodily experience and the interaction when they carry comedy,
+character, warmth, or a practical need. Cut or compress only explanatory
+doubling that follows an adequate first rendering.
