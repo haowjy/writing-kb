@@ -1,6 +1,6 @@
 # Future Arc: Celadon
 
-**Status:** Seed with political structure established. Plot details TBD.
+**Status:** drafting
 
 > **Design inspiration:** Piltover/Zaun from *Arcane* — a beautiful city whose wealth is maintained by neglecting its industrial underbelly.
 
