@@ -11,7 +11,7 @@ Late-saga ordering from Sinnoh onward is current planning direction, not locked 
 - **Age 15:** Celadon return, Vee recruitment, Indigo Year 2 rebuild
 - **Age 16:** Hoenn and Ceruledge reunion
 - **Approximately ages 16–18:** Alonso/Mystery Dungeon adventurer interval
-- **Sinnoh and later ages:** must be recalculated from the interval. Do not retain the obsolete one-year jump or old numbered-arc ages as current chronology.
+- **Sinnoh and later ages:** follow from the roughly two-year interval; not yet worked out.
 - **Trainer start:** Amber, Kyle, Sabrina, Reid, and Nora begin their relevant trainer phase at 14 after normal middle-school graduation; Amber, Reid, and Nora are the same graduating cohort.
 - **Ash Ketchum:** Starts at 14, one year after Amber's start; Ash and Gary are 13 with one school year left when Amber departs.
 - **Peak trainer age (typical):** 25–30
@@ -44,8 +44,7 @@ reach Viridian before the larger incident. On Route 2 after Viridian, Teddiursa
 and Alonso enter through Rocket's Ursaring operation and the first on-page
 Mystery Dungeon. Giovanni immediately attacks the emerging group with Nidoking,
 then calls it an impromptu Gym test after they win. He awards standard badges
-to Amber and Alonso but not Kyle and does not bring them back into Viridian;
-the tour and long cleanup wait are removed. Their continuing
+to Amber and Alonso but not Kyle and leaves. Their continuing
 companionship grows by repeated choice, not a formal immediate pact.
 
 Kyle Kong first becomes Amber's temporary companion after the Mew encounter.
@@ -190,7 +189,7 @@ See: [Ashura](saga-threads/ashura.md).
 
 ### Later-Saga Directions
 
-Paldea, Kalos, the Alola/Ultra Space displacement, Delta Episode return, and the main-world/Rainbow Rocket endgame remain live planning material. Their former fixed placement and ages depended on the retired one-year post-Hoenn jump, so this overview no longer treats those labels as a settled chronology. Individual pages retain their local story functions until the new post-Sinnoh order is selected.
+Paldea, Kalos, the Alola/Ultra Space displacement, Delta Episode return, and the main-world/Rainbow Rocket endgame are planned story material whose order and ages after Sinnoh are not chosen. Their pages hold their local story functions.
 
 ---
 

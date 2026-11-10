@@ -97,6 +97,5 @@ At present, the coordinated circuit applies to the Big 4 only. Other regions are
 
 ## Citations
 
-- Quarterly rotation structure and Big 4 integration assumptions: `future/worldbuilding/quarterly-conference-system.md` (source incorporated into this page)
 - Cross-region badge interoperability context: [Gym and Elite Badges](badge-system.md), [International Licensing & Travel (Big 4 Regions)](international-licensing.md)
 - Official canon league structures: [Bulbapedia - Pokemon League](https://bulbapedia.bulbagarden.net/wiki/Pokemon_League), [Bulbapedia - League conference](https://bulbapedia.bulbagarden.net/wiki/League_conference)

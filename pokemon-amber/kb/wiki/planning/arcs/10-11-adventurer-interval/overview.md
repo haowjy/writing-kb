@@ -28,8 +28,7 @@ The interval gives Amber room to mature as an explorer and teammate outside a ba
 
 - Exact start/end dates and the exact age at Sinnoh; the approximate two-year duration is settled, while the full age/arc ledger must be recalculated from it.
 - Which legendary-scale incidents occur, who joins temporarily, and which Pokemon are with Amber in each expedition.
-- Where Ashura first enters this sequence. It must not be placed by treating the retired one-year jump as current.
-- Pikachu's origin: a dangerous Mystery Dungeon origin is a possibility, not canon.
+- Where Ashura first enters this sequence.
 
 ## Cross-Refs
 

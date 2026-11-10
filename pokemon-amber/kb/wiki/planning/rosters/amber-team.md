@@ -227,7 +227,7 @@ Alternatives: medical retirement/sanctuary, permanent transfer to orgs, or ecolo
 - **Hoenn** — Ecology shift; Trapinch's Kanto-to-Hoenn arc reaches its former-trainer and evolution payoff. Gardevoir joins.
 - **After Hoenn** — Ceruledge's reunion, then roughly two years of Alonso/Mystery Dungeon adventuring. This period develops the mature rotating roster and Heracross's Mega-Stone search.
 - **Sinnoh** — Standard Conference and early Team Galactic interference. Shinx and Rockruff remain open candidates.
-- **Ashura** — placement and roster consequences remain open; do not infer them from legacy arc numbering.
+- **Ashura** — placement and roster consequences are open.
 
 Migration logistics: registration scan, health stamp, insurance proof, visa tier confirmation. Small friction grounds the travel.
 

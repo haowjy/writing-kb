@@ -254,7 +254,5 @@ Giovanni gives Fuji broad scientific autonomy, funding, facilities, and latitude
 
 ## Related Files
 
-- Team Rocket context: `plot/team-rocket-surveillance.md`
-- Long-term arc: `[retired arc plan]` (Fuji's shadow presence)
-- Lavender Town encounter: `[retired arc plan]` (Mr. Fuji reveal)
-- Mewtwo connection: `core/themes.md` (creation triangle)
+- [Giovanni / Team Rocket](../../saga-threads/giovanni-team-rocket.md)
+- [Mewtwo / Ambertwo](../../saga-threads/mewtwo-ambertwo.md)

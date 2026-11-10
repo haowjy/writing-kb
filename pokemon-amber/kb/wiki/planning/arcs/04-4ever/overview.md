@@ -1,6 +1,6 @@
 # Future Arc: 4Ever (Arc 4)
 
-**Amber age:** 14 | **Status:** Seed. Key beats locked. Details TBD.
+**Amber age:** 14 | **Status:** drafting
 
 ## What It Is
 
@@ -19,6 +19,11 @@ Teddiursa faints in the forest. Fainted Pokemon cannot be recalled to their Poke
 ## Key Beats
 
 ### Ursaring
+
+> [!FLAG] **Needs human review**: the 4Ever overview has Teddiursa evolve while
+> surviving alone and find Amber as Ursaring; the Ursaring rescue page has
+> Teddiursa find his mother, corrupted and beyond saving, and evolve in grief
+> when she dies. Both pages present their version as settled. Flagged 2026-11-10.
 
 Ursaring — Teddiursa evolved, hardened from surviving alone — finds Amber during the 4Ever battle and saves her from a mortal situation. They reunite here. Ursaring becomes a primary team member going forward.
 
@@ -48,7 +53,7 @@ In the aftermath, Oak gives her practical advice — how to bond with her Pokemo
 
 She does not tell Oak she's not from this world. That secret stays kept.
 
-See: `wiki/reference/characters/humans/professor-oak.md` — the gap between who Oak remembered and who showed up.
+See [Professor Oak](../../../reference/characters/humans/professor-oak.md): the gap between who Oak remembered and who showed up.
 
 ---
 
@@ -71,7 +76,7 @@ This is also the moment she stops treating the world like a game she already kno
 
 ## Cross-Refs
 
-- `saga-overview.md` — Arc 4 in full structure
-- `wiki/reference/characters/humans/professor-oak.md` — Sam connection, post-4Ever call, the gap
-- `wiki/reference/world/systems/aura.md` — what Oak tells her
-- `wiki/pokemon-teams/team-amber-mc.md` — Ursaring rejoined, Charcadet gone
+- [Saga overview](../../saga-overview.md) — Arc 4 in full structure
+- [Professor Oak](../../../reference/characters/humans/professor-oak.md) — Sam connection, post-4Ever call, the gap
+- [Aura](../../../reference/world/systems/aura.md) — what Oak tells her
+- [Amber's roster](../../rosters/amber-team.md) — Ursaring rejoined, Charcadet gone

@@ -163,7 +163,7 @@ That's why he became a researcher. The bond studies are not a retreat from great
 
 This also makes Oak a mirror to Alonso. Alonso still lives the open-flame version of the adventuring ideal. Oak's fire has banked into research, mentorship, restraint, and obsession with the human-Pokemon bond.
 
-See: `wiki/reference/world/systems/aura.md`
+See [Aura](../../world/systems/aura.md).
 
 ## Notes
 

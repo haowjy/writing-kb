@@ -1,6 +1,6 @@
 # Core Story Elements
 
-**Read `TONE.md` first** - this file describes story elements that create drama, not themes to explore philosophically.
+**Read [the tone guide](../../../styles/tone.md) first**: this file describes story elements that create drama, not themes to explore philosophically.
 
 ---
 
@@ -178,6 +178,5 @@ When brainstorming story:
 
 ## Related Files
 
-- Story approach: `TONE.md` (read this!)
-- Future story: `[retired arc plan]`, `[retired arc plan]`
-- Character relationships: `characters/`
+- [Tone](../../../styles/tone.md)
+- [Saga overview](../saga-overview.md)

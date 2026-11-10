@@ -2,11 +2,11 @@
 
 ## Core Promise
 
-After passing through Viridian, Amber commits to helping Teddiursa on Route 2 after he communicates an urgent ask. The exchange does not establish that Rocket captured his mother; seeing captive Ursaring inside the cave gives the promise its fuller object. It remains unfulfilled after the collapse. Exact replacement chapter numbers are open.
+After passing through Viridian, Amber commits to helping Teddiursa on Route 2 after he communicates an urgent ask. The exchange does not establish that Rocket captured his mother; seeing captive Ursaring inside the cave gives the promise its fuller object. It remains unfulfilled after the collapse.
 
 Teddiursa does not initially trust Amber because she is kind. He tolerates her because she recognizes the problem and moves toward the humans who took Ursaring.
 
-Rocket's cave operation is a **Mew search**: instruments detected an exceptionally powerful psychic presence beneath/around the isolated cave (whether Mew, residue, or another phenomenon is unknown, even to Rocket). The cave was Ursaring and Teddiursa's home; Rocket appropriated it as a temporary search base, captured Ursaring when she resisted, and Teddiursa escaped. The older psychic-reactive ore / Mewtwonite / forced-evolution / fossil purposes are deleted.
+Rocket's cave operation is a **Mew search**: instruments detected an exceptionally powerful psychic presence beneath/around the isolated cave (whether Mew, residue, or another phenomenon is unknown, even to Rocket). The cave was Ursaring and Teddiursa's home; Rocket appropriated it as a temporary search base, captured Ursaring when she resisted, and Teddiursa escaped.
 
 ## Route 2: Chase and Alonso
 
@@ -20,9 +20,14 @@ Amber and Alonso take stock and decode Teddiursa's ask through gesture, pantomim
 
 The collapsed deeper branch opens into a genuine Mystery Dungeon (Ditto-heavy, psychic types). Alonso identifies it and initially --- wrongly --- infers that a valuable Dungeon explains Rocket's protection; the truth remains the Mew-like signal, which Rocket never mapped or understood. The group self-rescues through another Route 2 exit.
 
-Giovanni intercepts them outside and immediately attacks with Nidoking without introducing himself. Amber and Alonso contribute most to defeating it; Kyle contributes little. Giovanni pauses after the loss, reveals that he is Viridian's Gym Leader, and retroactively calls the attack an impromptu test. He awards standard badges to Amber and Alonso, pauses before Kyle, gives him nothing, and leaves. He does not escort them backward, invite them to the Gym, stage a long wait, or give them a development-campus tour.
+Giovanni intercepts them outside and immediately attacks with Nidoking without introducing himself. Amber and Alonso contribute most to defeating it; Kyle contributes little. Giovanni pauses after the loss, reveals that he is Viridian's Gym Leader, and retroactively calls the attack an impromptu test. He awards standard badges to Amber and Alonso, pauses before Kyle, gives him nothing, and leaves.
 
-## 4Ever Resolution (Settled 2026-06-07)
+## 4Ever Resolution
+
+> [!FLAG] **Needs human review**: the 4Ever overview has Teddiursa evolve while
+> surviving alone and find Amber as Ursaring; the Ursaring rescue page has
+> Teddiursa find his mother, corrupted and beyond saving, and evolve in grief
+> when she dies. Both pages present their version as settled. Flagged 2026-11-10.
 
 Teddiursa finds his mother during the 4Ever arc — she is among Rocket's corrupted/controlled Pokemon (possibly Dark Ball, possibly experimentation). She has been driven to madness and is beyond saving. She dies in the exchange.
 
@@ -37,7 +42,7 @@ Some later event mellows both Ursaring and Amber. They come down together. The a
 ## Open Questions
 
 - Is Teddiursa officially caught in this mini-arc, or later?
-- Does Ursaring recognize Teddiursa before Rocket extracts her in Ch. 22?
+- Does Ursaring recognize Teddiursa before Rocket extracts her?
 - How exactly does Ursaring die in 4Ever? In battle? Mercy kill? Self-destruction?
 - What corrupted her — Dark Ball, experimentation, battle drugs?
 - What is the later event that mellows both Ursaring and Amber?

@@ -4,7 +4,7 @@
 
 > **Design inspiration:** Piltover/Zaun from *Arcane* — a beautiful city whose wealth is maintained by neglecting its industrial underbelly.
 
-## Political Structure (Settled)
+## Political Structure
 
 ### The Two Celadons
 

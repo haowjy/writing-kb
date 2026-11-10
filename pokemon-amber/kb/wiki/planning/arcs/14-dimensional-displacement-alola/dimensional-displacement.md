@@ -2,7 +2,7 @@
 
 Current planning direction for the brief mundane-world displacement that hands Amber into Alola. The emotional shape is fairly strong; the exact cosmology and trigger remain partly open.
 
-## Locked Direction
+## Current Direction
 
 - **Placement:** This happens after **Kalos** and before **Alola**, **Delta Episode**, and **the kingdom raid (Visit 2)**.
 - **Trigger family:** The current preferred family is **Kalos-side Mega Dimension fallout** or another closely related late-saga dimensional rupture. Exact mechanics remain open.

@@ -43,14 +43,14 @@ Before the larger cave incident, Amber briefly encounters Kyle, a few Rocket gru
 
 After Amber and Kyle pass through Viridian, Team Rocket's larger Route 2 cave operation continues the **Mew search**. Rocket instruments detected an exceptionally powerful psychic presence beneath/around the isolated cave; the earlier Route 1 sighting gives the search more urgency, but does not mean Mew remains nearby. The cave was Ursaring and Teddiursa's home --- Rocket appropriated it as a temporary search base, captured Ursaring, and lost Teddiursa. The collapse strands the travelers in a genuine Mystery Dungeon beneath the Route 2 site; the signal's truth stays open: Mew present, recent passage, residue, or a false-positive signature.
 
-**Deleted direction:** the psychic-reactive Mew-adjacent ore, Mewtwonite seed, forced-evolution testing, and fossil mining formerly attached to this incident are removed as settled purposes. No ore passes to Amber, Charcadet, Oak, or Rocket records from this cave.
+No ore or stone passes to Amber, Charcadet, Oak, or Rocket records from this cave.
 
 **Unova / Genesect crisis (future arc timing TBD):**
 The Genesect movie arc plays out in the Unova / New Tork City / Pokemon Hills context. Mewtwo #1 is the female-coded/voiced Mewtwo protecting Pokemon there. The Genesect swarm arrives. Crisis.
 
 Amber helps Mewtwo achieve or stabilize Mega Mewtwo Y during the crisis, defending against Genesect.
 
-**Mewtwonite Y's origin is now open.** With the Route 1 ore deleted, where the stone's material comes from, who holds it, and how it reaches the Unova crisis are all undecided. The identification/processing can still involve Kalos Mega Evolution expertise, a Devon researcher, a Mega Evolution scholar, or someone connected to a League/scientific apparatus. Not decided. Don't need to decide yet.
+**Mewtwonite Y's origin is open:** where the stone's material comes from, who holds it, and how it reaches the Unova crisis are all undecided. 
 
 ---
 
@@ -89,4 +89,4 @@ That's the spine.
 - `story/ch21/plan.md` through `story/ch27/plan.md` — physically reorganized sequence: Route 1 Mew/Kyle, Viridian, then the Route 2 cave and Dungeon
 - [Saga Overview — Full Arc Structure](../saga-overview.md) — Arc 12+ future Unova / Genesect entry
 - [Giovanni–Fuji Jail Conversation Planning (Rev B)](../arcs/00-perfect-family/giovanni-fuji-jail.md) — Fuji's extraction, Mewtwo #2 context, two-Mewtwo distinction
-- `wiki/reference/characters/pokemon/legendary-mythical/mewtwo.md` — Mewtwo character file (stub, needs expansion)
+- [Mewtwo](../../reference/characters/pokemon/legendary-mythical/mewtwo.md) — Mewtwo character page

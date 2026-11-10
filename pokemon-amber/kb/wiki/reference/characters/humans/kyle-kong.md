@@ -552,7 +552,7 @@ did not. This is an early wound, not evidence that Kyle lacks potential.
 
 ## Related Files
 
-- Saffron gym politics: `plot/saffron-gym-rivalry.md`
-- Sabrina: `reference/characters/humans/sabrina.md`
-- Aura mechanics: `wiki/reference/world/systems/aura.md`
-- Training culture: `wiki/reference/world/systems/trainers/cultural-history.md`
+- Saffron gym politics: [Saffron Gym rivalry](../../../planning/arcs/01-kanto-year-1/saffron-gym-rivalry.md)
+- Sabrina: [Sabrina](sabrina.md)
+- Aura mechanics: [Aura](../../world/systems/aura.md)
+- Training culture: [Cultural history](../../world/systems/trainers/cultural-history.md)

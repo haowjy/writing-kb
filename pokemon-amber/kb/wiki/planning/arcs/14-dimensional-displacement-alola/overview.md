@@ -11,9 +11,13 @@ After the late-saga real-world displacement, Amber is pulled back into the Pokem
 
 This reset is **circumstantial, not personal**. Amber is still competent, dangerous, and experienced. What changes is the support lattice around her: she lacks normal paperwork, does not have easy access to her full roster, cannot assume mainland-style Pokemon Center trust, and cannot casually lean on Oak, League contacts, or familiar transit systems.
 
-## Locked Direction
+## Current Direction
 
-- **Placement:** The arc begins immediately after the late-saga real-world displacement beat and now sits **before** Delta Episode and the kingdom raid (Visit 2), not after them.
+> [!FLAG] **Needs human review**: this page and the displacement page order Alola
+> before a "kingdom raid (Visit 2)" to Ashura, but the Ashura thread has no chosen
+> return and the saga overview leaves post-Sinnoh order unchosen. Flagged 2026-11-10.
+
+- **Placement:** The arc begins immediately after the late-saga real-world displacement beat and sits **before** Delta Episode and the kingdom raid (Visit 2).
 - **Entry vector:** Amber is recovered through **Aether / Lusamine / Ultra Wormhole** activity rather than returning under her own control.
 - **Arc function:** Alola is a forced reset after escalation. The point is exhaustion, improvisation, and isolation, not a clean victory lap after Kalos or the dimensional break.
 - **Pressure model:** Amber is weakened by circumstance rather than by loss of competence or conviction.

@@ -91,7 +91,6 @@ The gym network is split into pillar and minor tiers, and badge routes are more 
 
 ## Citations
 
-- Primary design reference: `future/worldbuilding/gym-system-detailed.md` (source incorporated into this page)
 - Badge interaction context: [Gym and Elite Badges](badge-system.md)
 - Historical context: [Evolution of Pokemon Gyms](https://github.com/haowjy/pokemon-amber/blob/main/story/)
 - Canon comparison baseline: [Bulbapedia - Gym](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Gym)

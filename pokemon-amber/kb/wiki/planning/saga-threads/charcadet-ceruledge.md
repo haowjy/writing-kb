@@ -22,7 +22,7 @@ Ch. 22 deepens the evidence: Amber patiently decodes only Teddy's urgent ask, ac
 
 The choice develops across most of Kanto as Charcadet observes Amber in the trio's shared adventures; it lands only near Kanto's end, shortly before 4Ever.
 
-The older psychic-reactive ore thread attached to this incident is deleted: Rocket's cave operation is a Mew search, not ore harvesting, and no ore passes to Amber or Charcadet. Charcadet's bond with Amber comes from observation, trust, and Amber keeping promises.
+Rocket's cave operation is a Mew search, and no object passes to Amber or Charcadet. Charcadet's bond with Amber comes from observation, trust, and Amber keeping promises.
 
 ## Mystery Dungeon Bonding Arc
 

@@ -137,7 +137,6 @@ He enters Kanto legally with three registered Pokemon — his full active party 
 - **Charcadet** — the starter's younger sibling; weaker, less settled, and the one who will eventually choose Amber.
 - **Corvisquire** — scouting and aerial utility; can later become the envisioned Corviknight.
 
-Talonflame and Pawmot are **deleted** from the arrival team; do not restore them.
 
 ### Kanto Additions
 
