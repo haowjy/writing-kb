@@ -73,16 +73,20 @@ Pokemon rather than growing a permanent cast.
 ## Amber's Pokemon this year
 
 - **Ditto**: her partner from Arc 0, registered on her license [ch18 draft].
+- **Pidgey**: caught on Route 1; it faints in the Route 2 fight, recovers with
+  its ball connection broken, and flies away. See
+  [Ursaring rescue](ursaring-rescue.md).
 - **Caterpie**: first catch on Route 1 (ch19). See
   [Caterpie's courage](../../team-arcs/amber/caterpie-courage.md).
 - **Teddiursa**: joins through her promise to help rescue his mother from
   Rocket on Route 2. Grievance-driven, not a comfort bear; he tolerates Amber
-  because she moves toward the problem. The promise stays unfulfilled through
-  Kanto. See [Ursaring rescue](ursaring-rescue.md).
+  because she moves toward the problem. The promise stays unfulfilled until
+  4Ever. See [Ursaring rescue](ursaring-rescue.md).
 - **Heracross**: captured in a prepared Dungeon after Route 2 (ch29).
 - **Charcadet**: Alonso's younger Charcadet. Its interest starts when it sees
   Amber protect a fleeing Teddiursa; its choice develops across Kanto and lands
-  near the end, shortly before 4Ever. The bond comes from what it watches her
+  near the end of Kanto, shortly before 4Ever, the forest arc that comes just
+before the Conference ([4Ever](../04-4ever/overview.md)). The bond comes from what it watches her
   do, never from an object. See
   [Charcadet / Ceruledge](../../saga-threads/charcadet-ceruledge.md).
 
@@ -122,8 +126,7 @@ foot. Any eight Gyms qualify; Viridian is first.
 
 > [!FLAG] **Needs human review**: this page leaves Amber's Year 1 badge count
 > and Conference result open; the saga overview's Arc 3 says she earns eight
-> badges and qualifies. Neither has the author's own words behind it in the
-> sessions available. Flagged 2026-11-10.
+> badges and qualifies. The author needs to choose. Flagged 2026-11-10.
 
 ## Kyle and Saffron
 

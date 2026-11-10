@@ -5,8 +5,12 @@ the story is and what the author has chosen it will be, with the reasons. It is
 an author wiki, not a reader wiki: spoilers, character intent and unrevealed
 canon belong here.
 
-The manuscript lives in the story repository (`story/chN/`). Chapter prose is
-the authority on what has happened; this KB serves it and never outranks it.
+The manuscript lives in the story repository
+(github.com/haowjy/pokemon-amber, `story/chN/chapterN.md`). Chapter prose is
+the authority on what has happened; this KB serves it and never outranks it. A
+chapter whose front matter says `status: draft` is still moving: cite it as
+`[chN draft]`, and keep its plan (`story/chN/plan.md`) out of reference pages
+until the prose exists.
 
 ## What a page may say
 
@@ -70,7 +74,9 @@ page is added or moved.
 
 **Capture** an author decision: find the topic page, write the choice and its
 reason, and delete what it replaces. Change a claim only on evidence from the
-manuscript or the author's own words.
+manuscript or the author's own words (his messages in the conversation, not an
+agent's summary of them). When neither settles a claim, flag it as below
+rather than rewriting it.
 
 **Query**: start at `wiki/index.md` and follow links before re-reading
 chapters.

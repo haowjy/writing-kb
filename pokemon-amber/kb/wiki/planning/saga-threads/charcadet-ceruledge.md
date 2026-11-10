@@ -16,9 +16,9 @@ Charcadet choosing Amber is not a rejection of Alonso. It is Charcadet choosing 
 
 ## Route 1 Seed
 
-Ch. 21 plants the seed during the Rocket chase: Amber intervenes for a fleeing Teddiursa at cost to herself, follows him into the operation's reach, and is overwhelmed before Alonso arrives to complete the rescue. Charcadet notices Amber's protective pattern, but does not join.
+The Route 2 Rocket chase plants the seed (ch23 in the current chapter plans): Amber intervenes for a fleeing Teddiursa at cost to herself, follows him into the operation's reach, and is overwhelmed before Alonso arrives to complete the rescue. Charcadet notices Amber's protective pattern, but does not join.
 
-Ch. 22 deepens the evidence: Amber patiently decodes only Teddy's urgent ask, accepts it, and follows the request into the guarded cave; there she sees captive Ursaring before Rocket extracts her through a prepared escape route and collapses the junction. Charcadet remains part of carrying Amber's promise forward through the Mystery Dungeon escape (Ch. 23-24).
+The cave deepens the evidence: Amber patiently decodes only Teddy's urgent ask, accepts it, and follows the request into the guarded cave; there she sees captive Ursaring before Rocket extracts her through a prepared escape route and collapses the junction. Charcadet remains part of carrying Amber's promise forward through the Mystery Dungeon escape (Ch. 23-24).
 
 The choice develops across most of Kanto as Charcadet observes Amber in the trio's shared adventures; it lands only near Kanto's end, shortly before 4Ever.
 

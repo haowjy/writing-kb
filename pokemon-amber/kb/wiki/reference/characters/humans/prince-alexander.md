@@ -2,7 +2,7 @@
 
 **Status:** drafting
 
-Prince Alexander of Ashura is Ashura's prince and Amber's companion on both visits. He is
+Prince Alexander of Ashura is Ashura's prince and Amber's companion on the first visit; any later visit is open. He is
 not a later Kanto conqueror, liberation-that-curdles mirror, or endgame
 antagonist; that role duplicated Giovanni's.
 
