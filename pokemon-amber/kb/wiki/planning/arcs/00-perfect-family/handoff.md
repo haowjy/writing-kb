@@ -11,7 +11,7 @@ What later books need after The Perfect Family (ch1–17.5) and the four Pallet 
 ## Closed
 
 - Fuji's public family plot ends in Pallet: Stephen dead, house burned, Oak stops him, Fuji arrested. [ch12] [ch14–17]
-- 17.5: Fuji is made publicly dead in the Viridian detention explosion; Giovanni keeps him off-books. Amber is not present.
+- Giovanni and Blaine visit Fuji's cell; the Viridian detention block explodes and a man vanishes into an alley [ch17.5]. Not yet on the page: Fuji is publicly declared dead and Giovanni keeps him off the books. Amber is not present.
 - Oak gives Ditto's Pokeball to Amber. [ch17]
 - Ditto's identity turn is done. Journey Ditto does not get a second feelings-plot. [Ditto identity](../../team-arcs/amber/ditto-identity.md)
 

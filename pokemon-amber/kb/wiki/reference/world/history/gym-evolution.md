@@ -229,7 +229,7 @@ Maintains traditional aesthetics (kimono, garden focus) while running modern cor
 - Corporate culture shifts city identity
 - Fighting Dojo loses political support
 
-**Modern Saffron (Psychic):**
+**Saffron after the Dojo's eventual loss (drafting; when Amber starts, the Dojo is still the official Gym):**
 - Psychic-type gym reflects tech-focused culture
 - Corporate security contracts
 - Urban incident response
@@ -248,7 +248,7 @@ The Fighting Dojo represents gyms that failed to adapt - lost official status, o
 - Very difficult badge challenges
 - Used position for intelligence gathering
 
-**Post-Giovanni:**
+**Post-Giovanni (drafting, after his exposure):**
 - Leadership changed after Team Rocket exposure
 - Gym rebuilt reputation
 - Return to pure Ground-type focus
