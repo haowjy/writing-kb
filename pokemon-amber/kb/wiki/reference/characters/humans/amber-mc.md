@@ -43,7 +43,7 @@ responsible for explaining or managing his recovery.
 
 ## Economic Position
 
-Amber begins her journey at 14 after normal middle-school graduation. Oak rigorously prepares and sponsors her --- with starter funds, equipment, and supplies --- so she is resourced like a working-class-plus trainer rather than the shoestring runaway her early planning imagined. This support is not an early-graduation or early-departure exception.
+Amber begins her journey at 14 after normal middle-school graduation [ch17: "Fourteen, typically... after middle school, and only if you pass the license test"]. Oak prepares and sponsors her, so she is resourced like a working-class-plus trainer, not a shoestring runaway. This support is not an early-departure exception. The lab sendoff and gifts below are planned for chapter 18, not yet written.
 
 - **Walking journey** by choice (chooses the road for adventure, not forced by economics)
 - **No Trainer Academy** --- Oak-mentored, self-taught with adult knowledge
@@ -53,7 +53,7 @@ Amber begins her journey at 14 after normal middle-school graduation. Oak rigoro
 - **Oak's field assignment** --- a prototype Pokedex for gathering scans while
   she travels
 - **Quest boards** --- supplemental income and trainer experience, not survival
-- **Pokeballs** are still meaningful expenses (₽200 each, see [Pokeball Economics & Pricing](../../world/society/economics/pokeball-pricing.md)) but affordable
+- **Pokeballs** are still meaningful expenses (₽200 each, a KB price not yet on the page; see [Pokeball Economics & Pricing](../../world/society/economics/pokeball-pricing.md)) but affordable
 - **Failed gym attempts** = setback, not financial disaster
 - **8 badges as goal** --- disrupted by weird incidents/Team Rocket, not economics
 

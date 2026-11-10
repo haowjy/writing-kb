@@ -8,28 +8,19 @@ Amber's first Pokemon. Fuji's trained weapon during the Pallet chapters. After t
 
 ## Origin
 
-Ditto aren't a natural species. They're a byproduct of genetic cloning research — Fuji pioneered it, others followed, and every Ditto in the world traces back to that kind of mistake. A cloning attempt goes wrong, produces a blob that can temporarily become the source Pokemon but always imperfectly, and a Ditto exists. They escaped labs, bred, spread. The species is entirely man-made.
+Not yet on the page: in the chapters this is only Amber's half-remembered theory [ch4] [ch7]. Ditto aren't a natural species. They're a byproduct of genetic cloning research — Fuji pioneered it, others followed, and every Ditto in the world traces back to that kind of mistake. A cloning attempt goes wrong, produces a blob that can temporarily become the source Pokemon but always imperfectly, and a Ditto exists. They escaped labs, bred, spread. The species is entirely man-made.
 
 The universal defect: every Ditto keeps its own face. Wrong eyes, wrong mouth, Ditto's expression bleeding through whatever form it's wearing. That flaw is baked into all of them — the consistent failure mode of the cloning process itself.
 
 This Ditto is different. It is a failed **Mew** clone.
 
-No face bleed-through. Full morphological fidelity. When it transforms, it gets the strength too, not a weakened copy. Both were thought impossible for a Ditto. Oak says it in ch16: *"Even its strength is copied? I thought Ditto transformations were always incomplete..."*
+No face bleed-through. Full morphological fidelity. When it transforms, it gets the strength too, not a weakened copy. Both were thought impossible for a Ditto. Oak says it in ch16: *"I've never seen a Ditto transform without some flaw. The face, the proportions, something. But yours copied Dragonite perfectly... Even its strength."*
 
 Mew is the origin of all Pokemon genetics and natively knows Transform. A Mew clone transforms the way Mew does: completely. It can also hold a short memory of recent forms. Standard Ditto cannot.
 
 ## What Fuji Made It
 
-Fuji drilled high-value forms until they stayed available on command:
-
-- Gyarados
-- Nidoking
-- Rhydon
-- Gengar
-- Arcanine
-- Ninetales
-
-Giovanni's heavy hitters and Blaine's ace — Pokemon Fuji had studied or accessed through Team Rocket. "Protocol Five" and similar numbered commands triggered those transformations instantly. That list was current at the Pallet attack because he kept drilling it. [ch13] [ch16]
+Fuji drilled high-value forms until they stayed available on command, triggered by numbered commands ("Protocol 3!" [ch15]). On the page Ditto fights as Gyarados [ch13] and Dragonite [ch16]. The rest of the list is unwritten: Pokemon Fuji studied or reached through Team Rocket.
 
 ## What It Actually Is
 
@@ -50,7 +41,7 @@ Ch13 is the first time:
 
 Ditto tried to fire but not kill. Stephen still dies.
 
-By ch15–16, ordered to kill the children and then Oak, it refuses from the start. It can fight. It will fight. It will not cross that floor.
+In ch15–16 it still fights on Fuji's orders, against Oak's team as Dragonite, but refuses the lethal follow-through; it dissolves out of form near the end of ch16. It will fight. It will not cross that floor.
 
 ## With Amber
 

@@ -13,7 +13,7 @@ His grief plays out in everyday control. He recreates Amber's original life down
 
 The story filters his actions through Amber's perspective, which means readers see him the way abuse often gets seen at first --- caring on the surface, the deeper truth only visible in hindsight. The revelation of what he actually is happens gradually.
 
-The most significant addition: Fuji is Delia Ketchum's former husband. He is Ash's stepfather. This tangles Amber directly into core Pokemon world lore in a way she has no idea about.
+Fuji is Delia Ketchum's former husband; Ash is Delia and Stephen's son, not Fuji's. This tangles Amber directly into core Pokemon world lore in a way she has no idea about.
 
 Mewtwo was never Fuji's personal goal. Rocket expects powerful Pokemon, inventions, and useful research; Fuji sees Mewtwo as proof that can advance his personal resurrection work. Giovanni knowingly permits that work within Fuji's broad autonomy rather than commissioning Amber's resurrection as Rocket's central objective.
 
@@ -89,7 +89,7 @@ Fuji's drinking tracks one variable: whether he has a purpose. When he has one, 
 | Basement years (~12y before story) | Rock bottom. Escalating violence toward Delia | Amber's death |
 | Team Rocket years (~12y) | **Sober.** Composed, competent | Giovanni: lab, funding, and autonomy that permits his resurrection work |
 | Ch 6 --- Ch 17 | Relapse, escalating | Surveillance photos of Delia with Stephen |
-| After Ch 17 | Raging. Openly the drunk scientist | Losing Amber --- she escapes him |
+| After Ch 17.5 (drafting) | Raging. Openly the drunk scientist | Losing Amber: Oak gives her Ditto and she stays in Pallet |
 | Clone-family era (+5-10y) | **Sober again.** Present, capable, a good father | Giovanni: new Ambertwo |
 
 **Basement years.** Obsessive research by day, alcohol by night. The violence grew out of the drinking, in stages: withdrawal, then verbal cruelty, then the anger that made Delia flinch. She left and filed.
@@ -98,7 +98,13 @@ Fuji's drinking tracks one variable: whether he has a purpose. When he has one, 
 
 **Ch 6 --- the relapse.** Domino hands him surveillance photos of Delia with Stephen. He had declined a drink minutes earlier and asked for water. After the photos he asks for whiskey, and whiskey stays his coping drink from here on. In Ch 11 he buys wine and tells himself it's a reunion gift. In Ch 13 he drinks that bottle alone on a log and murders Stephen. Through all of it he's impaired at the edges rather than visibly drunk.
 
-**After Ch 17 --- the raging phase.** Amber escapes him. The daughter he resurrected chose to leave, and it breaks him for good. He drinks openly now and everyone around him knows, including the research staff he snaps at and lashes out at. Sometimes he does brilliant work drunk. Sometimes he just wrecks things. Nobody can predict which.
+**After Ch 17.5 --- the raging phase (drafting).** He has lost Amber: Stephen is dead, he is arrested, and the daughter he resurrected stays with Delia and Oak. It breaks him for good.
+
+> [!FLAG] **Needs human review**: this phase was written when the page said Amber
+> escapes Fuji; chapters 17 and 17.5 instead have him arrested, then visited by
+> Giovanni and Blaine before the detention block explodes. In ch17.5 he also tells
+> Giovanni a clone "wouldn't be the same", which sits against the clone-family era
+> below. Flagged 2026-11-10. He drinks openly now and everyone around him knows, including the research staff he snaps at and lashes out at. Sometimes he does brilliant work drunk. Sometimes he just wrecks things. Nobody can predict which.
 
 **Clone-family era --- sober again.** Giovanni offers him another daughter and it works the same way it did the first time.
 
@@ -136,16 +142,16 @@ Purpose is Fuji's real dependency, and alcohol floods in whenever the supply get
 - Forges official documents and identity records ([Ch.6](https://github.com/haowjy/pokemon-amber/blob/main/story/ch6/chapter6.md))
 
 **Pokemon Team:**
-- **Ditto**: A failed Mew clone (legendary baseline). Exceptional transformation fidelity; can retain near-source strength and rehearse specific forms without a live model. In ch13, fires Hyper Beam on Stephen but deliberately weakens it; refuses the finishing Bite. By ch15-16, refuses lethal orders entirely. Not hardwired resistance --- a gradual collapse of compliance rooted in Mew-nature. See: `wiki/reference/characters/pokemon/amber-team/ditto.md`.
-- **Magmar**: Enhanced with experimental serum; shows unwavering obedience to violent commands ([Ch.12](https://github.com/haowjy/pokemon-amber/blob/main/story/ch12/chapter12.md), [Ch.14-16](https://github.com/haowjy/pokemon-amber/blob/main/story/ch14/chapter14.md))
+- **Ditto**: A failed Mew clone (legendary baseline). Exceptional transformation fidelity; can retain near-source strength and rehearse specific forms without a live model. In ch13, fires Hyper Beam on Stephen but deliberately weakens it; refuses the finishing Bite. In ch15-16 it still fights on his orders but refuses the lethal follow-through, and dissolves out of Dragonite form at the end of ch16. Not hardwired resistance --- a gradual collapse of compliance rooted in Mew-nature. See: `wiki/reference/characters/pokemon/amber-team/ditto.md`.
+- **Magmar**: Blaine's Pokemon in Fuji's hands ("That Magmar was mine" [ch17.5]). Fuji injects it with the serum; it forcibly evolves, obeys violent commands, and dies in the ch16 battle with Oak ([Ch.12](https://github.com/haowjy/pokemon-amber/blob/main/story/ch12/chapter12.md), [Ch.14-16](https://github.com/haowjy/pokemon-amber/blob/main/story/ch14/chapter14.md))
 
 **Resources:**
 - Access to Team Rocket funding and facilities
 - Forged identity documents for Amber ([Ch.6](https://github.com/haowjy/pokemon-amber/blob/main/story/ch6/chapter6.md))
-- The one known surviving vial of the experimental strength-augmentation serum. Its now-dead creator is provisionally called Dr. Kihara --- an assistant label, not author-approved canon --- and Fuji was that scientist's close collaborator, not its creator. See [Pokemon Augmentation Technologies](../../world/technology/pokemon-augmentation.md).
+- A vial of Dr. Kihara's experimental augmentation serum [ch6]. Kihara, now dead, created it; Fuji was a close collaborator, not its creator. After the Pallet attack the vial's last drops are with Oak, who sends a sample to the League [ch17.5]. See [Pokemon Augmentation Technologies](../../world/technology/pokemon-augmentation.md).
 
 ## Status
-**Apprehended** - Captured by authorities after his final battle with Professor Oak ([Ch.17](https://github.com/haowjy/pokemon-amber/blob/main/story/ch17/chapter17.md)). His Ditto was taken into custody for questioning but remains unharmed, while his Magmar's fate is unknown.
+Arrested after the Pallet attack [ch17]. Oak gives Fuji's Ditto to Amber [ch17]; the Magmar is dead [ch16]. In a Viridian detention cell, Giovanni and Blaine visit him; Blaine sets his own Magmar on him for wasting the one Fuji borrowed. Hours later the detention block explodes, and Lance glimpses a man vanish into an alley [ch17.5]. Not yet on the page (drafting): Fuji is publicly declared dead in the explosion and Giovanni keeps him off the books; see [Giovanni / Fuji jail scene](../../../planning/arcs/00-perfect-family/giovanni-fuji-jail.md).
 
 ## Psychological Analysis
 Fuji's grief over Amber was real. Losing his daughter to a wartime disaster while he was absent is not a character flaw. But he was already gone before the story starts --- the scale of the lab, the years of experiments, the Team Rocket alliance. What looks like corruption happening in front of us is a mask coming off, not a fall from grace. He stopped being who he was long before Amber woke up.

@@ -17,7 +17,7 @@ This version of Delia is Dr. Fuji's ex-wife. That's what the story adds, and it 
 
 **Complex Past:** She's not a simple, wholesome mother figure. She buried her first daughter, watched her husband lose his mind over it, and walked away to start over. That's the person running Pallet House.
 
-**Forced Confrontation:** Fuji drops Amber on her doorstep and walks away. Delia is now legally listed as the child's mother on forged documents she never signed. She had no say in any of it ([Ch.11](https://github.com/haowjy/pokemon-amber/blob/main/story/ch11/chapter11.md)).
+**Forced Confrontation:** Fuji drops Amber on her doorstep and walks away. She had no say in any of it; Fuji had already forged the girl's records [ch6] ([Ch.11](https://github.com/haowjy/pokemon-amber/blob/main/story/ch11/chapter11.md)).
 
 **Immediate Trauma:** Fuji's return, Stephen's murder, and the destruction of her home leave Delia shattered in the immediate aftermath ([Ch.17](https://github.com/haowjy/pokemon-amber/blob/main/story/ch17/chapter17.md)).
 
@@ -43,7 +43,7 @@ Unable to watch him spiral further and needing to escape the suffocating grief o
 
 After the divorce, Delia briefly attempted to return to her abandoned dream of modeling. However, she was in her late twenties now—older than the industry typically preferred—and the years of grief and stress had taken their toll. The dream she'd once held didn't fit her life anymore.
 
-During this period, her mother passed away, leaving Delia the Pallet House restaurant in Pallet Town ([Ch.13](https://github.com/haowjy/pokemon-amber/blob/main/story/ch13/chapter13.md)). Faced with settling her mother's estate and finding a new direction, Delia returned to the small town she'd left behind.
+During this period, her mother passed away, leaving Delia the Pallet House restaurant in Pallet Town (anime canon; the chapters show only that she runs a restaurant [ch12] [ch13]). Faced with settling her mother's estate and finding a new direction, Delia returned to the small town she'd left behind.
 
 ### New Beginning with Stephen (~10-8 years before story)
 
@@ -112,11 +112,11 @@ Oak serves as a steady presence during the crisis, offering practical help and e
 
 ## Appearance
 
-Auburn hair, often worn in a practical style suitable for restaurant work. Described as still youthful-looking despite being in her late thirties ([Ch.13](https://github.com/haowjy/pokemon-amber/blob/main/story/ch13/chapter13.md)). Often seen in practical clothing—aprons, gardening clothes—befitting her role as restaurant owner and homemaker.
+Auburn hair, often worn in a practical style suitable for restaurant work. Auburn hair "barely touched by gray" [ch6]; her age is not on the page. Often seen in practical clothing—aprons, gardening clothes—befitting her role as restaurant owner and homemaker.
 
 ## Trivia & Notes
 
-- Delia's restaurant, Pallet House, was inherited from her mother and is Pallet Town's only restaurant ([Ch.13](https://github.com/haowjy/pokemon-amber/blob/main/story/ch13/chapter13.md))
+- Delia's restaurant, Pallet House, was inherited from her mother and is Pallet Town's only restaurant (anime canon; not on the page)
 - She once dreamed of being both a model and a Pokemon Trainer but abandoned these dreams after her first marriage and Amber's birth (based on canonical Takeshi Shudō novelization)
 - The story establishes her as having auburn hair, distinguishing her from some anime interpretations
 - Her relationship with Dr. Fuji and role as Amber's biological mother creates a unique interpretation not present in any canonical Pokemon media

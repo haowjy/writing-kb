@@ -22,7 +22,7 @@ Mewtwo's hesitation to kill the scientists at the moment of awakening is attribu
 
 Off-screen variable for most of the saga. Contact events should be rare and consequential — not a recurring presence, but a region-scale force that exists in the background.
 
-Current long-term direction distinguishes two Mewtwo. The first escaped Cinnabar and eventually corresponds to the female-coded/voiced Mewtwo of the Genesect crisis. Amber meets her again in a future Unova / New Tork City / Pokemon Hills arc, where Amber helps her access or stabilize Mega Mewtwo Y to defend against Genesect. Route 1 is not material setup for that payoff: Rocket searches for Mew after an unidentified powerful psychic signal, and no ore is recovered. Mewtwonite Y's eventual origin, material, custody chain, and path to Unova remain open in [The Mewtwo Thread](../../../../planning/saga-threads/mewtwo-ambertwo.md).
+Current long-term direction distinguishes two Mewtwo. The first escaped Fuji's lab and eventually corresponds to the female-coded/voiced Mewtwo of the Genesect crisis. Amber meets her again in a future Unova / New Tork City / Pokemon Hills arc, where Amber helps her access or stabilize Mega Mewtwo Y to defend against Genesect. Route 1 is not material setup for that payoff: Rocket searches for Mew after an unidentified powerful psychic signal, and no ore is recovered. Mewtwonite Y's eventual origin, material, custody chain, and path to Unova remain open in [The Mewtwo Thread](../../../../planning/saga-threads/mewtwo-ambertwo.md).
 
 The full Mewtwo thread — its relationship to Amber, Ditto, Fuji's legacy, and the Mew connection — is the spine of the saga. Needs its own planning session.
 
@@ -30,7 +30,7 @@ The full Mewtwo thread — its relationship to Amber, Ditto, Fuji's legacy, and 
 
 - Holds grudges; interprets threats through a human cognitive frame
 - Recognizes "Amber" — exhibits protective/curious behavior rather than aggression
-- Escaped the Cinnabar lab at the moment of awakening (ch1)
+- Escaped Fuji's lab, beneath a mansion, at the moment of awakening (ch1); the chapters don't place the lab on Cinnabar
 - Whereabouts during Amber's journey: largely unknown until the future Unova / Genesect crisis
 
 ## Mewtwo #2: The Corrected Version

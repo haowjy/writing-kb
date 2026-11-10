@@ -6,7 +6,7 @@ Dr. Fuji assaults Delia Ketchum's home with Magmar to reclaim Amber, resulting i
 ## Timeline of Events
 - Fuji arrives with flowers; escalates to forced entry via Magmar; Electabuzz engages. ([Ch.14](https://github.com/haowjy/pokemon-amber/blob/main/story/ch14/chapter14.md))
 - Electabuzz vs Magmar; Electabuzz killed; crowd/police arrive; Amber rejects Fuji; Oak arrives with Dragonite. ([Ch.15](https://github.com/haowjy/pokemon-amber/blob/main/story/ch15/chapter15.md))
-- Oak evacuates children; battle continues (Arcanine/Tauros/Exeggutor vs Magmar/Ditto-Dragonite); serum mutates Magmar; Oak injured; Fuji subdued by Pokemon' rage and police. ([Ch.16](https://github.com/haowjy/pokemon-amber/blob/main/story/ch16/chapter16.md))
+- Oak evacuates children; battle continues (Arcanine/Tauros/Exeggutor vs Magmar/Ditto-Dragonite); serum mutates Magmar; Oak injured; Oak's Pokemon throw Fuji down and Oak takes his Pokeballs; police are on scene. ([Ch.16](https://github.com/haowjy/pokemon-amber/blob/main/story/ch16/chapter16.md))
 
 ## Aftermath
-- Hospital: Oak alive; Fuji apprehended; Ditto held but unharmed; Amber's legal status unresolved. ([Ch.17](https://github.com/haowjy/pokemon-amber/blob/main/story/ch17/chapter17.md))
+- Hospital: Oak alive; Fuji arrested; Oak gives Ditto to Amber; Amber's legal status unresolved. ([Ch.17](https://github.com/haowjy/pokemon-amber/blob/main/story/ch17/chapter17.md))

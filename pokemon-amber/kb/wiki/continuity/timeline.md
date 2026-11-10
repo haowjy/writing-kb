@@ -6,7 +6,7 @@ Chronological, reader-focused summary of events so far. Citations link to `story
 
 ## Historical Context (Pre-Story)
 
-**Major events shaping the world before Amber's journey:**
+**Major events shaping the world before Amber's journey.** These dates are drafting: no written chapter states them. The chapters establish only the shape (Oak was Champion and ended the war [ch13] [ch16]; his pardon locks his old team [ch17.5]; Chimera was a war project [ch17.5]).
 
 ### Ancient History
 - **~200 years ago:** Pokeball invention (primitive, hand-crafted, expensive).
@@ -54,9 +54,9 @@ Chronological, reader-focused summary of events so far. Citations link to `story
 - Quick Attack closes the bout; Joey pays up. Public attention follows the shapeshifter.
 
 ## Chapter 5 - A Perfectly Normal Gym Session ([Summary](https://github.com/haowjy/pokemon-amber/blob/main/story/ch5/summary.md))
-- Celadon Gym is gated by IDs/consent/passes; an unsettling old man lingers at the gate.
+- Celadon Gym is gated by IDs/consent/passes; an unsettling old man watches from a bench inside the grounds.
 - Amber wanders a quieter greenhouse; Ditto playfully mirrors a Gloom.
-- Trainer Mary catches her in a restricted area (sign mounted above child‑height).
+- Trainer Mary catches her in a restricted area (the sign half-hidden behind wisteria).
 - Outside, a sneezing girl collides with Amber; her Oddish faints—an incident that will matter later.
 
 ## Chapter 6 - Scientist Fuji ([Summary](https://github.com/haowjy/pokemon-amber/blob/main/story/ch6/summary.md))
@@ -123,5 +123,16 @@ Chronological, reader-focused summary of events so far. Citations link to `story
 ## Chapter 17 - The Eye of the Storm ([Summary](https://github.com/haowjy/pokemon-amber/blob/main/story/ch17/summary.md))
 - Hospital morning: school canceled; Ash and Gary scuffle; Officer Jenny coordinates statements.
 - Oak lives (heavily bandaged); Dragonite accounted for; Stephen is missing; Delia is shattered.
-- Ditto is safe in custody; Oak explains Amber may fall under League orphan care; a past War is obliquely referenced.
-- Oak returns Ditto to Amber at the hospital, noting its strength and refusal to continue fighting.
+- Oak explains Amber may fall under League orphan care; a past War is obliquely referenced.
+- Oak gives Ditto's ball to Amber at the hospital: "Safe... It's unharmed."
+
+## Chapter 17.5 (draft)
+- Oak asks Lance whether the serum is a League project and asks permission to reassemble his old team; Lance refuses, citing the terms of Oak's pardon.
+- In Sinnoh, four Leagues seal a treaty creating the International Police and a permanent alliance after nearly a week of negotiation.
+- In a Viridian detention cell, Giovanni and Blaine visit Fuji; Blaine reveals the Magmar was his and sets his own Magmar on Fuji.
+- Hours later the detention block explodes; Lance, arriving, sees a man vanish into a dead-end alley.
+
+## Chapter 18 (draft, being rewritten)
+- Four years after ch17. Oak gives Amber the starter speech alone in the lab; the three cohort Pokeballs (Cyndaquil, Eevee, Electrike) are for this year's graduates, not her.
+- Oak registers Ditto on Amber's trainer license, which allows three active Pokemon; Amber declines a starter.
+- The rest of the chapter (goodbye round, Mega Stone, lab party, walk home, dawn departure) is planned, not written.

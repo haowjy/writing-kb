@@ -10,4 +10,4 @@ A sickly girl (Kaede) steals a Celadon Gym Oddish amidst a misunderstanding, see
 - The girl's identity as Kaede and motive are revealed; Erika treats Hiro and authorizes Oddish to remain temporarily. ([Ch.10](https://github.com/haowjy/pokemon-amber/blob/main/story/ch10/chapter10.md))
 
 ## Aftermath
-- Mary's suspension context; improved standing through resolution. Amber departs Celadon arc shortly after. ([Ch.9](https://github.com/haowjy/pokemon-amber/blob/main/story/ch9/chapter9.md), [Ch.10](https://github.com/haowjy/pokemon-amber/blob/main/story/ch10/chapter10.md))
+- Mary's suspension context; improved standing through resolution. Fuji takes Amber home on the train; she leaves Celadon for Pallet in ch11. ([Ch.9](https://github.com/haowjy/pokemon-amber/blob/main/story/ch9/chapter9.md), [Ch.10](https://github.com/haowjy/pokemon-amber/blob/main/story/ch10/chapter10.md))

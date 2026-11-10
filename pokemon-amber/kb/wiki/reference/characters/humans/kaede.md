@@ -70,8 +70,6 @@ Kaede's situation is resolved when Mary and Amber bring Erika to help ([Ch.10](h
 
 **Continued Suffering:** Even during treatment, Kaede's allergies persist---she continues sneezing throughout the scene, making it clear that keeping the Oddish means ongoing physical suffering for her. Yet she expresses overwhelming gratitude, showing the depth of her love for her brother.
 
-### Chapter 11: Aftermath
-Kaede's story concludes with the successful resolution of her brother's illness, though the chapter's details focus more on other plot developments.
 
 ## Personality
 

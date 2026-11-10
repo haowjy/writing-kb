@@ -20,13 +20,11 @@ Celadon Gym is governed by a board of noble families. Erika's family holds a sea
 
 **Blunt mouth.** Doesn't do diplomacy naturally. Sarcasm is her default register ("Not the first farm kid I've seen go cross-eyed at the size"). Official inquiry mode sits awkwardly on her — she can do it, but it's clearly a learned skill, not instinct.
 
-> **TODO:** Current prose has her too polished in shop interactions (Ch9). Revise to show the effort it takes her to be diplomatic. She should be visibly uncomfortable playing gym representative.
 
 **Rough-but-caring.** Protective of Amber but shows it through directness, not maternal warmth. Worries about taking a kid into the Game Corner — but frames it practically, not sentimentally. When Kaede is caught, Mary kneels and asks about her brother instead of reading charges. She bends rules when people need help, which is how she got suspended in the first place.
 
 **Outcast.** Only Erika treats her as a real colleague. The other gym girls — Kayla, the trainers — are polite enough, but Mary is socially isolated in this institution of refined noble daughters.
 
-> **TODO:** This dimension is absent from existing prose. Needs to be visible — not through exposition, but through small moments of social friction or isolation.
 
 ## Suspension
 
@@ -55,8 +53,6 @@ Erika sends Amber with Mary because Amber saw the culprit's face. Mary first tri
 ### Ch10 — Resolution
 Brings Kaede to verify her story. Returns with Erika for medical help. Assists with Hiro's treatment. Quietly approves Erika's decision to provide free care.
 
-### Ch11 — Aftermath
-[Details TBD]
 
 ### Post-Celadon arc
 Leaves the gym. Doesn't go back to her family. Lives meagerly as a wandering adventurer — rescue missions, odd jobs, exploring. The ace trainer who stopped pretending to be a lady.
