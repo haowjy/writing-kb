@@ -8,10 +8,9 @@
 | 4 | [4Ever](04-4ever/overview.md) | Charcadet and Ursaring payoffs |
 | 7–9 | [Hoenn](07-09-hoenn/overview.md) | Conference year and Mega seed |
 | 10–11 | [Alonso's adventurer interval](10-11-adventurer-interval/overview.md) | Mystery Dungeon exploration; mature rotating roster |
-| 12 | [Sinnoh: Standard Conference](12-sinnoh/overview.md) | [Tobias possibility](12-sinnoh/tobias.md); early Team Galactic interference |
-| post-Sinnoh, placement open | [Ashura Visit 1](10-ashura-kitakami/overview.md) | [Pikachu handoff](10-ashura-kitakami/pikachu-handoff.md); [succession-model decision](../decisions/ashura-visit-one-succession-model.md) |
-| later, placement open | [Ashura return](16-ashura-return/overview.md) | Depends on Visit 1 model |
+| 12 | [Sinnoh: Standard Conference](12-sinnoh/overview.md) | Early Team Galactic interference |
+| post-Sinnoh, placement open | [Ashura](../saga-threads/ashura.md) (saga thread) | Succession model open |
 | later-saga direction | [Dimensional Displacement / Alola](14-dimensional-displacement-alola/overview.md) | Order needs recalculation |
 | endgame | [Main-world war / Ultra Space pursuit](../saga-overview.md) | [Giovanni and Rainbow Rocket](../saga-threads/giovanni-team-rocket.md); [Mystery Dungeon instability](../saga-threads/mystery-dungeon-instability.md) |
 
-Numeric labels after Hoenn are provisional planning aids. Do not infer the obsolete one-year gap or a settled Ashura placement from legacy directory names.
+Arc numbers after Hoenn are planning labels; the post-Sinnoh order is not chosen.

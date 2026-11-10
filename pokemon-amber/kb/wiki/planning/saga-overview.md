@@ -12,7 +12,7 @@ Late-saga ordering from Sinnoh onward is current planning direction, not locked 
 - **Age 16:** Hoenn and Ceruledge reunion
 - **Approximately ages 16–18:** Alonso/Mystery Dungeon adventurer interval
 - **Sinnoh and later ages:** must be recalculated from the interval. Do not retain the obsolete one-year jump or old numbered-arc ages as current chronology.
-- **Trainer start:** Amber, Kyle, Sabrina, Reid, and Nora begin their relevant trainer phase at 14 after normal middle-school graduation; Amber, Reid, and Nora are the same graduating cohort. See [age-cohort decision](decisions/age-cohort.md).
+- **Trainer start:** Amber, Kyle, Sabrina, Reid, and Nora begin their relevant trainer phase at 14 after normal middle-school graduation; Amber, Reid, and Nora are the same graduating cohort.
 - **Ash Ketchum:** Starts at 14, one year after Amber's start; Ash and Gary are 13 with one school year left when Amber departs.
 - **Peak trainer age (typical):** 25–30
 - **Amber is an extreme historical outlier;** Alonso Quijano can also reach peak by endgame
@@ -182,9 +182,9 @@ See: [Sinnoh](arcs/12-sinnoh/overview.md)
 ### Ashura Direction
 **Placement:** after Sinnoh direction; exact arc placement open
 
-Ashura's outward contact, succession crisis, and Mega Darkrai consequences are not resolved enough to assign a fixed visit sequence. The legacy Mad-King escape-and-seal model conflicts with the newer usurper-before-entry direction; neither may be narrated as current fact.
+Ashura's outward contact, succession crisis, and Mega Darkrai consequences are open, so no visit sequence is fixed.
 
-See: [Ashura](saga-threads/ashura.md) and the [succession model](decisions/ashura-visit-one-succession-model.md).
+See: [Ashura](saga-threads/ashura.md).
 
 ---
 
@@ -217,7 +217,6 @@ Giovanni's proxy strategy eventually becomes open main-world conflict, after whi
 - [Adventurer interval](arcs/10-11-adventurer-interval/overview.md)
 - [Sinnoh](arcs/12-sinnoh/overview.md)
 - [Ashura](saga-threads/ashura.md)
-- [Ashura succession model](decisions/ashura-visit-one-succession-model.md)
 - [Amber's team](rosters/amber-team.md)
 - [Mystery Dungeon instability](saga-threads/mystery-dungeon-instability.md)
 - [Giovanni and Rainbow Rocket](saga-threads/giovanni-team-rocket.md)

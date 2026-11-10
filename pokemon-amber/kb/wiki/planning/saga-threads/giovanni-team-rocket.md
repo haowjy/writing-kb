@@ -64,8 +64,8 @@ The exact challenge, secession, and war sequence remains open, but its outcome
 does not: Giovanni loses the main-world war and escapes through an Ultra
 Wormhole. Oak materially helps expose Giovanni or cripple Team Rocket before
 the authorities relax the restrictions on his wartime starter trio; the exact
-operation, public disclosure, and legal mechanism remain open. See [Oak team
-custody and the exceptional starter offer](../decisions/oak-team-custody.md).
+operation, public disclosure, and legal mechanism remain open. See
+[Professor Oak](../../reference/characters/humans/professor-oak.md).
 
 ## Final Saga: Ultra Space and Rainbow Rocket
 

@@ -2,13 +2,14 @@
 
 **Status:** drafting
 
-Approximately sixty-two in the story present, Oak is Amber's primary mentor and benefactor. He rigorously prepares her for her normal age-14 departure, supports her licensing, provides a prototype Pokedex, and continues supporting her throughout the journey. Publicly a renowned Pokemon researcher; privately a man carrying a nearly fifty-year-old memory he has never told anyone.
+Approximately sixty-two in the story present, Oak is Amber's primary mentor and benefactor. He prepares her for her normal age-14 departure, registers Ditto to her on her new trainer license [ch18 draft], and keeps supporting her through the journey. Publicly a renowned Pokemon researcher; privately a man carrying a nearly fifty-year-old memory he has never told anyone.
 
 ## Role in Story
 
 - Gives Ditto to Amber at the end of ch17
-- Rigorously prepares Amber for her normal age-14 departure, supports her
-  licensing, and entrusts her with a prototype Pokedex (ch18)
+- Registers Ditto to Amber on her trainer license and offers her one of this
+  year's three cohort starters, which she declines [ch18 draft]
+- Planned for the rest of ch18: hands her a prototype Pokedex at the lab party
 - Active mentor in the background throughout Arc 1 — not helicopter parenting, but present
 - The Sam/4Ever connection runs quietly beneath every scene between them
 
@@ -22,28 +23,30 @@ with many Pokemon and sees that she notices when they disagree with her rather
 than treating obedience as the only sign of success. He therefore trusts her
 judgment on the road while telling her to let her Pokemon challenge it.
 
-## Prototype Pokedex
+## Prototype Pokedex (planned, ch18)
 
-Oak gives Amber the prototype Pokedex at her Chapter 18 sendoff and asks her to
-gather field scans. Each scan derives and stores an image, estimated height,
-weight, and type. The prototype cannot yet identify a species by name, provide
-descriptions, or speak. Amber's suggestion gives Oak the idea that spoken
-descriptions would let a trainer keep watching a wild Pokemon; whether and when
-that feature is implemented remains open.
+Not yet on the page; the chapter 18 plan places it at the lab party. The
+prototype scans an image and reads an approximate level (a power estimate from
+type-energy readings), estimated height, estimated weight, and type. It cannot
+name the species yet. Amber asks whether it has "no wacky descriptions?"; Oak
+takes the idea seriously, and next year's version adds names and descriptions
+drawn from historical folklore accounts, which is why the entries read strangely.
+Amber realizes she may have caused those descriptions.
 
-## Workbench Mega Stone
+## Workbench Mega Stone (planned, ch18)
 
-An unlabeled Mega Stone sits on Oak's workbench in Chapter 18. Amber recognizes
-what kind of object it is but cannot identify its species association. She does
-not ask Oak about it because explaining her recognition would expose knowledge
-she should not possess. The stone's provenance remains unresolved; nothing
-currently establishes Rowan as its sender.
+An unlabeled Mega Stone sits on Oak's workbench. Amber recognizes what kind of
+object it is but not its species, and does not ask, because explaining her
+recognition would expose knowledge she should not have. The package box beside
+it names Professor Rowan as the sender; Steven Stone as a second sender is
+undecided. The stone belongs to Oak and Rowan's joint research on how bonds let
+Pokemon grow stronger, which later leads to Mega Evolution.
 
 ## The Secession War
 
 Oak briefly held the **unified Indigo Championship** before the first Kanto secession war ended roughly twenty years before story present, when he was approximately forty-two. A Kanto native whose victory restored regional pride, he was pressed by Kanto elites, institutions, and public opinion into supporting a secession effort he believed could end quickly in negotiation. He authorized and participated in that effort; pressure explains the decision but does not erase his culpability.
 
-The bloodshed changed him. Oak turned toward negotiation, abandoned the secession effort, supported the postwar settlement and reunification, and relinquished the Championship. At least one intervening Champion held the office before Lance's recent accession. Kanto nationalists remember Oak's decision as a surrender of freedom; Johto remembers his secession role as illegal; a moderate account treats it as a grave choice he recognized in time to prevent worse harm. The precise duration of the war, succession procedures, and role of Mt. Silver remain open. See [Indigo Champion succession](../../../planning/indigo-champion-succession.md) for the private current direction.
+The bloodshed changed him. Oak turned toward negotiation, abandoned the secession effort, supported the postwar settlement and reunification, and relinquished the Championship. At least one intervening Champion held the office before Lance's recent accession. Kanto nationalists remember Oak's decision as a surrender of freedom; Johto remembers his secession role as illegal; a moderate account treats it as a grave choice he recognized in time to prevent worse harm. The precise duration of the war, succession procedures, and role of Mt. Silver remain open. For now the succession runs Oak, then Pryce as the postwar Champion, then Lance only recently; dates and how Lance took over are open.
 
 The secession arose from a substantially legitimate Kanto grievance against a Johto-led colonial order, without making Oak's use of force uncomplicated. This history informs, but does not wholly define, his bond research: Oak learned that power without reciprocal trust can be catastrophic, and he now seeks a way to cultivate strength without exploitation. See [Kanto–Johto Colonial Integration and First Kanto Secession](../../world/history/kanto-johto-unification-war.md).
 
@@ -79,9 +82,16 @@ available as part of his present active team.
 - **Venusaur** — one of the restricted wartime trio.
 - **Blastoise** — one of the restricted wartime trio.
 
-The trio's later reunion, the exceptional starter eggs associated with it, and
-what remains open are recorded in [Oak team custody and the exceptional starter
-offer](../../../planning/decisions/oak-team-custody.md).
+Oak keeps a practical team for research, travel and protection, but not the
+combination that would read as a remobilization of his wartime force.
+
+**Later (drafting):** Oak materially helps expose Giovanni or cripple Team
+Rocket, and the authorities relax the restriction and permit a reunion. The
+operation and legal mechanism are open. League-managed breeding then produces
+one egg from each restricted line; Oak raises the Charmander, Bulbasaur and
+Squirtle and offers them to Ash's cohort. This is a one-time consequence of his
+partial rehabilitation, not a yearly Kanto-starter giveaway. Whether Ash takes
+one, and the Pikachu outcome, are open.
 
 ## The Story He Tells (The Mt. Silver Outskirts)
 
@@ -91,12 +101,7 @@ He made it to the outer edge of the dragon territory --- Jangmo-o packs, Gible d
 
 This is the story Gary has heard a hundred times. It has no ending. Gramps keeps telling a story that doesn't resolve.
 
-**Possible Ashura payoff:** the Mt. Silver route may connect to Ashura's
-outside-world access point. The current direction does not fix the gateway's
-location or make Oak's route the cause of the breach.
-
-If retained, Amber and Alexander's accidental entry can give Oak's unfinished
-story an ending. It must not become a planned Amber expedition.
+Whether the Mt. Silver route connects to Ashura's access point is open.
 
 ## Dragonite Island
 
@@ -114,7 +119,7 @@ His gaze in ch17 — *"recognition? Certainty?"* — is not suspicion about her 
 
 He lets her get away with things (the ramen deflection, deflecting questions) because he already knows her. He's had nearly fifty years to decide how he feels about her.
 
-**The ending of ch17:** Oak starts to tell the Mt. Silver outskirts story when Amber asks about adventures. Gary complains he's told it a hundred times. Oak looks at Amber — warm, distant, like he's somewhere else — and says: *"I met people I wouldn't trade for anything."* He is not talking about the Mt. Silver outskirts.
+**The ending of ch17:** when Amber asks about adventures, Oak starts the lost-village story he chased into the mountains at seventeen. Gary complains he has heard it a hundred times ("dragon den, blah blah blah, Charizard evolves"). Oak turns to Amber, warm: "I'll start from the beginning." [ch17]
 
 ## The Post-4Ever Call
 
@@ -130,7 +135,7 @@ What Oak does in the aftermath — not as a revelation, just as practical advice
 
 Amber doesn't need him to. She develops it through the work itself.
 
-## Agatha (Settled 2026-06-07)
+## Agatha
 
 Oak and Agatha were together during their competitive years --- rivals, partners, lovers. Both were top-tier trainers; Agatha made it to Championship finals against Oak. They were part of the same research group.
 

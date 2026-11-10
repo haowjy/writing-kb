@@ -50,8 +50,15 @@ Two invariants hold across every phase:
 
 The exact timing (two vs. three years), vendor attribution (Silph Co. or
 another technology provider), offline behavior, and engineering mechanism
-remain open. The settled direction and its boundaries are recorded in
-[Capture registration and transfer automation](../../../planning/decisions/capture-registration-automation.md).
+remain open.
+
+Why it is shaped this way: cost, not bureaucracy, is the era's brake on
+catching, which keeps early-story economics meaningful while capture stays
+legal. A beta that goes public a year later explains why the familiar transfer
+system exists by the games' era without giving Amber's first year a PC-storage
+network. Inactive locks with Pokemon Center welfare overrides let later stories
+use ball security (theft, unauthorized deployment) without ever trapping a
+Pokemon beyond help.
 
 ## Attribution
 

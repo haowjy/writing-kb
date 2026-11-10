@@ -28,7 +28,7 @@ not more willing to do so.
 
 Oak's later material help against Giovanni or Team Rocket leads authorities to
 relax the restriction, but the public exposure and legal mechanism remain open.
-See [Oak team custody and the exceptional starter offer](../../../planning/decisions/oak-team-custody.md).
+See [Professor Oak](professor-oak.md).
 
 ## Older Brother
 
@@ -72,4 +72,3 @@ open.
 - [Champion/Protector and Indigo Council](../../world/society/government/champion-system.md)
 - [Giovanni](giovanni.md)
 - [Giovanni and Team Rocket](../../../planning/saga-threads/giovanni-team-rocket.md)
-- [Project X planning questions](../../../planning/project-x.md)

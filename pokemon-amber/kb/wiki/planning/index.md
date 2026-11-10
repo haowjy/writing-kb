@@ -3,15 +3,9 @@
 | Area | Purpose |
 |---|---|
 | [Saga overview](saga-overview.md) | Full structural map |
-| [Saga threads](saga-threads/index.md) | Story-level unresolved throughlines |
+| [Saga threads](saga-threads/index.md) | Throughlines that shape several arcs |
 | [Arcs](arcs/index.md) | Numbered arc plans and local subplots |
 | [Themes](themes/index.md) | Thematic architecture |
-| [Decisions](decisions/index.md) | Settled choices whose reasoning remains useful |
 | [Rosters](rosters/index.md) | Future Pokemon-team construction |
 | [Pokemon team arcs](team-arcs/index.md) | Pokemon emotional progression and trainer relationships |
-
-## Other Planning Pages
-
-- [Project X planning questions](project-x.md) — open founding, administration, and membership decisions
-- [Indigo Champion succession](indigo-champion-succession.md) — private Pryce intermediary direction and open accession details
 | [World opening](world-opening.md) | Pacing access to the wider world |

@@ -21,7 +21,7 @@ unwritten story).
 
 | Page | Scope |
 |---|---|
-| [Ashura](planning/saga-threads/ashura.md) | Open succession/first-contact thread; Visit 1 model unresolved |
+| [Ashura](planning/saga-threads/ashura.md) | Sealed kingdom; first contact and succession open |
 | [Charcadet / Ceruledge](planning/saga-threads/charcadet-ceruledge.md) | Bond, theft, Rocket weaponization, reunion |
 | [Mewtwo / Ambertwo](planning/saga-threads/mewtwo-ambertwo.md) | Amber, Fuji, Giovanni, and the two Mewtwo |
 | [Giovanni / Team Rocket / Rainbow Rocket](planning/saga-threads/giovanni-team-rocket.md) | Surveillance, political ascent, main-world war, and interdimensional endgame |
@@ -38,21 +38,17 @@ unwritten story).
 | 7-9 | [Hoenn](planning/arcs/07-09-hoenn/overview.md) |
 | 10–11 | [Alonso adventurer interval](planning/arcs/10-11-adventurer-interval/overview.md) |
 | 12 | [Sinnoh: Standard Conference](planning/arcs/12-sinnoh/overview.md) |
-| post-Sinnoh direction | [Ashura](planning/saga-threads/ashura.md) |
+| post-Sinnoh | [Ashura](planning/saga-threads/ashura.md) |
+| later saga | [Dimensional displacement / Alola](planning/arcs/14-dimensional-displacement-alola/overview.md) |
 
-Local notes now live with their arcs: forged documents and the Giovanni/Fuji
-jail scene under Arc 0; Saffron rivalry and Ursaring rescue under Arc 1;
-Pikachu handoff under Ashura Visit 1's legacy-numbered folder;
-dimensional-displacement mechanics under Arc 14.
+Local notes live beside their arc's overview; the [arc index](planning/arcs/index.md) lists them.
 
 ### Other Planning
 
 - [Amber's roster](planning/rosters/amber-team.md)
 - [Amber's Pokemon team arcs](planning/team-arcs/amber/index.md)
-- [Indigo Champion succession](planning/indigo-champion-succession.md)
 - [World opening](planning/world-opening.md)
 - [Themes](planning/themes/index.md)
-- [Decisions](planning/decisions/index.md)
 
 ## Reference
 

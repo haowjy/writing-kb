@@ -179,6 +179,5 @@ When brainstorming story:
 ## Related Files
 
 - Story approach: `TONE.md` (read this!)
-- Character arcs: `current-direction.md`
 - Future story: `[retired arc plan]`, `[retired arc plan]`
 - Character relationships: `characters/`

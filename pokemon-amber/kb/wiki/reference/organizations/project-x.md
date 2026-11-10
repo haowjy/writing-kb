@@ -47,4 +47,4 @@ former Oak contacts, but ordinary academic correspondence is not proof.
 
 The compact's founder, remaining roster, timing, administration, Lance's role,
 the later extent of Rowan's disclosures, and whether Rowan is ever exposed
-remain open in [Project X planning](../../planning/project-x.md).
+are open.

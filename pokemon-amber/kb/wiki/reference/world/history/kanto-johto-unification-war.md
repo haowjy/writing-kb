@@ -107,7 +107,6 @@ These are interpretations of shared history, not interchangeable facts.
 ## Cross-References
 
 - [Champion/Protector and Indigo Council](../society/government/champion-system.md)
-- [Indigo Champion succession planning](../../../planning/indigo-champion-succession.md)
 - [Professor Oak](../../characters/humans/professor-oak.md)
 - [Giovanni](../../characters/humans/giovanni.md)
 - [Team Rocket](../../organizations/team-rocket.md)

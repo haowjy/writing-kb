@@ -28,7 +28,7 @@ Giovanni believes the title's martial and popular legitimacy could help Kanto se
 
 ## Historical Pressure
 
-Oak's brief title made him a Kanto-separatist symbol. He later abandoned secession, supported the postwar settlement and reunification, and relinquished office. At least one intervening Champion served before Lance's recent accession, showing that the office cannot be treated as unchecked sovereignty. Exact accession procedures remain open; see [Indigo Champion succession](../../../../planning/indigo-champion-succession.md) for the private current direction.
+Oak's brief title made him a Kanto-separatist symbol. He later abandoned secession, supported the postwar settlement and reunification, and relinquished office. At least one intervening Champion served before Lance's recent accession, showing that the office cannot be treated as unchecked sovereignty. For now the succession runs Oak, then Pryce as the postwar Champion, then Lance; exact accession procedures are open.
 
 ## Cross-References
 

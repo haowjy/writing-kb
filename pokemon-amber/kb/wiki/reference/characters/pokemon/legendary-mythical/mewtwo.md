@@ -86,4 +86,3 @@ See [Giovanni](../../humans/giovanni.md) and [The Mewtwo Thread](../../../../pla
 - `wiki/reference/characters/humans/amber-mc.md` — shared origin, Mew DNA
 - `wiki/reference/characters/pokemon/amber-team/ditto.md` — the third product
 - `wiki/reference/world/systems/aura.md` — Mew DNA capacity
-- `planning/arcs/10-ashura-kitakami/overview.md` — Mew connection becomes plot-relevant

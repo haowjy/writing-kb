@@ -2,36 +2,35 @@
 
 **Status:** drafting
 
-Ashura is a sealed kingdom whose internal succession crisis and first contact with the outside world remain unresolved planning. Its placement after Sinnoh is a direction, not a locked arc slot.
+Ashura is a sealed kingdom in the Pokemon world, physically and dimensionally
+cut off, distinct from Mystery Dungeons, Ultra Wormholes and alternate worlds.
+Kitakami is a community or province inside it. Its first contact with the
+outside world and its internal succession crisis carry across several arcs,
+which is why it is a saga thread.
 
-## Current Frame
+## Current direction
 
-```mermaid
-flowchart LR
-    B["Ashura barrier breach\nand outside contact"] --> R["Reconnaissance / infiltration\nmore credible than conquest"]
-    R --> S["Sinnoh: Tobias possibility\nand outside-world pressure"]
-    S --> V["Ashura Visit 1\nmodel not selected"]
-    V --> R2["Deliberate return\nif the thread retains it"]
-```
+- Prince Alexander is Ashura's heir. In Kanto he travels a separate route and
+  meets Amber periodically as a mysterious rival, not a party member
+  ([Prince Alexander](../../reference/characters/humans/prince-alexander.md)).
+- The first visit comes after Sinnoh for now; its exact arc slot is open.
+  Amber and Alexander entering together by accident is the current direction,
+  not a planned Amber expedition.
+- The Loyal Three are corrupted opponents. What corrupted them is open.
+- Mew and Amber's trace Mew DNA do not open or seal Ashura.
+- Tobias competes in Sinnoh's Standard Conference. Whether he is connected to
+  Ashura is open.
 
-Ashura is distinct from Mystery Dungeons, Ultra Wormholes, and alternate worlds. The prior universalized causal spine that treated a Mad King's death and a dual-anchor seal as settled has been retired pending a single succession model.
+## Open
 
-## Live Directions
-
-- An uncle may usurp the throne; Alexander/the heir may vanish; Cresselia may refuse to acknowledge the usurper and disappear.
-- The regime may study or try to harness Mega Darkrai, with a barrier breach exposing it to the outside world.
-- Tobias may be an early outward-facing scout or representative.
-- The Loyal Three are corrupted, but the cause is undecided.
-
-## Open Decisions
-
-The [succession model](../decisions/ashura-visit-one-succession-model.md) owns the explicit contradiction between the legacy Mad-King model and the usurper-before-entry model. It also tracks the open question of whether Mega Darkrai amplifies existing desire.
-
-Until that decision is made, the visit's exact party, access route, antagonists, Cresselia and Gardevoir's roles, seal mechanics, political outcome, and return conditions are open.
+The succession model is not chosen: who rules, what happened to Alexander's
+father, Cresselia's and Gardevoir's roles, Mega Darkrai's state, how the
+barrier was breached, and what the first contact puts at stake. Until the
+author chooses, the visit's party, route, antagonists, exit and any later
+return are open too. Do not narrate any one succession sequence as fact.
 
 ## Cross-Refs
 
-- [Succession model](../decisions/ashura-visit-one-succession-model.md)
-- [Visit 1](../arcs/10-ashura-kitakami/overview.md)
-- [Provisional return](../arcs/16-ashura-return/overview.md)
-- [Tobias](../arcs/12-sinnoh/tobias.md)
+- [Darkrai and Cresselia](../../reference/world/phenomena/legendaries/darkrai-cresselia.md)
+- [Sinnoh](../arcs/12-sinnoh/overview.md)
+- [Saga overview](../saga-overview.md)

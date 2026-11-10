@@ -56,8 +56,7 @@ stasis.
 **Ashura** is the normal short form; **Ashura Kingdom** is the full political
 name. It does not commit Prince Alexander to a conquest arc.
 
-See [the Ashura saga thread](planning/saga-threads/ashura.md) and [Ashura Visit 1]
-(planning/arcs/10-ashura-kitakami/overview.md).
+See [the Ashura saga thread](planning/saga-threads/ashura.md).
 
 ### Hidden Kingdom *(descriptive / arc title)*
 
@@ -79,16 +78,13 @@ belongs to the separate late-saga mundane-world displacement thread.
 ### outer barrier / threshold *(functional terms; topology open)*
 
 The dimensional boundary separating Ashura from the ordinary Pokemon world.
-These terms describe possible functions, not a settled physical map. An older
-Cresselia/Gardevoir seal model conflicts with a newer usurper-before-entry
-direction; do not use either as current topology.
+These terms describe functions, not a settled physical map; the topology is open.
 
 ### Mt. Silver anomaly *(provisional access site)*
 
 A possible outside-world access point within the Mt. Silver massif, beyond a
-dragon gauntlet. This remains useful for Oak's mystery and adjacent beats, but
-must be reconciled with Visit 1's accidental entry and the still-open breach
-mechanism before it becomes fixed topology.
+dragon gauntlet, tied to Oak's unfinished story. Whether it is Ashura's access
+point is open.
 
 ## Cosmology
 
@@ -137,10 +133,9 @@ realm** or **nightmare world** as Ashura's proper name.
 
 ## Visit Names
 
-**Ashura Visit 1** and **Ashura return** are provisional labels, not evidence
-that either visit's entry, exit, party, or mission has been selected. Avoid
-**Kitakami I / II**: Kitakami is a local setting, not the name of the whole
-Ashura thread. See the [Ashura succession model](planning/decisions/ashura-visit-one-succession-model.md).
+**Ashura Visit 1** and **Ashura return** are labels, not evidence that either
+visit's entry, exit, party, or mission is chosen. Don't call them **Kitakami I /
+II**: Kitakami is a local setting, not the name of the whole Ashura thread.
 
 ## Organizations and Endgame
 

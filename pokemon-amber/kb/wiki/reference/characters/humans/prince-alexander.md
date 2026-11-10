@@ -27,10 +27,8 @@ companion waiting for Amber's plot.
 
 Alexander comes from Ashura's continuously developing society, not 3,000 years
 of personal stasis. The timing and consequence of his escape, his first reunion
-with Amber, and any return to Ashura are unresolved. Older pages' Mad-King
-killing, Mega-Darkrai escape, and Gardevoir-seal sequence conflicts with a newer
-usurper-before-entry direction; neither is current character fact. See the
-[Ashura succession model](../../../planning/decisions/ashura-visit-one-succession-model.md).
+with Amber, and any return to Ashura are open, because Ashura's succession
+model is not chosen; see [Ashura](../../../planning/saga-threads/ashura.md).
 
 An Ashuran unifier, dispossessed heir, or returning claimant role remains
 possible, but Alexander's political outcome is open.
@@ -42,10 +40,9 @@ possible, but Alexander's political outcome is open.
   Cresselia, Mega Darkrai, and the barrier;
 - personality, voice, and temperament;
 - Kanto team and the practical domain of his rivalry with Amber;
-- exact role in Visit 1's confrontation and after Visit 2.
+- his role in the first Ashura visit and anything after it.
 
 ## Cross-Refs
 
 - [Ashura saga thread](../../../planning/saga-threads/ashura.md)
-- [Visit 1](../../../planning/arcs/10-ashura-kitakami/overview.md)
-- [Visit 2](../../../planning/arcs/16-ashura-return/overview.md)
+- [Ashura](../../../planning/saga-threads/ashura.md)

@@ -75,10 +75,8 @@ Darkrai, not Hoopa or Mew, remains the current direction for Ashura's dimensiona
 sealing; Amber's Mew DNA is not an access key. The precise Mega Darkrai
 mechanism and relationship to the barrier remain provisional.
 
-The legacy Visit 1 sequence in which Alexander kills a Mad King, Mega Darkrai
-escapes a body, and Cresselia/Gardevoir make a seal conflicts with the newer
-usurper-before-entry direction. Neither sequence is current fact. See the
-[Ashura succession model](../../../../planning/decisions/ashura-visit-one-succession-model.md).
+How Mega Darkrai, Cresselia and Gardevoir figure in Ashura's succession is
+open; see [Ashura](../../../../planning/saga-threads/ashura.md).
 
 Hoopa may later navigate an existing distortion but cannot replace Darkrai as
 the cause. The Loyal Three are corrupted; a Pecharunt/Toxic Chains mechanism

@@ -81,7 +81,7 @@ Within each region, Pokemon are organized by depth of narrative bond:
 
 ### Primary
 
-- **Kirlia → Gardevoir** *(acquired early Hoenn)* — Amber's psychic slot and a member of the working mature emotional core. Earlier pages treated Gardevoir as a fixed external seal anchor after Ashura Visit 1; that depends on an unresolved Ashura succession/Visit 1 model and is not current roster fact. See [Ashura's succession model](../decisions/ashura-visit-one-succession-model.md).
+- **Kirlia → Gardevoir** *(acquired early Hoenn)* — Amber's psychic slot and a member of the working mature emotional core. Whether Gardevoir has any role in Ashura's seal is open; see [Ashura](../saga-threads/ashura.md).
 
 ### Secondary (approaching Primary)
 
@@ -244,7 +244,6 @@ Migration logistics: registration scan, health stamp, insurance proof, visa tier
 
 ## Cross‑Refs
 
-- [Current direction](https://github.com/haowjy/writing-kb/blob/main/pokemon-amber/kb/workspace/current-direction.md) — source of truth for story direction
 - [Celadon arc](../arcs/02-06-celadon/overview.md) — Celadon/Erika/Vee arc
 - [Ashura](../saga-threads/ashura.md) — unresolved Ashura placement and Visit 1 model
 - [Adventurer interval](../arcs/10-11-adventurer-interval/overview.md) — Mystery Dungeon roster-development phase

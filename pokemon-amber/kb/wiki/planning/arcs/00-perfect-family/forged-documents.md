@@ -38,5 +38,4 @@ The forged documents are **NOT the departure catalyst.** Amber leaves because sh
 
 ## Related Files
 
-- Current direction: `current-direction.md`
 - Character reference: `../../../reference/characters/humans/delia-ketchum.md`

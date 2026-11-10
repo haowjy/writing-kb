@@ -552,7 +552,6 @@ did not. This is an early wound, not evidence that Kyle lacks potential.
 
 ## Related Files
 
-- Current direction: `current-direction.md`
 - Saffron gym politics: `plot/saffron-gym-rivalry.md`
 - Sabrina: `reference/characters/humans/sabrina.md`
 - Aura mechanics: `wiki/reference/world/systems/aura.md`

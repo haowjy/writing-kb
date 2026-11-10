@@ -20,13 +20,11 @@ Team Galactic is in an early/preparatory hidden phase. Amber repeatedly interfer
 
 ## Tobias
 
-Tobias is an outward-facing Ashuran possibility, not settled character truth. The working possibilities are that he is Alexander's cousin and the usurper's son, crossed the barrier as a representative or scout, and initially does not know Alexander survived. Fame, credentials, mobility, and outside-world knowledge are plausible motives. His Darkrai/Latios relationship, mission, loyalties, and exact family/political position remain open.
-
-See [Tobias](tobias.md) and the [Ashura succession decision](../../decisions/ashura-visit-one-succession-model.md).
+Tobias is a Standard Conference entrant, not an ACE competitor. Whether he is
+connected to [Ashura](../../saga-threads/ashura.md) is open.
 
 ## Cross-Refs
 
 - [Adventurer interval](../10-11-adventurer-interval/overview.md)
-- [Tobias](tobias.md)
 - [Conference system](../../../reference/world/systems/trainers/conference-system.md)
 - [Ashura](../../saga-threads/ashura.md)
