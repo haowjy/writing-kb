@@ -1,5 +1,5 @@
 ---
-status: canon
+status: drafting
 ---
 
 # Licensing System & Trainer Tiers
@@ -42,6 +42,11 @@ How trainer credentials, carry limits, and recognized tiers work. The licensing 
 **No Age Restriction:**
 - Anyone can get Trainer ID at any age
 - Guardian presence encouraged for young children but not required
+
+> [!FLAG] **Needs human review**: at the Celadon Gym in ch5 the receptionist asks
+> a child with no trainer ID whether her parents are with her and turns her away
+> when they aren't, which reads as a guardian being required in place of an ID.
+> Flagged 2026-11-10.
 - Most people wait until ready for journey/school (14+)
 
 **Does NOT Unlock:**

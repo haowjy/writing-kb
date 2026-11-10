@@ -108,8 +108,6 @@ The lobby branches into three distinct areas separated by sleek glass partitions
 - "[Item] Berry Collection - Celadon Hills (Class D)"
 - "Oddly decent pay for some wild berry picking"
 
-**Fine Print:**
-Posted at bottom of board: "Quest acceptance requires valid Badge from authorized Gym. Present badge card at reception." ([Chapter 7](https://github.com/haowjy/pokemon-amber/blob/main/story/ch7/chapter7.md))
 
 **Trainer Behavior:**
 - Move with "easy confidence of people who'd done this a thousand times"
@@ -203,25 +201,21 @@ Glass doors lead to outdoor training facilities:
   - Grainy photo of Hypno
   - Stark warning about public safety
   - Massive bounty reflecting severity
-  - Requires Saffron badge
 
 **Class C:**
 - "[Defeat] Rogue Eevee and Eeveelutions Route 7 - Exercise Caution (Class C)"
   - Multiple evolved forms implied
   - Caution warning suggests danger
   - Amber had vague memory about this
-  - Requires Celadon badge (Route 7 area)
 
 **Class D:**
 - "[Item] Berry Collection - Celadon Hills (Class D)"
   - "Oddly decent pay for some wild berry picking"
   - Entry-level wilderness work
-  - Requires Celadon badge
 
 - "[WANTED] Thief that stole an Oddish from Celadon Gym Greenhouse (Class D)"
   - Mary pinning this up during Amber's visit
   - Investigation rather than combat quest
-  - Requires Celadon badge
 
 **Multiple Rescue Quests (Class Unknown):**
 - Various yellow papers about fainted Pokemon retrieval

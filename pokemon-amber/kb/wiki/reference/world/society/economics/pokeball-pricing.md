@@ -121,7 +121,7 @@ Pokeballs represent one of the most significant technological achievements in th
 - Equipment replacement: varies
 
 **Sponsorship Advantage:**
-- Professor Oak's sponsorship grant includes fifty standard Pokeballs (₽10,000 value), an exceptional advantage rather than normal starter support
+- Professor Oak's sponsorship supplies Amber's Pokeballs, an advantage over normal starter support; the amount is not yet on the page
 - Gym scholarships may provide pokeballs
 - Wealthy families can afford full teams immediately
 - Poor families rely on child earning their own pokeballs

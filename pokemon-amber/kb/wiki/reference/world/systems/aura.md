@@ -312,7 +312,7 @@ See also: [Clan & Lineage System](../society/clan-system.md)
 - Remove mysticism, add scientific understanding
 - Face resistance from elite families
 - Field observation across trainers and species supports the bond research; the
-  Chapter 18 prototype Pokedex gathers basic Pokemon scans rather than serving
+  prototype Pokedex (planned for chapter 18) gathers basic scans rather than serving
   as the bond study itself
 - Goal: make aura cultivation teachable without ancient lineages
 

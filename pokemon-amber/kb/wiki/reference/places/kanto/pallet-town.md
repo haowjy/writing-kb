@@ -34,6 +34,11 @@ This story significantly expands Pallet Town from its canonical tiny size to a f
 
 The story portrays Pallet Town as a viable fishing community with an active harbor, while maintaining its identity as Oak's hometown and the starting point for trainers' journeys.
 
+> [!FLAG] **Needs human review**: this page makes Pallet a coastal town of a few
+> thousand with a fishing port. Chapter 11 shows "scattered farms, clusters of
+> houses, then a small collection of homes wrapped around the base of Oak's hill",
+> and no chapter mentions a harbor. Flagged 2026-11-10.
+
 **Narrative Rationale:**
 Canon Pallet Town's 8 residents cannot support the story's requirements (Delia running a restaurant, community dynamics, witnesses to events, funeral attendees, etc.). The expansion maintains Pallet Town's "small town" character while creating a functional setting for Chapters 11-18.
 
@@ -150,15 +155,16 @@ Pallet Town becomes a central location in Chapters 11-18:
 - Hospital aftermath of Fuji's attack
 - Oak returns Ditto to Amber and begins the transition into formal mentorship
 
-**Three-year Pallet gap and Chapter 18:**
+**Four-year Pallet gap and Chapter 18:**
 - Amber attends middle school but spends most afternoons, weekends, and school
   breaks working at Oak's ranch and laboratory
 - Oak's staff and research Pokemon become her strongest Pallet community while
   her school relationships remain thin
 - Amber, Reid, and Nora complete middle school normally at 14 as Oak's three
   sponsored Pallet graduates; Ash and Gary are 13 with one school year left
-- Oak's lab hosts Amber's private graduation sendoff before she departs north
-  along Route 1
+- Oak gives Amber the starter speech alone, registers Ditto on her license, and
+  offers her one of the three cohort starters, which she declines [ch18 draft];
+  the lab party and her departure north along Route 1 are planned
 
 The town serves as both idyllic small-town setting and site of tragic violence, showing how Dr. Fuji's obsession destroys peaceful lives.
 

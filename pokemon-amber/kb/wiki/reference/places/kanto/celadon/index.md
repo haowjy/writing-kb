@@ -36,7 +36,7 @@ The approach to [Celadon Gym](celadon-gym.md) is lined with ginkgo trees whose f
 - Elevated train system linking to Pokemon Center and other districts
 
 **Residential Areas:**
-- Dr. Fuji's apartment is located in Celadon (Amber's current residence during Chapters 1-9)
+- Dr. Fuji's apartment is located in Celadon (Amber's home in Chapters 1-10; she moves to Pallet in Chapter 11)
 - Mixed residential zones near commercial areas
 
 ### Transportation
@@ -119,7 +119,7 @@ Amber discovers the quest system here in [Chapter 7](https://github.com/haowjy/p
 
 ### Celadon Department Store
 
-*[To be documented - referenced in canon but not yet shown in story]*
+Five floors; a vitamin alcove sells Celadon Gym's HP UP at ₽9,800 [ch9].
 
 Major commercial center, one of the largest department stores in Kanto. Known for wide variety of items, TMs, and Pokemon supplies.
 
@@ -230,7 +230,6 @@ Celadon represents:
 - Rainbow Badge
 - Major commercial center
 - Garden/nature aesthetic
-- Celadon Department Store (referenced but not yet shown)
 
 ## Related Locations
 

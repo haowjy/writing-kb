@@ -18,9 +18,9 @@ the older request culture remains in place as newer institutions develop.
 | `[Escort]` | Blue | Protect people or cargo. |
 | `[Investigation]` | Green | Gather information, track, or inspect. |
 
-Chapter 7 postings include a ₽15 Celadon Hills berry collection, a ₽80 Route 7
-Eevee/Eeveelution defeat request, a ₽50 stolen Oddish notice, and the ₽20,000
-Saffron Hypno mass-sleep bounty.
+Chapter 7's board shows a Class A Saffron Hypno mass-sleep bounty at ₽20,000,
+a Class C Route 7 Eevee request, a Class D Celadon Hills berry collection with
+"oddly decent pay", and an unpriced stolen-Oddish notice [ch7].
 
 Public postings use E-through-A difficulty grades; S-class or classified work
 is assigned directly. Grades warn and guide rather than automatically bar a

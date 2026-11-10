@@ -59,9 +59,8 @@ The Kanto secession war later expanded habitat protection, protected-zone and
 poaching authority, and early warning for ecosystem disruption. Mt. Silver's
 exact role and public account remain open.
 
-Chapter 7 establishes Ranger Requests on the Celadon job board, including Route
-7 Spearow flock management, a Mt. Moon wild Pokemon census, and an urgent lost
-trainer rescue.
+On the page, Rangers from each region contained two outbreaks near city limits
+in the month before the International Police treaty [ch17.5].
 
 ## Related Pages
 
