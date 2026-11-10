@@ -3,36 +3,38 @@
 **Region:** Kanto
 **Duration:** ~12 months (flexible)
 **Detail Level:** HIGH (currently being planned)
+**Structure:** episodic. Named clusters below; do not over-plot the year as one through-line.
+
+Entry state: [Arc 0 handoff](../00-perfect-family/handoff.md).
+
+## Episodes
+
+An episode is a named cluster of chapters, not a chapter.
+
+| Episode | Chapters | Status |
+|---|---|---|
+| Pallet departure | ch18 | Draft under revision |
+| Route 1 | ch19–21 | Planned (first catch, Caterpie, Mew/Kyle) |
+| Viridian | ch22, count open | Passage; ordinary city beats open |
+| Route 2: Teddiursa / cave | ch23+ | Planned (Alonso, Rocket, Mystery Dungeon, Giovanni badge) |
+| Later Kanto | unnamed | Episodic; gyms, incidents, conference TBD as future episodes |
 
 ## What Happens
 
 Amber departs Pallet Town at 14 after normal middle-school graduation, with
 Oak's blessing, a trainer license, practical equipment, starter funds, Ditto,
 and a prototype Pokedex field assignment. Oak has rigorously prepared her, but
-this is not an early-departure exception. She leaves to travel, meet Pokemon,
-and see unfamiliar places; the arc develops that open-ended drive into an
-eight-badge and conference pursuit. Teddiursa joins her early, while the
-younger Charcadet remains Alonso's Pokemon until near Kanto's end. Amber and
-Kyle meet first; Alonso joins them on Route 2. The three travel together through
-most of Kanto, with Alonso's Luffy-like freedom repeatedly pulling the others
-toward Mystery Dungeons and stranger adventures. Near Kanto's end, Charcadet
+this is not an early-departure exception. She leaves to see the world of Pokemon
+— the same childhood dream as before the timeskip, and the same drive that got
+her into trouble. Teddiursa joins her early, while the younger Charcadet remains
+Alonso's Pokemon until near Kanto's end. Amber and Kyle meet first; Alonso joins
+them on Route 2. The three travel together through most of Kanto, with Alonso's
+Luffy-like freedom pulling them toward Mystery Dungeons and stranger episodes.
+Near Kanto's end, Charcadet
 chooses Amber and Alonso leaves for his next adventure, leaving Amber and Kyle
 as a duo.
 
-The journey is properly resourced but repeatedly disrupted by weird Pokemon incidents that pull Amber off the gym circuit. Team Rocket operates as an escalating background threat. The gap between "normal trainer journey plan" and "weird stuff keeps happening to me" drives the arc.
-
-**Major Events:**
-- Ch 18: Licensed departure from Pallet
-- Ch 19: Pidgey chase and failed capture, lunch mechanics rant, peaceful Caterpie catch, first-capture celebration
-- Ch 20: Caterpie POV, silk-movement experiment, and Pidgey attack
-- Ch 21: brief Route 1 interlude with a few Rocket grunts, Kyle, and Mew. Kyle and Amber meet while independently colliding with the grunts. Mew treats the conflict as play, takes an unusually strong interest in Amber, and disappears before anyone can understand or capture it.
-- After Ch 21: Amber and Kyle reach and pass through Viridian before the larger Rocket plot begins. The exact Viridian chapter count and ordinary city beats remain open.
-- Route 2, after Viridian: Teddiursa's flight from Rocket introduces Alonso and leads into the Ursaring rescue attempt, Rocket operation, collapse, and Mystery Dungeon.
-- Kyle remains with Amber after the Mew encounter and becomes a temporary companion first. Alonso joins on Route 2 through the Teddiursa rescue; the three travel together through most of Kanto without a formal party declaration.
-- The Chapter 21--27 plan files have been physically reorganized around the new geography: Mew/Kyle on Route 1, Viridian, then Teddiursa/Alonso and the cave on Route 2. Giovanni still intercepts the group at the Route 2 exit, but the tour, long cleanup wait, and invitation back into Viridian are removed.
-- Badge progression across the year (disrupted by incidents)
-- Team Rocket surveillance / interference
-- Conference arc (TBD: does Amber qualify? How far does Kyle get?)
+The journey is properly resourced but repeatedly disrupted by weird Pokemon incidents that pull Amber off the gym circuit. Team Rocket operates as an escalating background threat. The gap between "normal trainer journey plan" and "weird stuff keeps happening to me" is how many episodes arrive, not a single year-plot to pre-write.
 
 **Ending State:** Alonso has already left after honoring Charcadet's choice to
 join Amber. Amber and Kyle enter the Conference era as the remaining pair. Kyle
@@ -50,10 +52,8 @@ Kanto, creating a temporary principal trio, then leaves near Kanto's end after
 Charcadet chooses Amber. Local companions, rivals, Gym Leaders, quest clients,
 and Pokemon crises can still accompany particular problems.
 
-- Amber begins with travel and discovery, not a grand title or fixed life plan.
-  Alonso repeatedly pulls her toward Mystery Dungeons, risk, and the breadth of
-  the Pokemon world; she is often carried into the adventure before gradually
-  discovering that she genuinely wants it too.
+- Amber already wants to see the world of Pokemon. Alonso pulls her toward
+  Mystery Dungeons and risk.
 - Kyle is inspired by Alonso's chosen-adventure model while Amber's tactical
   insight helps him meet his inherited Fighting Dojo obligation.
 - Alonso is the Luffy-like free adventurer: kind of dumb, impulsive, serious
@@ -72,27 +72,9 @@ abandon.
 
 ## Ch 18: Departure
 
-Licensed, calm, Oak-supported. Amber's license and competency process occurred
-offscreen; Chapter 18 does not stage an exam.
+Episode: Pallet departure. Licensed, Oak-supported, exam offscreen.
 
-Key points:
-- Reid and Nora are fellow age-14 Oak-sponsored graduates; Reid and Amber
-  promise a battle in the Indigo Plateau finals, while Nora remains an academic
-  foil rather than a promised battle rival
-- The lab assistants provide practical travel supplies, Stormweave trail
-  runners, and a Silph Co. spatial bag that expands capacity and reduces
-  effective carrying weight
-- Oak's prototype Pokedex stores a scan's image, estimated height, weight, and
-  type; it cannot yet name the species, provide a description, or speak
-- Amber's suggestion gives Oak the idea for spoken descriptions, and he asks
-  her to gather field scans during the journey
-- The ranch and laboratory show the difficult academic and practical work Oak
-  gave Amber during the four-year Pallet gap
-- Amber recognizes an unlabeled Mega Stone on Oak's workbench but cannot name
-  its species association or explain her recognition; its provenance remains open
-- Oak would prefer another year, but trusts Amber because she passed his
-  standards and notices when Pokemon disagree rather than valuing obedience alone
-- Sunrise farewell --- legitimate, joyful, forward-looking
+Beats live in [story/ch18/plan.md](https://github.com/haowjy/pokemon-amber/blob/main/story/ch18/plan.md) (draft, not canon). Entry state: [Arc 0 handoff](../00-perfect-family/handoff.md).
 
 **NOT:** trauma-driven flight, pre-dawn escape, forged documents catalyst.
 

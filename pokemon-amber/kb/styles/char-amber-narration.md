@@ -46,3 +46,12 @@ a punchline or an internal essay after every incongruity.
 
 The judgment lands while the battle continues; it needs no follow-up account
 of what kind of person Joey is.
+
+> My heart was trying to get out of the house before I did. [ch15]
+
+The author likes this hidden comedy: Amber's fear remains immediate while the
+wording quietly gives her heart its own urge to escape. The comic connection
+can register without a separate joke beat. Do not flatten it into "my heart
+raced," explain the absurdity, or extend it into a conspicuous punchline.
+Humor is neither compulsory under pressure nor prohibited by danger; see
+[tonal movement](tone.md#tonal-movement).

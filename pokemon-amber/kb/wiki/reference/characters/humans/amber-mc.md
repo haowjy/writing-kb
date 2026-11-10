@@ -34,9 +34,9 @@ belonging where she enjoys useful care and research work; her school distance
 does not mean she lacks purpose or feels alienated everywhere.
 
 Amber wants the childhood Pokemon adventure she once imagined and leaves to
-experience it, not to escape an inadequate home. Choosing extra time with the
-ranch Pokemon and household before departure means she does not rush her
-goodbyes, not that she doubts the journey. She experiences Delia as an
+experience it. That curiosity is the same drive that got her into trouble
+before the timeskip. Extra time with the ranch Pokemon and household before
+departure is unhurried goodbye, not doubt. She experiences Delia as an
 affectionate, friendlike cohabitant and Ash as a little brother. Amber helped
 Ash regain his energetic footing after Stephen's death, without becoming
 responsible for explaining or managing his recovery.

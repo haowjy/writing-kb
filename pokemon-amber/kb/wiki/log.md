@@ -727,3 +727,65 @@ the exact facts and open choreography.
 - Merged the superseded emotional-gap issue files into
   `issues/narratorial-overexplanation.md`; added `styles/index.md` for focused
   loading and evidence boundaries.
+
+## 2026-09-14 — Preserved connective prose in style calibration
+
+- Recorded the author's correction that adjacent sentences and paragraphs need
+  readable connections; removing overexplanation must not remove those links.
+- Added paragraph movement to the tone guide and revision entry point; corrected
+  the overexplanation issue's new-information-only test and the emotional and
+  battle guides' related compression risks.
+- Guidance records the confirmed preference, not approval of the latest draft
+  repairs. No story-state or canon changes.
+
+## 2026-09-14 — Battle style calibrated against approved Chapter 15
+
+- Primary personally reread Chapter 15 at story commit `adcc13a`, its pre-cut
+  baseline, and the author-led corrections; no delegated review. Chapters
+  through 15 are approved and committed. Later chapter drafts remain separate.
+- Expanded `styles/scene-battle.md`: movement and positioning are the physical
+  foundation; atmosphere, emotional fortunes, speech, perception, and duration
+  receive different emphasis in different fights and at different phases.
+- Recorded the corrections: show an attack before its counter when needed,
+  preserve concrete atmosphere and canonical windmilling, respect successful
+  concealment, distinguish causal order from perceived order, and retain
+  waiting/recovery time. Body reactions and witty fear are not banned.
+- Corrected `issues/battle-scale.md` so repeated signature motion is not itself
+  evidence of excess; added linked guidance to the style index, Amber
+  narration, and emotional scenes. Quotes are verified local exemplars, not
+  an instruction to make all battles resemble Chapter 15.
+- This is style capture, not a new manuscript revision or story-state change.
+
+## 2026-09-14 — Word connections and optional allusions
+
+- Recorded the author's broader preference for connected wording, echoes, and
+  scattered allusions that need not be recognized by every reader or become
+  plot clues. Surface comprehension and optional recognition can coexist.
+- Added the guidance to `styles/tone.md` and linked it from the style index,
+  battle guide, and battle-revision issue. Electabuzz's windmilling is the
+  confirmed example: distinctive motion for unfamiliar readers, lore realized
+  in action for familiar readers. No new allusions or canon invented.
+
+## 2026-09-14 — Hidden comedy within immediate experience
+
+- Author specifically endorsed the heart trying to leave the house as hidden
+  comedy. Clarified the tone and Amber-narration guides: the line carries fear
+  and unobtrusive absurdity together, without a separate setup or punchline.
+- Preserve that second layer without flattening, explaining, or extending the
+  joke. This does not require humor in every frightening beat. No prose changed.
+
+[2026-09-16] [query-saved] Post-timeskip Ditto: mellowed, sometimes careless; form memory requires ongoing practice. Gyarados impossible at journey start; Arcanine maybe still available. Recorded on Ditto reference and identity arc pages. Unsettled: atrophy vs deliberate forgetting; live-model copy of closed forms.
+
+[2026-09-16] [query-saved] Journey Ditto is strength-regrowth through practice and teammate models. Split attention with new Pokemon is in; jealousy of them is a maybe, not a decided beat. Ch19 throw left unassigned.
+
+[2026-09-16] [query-saved] Ditto transformation rule restated: live copy at full-ish stats; short memory of recent forms (~3 days, prior few); Fuji protocols and ranch aces not retained. Arcanine reveal is history, not a stored form. Window length and slot count unset.
+
+[2026-09-16] [lint] Ditto pages: deleted permanent lock-in, leftover Arcanine repertoire, and planning dumped on the reference page. Current rule lives on the Ditto reference; identity page holds only Pallet-done / journey-state / not-decided. Drive-spectrum and open-questions Arcanine note updated to match.
+
+[2026-09-16] [query-saved] Ditto buffer: want/can hold; 1–3 day fade; ~10 before jumble. Protocol drilling unwanted. Arcanine reveal plot dropped. Mew naming much later. Amber knowledge of the buffer still A vs B. Emotion-binding extra capacity not decided.
+
+[2026-09-16] [query-saved] Amber knowledge of Ditto's buffer: B. Game-Ditto assumption through the ranch years; she notices form memory on the road. Same-fight copies do not count as that notice.
+
+[2026-09-16] [query-saved] Ditto object and human copies are legal; shown in [ch3]. Scarf is posture, not a transform. Combat buffer still concerns Pokemon forms.
+
+[2026-09-16] [ingest] Planning grain: arcs are books; an episode is a named chapter-cluster. Arc 0 = ch1–17.5; Arc 1 starts ch18 and is episodic. Added Arc 0 handoff (what later books need). Arc 1 overview now lists named episodes; stale ch18 finals-promise / Mega-provenance-open / Oak-another-year cut. Amber's goal recorded as the pre-skip Pokemon-world dream, including the trouble it caused, not an anti-title thesis.

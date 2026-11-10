@@ -2,8 +2,8 @@
 
 | Arc / sequence | Plan | Local material |
 |---|---|---|
-| 0 | [The Perfect Family](00-perfect-family/overview.md) | [Forged documents](00-perfect-family/forged-documents.md); [Giovanni/Fuji jail scene](00-perfect-family/giovanni-fuji-jail.md) |
-| 1 | [Kanto Year 1](01-kanto-year-1/overview.md) | [Saffron rivalry](01-kanto-year-1/saffron-gym-rivalry.md); [Ursaring rescue](01-kanto-year-1/ursaring-rescue.md) |
+| 0 | [The Perfect Family](00-perfect-family/overview.md) (ch1–17.5) | [Handoff](00-perfect-family/handoff.md); [Forged documents](00-perfect-family/forged-documents.md); [Giovanni/Fuji jail scene](00-perfect-family/giovanni-fuji-jail.md) |
+| 1 | [Kanto Year 1](01-kanto-year-1/overview.md) (journey, from ch18) | Episodic named clusters; [Saffron rivalry](01-kanto-year-1/saffron-gym-rivalry.md); [Ursaring rescue](01-kanto-year-1/ursaring-rescue.md) |
 | 2 and 6 | [Celadon](02-06-celadon/overview.md) | Two-visit structure |
 | 4 | [4Ever](04-4ever/overview.md) | Charcadet and Ursaring payoffs |
 | 7–9 | [Hoenn](07-09-hoenn/overview.md) | Conference year and Mega seed |

@@ -1,6 +1,6 @@
 # Arc Outline - The Perfect Family
 
-Note: This outline synthesizes on-page events and hidden backstory to track the escalating conflict around Dr. Fuji's attempt to reconstruct his family. It is forward-looking but grounded in the current canon through Chapter 17.
+Note: This outline synthesizes on-page events and hidden backstory to track the escalating conflict around Dr. Fuji's attempt to reconstruct his family. Grounded in canon through Chapter 17; 17.5 is the off-Amber close. What later books need from this time lives in [handoff](handoff.md).
 
 ## Overview
 Dr. Fuji rescues Ambertwo during the Mewtwo escape and embarks on a delusional plan to rebuild his family—Delia, Amber, and himself—using Team Rocket resources and coercion. The MC struggles between survival, identity, and emerging bonds with others, while Fuji escalates from control to open violence. The arc culminates in Fuji's public unraveling and apprehension, but leaves lasting damage across Pallet and Celadon.
@@ -104,8 +104,10 @@ Author execution tips:
 - Non-Replicable Miracles: you can't force a miracle to happen twice.
 
 ## Exit Conditions & Hooks
-- Fuji publicly presumed dead after the Viridian explosion; secretly retained
-  off-books by Giovanni, with his research and enemies still active.
-- MC's status unresolved (League systems, custody, identity paperwork).
-- Ditto custody → potential reunion threads.
-- Oak, Delia, and Ash provide the household where Amber spends the next four years before her journey.
+
+See [handoff](handoff.md) for current truth. Short version:
+
+- Fuji publicly presumed dead after the Viridian explosion; Giovanni keeps him off-books. [ch17.5]
+- Oak has already given Ditto to Amber. [ch17]
+- Amber spends the next four years with Delia and Ash, working at Oak's ranch, then leaves at 14 still wanting the childhood Pokemon adventure.
+- Do not treat custody, Ditto reunion, or legal limbo as open Arc 1 launch plots.

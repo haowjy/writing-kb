@@ -14,6 +14,22 @@ current approved direction, not a replacement for chapter context.
 Load character guides only when that character is present: [Erika](char-erika.md),
 [Fuji](char-fuji.md), [Oak](char-oak.md), and [supporting voices](char-supporting.md).
 
+## Revision check
+
+Read [paragraph movement](tone.md#paragraph-movement) before a cutting pass.
+Assess the result in connected paragraphs: preserving events and improving
+individual sentences do not by themselves preserve flow. Necessary connective
+prose is part of this voice, not a concession to overexplanation.
+
+Preserve [word connections and allusions](tone.md#word-connections-and-allusions),
+including recognition rewards that not every reader will catch. Apparent
+repetition or an unfamiliar image may carry a deliberate connection.
+
+For battles, identify the [fight's focus](scene-battle.md#choose-the-focus-and-let-it-change)
+before cutting. Keep movement and positioning legible while preserving the
+needed atmosphere, emotion, speech, perceptual limits, and duration. The move
+sequence and winner alone do not define the scene.
+
 ## Evidence boundary
 
 Quoted [chN] lines are small, verified exemplars of the local principle. They

@@ -1,40 +1,62 @@
-# Battle Scale — Interchangeable Spectacle
+# Battle Scale — Interchangeable Spectacle and Overcompression
 
-**Scope:** Action passages, most visibly Chs. 15–16
-**Severity:** Moderate when repeated effects flatten escalation
+**Scope:** Battle drafting and revision, especially Chapters 15–16
+**Severity:** Moderate when effects become interchangeable or cuts flatten the fight
 
-## Problem
+## Two failure modes
 
-Large confrontations can accumulate crackling fists, whirling limbs, lunges,
-smoke, elemental collisions, and commentary on intensity in interchangeable
-rhythmic and emotional space. In Chs. 15–16, the reader can lose the changed
-position, injury, perception, or opportunity that makes one exchange distinct
-from the next.
+Repeated effects can occupy the same rhythmic and emotional space without
+helping the reader follow the encounter. But reducing the passage to move
+names and outcomes removes what made it a battle worth experiencing. Neither
+maximum spectacle nor maximum compression is the target.
 
-The target is interchangeable spectacle, not spectacle itself. Do not cut a
-battle merely because it serves enjoyment, or make every high-stakes passage
-maximally dense. Reader excitement and sensory scale are part of the story.
+A repeated movement is not automatically filler. Electabuzz's windmilling is
+its established technique, with charge building through rotation. Preserve
+that behavior across exchanges; avoid interchangeable commentary around it.
+The windmill comparison is mechanically descriptive, not an example of an
+expendable simile. [ch15]
 
-## Evidence
+## Diagnose in context
 
-- [ch15] repeatedly returns to "whirling fists," "whirling arms," and
-  "fists crackling as its arms whirled to life once again." The recurrence
-  makes successive exchanges less distinct even as the danger changes.
-- [ch16] "countered the counter" and "a torrent of a thick, continuous torrent"
-  expose the accumulated explanatory and sentence-level clutter around the
-  actual tactical reversals.
+- **Repetition:** Do successive descriptions distinguish buildup, contact,
+  changed position, effort, injury, or emotional pressure? Recurrence can also
+  sustain a physical presence or anticipation without adding a new fact.
+- **Recognition:** Does the wording carry a lore reference or deliberate echo?
+  Check [word connections and allusions](../styles/tone.md#word-connections-and-allusions)
+  before replacing distinctive language with a generic equivalent.
+- **Launch and response:** Does the reader experience a significant attack
+  before its interception, or has the command been treated as sufficient?
+- **Space and perception:** Can the POV see the claimed detail? Has geography
+  been clarified at a natural turn of attention, or inserted between a lunge
+  and its immediate response?
+- **Duration:** Can a charge gather power, a sound go unanswered, and a stunned
+  character wait before getting up? These intervals need not be instantaneous
+  just because their outcomes are known.
+- **Emotion and speech:** Do the participants remain people and Pokemon with
+  stakes, voices, and changing reactions, rather than interchangeable actors
+  executing moves?
 
-## Revision direction
+The amount of each component depends on the battle's intended focus; see
+[battle/action technique](../styles/scene-battle.md).
 
-Keep the action's causal spine and distinct registers:
+## Chapter 15 calibration
 
-- Ch. 4 is close to Amber's discovery, competitive bias, and excitement.
-- Ch. 15 needs escape geography, limited sight, danger, and intimate harm.
-- Ch. 16's panoramic register can hold wider tactics, multiple participants,
-  and ideological conflict without becoming Amber POV.
+Retain the firelight and moving shadows, Electabuzz's accumulating charge,
+metal hissing around Magmar, and the wait for Electabuzz to answer. They give
+power, suspense, and harm their physical presence. Cut inflated comparisons
+and repeated emotional captions when the passage has already done their work.
+[ch15]
 
-For a repeated effect, ask what changed: location, injury, available move,
-line of sight, objective, relationship, or reader expectation. Preserve the
-detail that makes that change felt; compress duplicate spectacle and evaluative
-connective tissue. Vary rhythm because attention changes, not to enforce a
-sentence-length pattern.
+Successful Smokescreen hides the precise strike; sounds and flashes precede
+Magmar's visible retreat. Amber feels the earthquake before looking toward
+its source, then stays down until the shaking subsides. Do not "clarify" these
+moments into unrestricted sight or cause-first narration. [ch15]
+
+## Review discipline
+
+Use the author-approved baseline to judge loss, not the brevity of the newest
+draft. Preserve battle outcome and mechanics, but also the intended reader
+experience. A mechanics check cannot certify atmosphere, pacing, or voice.
+Do not promote a revision to approved merely because it compiles. Flag genuine
+ambiguity in the baseline rather than either smoothing it over or restoring
+it unchanged.

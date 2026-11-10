@@ -207,11 +207,12 @@ If Amber competes, she needs opponents worth writing. Who are they?
 
 ---
 
-### ✅ DECIDED: Ditto-Arcanine Reveal (revised 2026-05-17)
+### SUPERSEDED: Ditto-Arcanine Reveal (dropped 2026-09-16)
 **Original Question:** When/how does Amber figure out the Arcanine transformation?
 
-- **Chosen:** Not in the Alonso/Teddiursa mini-arc. Ditto can help practically, but the Oak-Arcanine memory reveal is delayed to a future crisis where Ditto's hidden memory can be the main emotional beat.
-- **Note:** Arcanine remains in Ditto's remembered repertoire per `wiki/characters/ditto.md`; only the reveal timing changed.
+- **Was:** Delay to a future crisis where Ditto's Arcanine history is the emotional center.
+- **Now:** No Arcanine reveal plot. Fuji drilled Arcanine at Pallet; the form is gone with the rest of the protocol list. Nothing later is owed.
+- **Affected files:** `wiki/reference/characters/pokemon/amber-team/ditto.md`, `wiki/planning/team-arcs/amber/ditto-identity.md`
 
 ---
 

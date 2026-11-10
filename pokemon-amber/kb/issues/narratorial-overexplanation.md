@@ -25,10 +25,26 @@ reader's room to infer.
 
 ## Revision direction
 
-Ask whether the next sentence gives the reader a distinct perception,
-consequence, choice, or turn. If not, remove or compress it rather than
-swapping in a new metaphor or gesture. Plain telling is allowed when it is the
-most economical rendering.
+Ask what the sentence contributes to the passage: a distinct perception,
+consequence, choice, turn, voice, rhythm, or a necessary connection. A sentence
+can earn its place by connecting existing information without adding a new
+fact. Remove or compress it when it contributes neither, rather than swapping
+in a new metaphor or gesture. Plain telling is allowed.
+
+## Counter-risk: disconnected prose
+
+Do not treat the request to remove AI slop as a request for maximum compression.
+A memory's trigger, a return to the present, or the thought leading to a choice
+can be necessary even when the reader already knows the underlying facts.
+Cutting these can leave individually competent sentences that do not follow
+from one another.
+
+Judge the revised paragraph and its neighbors, not only the changed line.
+Reorder related details, restore a missing link, or separate different subjects
+as needed. Adding "then" or an arbitrary gesture does not establish a missing
+relationship. See [paragraph movement](../styles/tone.md#paragraph-movement).
+
+## Emotional latitude
 
 This is not a demand that Amber break down, declare shock, stop thinking about
 Pokemon, or display a prescribed psychology under grief. Observational distance,

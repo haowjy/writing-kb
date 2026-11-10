@@ -135,7 +135,7 @@ Charcadet is becoming: what shape will this fire take, and who gets to shape it?
 
 ### Ditto
 
-Ditto doesn't have a driving obsession. It was a blob, and in many ways still is — shaped by whoever holds it, defined by what it copies. Its emerging drive is attachment and protection: choosing Amber, choosing forms for her sake, becoming something more than Fuji's tool. But this is nascent, not consuming. Ditto's arc is about agency slowly forming where none existed.
+Ditto doesn't have a driving obsession. Pallet already formed the agency: it refused lethal orders and chose Amber. Attachment and protection remain, without a consuming drive. Journey Ditto is living as that partner (mellow, sometimes careless, short transformation buffer), not still discovering that it can choose.
 
 ### Teddiursa → Ursaring
 

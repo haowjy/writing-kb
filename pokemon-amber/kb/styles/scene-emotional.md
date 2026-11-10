@@ -18,7 +18,16 @@ just because the material is painful.
 ## Restraint and rhythm
 
 Give the strongest detail room. A further gesture, sensation, metaphor, or
-explanation must add different information, not merely certify the same mood.
+explanation should develop the moment or connect its parts, not merely certify
+the same mood. Preserve the thread from perception to memory or from thought
+to choice; do not substitute unrelated body language for that thread.
+
+Bodily reactions and familiar phrases are not automatically excess. A heartbeat,
+tremor, or change in delivery can register the onset of fear or a new escalation.
+Judge recurring reactions by their emotional work across the scene, not a phrase
+count. In a battle, confidence, frustration, hope, and grief may change with the
+participants' fortunes; see [battle focus](scene-battle.md#choose-the-focus-and-let-it-change).
+
 Fragments and silence work when thought or speech genuinely breaks; flowing
 sentences and direct statements work when they better fit the attention of the
 moment.
