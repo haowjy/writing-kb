@@ -1,24 +1,12 @@
 # Pokemon: Ambertwo --- Author Knowledge Base
 
-This is the author's working knowledge base for Pokemon: Ambertwo. It
-contains everything known about the project: canon facts, planned arcs,
-unrevealed character intent, abstract themes, craft references, and
-external research.
+The author's knowledge base for Pokemon: Ambertwo: established canon, the
+story's chosen direction, unrevealed character intent, themes, and voice
+guidance. It contains spoilers.
 
-For conventions and operations, see `AGENTS.md`.
+- [`wiki/`](wiki/index.md): reference, planning and continuity pages.
+- [`styles/`](styles/index.md): voice and scene guidance for writer agents.
+- `issues/`: writing problems that span chapters.
 
-## Layout
-
-- `wiki/` --- Entity, concept, and summary pages. The wiki proper.
-- `research/` --- Raw external sources cited by wiki pages.
-- `styles/` --- Voice and scene guidance for writer agents; start at [`styles/index.md`](styles/index.md).
-- `issues/` --- Craft backlog.
-
-## Where chapters live
-
-Chapter prose is the raw source. It lives in the main project repo at
-`story/chX/chapterX.annotated.md` (when present) and is referenced from wiki pages by
-canonical `[chN]` notation.
-
-This kb is synced as a separate repo from the main project repo via
-meridian's autosync feature.
+Chapter prose lives in the story repository and is cited here as `[chN]`.
+Conventions for agents are in [`AGENTS.md`](AGENTS.md).

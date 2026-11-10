@@ -1,127 +1,93 @@
 # kb/AGENTS.md
 
-The kb is an LLM-maintained author wiki: a persistent, compounding artifact
-of everything known about Pokemon: Ambertwo, with the LLM doing the
-cross-referencing and bookkeeping. Inspired by the Karpathy LLM-wiki
-pattern, adapted for an author's working knowledge --- includes spoilers,
-intent, and unrevealed canon.
+The author's knowledge base for the fanfiction Pokemon: Ambertwo. It holds what
+the story is and what the author has chosen it will be, with the reasons. It is
+an author wiki, not a reader wiki: spoilers, character intent and unrevealed
+canon belong here.
+
+The manuscript lives in the story repository (`story/chN/`). Chapter prose is
+the authority on what has happened; this KB serves it and never outranks it.
+
+## What a page may say
+
+Two things reach the KB: what the written chapters establish, and what the
+author chose. An idea he floated ("maybe X?"), a question he asked, or a list
+of options he gave without picking stays out, in the work directory or the
+conversation, until he chooses. A choice he made with a hedge is written "for
+now" or "trying".
+
+Every creative choice is the author's to change. Write it as the story's
+current direction, with its reason, not as a ruling. When the author asks for
+something a page says against, follow the author and update the page; the page
+was never a reason to refuse him. A rule whose reason nobody can state gets
+deleted.
+
+Keep a rejected idea only with the fact that ruled it out ("Arceus bringing
+them would make Amber chosen by a god, and she isn't a chosen protagonist").
+Without the reason it reads as a ban nobody can re-examine. No decision IDs, no
+lists of rejected options, no `decisions/` pages: a choice lives on its topic
+page.
+
+Pages state current truth and never narrate their own history: no changelogs,
+"previously", "was changed to" or dated update notes. Delete what a revision or
+a new choice made wrong. Git history is the archive.
 
 ## Layout
 
-- wiki/reference/ --- established entity and world reference
-- wiki/planning/ --- unwritten story architecture, arcs, saga threads, themes, and decisions
-- wiki/continuity/ --- timeline, established events, and contradictions
-- wiki/index.md --- curated navigation
-- Each major branch and reusable collection has a local `index.md`; numbered
-  arc folders use `overview.md` instead
-- wiki/vocab.md --- stable project vocabulary
-- wiki/log.md --- append-only maintenance history
-- research/ --- raw external sources cited by wiki pages
-- styles/ --- voice and tone references
-- issues/ --- craft backlog
-
-## Knowledge Boundaries
-
-### Reference
-
-Reference pages answer **who, where, and how the world works**. They may contain
-spoilers and unrevealed settled facts, but speculative alternatives belong in
-planning rather than being mixed into reference prose as equal possibilities.
-
-### Planning
-
-- planning/saga-overview.md owns the full structural map.
-- planning/saga-threads/ contains only story-level throughlines whose removal
-  would restructure several major arcs.
-- planning/arcs/<number-name>/overview.md owns one arc or adjacent arc range.
-  Smaller plot threads and scene plans live beside that overview.
-- planning/themes/ holds thematic architecture.
-- planning/decisions/ records settled choices when the reasoning remains
-  useful; rejected plans should not remain on live entity pages.
-- planning/rosters/ holds future team construction.
-- planning/team-arcs/ holds Pokemon character and relationship progression by
-  trainer; stable identity belongs in reference and membership logistics stay
-  in rosters.
-
-### Continuity
-
-Continuity pages answer **what has happened and when**. They do not hold future
-brainstorming. Chapter summaries remain in the story repository.
+- `wiki/reference/`: who, where, and how the world works. May hold spoilers and
+  settled unrevealed facts; never alternatives presented as equal possibilities.
+- `wiki/planning/`: unwritten story the author has chosen: `saga-overview.md`
+  (the structural map), `saga-threads/`, numbered `arcs/`, `themes/`,
+  `rosters/`, `team-arcs/`. The nested `AGENTS.md` files in `saga-threads/`
+  and `arcs/` say what belongs there.
+- `wiki/continuity/`: what has happened and when: timeline, established
+  events, contradictions between chapters. No future planning; chapter
+  summaries stay in the story repository.
+- `wiki/vocab.md`: canonical story terms.
+- `wiki/index.md` and each folder's `index.md` (`overview.md` in numbered arc
+  folders): navigation.
+- `styles/`: voice and scene guidance for writer agents; start at
+  `styles/index.md`.
+- `issues/`: writing problems that span chapters.
 
 ## Page conventions
 
-Every wiki page should:
-
-- Have a clear subject (the page name = the subject)
-- Cite chapters by `[chN]` or `[chN §X]` for any claim grounded in
-  published prose
-- Cite `research/<file>` for any claim grounded in external research
-- Cross-link other wiki pages with `[[page-name]]` style references
-- Include status as a property: `canon` | `drafting` | `speculation`
-  - `canon` --- locked in by published chapters, cite which
-  - `drafting` --- author has decided, not yet shown in prose
-  - `speculation` --- under consideration, not committed
-
-Author notes / spoilers / intent are welcome on any page --- this is an
-author wiki, not a reader wiki. Mark unrevealed material clearly so a
-reader-mode export could filter it later if ever needed.
+- One subject per page, named for its subject.
+- Cite the manuscript as `[chN]` or `[chN §X]` for any claim grounded in prose.
+- Mark each page or section's status: `canon` (shown in the chapters; cite
+  them) or `drafting` (the author chose it; not yet on the page). Unwritten
+  material on a reference page is marked as not yet on the page, so a
+  reader-facing export could filter it.
+- Link related pages with relative Markdown links. One page owns each fact;
+  others link to it.
 
 ## Operations
 
-The three things agents do with the kb. Each operation has an entry-point
-agent in the creative-writing-skills package.
+**Ingest** a new or revised chapter: read it, update the reference and
+continuity pages it changes, delete what it contradicts, and touch planning
+only where the chapter changes future direction. Update `wiki/index.md` when a
+page is added or moved.
 
-### Ingest
+**Capture** an author decision: find the topic page, write the choice and its
+reason, and delete what it replaces. Change a claim only on evidence from the
+manuscript or the author's own words.
 
-When a new chapter publishes or a research source is added, integrate it:
+**Query**: start at `wiki/index.md` and follow links before re-reading
+chapters.
 
-1. Read the source
-2. Read the chapter's `story/chX/summary.md` when applicable
-3. Update the relevant reference and continuity pages
-4. Update planning only when the new material changes future direction
-5. Update `wiki/index.md` for new navigation entry points
-6. Append a line to `wiki/log.md`
+**Lint**: look for claims a chapter contradicts, unmarked unwritten material on
+reference pages, planning with no author choice behind it, orphan pages and
+broken links. Flag what the evidence can't settle inline:
 
-Entry point: `chronicler` agent. For chapter ingest, pass the chapter
-file. For research ingest, pass the research file.
+```markdown
+> [!FLAG] **Needs human review**: this page says X; chapter N shows Y.
+> Flagged YYYY-MM-DD.
+```
 
-### Query
+## Not here
 
-When asked something about the project, prefer the wiki over re-reading
-chapters:
+- Chapter prose, summaries, chapter notes and plans: the story repository.
+- Generic writing craft: the creative-writing-skills package.
 
-1. Read `wiki/index.md` to locate relevant pages
-2. Read those pages, follow cross-references
-3. If the answer is worth keeping, file it as a new concept page or
-   update an existing one
-
-Entry point: `explorer` agent for fast lookup.
-
-### Lint
-
-Periodic health check:
-
-- Orphan pages (no incoming links from index or other pages)
-- Stale claims (entity page contradicts latest chapter summary)
-- Missing cross-references (entity mentioned in summary but no page exists)
-- Broken `[[wiki-link]]` references
-- Canon contradictions --- file to `wiki/continuity/contradictions/`
-- Craft issues --- file to `kb/issues/`
-
-Entry point: `chronicler` or `continuity-checker`.
-
-## What does NOT belong in the wiki
-
-- Raw chapter prose --- stays in `story/` (main repo)
-- Author voice rules --- `kb/styles/`
-- Recurring prose problems --- `kb/issues/`
-- Generic writing craft --- `.agents/skills/` (creative-writing-skills package)
-
-## Sync
-
-This kb is synced to a separate repo via meridian's autosync feature. Tool
-state (sessions, work-items, locks) stays in the main repo's `.meridian/`
-and is NOT part of the kb sync.
-
-Chapters live in the main repo at `story/chX/`. Wiki pages reference
-them by canonical `[chN]` notation without filesystem paths.
+This KB syncs to its own repository through Meridian autosync. Pages cite
+chapters as `[chN]`, never by filesystem path.
